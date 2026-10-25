@@ -1,0 +1,30 @@
+TY  - JOUR
+AU  - Box, G. E. P.
+AU  - Behnken, D. W.
+TI  - Some New Three Level Designs for the Study of Quantitative Variables
+JO  - Technometrics
+PY  - 1960
+VL  - 2
+IS  - 4
+SP  - 455
+EP  - 475
+DO  - 10.1080/00401706.1960.10489912
+UR  - https://doi.org/10.1080/00401706.1960.10489912
+N1  - Original method: Section 3, journal pages 457-458, Tables 1-3.
+ER  -
+
+TY  - ELEC
+AU  - NIST/SEMATECH,
+TI  - Box-Behnken designs
+T2  - e-Handbook of Statistical Methods
+UR  - https://www.itl.nist.gov/div898/handbook/pri/section3/pri3362.htm
+Y2  - 2026/10/25
+ER  -
+
+TY  - ELEC
+AU  - NIST/SEMATECH,
+TI  - Response surface designs
+T2  - e-Handbook of Statistical Methods
+UR  - https://www.itl.nist.gov/div898/handbook/pri/section3/pri336.htm
+Y2  - 2026/10/25
+ER  -
