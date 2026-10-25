@@ -1,0 +1,64 @@
+﻿row_no,order_id,cas_raw,cas,cas_status,cas_source,name_en_raw,name_en,name_zh,smiles,chem_class,norm_key,compound_uid
+2,1,123-66-,123-66-0,repaired_sibling,data.xlsx,Ethyl Hexanoate,Ethyl Hexanoate,己酸乙酯,CCCCCC(=O)OCC,酯类 Ester,ethyl hexanoate,C000
+3,2,18-64-5,108-64-5,repaired_sibling,data.xlsx,Ethyl isovalerate,Ethyl isovalerate,异戊酸乙酯（3-甲基丁酸乙酯）,CC(C)CC(=O)OCC,酯类 Ester,ethyl isovalerate,C001
+4,3,15-54-4,105-54-4,repaired_sibling,data.xlsx,Ethyl butyrate,Ethyl butyrate,丁酸乙酯,CCCC(=O)OCC,酯类 Ester,ethyl butyrate,C002
+5,4,141-78-6,141-78-6,ok,as-is,Ethyl acetate,Ethyl acetate,乙酸乙酯,CC(=O)OCC,酯类 Ester,ethyl acetate,C003
+6,5,16-32-1,106-32-1,repaired_sibling,data.xlsx,Ethyl caprylate,Ethyl caprylate,辛酸乙酯,CCCCCCCC(=O)OCC,酯类 Ester,ethyl caprylate,C004
+7,6,539-82-2,539-82-2,ok,as-is,Ethyl valerate,Ethyl valerate,戊酸乙酯,CCCCC(=O)OCC,酯类 Ester,ethyl valerate,C005
+8,7,216/3/9,106-30-9,repaired_sibling,data.xlsx,Ethyl heptanoate,Ethyl heptanoate,庚酸乙酯,CCCCCCC(=O)OCC,酯类 Ester,ethyl heptanoate,C006
+9,8,97-64-3,97-64-3,ok,as-is,Ethyl lactate,Ethyl lactate,乳酸乙酯,CC(C(=O)OCC)O,酯类 Ester,ethyl lactate,C007
+10,9,1348-47-7,10348-47-7,repaired_sibling,data.xlsx,Ethyl 2-hydroxy-4-methylvalerate,Ethyl 2-hydroxy-4-methylvalerate,2-羟基-4-甲基戊酸乙酯,CC(C)CC(C(=O)OCC)O,酯类 Ester,ethyl 2 hydroxy 4 methylvalerate,C008
+11,1,25415-67-2,25415-67-2,ok,as-is,Ethyl 4-methyl valerate,Ethyl 4-methyl valerate,4-甲基戊酸乙酯/异己酸乙酯,CC(C)CCC(=O)OCC,酯类 Ester,ethyl 4 methyl valerate,C009
+12,11,2548-87-,2548-87-0,repaired_sibling,data.xlsx,(E)-2-Octenal,(E)-2-Octenal,(E)-2-辛烯醛,CCCCCC=CC=O,醛类 Aldehyde,2 octenal,C010
+13,12,2198-61-,2198-61-0,repaired_sibling,data.xlsx,3-methylbutyl hexanoate/Isoamyl hexanoate,3-methylbutyl hexanoate,己酸异戊酯,CC(C)CCOC(=O)C,酯类 Ester,3 methylbutyl hexanoate isoamyl hexanoate,C011
+14,13,216/7/7,106-70-7,repaired_sibling,data.xlsx,Methyl hexanoate,Methyl hexanoate,己酸甲酯,CCCCCC(=O)OC,酯类 Ester,methyl hexanoate,C012
+15,14,6378-65-,637-86-5,ok,as-is,Hexyl hexanoate,Hexyl hexanoate,己酸己酯,CCCCCC(=O)OCCCCCC,酯类 Ester,hexyl hexanoate,C013
+16,15,626-82-4,626-82-4,ok,as-is,Butyl hexanoate,Butyl hexanoate,己酸丁酯,CCCCCC(=O)OCCCC,酯类 Ester,butyl hexanoate,C014
+17,16,221-28-5,2021-28-5,repaired_sibling,data.xlsx,Ethyl 3-phenylpropionate,Ethyl 3-phenylpropionate,3-苯基丙酸乙酯,C1=CC=C(C=C1)CCC(=O)OCC,酯类 Ester,ethyl 3 phenylpropionate,C015
+18,17,11-97-3,101-97-3,repaired_sibling,data.xlsx,Ethyl phenylacetate,Ethyl phenylacetate,苯乙酸乙酯,C1=CC=C(C=C1)CC(=O)OCC,酯类 Ester,ethyl phenylacetate,C016
+19,18,123-92-2,123-92-2,ok,as-is,Isoamyl acetate,Isoamyl acetate,乙酸异戊酯,CC(C)CCOC(=O)C,酯类 Ester,isoamyl acetate,C017
+20,19,628-97-7,628-97-7,ok,as-is,Ethyl palmitate,Ethyl palmitate,棕榈酸乙酯,CCCCCCCCCCCCCCCC(=O)OCC,酯类 Ester,ethyl palmitate,C018
+21,2,16-27-4,106-27-4,repaired_sibling,data.xlsx,Isoamyl butyrate,Isoamyl butyrate,丁酸异戊酯,CCCC(=O)OCCC(C)C,酯类 Ester,isoamyl butyrate,C019
+22,21,71-36-3,71-36-3,ok,as-is,1-Butanol,1-Butanol,1-丁醇,CCCCO,醇类 Alcohol,1 butanol,C020
+23,22,111-27-3,111-27-3,ok,as-is,1-Hexanol,1-Hexanol,1-己醇,CCCCCCO,醇类 Alcohol,1 hexanol,C021
+24,23,123-51-3,123-51-3,ok,as-is,3-Methyl-1-butanol,3-Methyl-1-butanol,3-甲基-1-丁醇（异戊醇）,CC(C)CCO,醇类 Alcohol,3 methyl 1 butanol,C022
+25,24,3391-86-4,3391-86-4,ok,as-is,1-Octen-3-ol,1-Octen-3-ol,1-辛烯-3-醇,CCCCCC=CCO,醇类 Alcohol,1 octen 3 ol,C023
+26,25,111-87-5,111-87-5,ok,as-is,1-octanol,1-octanol,1-辛醇,CCCCCCCCO,醇类 Alcohol,1 octanol,C024
+27,26,71-23-8,71-23-8,ok,as-is,1-propanol,1-propanol,1-丙醇,CCCO,醇类 Alcohol,1 propanol,C025
+28,27,78-83-1,78-83-1,ok,as-is,Isobutanol,Isobutanol,异丁醇,CC(C)CO,醇类 Alcohol,isobutanol,C026
+29,28,142-62-1,142-62-1,ok,as-is,Hexanole acid,Hexanoic acid,己酸,CCCCCC(=O)O,酸类 Acid,hexanole acid,C027
+30,29,79-31-2,79-31-2,ok,as-is,2-methylpropionic acid/Isobutyric Acid,2-methylpropionic acid,异丁酸,CC(C)C(O)=O,酸类 Acid,2 methylpropionic acid isobutyric acid,C028
+31,3,19-52-4,109-52-4,repaired_sibling,data.xlsx,Valeric acid,Valeric acid,戊酸,CCCCC(=O)O,酸类 Acid,valeric acid,C029
+32,31,124-7-2,124-07-2,repaired_sibling,data.xlsx,Octanoic acid,Octanoic acid,辛酸,CCCCCCCC(=O)O,酸类 Acid,octanoic acid,C030
+33,32,111-14-8,111-14-8,ok,as-is,Heptanoic acid,Heptanoic acid,庚酸,CCCCCCC(=O)O,酸类 Acid,heptanoic acid,C031
+34,33,17-92-6,107-92-6,repaired_sibling,data.xlsx,Butyric Acid,Butyric Acid,丁酸,CCCC(=O)O,酸类 Acid,butyric acid,C032
+35,34,64-19-7,64-19-7,ok,as-is,Acetic acid,Acetic acid,乙酸,CC(=O)O,酸类 Acid,acetic acid,C033
+36,35,646-7-1,646-07-1,repaired_sibling,data.xlsx,4-methylvaleric acid,4-methylvaleric acid,4-甲基戊酸,CC(C)CCC(=O)O,酸类 Acid,4 methylvaleric acid,C034
+37,36,53-74-2,503-74-2,repaired_sibling,data.xlsx,Isovalenic acid,Isovaleric acid,异戊酸,CC(C)CC(=O)O,酸类 Acid,isovalenic acid,C035
+38,37,122-78-1,122-78-1,ok,as-is,Phenylacetaldehyde,Phenylacetaldehyde,苯乙醛,C1=CC=C(C=C1)CC(=O)O,醛类 Aldehyde,phenylacetaldehyde,C036
+39,38,75-7-,75-07-0,repaired_sibling,data.xlsx,Acetaldehyde,Acetaldehyde,乙醛,CC=O,醛类 Aldehyde,acetaldehyde,C037
+40,39,98-1-1,98-01-1,repaired_sibling,data.xlsx,Furfural,Furfural,糠醛,c1cc(oc1)C=O,醛类 Aldehyde,furfural,C038
+41,4,15-57-7,105-57-7,repaired_sibling,data.xlsx,Acetal,Acetal,乙醛二乙缩醛,CCOC(C)OCC,醛类 Aldehyde,acetal,C039
+42,41,513-86-,513-86-0,repaired_sibling,data.xlsx,Acetoin,Acetoin,3-羟基-2-丁酮,CC(C(=O)C)O,酮类 Ketone,acetoin,C040
+43,42,11-43-,110-43-0,repaired_sibling,data.xlsx,2-Heptanone,2-Heptanone,2-庚酮,CCCCCC(=O)C,酮类 Ketone,2 heptanone,C041
+44,43,3658-08-08 00:00:00,3658-80-8,repaired_sibling,data.xlsx,Dimethyl Trisulfide,Dimethyl Trisulfide,二甲基三硫醚,CSSSC,硫化物 Sulfur,dimethyl trisulfide,C042
+45,44,627-56-,6270-56-0,repaired_sibling,data.xlsx,2-(ethoxymethyl)furan,2-(ethoxymethyl)furan,2-（乙氧基甲基）呋喃,CCOCC1=CC=CO1,呋喃 Furan,2 furan,C043
+46,45,2785-89-9,2785-89-9,ok,as-is,4-Ethyl-2-methoxyphenol,4-Ethyl-2-methoxyphenol,4-乙基-2-甲氧基苯酚,CCc1ccc(c(c1)OC)O,酚类 Phenol,4 ethyl 2 methoxyphenol,C044
+47,46,93-51-6,93-51-6,ok,as-is,2-Methoxy-4-methylphenol,2-Methoxy-4-methylphenol,2-甲氧基-4-甲基苯酚（2-甲氧基对甲酚）,Cc1ccc(c(c1)OC)O,酚类 Phenol,2 methoxy 4 methylphenol,C045
+48,47,14-61-,104-61-0,repaired_sibling,data.xlsx,Gamma-Nonanolactone,Gamma-Nonanolactone,γ-壬内酯,CCCCCCCC1CCC(=O)O1,内酯 Lactone,gamma nonanolactone,C046
+49,48,98--,98-00-0,repaired_sibling,data.xlsx,Furfuryl alcohol,Furfuryl alcohol,糠醇,C1=COC(=C1)CO,呋喃 Furan,furfuryl alcohol,C047
+50,49,123-86-4,123-86-4,ok,as-is,Butyl acetate,Butyl acetate,乙酸丁酯,CCCCOC(=O)C,酯类 Ester,butyl acetate,C048
+51,5,97-62-1,97-62-1,ok,as-is,Ethyl isobutyrate,Ethyl isobutyrate,异丁酸乙酯,CC(C)C(=O)OCC,酯类 Ester,ethyl isobutyrate,C049
+52,51,7452-79-1,7452-79-1,ok,as-is,Ethyl 2-methylbutanoate,Ethyl 2-methylbutanoate,2-甲基丁酸乙酯,CCC(C)C(=O)OCC,酯类 Ester,ethyl 2 methylbutanoate,C050
+53,52,16-44-5,106-44-5,repaired_sibling,data.xlsx,p-cresol,p-cresol,对甲酚,Cc1ccc(O)cc1,酚类 Phenol,p cresol,C051
+54,53,646-7-1,646-07-1,repaired_sibling,data.xlsx,4-methylvaleric acid,4-methylvaleric acid,4-甲基戊酸,CC(C)CCC(=O)O,酸类 Acid,4 methylvaleric acid,C034
+55,54,13-45-7,103-45-7,repaired_sibling,data.xlsx,Phenethyl acetate,Phenethyl acetate,乙酸苯乙酯,CC(=O)OCCC1=CC=CC=C1,酯类 Ester,phenethyl acetate,C053
+56,55,51-52-,501-52-0,repaired_sibling,data.xlsx,3-phenyl propionic acid,3-phenyl propionic acid,3-苯基丙酸,C1=CC=C(C=C1)CCC(=O)O,酸类 Acid,3 phenyl propionic acid,C054
+57,56,79-9-4,79-09-4,repaired_sibling,data.xlsx,Propionic acid,Propionic acid,丙酸,CCC(=O)O,酸类 Acid,propionic acid,C055
+58,57,59-86-3,590-86-3,repaired_sibling,data.xlsx,Isovaleraldehyde,Isovaleraldehyde,异戊醛,CC(C)CC=O,醛类 Aldehyde,isovaleraldehyde,C056
+59,58,66-25-1,66-25-1,ok,as-is,Hexanal,Hexanal,己醛,CCCCCC=O,醛类 Aldehyde,hexanal,C057
+60,59,14667-55-1,14667-55-1,ok,as-is,Trimethyl-pyrazine,Trimethyl-pyrazine,三甲基吡嗪,Cc1cnc(C)c(C)n1,吡嗪 Pyrazine,trimethyl pyrazine,C058
+61,6,142-92-7,142-92-7,ok,as-is,Hexyl acetate,Hexyl acetate,乙酸己酯,CCCCCCOC(=O)C,酯类 Ester,hexyl acetate,C059
+62,61,11-38-3,110-38-3,repaired_sibling,data.xlsx,Ethyl decanoate,Ethyl decanoate,癸酸乙酯,CCCCCCCCCC(=O)OCC,酯类 Ester,ethyl decanoate,C060
+63,62,123-29-5,123-29-5,ok,as-is,Ethyl nonanoate,Ethyl nonanoate,壬酸乙酯,CCCCCCCCC(=O)OCC,酯类 Ester,ethyl nonanoate,C061
+64,63,2639-63-6,2639-63-6,ok,as-is,Hexyl butanoate,Hexyl butanoate,丁酸己酯,CCCCCCOC(=O)CCC,酯类 Ester,hexyl butanoate,C062

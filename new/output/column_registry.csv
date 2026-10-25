@@ -1,0 +1,157 @@
+﻿col_index,header_raw,study_no,study_label,sample_label,unit_declared,unit,unit_confidence,unit_pre_correction,col_role,unit_factor,marker_ugL,n_reference,n_plausible,unit_verdict,usable_absolute
+0,LZ-2016 base SAB (Mean ± SD),1,LZ-2016 SAB / GJ-1573 基础酒对比,LZ-2016 base SAB,,ug/l,inferred_study,ug/l,concentration,1.0,7606936.0,5.0,4.0,ok,True
+1,GJ-1573 (Mean ± SD),1,LZ-2016 SAB / GJ-1573 基础酒对比,GJ-1573,,ug/l,inferred_study,ug/l,concentration,1.0,1487026.0,5.0,5.0,ok,True
+2,Y1（μg/L）,2,Y1/Y3/Y5/Y8/Y11 陈酿年份序列,Y1,μg/L,mg/l,corrected_declared,ug/l,concentration,1000.0,5320560.0,6.0,4.0,ok,True
+3,Y3（μg/L）,2,Y1/Y3/Y5/Y8/Y11 陈酿年份序列,Y3,μg/L,mg/l,corrected_declared,ug/l,concentration,1000.0,972620.0,6.0,4.0,ok,True
+4,Y5（μg/L）,2,Y1/Y3/Y5/Y8/Y11 陈酿年份序列,Y5,μg/L,mg/l,corrected_declared,ug/l,concentration,1000.0,1104580.0,6.0,6.0,ok,True
+5,Y8（μg/L）,2,Y1/Y3/Y5/Y8/Y11 陈酿年份序列,Y8,μg/L,mg/l,corrected_declared,ug/l,concentration,1000.0,6009120.0,6.0,3.0,ok,True
+6,Y11（μg/L）,2,Y1/Y3/Y5/Y8/Y11 陈酿年份序列,Y11,μg/L,mg/l,corrected_declared,ug/l,concentration,1000.0,918620.0,6.0,4.0,ok,True
+7,3  LZLJ-M7,3,LZLJ-M7 / LZLJ-T7,LZLJ-M7,,ug/l,inferred_study,ug/l,concentration,1.0,873258.0,4.0,3.0,ok,True
+8,3  LZLJ-T7,3,LZLJ-M7 / LZLJ-T7,LZLJ-T7,,ug/l,inferred_study,ug/l,concentration,1.0,738302.0,4.0,4.0,ok,True
+9,4  LS,4,LS / FS 液液萃取,LS,,ug/l,inferred_study,ug/l,concentration,1.0,211566.4276,5.0,2.0,ok,True
+10,4  LS,4,LS / FS 液液萃取,LS,,ug/l,inferred_study,ug/l,concentration,1.0,22255.1686,5.0,2.0,ok,True
+11,5  S1 (mg/L),5,脉冲电场处理 PEF (S1/S2/S3/F1/F3),S1,mg/L,mg/l,declared,mg/l,concentration,1000.0,1206133.0,6.0,4.0,ok,True
+12,5  S2 (F3) (mg/L),5,脉冲电场处理 PEF (S1/S2/S3/F1/F3),S2,mg/L,mg/l,declared,mg/l,concentration,1000.0,1251237.0,6.0,4.0,ok,True
+13,5  S3 (mg/L),5,脉冲电场处理 PEF (S1/S2/S3/F1/F3),S3,mg/L,mg/l,declared,mg/l,concentration,1000.0,1217046.0,6.0,3.0,ok,True
+14,5  F1 (mg/L),5,脉冲电场处理 PEF (S1/S2/S3/F1/F3),F1,mg/L,mg/l,declared,mg/l,concentration,1000.0,1264031.0,6.0,3.0,ok,True
+15,5  F3 (mg/L),5,脉冲电场处理 PEF (S1/S2/S3/F1/F3),F3,mg/L,mg/l,declared,mg/l,concentration,1000.0,1261510.0,6.0,3.0,ok,True
+16,6  JH1(μg/L),6,JH / SC 产区样品,JH1,μg/L,mg/l,corrected_declared,ug/l,concentration,1000.0,2491482.0,6.0,6.0,ok,True
+17,6  JH2,6,JH / SC 产区样品,JH2,,mg/l,corrected_declared,ug/l,concentration,1000.0,1739439.9000000001,6.0,6.0,ok,True
+18,6  SC1,6,JH / SC 产区样品,SC1,,mg/l,corrected_declared,ug/l,concentration,1000.0,2872980.0,6.0,6.0,ok,True
+19,6  SC2,6,JH / SC 产区样品,SC2,,mg/l,corrected_declared,ug/l,concentration,1000.0,2191329.8,6.0,6.0,ok,True
+20,6  SC3,6,JH / SC 产区样品,SC3,,mg/l,corrected_declared,ug/l,concentration,1000.0,237651.5,6.0,6.0,ok,True
+21,6  SC4,6,JH / SC 产区样品,SC4,,mg/l,corrected_declared,ug/l,concentration,1000.0,2938581.5,6.0,6.0,ok,True
+22,6  SC5,6,JH / SC 产区样品,SC5,,mg/l,corrected_declared,ug/l,concentration,1000.0,271799.85,6.0,6.0,ok,True
+23,6  SC6,6,JH / SC 产区样品,SC6,,mg/l,corrected_declared,ug/l,concentration,1000.0,3315689.8499999996,6.0,6.0,ok,True
+24,7  CB(μg/L),7,CB / FB / SB,CB,μg/L,ug/l,declared,ug/l,concentration,1.0,4647665.0,6.0,2.0,ok,True
+25,7  FB,7,CB / FB / SB,FB,,ug/l,inferred_study,ug/l,concentration,1.0,4647665.0,6.0,2.0,ok,True
+26,7  SB,7,CB / FB / SB,SB,,ug/l,inferred_study,ug/l,concentration,1.0,613426.0,6.0,2.0,ok,True
+27,9  B1-H(μg/L),9,分级基酒 B1-B5 (H/L),B1-H,μg/L,ug/l,declared,ug/l,concentration,1.0,1616363.7,5.0,3.0,ok,True
+28,9  B1-L,9,分级基酒 B1-B5 (H/L),B1-L,,ug/l,inferred_study,ug/l,concentration,1.0,1275273.3,5.0,3.0,ok,True
+29,9  B3-H,9,分级基酒 B1-B5 (H/L),B3-H,,ug/l,inferred_study,ug/l,concentration,1.0,154934.1,5.0,4.0,ok,True
+30,9  B3-L,9,分级基酒 B1-B5 (H/L),B3-L,,ug/l,inferred_study,ug/l,concentration,1.0,1261393.0,5.0,3.0,ok,True
+31,9  B2-H,9,分级基酒 B1-B5 (H/L),B2-H,,ug/l,inferred_study,ug/l,concentration,1.0,1573616.7999999998,5.0,3.0,ok,True
+32,9  B2-L,9,分级基酒 B1-B5 (H/L),B2-L,,ug/l,inferred_study,ug/l,concentration,1.0,1266867.7,5.0,3.0,ok,True
+33,9  B4-H,9,分级基酒 B1-B5 (H/L),B4-H,,ug/l,inferred_study,ug/l,concentration,1.0,157478.0,5.0,4.0,ok,True
+34,9  B4-L,9,分级基酒 B1-B5 (H/L),B4-L,,ug/l,inferred_study,ug/l,concentration,1.0,1244968.9,5.0,4.0,ok,True
+35,9  B5-H,9,分级基酒 B1-B5 (H/L),B5-H,,ug/l,inferred_study,ug/l,concentration,1.0,1689525.5999999999,5.0,4.0,ok,True
+36,9  B5-L,9,分级基酒 B1-B5 (H/L),B5-L,,ug/l,inferred_study,ug/l,concentration,1.0,141236.19999999998,4.0,3.0,ok,True
+37,10  1mg/L,10,风味重组样品 1-8,1,mg/L,mg/l,declared,mg/l,concentration,1000.0,2559000.0,4.0,4.0,ok,True
+38,10  2,10,风味重组样品 1-8,2,,ug/l,inferred_study,ug/l,concentration,1.0,1157.0,4.0,0.0,implausible,False
+39,10  3,10,风味重组样品 1-8,3,,ug/l,inferred_study,ug/l,concentration,1.0,1092.0,4.0,0.0,implausible,False
+40,10  4,10,风味重组样品 1-8,4,,ug/l,inferred_study,ug/l,concentration,1.0,879.0,4.0,0.0,implausible,False
+41,10  5,10,风味重组样品 1-8,5,,ug/l,inferred_study,ug/l,concentration,1.0,861.0,4.0,0.0,implausible,False
+42,10  6,10,风味重组样品 1-8,6,,ug/l,inferred_study,ug/l,concentration,1.0,679.0,4.0,0.0,implausible,False
+43,10  7,10,风味重组样品 1-8,7,,ug/l,inferred_study,ug/l,concentration,1.0,714.0,4.0,0.0,implausible,False
+44,10  8,10,风味重组样品 1-8,8,,ug/l,inferred_study,ug/l,concentration,1.0,421.0,4.0,0.0,implausible,False
+45,11 优级 mg/L,11,优级/一级/二级/丢糟 等级,优级,mg/L,mg/l,declared,mg/l,concentration,1000.0,1422271.4000000001,5.0,5.0,ok,True
+46,11 一级,11,优级/一级/二级/丢糟 等级,一级,,mg/l,inferred_study,mg/l,concentration,1000.0,7889.0,5.0,3.0,implausible,False
+47,11 二级,11,优级/一级/二级/丢糟 等级,二级,,mg/l,inferred_study,mg/l,concentration,1000.0,231855.80000000002,5.0,5.0,ok,True
+48,11 丢糟,11,优级/一级/二级/丢糟 等级,丢糟,,mg/l,inferred_study,mg/l,concentration,1000.0,245398.5,5.0,5.0,ok,True
+49,12 JZG-1 μg/L,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,JZG-1,μg/L,ug/l,declared,ug/l,concentration,1.0,284756.95160000003,6.0,3.0,ok,True
+50,JZ12-1,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,JZ12-1,,ug/l,declared,ug/l,concentration,1.0,443766.51879999996,6.0,3.0,ok,True
+51,CZ5-1,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,CZ5-1,,ug/l,declared,ug/l,concentration,1.0,267626.233,6.0,5.0,ok,True
+52,JZB-1,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,JZB-1,,ug/l,declared,ug/l,concentration,1.0,295115.289,6.0,3.0,ok,True
+53,LZ1-1,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,LZ1-1,,ug/l,declared,ug/l,concentration,1.0,3741.4751,6.0,2.0,implausible,False
+54,LZ1-1,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,LZ1-1,,ug/l,declared,ug/l,concentration,1.0,453777.37570000003,6.0,4.0,ok,True
+55,JZ19-1,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,JZ19-1,,ug/l,declared,ug/l,concentration,1.0,359747.365,6.0,5.0,ok,True
+56,LZ2-1,12,高粱营养品质 JZG/JZ12/CZ5/JZB/LZ1/LZ2,LZ2-1,,ug/l,declared,ug/l,concentration,1.0,32694.5479,6.0,4.0,ok,True
+57,13 g/L,13,四川不同产区 (g/L),,g/L,g/l,declared,g/l,concentration,1000000.0,175850000.0,6.0,0.0,implausible,False
+58,g/L,13,四川不同产区 (g/L),,g/L,g/l,declared,g/l,concentration,1000000.0,139920000.0,6.0,0.0,implausible,False
+59,g/L,13,四川不同产区 (g/L),,g/L,g/l,declared,g/l,concentration,1000000.0,145130000.0,6.0,0.0,implausible,False
+60,g/L,13,四川不同产区 (g/L),,g/L,g/l,declared,g/l,concentration,1000000.0,159550000.0,6.0,0.0,implausible,False
+61,14 含量 Amg/L,14,GCxGC-MS 含量 A/B/C,含量 A,mg/L,mg/l,declared,mg/l,concentration,1000.0,3116480.0,5.0,5.0,ok,True
+62,含量 Bmg/L,14,GCxGC-MS 含量 A/B/C,含量 B,mg/L,mg/l,declared,mg/l,concentration,1000.0,17730.0,5.0,4.0,ok,True
+63,含量 Cmg/L,14,GCxGC-MS 含量 A/B/C,含量 C,mg/L,mg/l,declared,mg/l,concentration,1000.0,1223340.0,5.0,4.0,ok,True
+64,15 L1 含量 / (mg/L),15,全二维 GC-TOFMS L1/L2,L1 含量 /,mg/L,mg/l,declared,mg/l,concentration,1000.0,1141870.0,6.0,6.0,ok,True
+65,L2 含量 / (mg/L),15,全二维 GC-TOFMS L1/L2,L2 含量 /,mg/L,mg/l,declared,mg/l,concentration,1000.0,881650.0,6.0,6.0,ok,True
+66,16 古井贡酒mg/L,16,5 种品牌浓香型白酒,古井贡酒,mg/L,mg/l,declared,mg/l,concentration,1000.0,21000.0,6.0,1.0,ok,True
+67,红星二锅头mg/L,16,5 种品牌浓香型白酒,红星二锅头,mg/L,mg/l,declared,mg/l,concentration,1000.0,217810.0,6.0,1.0,ok,True
+68,牛栏山mg/L,16,5 种品牌浓香型白酒,牛栏山,mg/L,mg/l,declared,mg/l,concentration,1000.0,248870.0,6.0,2.0,ok,True
+69,银装青酒mg/L,16,5 种品牌浓香型白酒,银装青酒,mg/L,mg/l,declared,mg/l,concentration,1000.0,215340.0,6.0,2.0,ok,True
+70,洋河大曲mg/L,16,5 种品牌浓香型白酒,洋河大曲,mg/L,mg/l,declared,mg/l,concentration,1000.0,237410.0,6.0,2.0,ok,True
+71,17 质量浓度 A (μg/L),17,北派年份标记物 质量浓度 A/B/C,质量浓度 A,μg/L,ug/l,declared,ug/l,concentration,1.0,342984.44,6.0,4.0,ok,True
+72,质量浓度 B (μg/L),17,北派年份标记物 质量浓度 A/B/C,质量浓度 B,μg/L,ug/l,declared,ug/l,concentration,1.0,53312.51,6.0,4.0,ok,True
+73,质量浓度 C (μg/L),17,北派年份标记物 质量浓度 A/B/C,质量浓度 C,μg/L,ug/l,declared,ug/l,concentration,1.0,5439.55,2.0,0.0,implausible,False
+74,18 X,18,不同贮存年份五粮浓香 X0-X8,X,,mg/l,inferred_study,mg/l,concentration,1000.0,4782470.0,6.0,6.0,ok,True
+75,X1,18,不同贮存年份五粮浓香 X0-X8,X1,,mg/l,inferred_study,mg/l,concentration,1000.0,4429180.0,6.0,6.0,ok,True
+76,X3,18,不同贮存年份五粮浓香 X0-X8,X3,,mg/l,inferred_study,mg/l,concentration,1000.0,2674130.0,6.0,6.0,ok,True
+77,X5,18,不同贮存年份五粮浓香 X0-X8,X5,,mg/l,inferred_study,mg/l,concentration,1000.0,2841300.0,6.0,5.0,ok,True
+78,X8,18,不同贮存年份五粮浓香 X0-X8,X8,,mg/l,inferred_study,mg/l,concentration,1000.0,344750.0,6.0,6.0,ok,True
+79,19 LZ / (mg/L),19,浓香型 LZ,LZ /,mg/L,mg/l,declared,mg/l,concentration,1000.0,1716590.0,6.0,5.0,ok,True
+80,2 NX 平均含量 (mg/L),20,三种香型 NX 平均含量,NX 平均含量,mg/L,mg/l,declared,mg/l,concentration,1000.0,2795500.0,6.0,6.0,ok,True
+81,21 NX 平均含量 (mg/L),21,浓香型等级评判 NX 平均含量,NX 平均含量,mg/L,mg/l,declared,mg/l,concentration,1000.0,2154610.0,6.0,6.0,ok,True
+82,22 SC1  μg/L,22,乙醇代谢 SC1-SC3 / JS,SC1,μg/L,ug/l,declared,ug/l,concentration,1.0,12996.0,6.0,0.0,ok,True
+83,SC2,22,乙醇代谢 SC1-SC3 / JS,SC2,,ug/l,declared,ug/l,concentration,1.0,1344.0,6.0,0.0,implausible,False
+84,SC3,22,乙醇代谢 SC1-SC3 / JS,SC3,,ug/l,declared,ug/l,concentration,1.0,428.0,6.0,0.0,implausible,False
+85,JS,22,乙醇代谢 SC1-SC3 / JS,JS,,ug/l,declared,ug/l,concentration,1.0,69.0,6.0,0.0,implausible,False
+86,23  2 年陈,23,2/3/5 年陈,2 年陈,,mg/l,inferred_study,mg/l,concentration,1000.0,729.0,5.0,1.0,implausible,False
+87,3 年陈,23,2/3/5 年陈,3 年陈,,mg/l,inferred_study,mg/l,concentration,1000.0,22570.0,4.0,1.0,ok,True
+88,5 年陈,23,2/3/5 年陈,5 年陈,,mg/l,inferred_study,mg/l,concentration,1000.0,24350.0,4.0,2.0,ok,True
+89,待定,23,2/3/5 年陈,待定,,mg/l,inferred_study,mg/l,concentration,1000.0,,,,,False
+90,25 沂蒙老区6成品酒μg/L GRD-1,25,山东沂蒙老区成品酒 / 新老原酒,沂蒙老区6成品酒 GRD-1,μg/L,ug/l,declared,ug/l,concentration,1.0,182.78,6.0,0.0,implausible,False
+91,GRD-JC,25,山东沂蒙老区成品酒 / 新老原酒,GRD-JC,,ug/l,declared,ug/l,concentration,1.0,288.87,6.0,0.0,implausible,False
+92,GRD-PD,25,山东沂蒙老区成品酒 / 新老原酒,GRD-PD,,ug/l,declared,ug/l,concentration,1.0,1888.12,6.0,0.0,implausible,False
+93,GRD-2,25,山东沂蒙老区成品酒 / 新老原酒,GRD-2,,ug/l,declared,ug/l,concentration,1.0,1227.0,6.0,0.0,implausible,False
+94,JPLG,25,山东沂蒙老区成品酒 / 新老原酒,JPLG,,ug/l,declared,ug/l,concentration,1.0,833.64,6.0,0.0,implausible,False
+95,LGTQ,25,山东沂蒙老区成品酒 / 新老原酒,LGTQ,,ug/l,declared,ug/l,concentration,1.0,932.76,6.0,0.0,implausible,False
+96,典型5浓香型μg/L JNC,24,典型 5 产区浓香型 (JNC/LZLJ/WLY/GJG/JSY),典型5浓香型 JNC,μg/L,ug/l,declared,ug/l,concentration,1.0,1248.0,6.0,0.0,implausible,False
+97,LZLJ,24,典型 5 产区浓香型 (JNC/LZLJ/WLY/GJG/JSY),LZLJ,,ug/l,inferred_study,ug/l,concentration,1.0,1387.89,6.0,0.0,implausible,False
+98,WLY,24,典型 5 产区浓香型 (JNC/LZLJ/WLY/GJG/JSY),WLY,,ug/l,inferred_study,ug/l,concentration,1.0,1591.0,6.0,0.0,implausible,False
+99,GJG,24,典型 5 产区浓香型 (JNC/LZLJ/WLY/GJG/JSY),GJG,,ug/l,inferred_study,ug/l,concentration,1.0,882.91,6.0,0.0,implausible,False
+100,JSY,24,典型 5 产区浓香型 (JNC/LZLJ/WLY/GJG/JSY),JSY,,ug/l,inferred_study,ug/l,concentration,1.0,1242.0,6.0,0.0,implausible,False
+101,沂蒙老区新老原酒μg/L 新酒浓度,25,山东沂蒙老区成品酒 / 新老原酒,沂蒙老区新老原酒 新酒浓度,μg/L,ug/l,declared,ug/l,concentration,1.0,3152.22,6.0,0.0,implausible,False
+102,老酒浓度,25,山东沂蒙老区成品酒 / 新老原酒,老酒浓度,,ug/l,inferred_study,ug/l,concentration,1.0,446.3,6.0,0.0,implausible,False
+103,26 一级好酒,26,一级好酒/一级差酒/二级好酒/二级差酒/三级酒,一级好酒,,mg/100ml,inferred_study,mg/100ml,concentration,,,,,,False
+104,一级差酒,26,一级好酒/一级差酒/二级好酒/二级差酒/三级酒,一级差酒,,mg/100ml,inferred_study,mg/100ml,concentration,,,,,,False
+105,二级好酒,26,一级好酒/一级差酒/二级好酒/二级差酒/三级酒,二级好酒,,mg/100ml,inferred_study,mg/100ml,concentration,,,,,,False
+106,二级差酒,26,一级好酒/一级差酒/二级好酒/二级差酒/三级酒,二级差酒,,mg/100ml,inferred_study,mg/100ml,concentration,,,,,,False
+107,三级酒,26,一级好酒/一级差酒/二级好酒/二级差酒/三级酒,三级酒,,mg/100ml,inferred_study,mg/100ml,concentration,,,,,,False
+108,27 NX1  mg/L,27,GC-QTOF MS NX1-NX10,NX1,mg/L,mg/l,declared,mg/l,concentration,1000.0,334500.0,6.0,6.0,ok,True
+109,NX2,27,GC-QTOF MS NX1-NX10,NX2,,mg/l,declared,mg/l,concentration,1000.0,332600.0,6.0,6.0,ok,True
+110,NX3,27,GC-QTOF MS NX1-NX10,NX3,,mg/l,declared,mg/l,concentration,1000.0,3283100.0,6.0,6.0,ok,True
+111,NX4,27,GC-QTOF MS NX1-NX10,NX4,,mg/l,declared,mg/l,concentration,1000.0,2421500.0,6.0,6.0,ok,True
+112,NX5,27,GC-QTOF MS NX1-NX10,NX5,,mg/l,declared,mg/l,concentration,1000.0,248100.0,6.0,6.0,ok,True
+113,NX6,27,GC-QTOF MS NX1-NX10,NX6,,mg/l,declared,mg/l,concentration,1000.0,2484100.0,6.0,6.0,ok,True
+114,NX7,27,GC-QTOF MS NX1-NX10,NX7,,mg/l,declared,mg/l,concentration,1000.0,2432200.0,6.0,6.0,ok,True
+115,NX8,27,GC-QTOF MS NX1-NX10,NX8,,mg/l,declared,mg/l,concentration,1000.0,2639300.0,6.0,5.0,ok,True
+116,NX9,27,GC-QTOF MS NX1-NX10,NX9,,mg/l,declared,mg/l,concentration,1000.0,277100.0,6.0,6.0,ok,True
+117,NX1,27,GC-QTOF MS NX1-NX10,NX1,,mg/l,declared,mg/l,concentration,1000.0,2658700.0,6.0,4.0,ok,True
+118,28  n-c-1,28,酱香型 vs 浓香型 (n-c / n-g),n-c-1,,ug/l,inferred_study,ug/l,concentration,1.0,63433.0,6.0,1.0,ok,True
+119,n-c-2,28,酱香型 vs 浓香型 (n-c / n-g),n-c-2,,ug/l,inferred_study,ug/l,concentration,1.0,5569.0,6.0,0.0,implausible,False
+120,n-g-1,28,酱香型 vs 浓香型 (n-c / n-g),n-g-1,,ug/l,inferred_study,ug/l,concentration,1.0,4982.0,6.0,0.0,implausible,False
+121,n-g-2,28,酱香型 vs 浓香型 (n-c / n-g),n-g-2,,ug/l,inferred_study,ug/l,concentration,1.0,493.0,6.0,0.0,implausible,False
+122,29  G1 (mg/mL),29,两种原粮酿造 G1/G2,G1,mg/mL,mg/ml,declared,mg/ml,concentration,1000000.0,5851800.0,6.0,5.0,ok,True
+123,G2 (mg/mL),29,两种原粮酿造 G1/G2,G2,mg/mL,mg/ml,declared,mg/ml,concentration,1000000.0,4172600.0,6.0,6.0,ok,True
+124,3  41.6% HZL,30,洋河绵柔型白酒 (41.6%HZL/41%TZL/46%TZL/52%TZL/42.6%MZL),41.6% HZL,,mg/l,inferred_study,mg/l,concentration,1000.0,2212733.0,6.0,6.0,ok,True
+125,41% TZL,30,洋河绵柔型白酒 (41.6%HZL/41%TZL/46%TZL/52%TZL/42.6%MZL),41% TZL,,mg/l,inferred_study,mg/l,concentration,1000.0,1994140.0,6.0,6.0,ok,True
+126,46% TZL,30,洋河绵柔型白酒 (41.6%HZL/41%TZL/46%TZL/52%TZL/42.6%MZL),46% TZL,,mg/l,inferred_study,mg/l,concentration,1000.0,1522349.0,6.0,5.0,ok,True
+127,52% TZL,30,洋河绵柔型白酒 (41.6%HZL/41%TZL/46%TZL/52%TZL/42.6%MZL),52% TZL,,mg/l,inferred_study,mg/l,concentration,1000.0,165259.0,6.0,6.0,ok,True
+128,42.6% MZL,30,洋河绵柔型白酒 (41.6%HZL/41%TZL/46%TZL/52%TZL/42.6%MZL),42.6% MZL,,mg/l,inferred_study,mg/l,concentration,1000.0,2247632.0,6.0,6.0,ok,True
+129,31  46% 浓度,31,洋河天之蓝 vs 二锅头 46%/52%,46% 浓度,,ug/l,inferred_study,ug/l,concentration,1.0,2155.0,4.0,2.0,implausible,False
+130,52% 浓度,31,洋河天之蓝 vs 二锅头 46%/52%,52% 浓度,,ug/l,inferred_study,ug/l,concentration,1.0,1983448.0,4.0,3.0,ok,True
+131,32  均衡组（g/L）,32,基酒味觉特征分组（均衡/微涩/较涩/涩味/苦味）,均衡组,g/L,g/l,declared,g/l,concentration,1000000.0,97397650000.0,2.0,0.0,implausible,False
+132,微涩组（g/L）,32,基酒味觉特征分组（均衡/微涩/较涩/涩味/苦味）,微涩组,g/L,g/l,declared,g/l,concentration,1000000.0,38457740000.0,2.0,0.0,implausible,False
+133,较涩组（g/L）,32,基酒味觉特征分组（均衡/微涩/较涩/涩味/苦味）,较涩组,g/L,g/l,declared,g/l,concentration,1000000.0,3569610000.0,2.0,0.0,implausible,False
+134,涩味组（g/L）,32,基酒味觉特征分组（均衡/微涩/较涩/涩味/苦味）,涩味组,g/L,g/l,declared,g/l,concentration,1000000.0,24672420000.0,2.0,0.0,implausible,False
+135,苦味组（g/L）,32,基酒味觉特征分组（均衡/微涩/较涩/涩味/苦味）,苦味组,g/L,g/l,declared,g/l,concentration,1000000.0,3868710000.0,2.0,0.0,implausible,False
+136,33  S-Y1-H(μg/L),33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y1-H,μg/L,ug/l,declared,ug/l,concentration,1.0,1536.6,5.0,3.0,implausible,False
+137,S-Y2 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y2 H,,ug/l,declared,ug/l,concentration,1.0,1554592.3,5.0,5.0,ok,True
+138,S-Y3 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y3 H,,ug/l,declared,ug/l,concentration,1.0,152365.6,5.0,5.0,ok,True
+139,S-Y4 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y4 H,,ug/l,declared,ug/l,concentration,1.0,1533231.7,5.0,4.0,ok,True
+140,S-Y5 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y5 H,,ug/l,declared,ug/l,concentration,1.0,169431.0,5.0,5.0,ok,True
+141,S-Y6 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y6 H,,ug/l,declared,ug/l,concentration,1.0,1415239.9,6.0,5.0,ok,True
+142,S-L1 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-L1 H,,ug/l,declared,ug/l,concentration,1.0,1617237.3,6.0,5.0,ok,True
+143,A-GJG H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,A-GJG H,,ug/l,declared,ug/l,concentration,1.0,1574451.4,6.0,5.0,ok,True
+144,G-J1 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,G-J1 H,,ug/l,declared,ug/l,concentration,1.0,155172.1,6.0,4.0,ok,True
+145,J-Y1 H,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,J-Y1 H,,ug/l,declared,ug/l,concentration,1.0,158633.2,6.0,5.0,ok,True
+146,S-Y1,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y1,,ug/l,declared,ug/l,concentration,1.0,1324332.4,6.0,4.0,ok,True
+147,S-Y2,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y2,,ug/l,declared,ug/l,concentration,1.0,15146.3,6.0,3.0,ok,True
+148,S-Y3,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y3,,ug/l,declared,ug/l,concentration,1.0,1345945.1,6.0,5.0,ok,True
+149,S-Y4,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y4,,ug/l,declared,ug/l,concentration,1.0,131639.9,6.0,4.0,ok,True
+150,S-Y5,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y5,,ug/l,declared,ug/l,concentration,1.0,1413435.6,6.0,4.0,ok,True
+151,S-Y6,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-Y6,,ug/l,declared,ug/l,concentration,1.0,1278175.6,6.0,5.0,ok,True
+152,S-L1,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,S-L1,,ug/l,declared,ug/l,concentration,1.0,1275952.7,6.0,5.0,ok,True
+153,A-G1,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,A-G1,,ug/l,declared,ug/l,concentration,1.0,1267568.0,6.0,4.0,ok,True
+154,G-J1,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,G-J1,,ug/l,declared,ug/l,concentration,1.0,126254.7,6.0,5.0,ok,True
+155,J-Y1,33,宜宾产区 S-Y*/S-L*/A-GJG/G-J1/J-Y1,J-Y1,,ug/l,declared,ug/l,concentration,1.0,1245618.6,6.0,4.0,ok,True

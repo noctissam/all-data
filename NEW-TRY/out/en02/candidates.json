@@ -1,0 +1,407 @@
+{
+  "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\5  Key Aroma Compounds and Aroma Characteristics in.pdf",
+  "dpi": 150,
+  "n_candidates": 17,
+  "candidates": [
+    {
+      "page": 1,
+      "kind": "above_first",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          37,
+          107
+        ]
+      ],
+      "y_top_px": 117,
+      "y_bot_px": 680,
+      "y_top_pt": 56.2,
+      "y_bot_pt": 326.4,
+      "height_pt": 270.2
+    },
+    {
+      "page": 1,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          40,
+          106
+        ]
+      ],
+      "y_top_px": 683,
+      "y_bot_px": 1647,
+      "y_top_pt": 327.8,
+      "y_bot_pt": 790.6,
+      "height_pt": 462.7
+    },
+    {
+      "page": 2,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          646
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 3,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          612,
+          627
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 5,
+      "kind": "below_last",
+      "n_gutters": 4,
+      "gutters": [
+        [
+          128,
+          156
+        ],
+        [
+          208,
+          246
+        ],
+        [
+          369,
+          396
+        ],
+        [
+          900,
+          915
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 6,
+      "kind": "below_last",
+      "n_gutters": 6,
+      "gutters": [
+        [
+          128,
+          156
+        ],
+        [
+          208,
+          224
+        ],
+        [
+          414,
+          429
+        ],
+        [
+          526,
+          540
+        ],
+        [
+          772,
+          792
+        ],
+        [
+          1040,
+          1055
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 7,
+      "kind": "below_last",
+      "n_gutters": 5,
+      "gutters": [
+        [
+          128,
+          156
+        ],
+        [
+          208,
+          224
+        ],
+        [
+          302,
+          317
+        ],
+        [
+          436,
+          469
+        ],
+        [
+          636,
+          651
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 9,
+      "kind": "below_last",
+      "n_gutters": 6,
+      "gutters": [
+        [
+          297,
+          334
+        ],
+        [
+          411,
+          441
+        ],
+        [
+          540,
+          584
+        ],
+        [
+          682,
+          727
+        ],
+        [
+          828,
+          868
+        ],
+        [
+          972,
+          1017
+        ]
+      ],
+      "y_top_px": 237,
+      "y_bot_px": 1645,
+      "y_top_pt": 113.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 675.8
+    },
+    {
+      "page": 10,
+      "kind": "below_last",
+      "n_gutters": 7,
+      "gutters": [
+        [
+          136,
+          160
+        ],
+        [
+          276,
+          334
+        ],
+        [
+          404,
+          441
+        ],
+        [
+          539,
+          584
+        ],
+        [
+          674,
+          726
+        ],
+        [
+          818,
+          868
+        ],
+        [
+          965,
+          1017
+        ]
+      ],
+      "y_top_px": 237,
+      "y_bot_px": 1645,
+      "y_top_pt": 113.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 675.8
+    },
+    {
+      "page": 12,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          646
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 13,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          646
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 14,
+      "kind": "below_last",
+      "n_gutters": 10,
+      "gutters": [
+        [
+          131,
+          153
+        ],
+        [
+          270,
+          302
+        ],
+        [
+          377,
+          409
+        ],
+        [
+          458,
+          482
+        ],
+        [
+          577,
+          606
+        ],
+        [
+          707,
+          735
+        ],
+        [
+          786,
+          818
+        ],
+        [
+          868,
+          899
+        ],
+        [
+          958,
+          989
+        ],
+        [
+          1047,
+          1079
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 16,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          617
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 17,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          609
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 18,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          646
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 19,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          646
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    },
+    {
+      "page": 20,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          595,
+          646
+        ]
+      ],
+      "y_top_px": 162,
+      "y_bot_px": 1645,
+      "y_top_pt": 77.8,
+      "y_bot_pt": 789.6,
+      "height_pt": 711.8
+    }
+  ]
+}

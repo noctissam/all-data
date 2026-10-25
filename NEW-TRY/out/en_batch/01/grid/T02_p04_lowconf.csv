@@ -1,0 +1,5 @@
+﻿table_id,name,pdf_page,section,row,col,text,score,status
+T02,T02_p04,4,head,1,2,Compounds,0,conflict_a
+T02,T02_p04,4,body,1,5,IS4,0.7986,match
+T02,T02_p04,4,body,3,4,85,0.7622,match
+T02,T02_p04,4,body,6,1,68,0.7616,match

@@ -1,0 +1,5 @@
+raster table detection (dpi=150)
+  p5   rules=2   frags=2   y66-96 g1 | y101-549 g18
+  p6   rules=3   frags=1   y195-359 g17
+  p9   rules=1   frags=2   y126-265 g49 | y266-472 g35
+candidates: 5 -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11r\d90r\candidates.json

@@ -1,0 +1,3370 @@
+{
+ "(-)--terpineol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "(2,2-Diethoxyethyl) benzene": {
+  "nist": "6314-97-2",
+  "nist_status": "ok"
+ },
+ "(E)-2-undecen-1-ol": {
+  "nist": "75039-84-8",
+  "nist_status": "ok"
+ },
+ "(S)-(-)-2-methylbutanol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "-nonalactone": {
+  "nist": "6008-27-1",
+  "nist_status": "ok"
+ },
+ "1,1,3-三乙氧基丙烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1,1-Diethoxy-3-methylbutane": {
+  "nist": "3842-03-3",
+  "nist_status": "ok"
+ },
+ "1,1-diethoxy-Hexane": {
+  "nist": "3658-93-3",
+  "nist_status": "ok"
+ },
+ "1,1-diethoxynonane": {
+  "nist": "54815-13-3",
+  "nist_status": "ok"
+ },
+ "1,1-二乙氧基 -2-甲基丁烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1,1-二乙氧基 -3-甲基丁烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1,1-二乙氧基-2-苯乙烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1,1-二乙氧基-3-甲基丁烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1,2-Propanediol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "1,2-hexanediol": {
+  "nist": "6920-22-5",
+  "nist_status": "ok"
+ },
+ "1- 辛醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-Azido-2-methylbenzene": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "1-Butanol": {
+  "nist": "71-36-3",
+  "nist_status": "ok"
+ },
+ "1-Hexanol": {
+  "nist": "111-27-3",
+  "nist_status": "ok"
+ },
+ "1-Octanol": {
+  "nist": "111-87-5",
+  "nist_status": "ok"
+ },
+ "1-Pentanol": {
+  "nist": "71-41-0",
+  "nist_status": "ok"
+ },
+ "1-Propanol": {
+  "nist": "71-23-8",
+  "nist_status": "ok"
+ },
+ "1-butanol": {
+  "nist": "71-36-3",
+  "nist_status": "ok"
+ },
+ "1-dodecanol": {
+  "nist": "112-53-8",
+  "nist_status": "ok"
+ },
+ "1-hexanol": {
+  "nist": "111-27-3",
+  "nist_status": "ok"
+ },
+ "1-nonanol": {
+  "nist": "143-08-8",
+  "nist_status": "ok"
+ },
+ "1-octanol": {
+  "nist": "111-87-5",
+  "nist_status": "ok"
+ },
+ "1-octen-3-ol": {
+  "nist": "3391-86-4",
+  "nist_status": "ok"
+ },
+ "1-phenylethanone": {
+  "nist": "98-86-2",
+  "nist_status": "ok"
+ },
+ "1-丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-丁醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-丁醇（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-丙醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-丙醇b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-壬醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-己醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-己醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-己醇（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-庚醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-戊醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-癸醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-辛烯-3-酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-辛烯-3-醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-辛醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-辛醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-辛醇（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1-（1-乙氧基乙氧基）-丁烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1.2- 丙二醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "13-Octadecenoic acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "14-Pentadecanoic acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "17-Octadecynoic acid": {
+  "nist": "34450-18-5",
+  "nist_status": "ok"
+ },
+ "1，1-二乙氧基-2-甲基丁烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1，1-二乙氧基-3-甲基丁烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1，1-二乙氧基乙烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1，1，3-三乙氧基丙烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1，2-丙二醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "1，2－丙二醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2, 4-二甲基苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2, 5-二甲基-3-丁基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,3,5,6-四甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,3,5-三甲基-6-乙基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,3,5-三甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,3-Butanediol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2,3-丁二醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,3-二乙基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,4-Di-t-butylphenol": {
+  "nist": "96-76-4",
+  "nist_status": "ok"
+ },
+ "2,4-二叔丁基 苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,5-二甲基-3-乙基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,5-二甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,6-Di-tert-butyl-p-cresol": {
+  "nist": "128-37-0",
+  "nist_status": "ok"
+ },
+ "2,6-二乙基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,6-二甲基-4-庚醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2,6-二甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2- 戊酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2- 甲基丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2- 苯乙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-(12-Pentadecynyloxy) tetrahydro-2H-pyran": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2-Acetylfuran": {
+  "nist": "1192-62-7",
+  "nist_status": "ok"
+ },
+ "2-Butanol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2-Butylfuran": {
+  "nist": "4466-24-4",
+  "nist_status": "ok"
+ },
+ "2-Dodecenoic acid": {
+  "nist": "4412-16-2",
+  "nist_status": "ok"
+ },
+ "2-Ethylhexanol": {
+  "nist": "104-76-7",
+  "nist_status": "ok"
+ },
+ "2-Furan methanol": {
+  "nist": "98-00-0",
+  "nist_status": "ok"
+ },
+ "2-Furanmethanol": {
+  "nist": "98-00-0",
+  "nist_status": "ok"
+ },
+ "2-Heptanol": {
+  "nist": "543-49-7",
+  "nist_status": "ok"
+ },
+ "2-Hexanol": {
+  "nist": "626-93-7",
+  "nist_status": "ok"
+ },
+ "2-Methoxy-p-cresol": {
+  "nist": "93-51-6",
+  "nist_status": "ok"
+ },
+ "2-Methyl-1-butanol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2-Methyl-1-propanol": {
+  "nist": "78-83-1",
+  "nist_status": "ok"
+ },
+ "2-Methylphenol": {
+  "nist": "95-48-7",
+  "nist_status": "ok"
+ },
+ "2-Methylpropanoic acid": {
+  "nist": "79-31-2",
+  "nist_status": "ok"
+ },
+ "2-Methylpropanol": {
+  "nist": "78-83-1",
+  "nist_status": "ok"
+ },
+ "2-Methylpropionic acid": {
+  "nist": "79-31-2",
+  "nist_status": "ok"
+ },
+ "2-Nonanone": {
+  "nist": "821-55-6",
+  "nist_status": "ok"
+ },
+ "2-Nonen-4-one": {
+  "nist": "32064-72-5",
+  "nist_status": "ok"
+ },
+ "2-Pentadecanone": {
+  "nist": "2345-28-0",
+  "nist_status": "ok"
+ },
+ "2-Pentanol": {
+  "nist": "6032-29-7",
+  "nist_status": "ok"
+ },
+ "2-Phenylethanol": {
+  "nist": "60-12-8",
+  "nist_status": "ok"
+ },
+ "2-Propyl-1-pentanol": {
+  "nist": "58175-57-8",
+  "nist_status": "ok"
+ },
+ "2-Undecanone": {
+  "nist": "112-12-9",
+  "nist_status": "ok"
+ },
+ "2-[(Z)-9-Octadecenyloxy]ethanol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2-butanol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2-heptanol": {
+  "nist": "543-49-7",
+  "nist_status": "ok"
+ },
+ "2-hexanol": {
+  "nist": "626-93-7",
+  "nist_status": "ok"
+ },
+ "2-hexyl-1-decanol": {
+  "nist": "2425-77-6",
+  "nist_status": "ok"
+ },
+ "2-hydroxy-4-methylvalerate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2-methoxy-4-methylphenol": {
+  "nist": "93-51-6",
+  "nist_status": "ok"
+ },
+ "2-methoxy-4-vinylphenol": {
+  "nist": "7786-61-0",
+  "nist_status": "ok"
+ },
+ "2-methylpropionic acid": {
+  "nist": "79-31-2",
+  "nist_status": "ok"
+ },
+ "2-nonanol": {
+  "nist": "628-99-9",
+  "nist_status": "ok"
+ },
+ "2-nonenoic acid": {
+  "nist": "3760-11-0",
+  "nist_status": "ok"
+ },
+ "2-octanone": {
+  "nist": "111-13-7",
+  "nist_status": "ok"
+ },
+ "2-phenylethanol": {
+  "nist": "60-12-8",
+  "nist_status": "ok"
+ },
+ "2-phenylethyl acetate": {
+  "nist": "103-45-7",
+  "nist_status": "ok"
+ },
+ "2-thenaldehyde": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "2-丁酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-丁醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-丁醇b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-丙烯-1-醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-丙酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-乙基-5-甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-乙基-5-甲基呋喃": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-乙基-6-甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-乙基苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-乙酰基-4-甲基吡啶": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-乙酰基-5-甲基呋喃": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-乙酰基呋喃": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-十一烯醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-十一酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-十一醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-呋喃基乙基酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-呋喃甲酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-呋喃羧酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-壬基醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-壬烯-4-酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-壬酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-壬醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-己烯酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-己酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-己醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-庚酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-庚醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-戊基呋喃": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-戊酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-戊酮a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-戊醇 /": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-戊醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-戊醇b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-正丁基呋喃": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基-1-丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基-1-丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基-3-辛酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁酸-2-苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁酸乙酯（×10-2）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁酸甲酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丁醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基丙醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲基呋喃": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-甲氧基-4-甲基苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-癸酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-糠酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-糠醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-糠醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-糠醛乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-糠醛缩二乙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-羟基-3-甲基丁酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-羟基丁酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-羟基丙酸-2-甲基丙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-羟基己酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-羟基己酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-羟基已酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-苯乙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-苯乙酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-苯乙酸乙酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-苯乙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-苯乙醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-辛酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2-辛醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2.3- 丁二醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2，3-丁二醇( 内)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2，3-丁二醇( 左)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2，3－丁二酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2，3－丁二醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2，4-二甲基-3-戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2－丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "2－戊酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3,3-二乙氧基-1-丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3- 羟基-2- 丁酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-(methylthio)-propanoic acid ethyl ester": {
+  "nist": "13327-56-5",
+  "nist_status": "ok"
+ },
+ "3-(methylthio)propanal": {
+  "nist": "3268-49-3",
+  "nist_status": "ok"
+ },
+ "3-(methylthio)propanal + 3-methylindole": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "3-(methylthio)propanal + butyric acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "3-(methylthio)propanal + hexanoic acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "3-(methylthio)propanal + p-cresol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "3-(methylthio)propanol": {
+  "nist": "505-10-2",
+  "nist_status": "ok"
+ },
+ "3-Furaldehyde": {
+  "nist": "498-60-2",
+  "nist_status": "ok"
+ },
+ "3-Hydroxylauric acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "3-Methyl pentatonic acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "3-Methyl-1-butanal": {
+  "nist": "590-86-3",
+  "nist_status": "ok"
+ },
+ "3-Methyl-1-butanol": {
+  "nist": "123-51-3",
+  "nist_status": "ok"
+ },
+ "3-Methyl-1-heptanol": {
+  "nist": "1070-32-2",
+  "nist_status": "ok"
+ },
+ "3-Methylbutanal": {
+  "nist": "590-86-3",
+  "nist_status": "ok"
+ },
+ "3-Methylbutanoic acid": {
+  "nist": "503-74-2",
+  "nist_status": "ok"
+ },
+ "3-Methylthiopropanol": {
+  "nist": "505-10-2",
+  "nist_status": "ok"
+ },
+ "3-methyl-1-butanol": {
+  "nist": "123-51-3",
+  "nist_status": "ok"
+ },
+ "3-methyl-2-butanol": {
+  "nist": "598-75-4",
+  "nist_status": "ok"
+ },
+ "3-methylbutanoic acid": {
+  "nist": "503-74-2",
+  "nist_status": "ok"
+ },
+ "3-methylbutyl hexanoate": {
+  "nist": "2198-61-0",
+  "nist_status": "ok"
+ },
+ "3-methylbutyl octanoate": {
+  "nist": "2035-99-6",
+  "nist_status": "ok"
+ },
+ "3-methylbutyl pentanoate": {
+  "nist": "2050-09-1",
+  "nist_status": "ok"
+ },
+ "3-methylindole": {
+  "nist": "83-34-1",
+  "nist_status": "ok"
+ },
+ "3-methylthiopropanol": {
+  "nist": "505-10-2",
+  "nist_status": "ok"
+ },
+ "3-methylvaleric acid": {
+  "nist": "105-43-1",
+  "nist_status": "ok"
+ },
+ "3-phenyl propionic acid": {
+  "nist": "501-52-0",
+  "nist_status": "ok"
+ },
+ "3-乙基-2,5-二甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-乙氧基丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-壬烯酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-己烯酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-庚醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基-1-丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基-2-丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基-2-己醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基-3-丁烯-1-醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸乙酯（×10-2）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁酸（μg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁醇a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁醛a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基丁醛二乙基缩醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基乙酯戊酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基戊酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲基戊酸甲酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-甲硫基丙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-糠醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-羟基-2-丁酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-苯丙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-苯丙酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-苯丙酸乙酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-辛烯-2-酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-辛醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3-（环戊基）丙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "3－羟基－2－丁酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-Ethyl-2-methoxy-phenol": {
+  "nist": "2785-89-9",
+  "nist_status": "ok"
+ },
+ "4-Ethyl-2-methoxyphenol": {
+  "nist": "2785-89-9",
+  "nist_status": "ok"
+ },
+ "4-Ethylguaiacol": {
+  "nist": "2785-89-9",
+  "nist_status": "ok"
+ },
+ "4-Ethylphenol": {
+  "nist": "123-07-9",
+  "nist_status": "ok"
+ },
+ "4-Methylpentanoic acid": {
+  "nist": "646-07-1",
+  "nist_status": "ok"
+ },
+ "4-Methylphenol": {
+  "nist": "106-44-5",
+  "nist_status": "ok"
+ },
+ "4-ethenyl--2-methoxyphenol": {
+  "nist": "7786-61-0",
+  "nist_status": "ok"
+ },
+ "4-ethyl--2-methoxyphenol": {
+  "nist": "2785-89-9",
+  "nist_status": "ok"
+ },
+ "4-ethyl-2-methoxyphenol": {
+  "nist": "2785-89-9",
+  "nist_status": "ok"
+ },
+ "4-ethylguaiacol": {
+  "nist": "2785-89-9",
+  "nist_status": "ok"
+ },
+ "4-ethylphenol": {
+  "nist": "123-07-9",
+  "nist_status": "ok"
+ },
+ "4-hydroxy--3-methoxybenzaldehyde": {
+  "nist": "121-33-5",
+  "nist_status": "ok"
+ },
+ "4-hydroxy-3- methoxystyrene": {
+  "nist": "7786-61-0",
+  "nist_status": "ok"
+ },
+ "4-hydroxy-3-methoxystyrene": {
+  "nist": "7786-61-0",
+  "nist_status": "ok"
+ },
+ "4-methyl guaiacol": {
+  "nist": "93-51-6",
+  "nist_status": "ok"
+ },
+ "4-methylphenol": {
+  "nist": "106-44-5",
+  "nist_status": "ok"
+ },
+ "4-methylvaleric acid": {
+  "nist": "646-07-1",
+  "nist_status": "ok"
+ },
+ "4-undecanolide": {
+  "nist": "104-67-6",
+  "nist_status": "ok"
+ },
+ "4-乙基-2-甲氧基苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-乙基愈创木 酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-乙基愈创木酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-乙基愈创木酚（μg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-乙基苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-乙基苯酚（μg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-乙烯基愈创木酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基-2-戊酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基-戊酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基愈创木酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基愈创木酚（μg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基戊酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基戊酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基戊酸甲酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基戊酸（μg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "4-甲基苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "5-Dodecenoic acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "5-butyloxolan--2-one": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "5-ethyloxolan--2-one": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "5-pentyloxolan--2-one": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "5-propyloxolan-2-one": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "5-甲基-2-糠醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "5-甲基己酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "7-辛烯酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "9-Hexadecenoic acid": {
+  "nist": "2091-29-4",
+  "nist_status": "ok"
+ },
+ "Acetal": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Acetaldehyde": {
+  "nist": "75-07-0",
+  "nist_status": "ok"
+ },
+ "Acetic acid": {
+  "nist": "64-19-7",
+  "nist_status": "ok"
+ },
+ "Benzaldehyde": {
+  "nist": "100-52-7",
+  "nist_status": "ok"
+ },
+ "Benzeneacetaldehyde, diethyl acetal": {
+  "nist": "6314-97-2",
+  "nist_status": "ok"
+ },
+ "Butanoic acid": {
+  "nist": "107-92-6",
+  "nist_status": "ok"
+ },
+ "Butanol": {
+  "nist": "71-36-3",
+  "nist_status": "ok"
+ },
+ "Butyl acetate": {
+  "nist": "123-86-4",
+  "nist_status": "ok"
+ },
+ "Butyl butanoate": {
+  "nist": "109-21-7",
+  "nist_status": "ok"
+ },
+ "Butyl formate": {
+  "nist": "592-84-7",
+  "nist_status": "ok"
+ },
+ "Butyl heptanoate": {
+  "nist": "5454-28-4",
+  "nist_status": "ok"
+ },
+ "Butyl hexanoate": {
+  "nist": "626-82-4",
+  "nist_status": "ok"
+ },
+ "Butyl lactate": {
+  "nist": "138-22-7",
+  "nist_status": "ok"
+ },
+ "Butyl valerate": {
+  "nist": "591-68-4",
+  "nist_status": "ok"
+ },
+ "Butyraldehyde": {
+  "nist": "123-72-8",
+  "nist_status": "ok"
+ },
+ "Butyric acid": {
+  "nist": "107-92-6",
+  "nist_status": "ok"
+ },
+ "Caproic acid propyl ester": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Cyclohexanecarboxylic": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Cyclopentanol": {
+  "nist": "96-41-3",
+  "nist_status": "ok"
+ },
+ "DL-2-羟基-4-甲基戊酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "DMST": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Decane, 1,1-diethoxy-": {
+  "nist": "34764-02-8",
+  "nist_status": "ok"
+ },
+ "Dibutyl phthalate": {
+  "nist": "84-74-2",
+  "nist_status": "ok"
+ },
+ "Diethyl butanedioate": {
+  "nist": "123-25-1",
+  "nist_status": "ok"
+ },
+ "Diethyl succinate": {
+  "nist": "123-25-1",
+  "nist_status": "ok"
+ },
+ "Dimethyl trisulfide": {
+  "nist": "3658-80-8",
+  "nist_status": "ok"
+ },
+ "E-橙花叔醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "Eicosenoic acid": {
+  "nist": "26764-41-0",
+  "nist_status": "ok"
+ },
+ "Ethanol": {
+  "nist": "64-17-5",
+  "nist_status": "ok"
+ },
+ "Ethyl (Z)hex-3-enoate": {
+  "nist": "64187-83-3",
+  "nist_status": "ok"
+ },
+ "Ethyl 15-methylheptadecanoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Ethyl 2-decenoate": {
+  "nist": "37486-72-9",
+  "nist_status": "ok"
+ },
+ "Ethyl 2-hydroxy-4-methylpentanoate": {
+  "nist": "10348-47-7",
+  "nist_status": "ok"
+ },
+ "Ethyl 2-hydroxy-4-methylvalerate": {
+  "nist": "10348-47-7",
+  "nist_status": "ok"
+ },
+ "Ethyl 2-methylbutanoate": {
+  "nist": "7452-79-1",
+  "nist_status": "ok"
+ },
+ "Ethyl 2-methylbutyrate": {
+  "nist": "7452-79-1",
+  "nist_status": "ok"
+ },
+ "Ethyl 2-methylpropanoate": {
+  "nist": "97-62-1",
+  "nist_status": "ok"
+ },
+ "Ethyl 3-hexenoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Ethyl 3-methylbutanoate": {
+  "nist": "108-64-5",
+  "nist_status": "ok"
+ },
+ "Ethyl 3-nonenoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Ethyl 3-phenylpropanoate": {
+  "nist": "2021-28-5",
+  "nist_status": "ok"
+ },
+ "Ethyl 3-phenylpropionate": {
+  "nist": "2021-28-5",
+  "nist_status": "ok"
+ },
+ "Ethyl 4-decenoate": {
+  "nist": "10-11-1",
+  "nist_status": "ok-multi"
+ },
+ "Ethyl 4-methylpentanoate": {
+  "nist": "25415-67-2",
+  "nist_status": "ok"
+ },
+ "Ethyl 4-phenylbutyrate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Ethyl 5-methylhexanoate": {
+  "nist": "10236-10-9",
+  "nist_status": "ok"
+ },
+ "Ethyl 7-octenoate": {
+  "nist": "35194-38-8",
+  "nist_status": "ok"
+ },
+ "Ethyl 9-hexadecenoate": {
+  "nist": "54546-22-4",
+  "nist_status": "ok"
+ },
+ "Ethyl Hexanoate": {
+  "nist": "123-66-0",
+  "nist_status": "ok"
+ },
+ "Ethyl L(--)-lactate": {
+  "nist": "687-47-8",
+  "nist_status": "ok"
+ },
+ "Ethyl acetate": {
+  "nist": "141-78-6",
+  "nist_status": "ok"
+ },
+ "Ethyl benzoate": {
+  "nist": "93-89-0",
+  "nist_status": "ok"
+ },
+ "Ethyl butanoate": {
+  "nist": "105-54-4",
+  "nist_status": "ok"
+ },
+ "Ethyl butyrate": {
+  "nist": "105-54-4",
+  "nist_status": "ok"
+ },
+ "Ethyl caprate": {
+  "nist": "110-38-3",
+  "nist_status": "ok"
+ },
+ "Ethyl caprylate": {
+  "nist": "106-32-1",
+  "nist_status": "ok"
+ },
+ "Ethyl cyclopropanepropionate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Ethyl decanoate": {
+  "nist": "110-38-3",
+  "nist_status": "ok"
+ },
+ "Ethyl dodecanoate": {
+  "nist": "106-33-2",
+  "nist_status": "ok"
+ },
+ "Ethyl formate": {
+  "nist": "109-94-4",
+  "nist_status": "ok"
+ },
+ "Ethyl heptadecanoate": {
+  "nist": "14010-23-2",
+  "nist_status": "ok"
+ },
+ "Ethyl heptanoate": {
+  "nist": "106-30-9",
+  "nist_status": "ok"
+ },
+ "Ethyl hexadecanoate": {
+  "nist": "628-97-7",
+  "nist_status": "ok"
+ },
+ "Ethyl hexadienoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Ethyl hexanoate": {
+  "nist": "123-66-0",
+  "nist_status": "ok"
+ },
+ "Ethyl isobutyrate": {
+  "nist": "97-62-1",
+  "nist_status": "ok"
+ },
+ "Ethyl isovalerate": {
+  "nist": "108-64-5",
+  "nist_status": "ok"
+ },
+ "Ethyl lactate": {
+  "nist": "97-64-3",
+  "nist_status": "ok"
+ },
+ "Ethyl laurate": {
+  "nist": "106-33-2",
+  "nist_status": "ok"
+ },
+ "Ethyl linoleate": {
+  "nist": "544-35-4",
+  "nist_status": "ok"
+ },
+ "Ethyl myristate": {
+  "nist": "124-06-1",
+  "nist_status": "ok"
+ },
+ "Ethyl nonanoate": {
+  "nist": "123-29-5",
+  "nist_status": "ok"
+ },
+ "Ethyl octanoate": {
+  "nist": "106-32-1",
+  "nist_status": "ok"
+ },
+ "Ethyl oleate": {
+  "nist": "111-62-6",
+  "nist_status": "ok"
+ },
+ "Ethyl palmitate": {
+  "nist": "628-97-7",
+  "nist_status": "ok"
+ },
+ "Ethyl pentadecanoate": {
+  "nist": "41114-00-5",
+  "nist_status": "ok"
+ },
+ "Ethyl pentanoate": {
+  "nist": "539-82-2",
+  "nist_status": "ok"
+ },
+ "Ethyl phenylacetate": {
+  "nist": "101-97-3",
+  "nist_status": "ok"
+ },
+ "Ethyl propanoate": {
+  "nist": "105-37-3",
+  "nist_status": "ok"
+ },
+ "Ethyl propionate": {
+  "nist": "105-37-3",
+  "nist_status": "ok"
+ },
+ "Ethyl pyruvate": {
+  "nist": "617-35-6",
+  "nist_status": "ok"
+ },
+ "Ethyl tetradecanoate": {
+  "nist": "124-06-1",
+  "nist_status": "ok"
+ },
+ "Ethyl trans-4-decenoate": {
+  "nist": "76649-16-6",
+  "nist_status": "ok"
+ },
+ "Ethyl tridecanoate": {
+  "nist": "28267-29-0",
+  "nist_status": "ok"
+ },
+ "Ethyl undecanoate": {
+  "nist": "627-90-7",
+  "nist_status": "ok"
+ },
+ "Ethyl valerate": {
+  "nist": "539-82-2",
+  "nist_status": "ok"
+ },
+ "FEMA 2575": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "FEMA 2721": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Fema 2575": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Fitone": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Furfural": {
+  "nist": "98-01-1",
+  "nist_status": "ok"
+ },
+ "Furfuryl hexanoate": {
+  "nist": "39252-02-3",
+  "nist_status": "ok"
+ },
+ "Guaiacol": {
+  "nist": "90-05-1",
+  "nist_status": "ok"
+ },
+ "Heptanoic acid": {
+  "nist": "111-14-8",
+  "nist_status": "ok"
+ },
+ "Heptyl acetate": {
+  "nist": "112-06-1",
+  "nist_status": "ok"
+ },
+ "Heptyl hexanoate": {
+  "nist": "6976-72-3",
+  "nist_status": "ok"
+ },
+ "Hexan-1-ol": {
+  "nist": "111-27-3",
+  "nist_status": "ok"
+ },
+ "Hexanoic acid": {
+  "nist": "142-62-1",
+  "nist_status": "ok"
+ },
+ "Hexanoic acid, anhydride": {
+  "nist": "2051-49-2",
+  "nist_status": "ok"
+ },
+ "Hexanoic acid,5-methyl-, ethyl ester": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Hexanoic anhydride": {
+  "nist": "2051-49-2",
+  "nist_status": "ok"
+ },
+ "Hexanol": {
+  "nist": "111-27-3",
+  "nist_status": "ok"
+ },
+ "Hexyl acetate": {
+  "nist": "142-92-7",
+  "nist_status": "ok"
+ },
+ "Hexyl butanoate": {
+  "nist": "2639-63-6",
+  "nist_status": "ok"
+ },
+ "Hexyl butyrate": {
+  "nist": "2639-63-6",
+  "nist_status": "ok"
+ },
+ "Hexyl hexanoate": {
+  "nist": "6378-65-0",
+  "nist_status": "ok"
+ },
+ "Hexyl octanoate": {
+  "nist": "1117-55-1",
+  "nist_status": "ok"
+ },
+ "Isoamyl acetate": {
+  "nist": "123-92-2",
+  "nist_status": "ok"
+ },
+ "Isoamyl alcohol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Isoamyl butyrate": {
+  "nist": "106-27-4",
+  "nist_status": "ok"
+ },
+ "Isoamyl hexanoate": {
+  "nist": "2198-61-0",
+  "nist_status": "ok"
+ },
+ "Isoamyl lactate": {
+  "nist": "19329-89-6",
+  "nist_status": "ok"
+ },
+ "Isoamyl octanoate": {
+  "nist": "2035-99-6",
+  "nist_status": "ok"
+ },
+ "Isobutanol": {
+  "nist": "78-83-1",
+  "nist_status": "ok"
+ },
+ "Isobutyl heptanoate": {
+  "nist": "7779-80-8",
+  "nist_status": "ok"
+ },
+ "Isobutyl hexanoate": {
+  "nist": "105-79-3",
+  "nist_status": "ok"
+ },
+ "Isobutyl octanoate": {
+  "nist": "5461-06-3",
+  "nist_status": "ok"
+ },
+ "Isobutyraldehyde": {
+  "nist": "78-84-2",
+  "nist_status": "ok"
+ },
+ "Isobutyric acid": {
+  "nist": "79-31-2",
+  "nist_status": "ok"
+ },
+ "Isopentyl hexanoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Isovaleraldehyde": {
+  "nist": "590-86-3",
+  "nist_status": "ok"
+ },
+ "JS 乳酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "JS 正丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "J酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "Methanol": {
+  "nist": "67-56-1",
+  "nist_status": "ok"
+ },
+ "Methyl hexanoate": {
+  "nist": "106-70-7",
+  "nist_status": "ok"
+ },
+ "Methyl palmitate": {
+  "nist": "112-39-0",
+  "nist_status": "ok"
+ },
+ "Nonanal": {
+  "nist": "124-19-6",
+  "nist_status": "ok"
+ },
+ "Nonanoic acid": {
+  "nist": "112-05-0",
+  "nist_status": "ok"
+ },
+ "Obviousness": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Octanoic acid": {
+  "nist": "124-07-2",
+  "nist_status": "ok"
+ },
+ "Octyl butyrate": {
+  "nist": "110-39-4",
+  "nist_status": "ok"
+ },
+ "Octyl octanoate": {
+  "nist": "2306-88-9",
+  "nist_status": "ok"
+ },
+ "Pentanoic acid": {
+  "nist": "109-52-4",
+  "nist_status": "ok"
+ },
+ "Pentanoic acid, 2-hydroxy-4-methyl-, ethyl ester": {
+  "nist": "10348-47-7",
+  "nist_status": "ok"
+ },
+ "Pentanol": {
+  "nist": "71-41-0",
+  "nist_status": "ok"
+ },
+ "Pentatonic acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Pentyl Hexanoate": {
+  "nist": "540-07-8",
+  "nist_status": "ok"
+ },
+ "Pentyl hexanoate": {
+  "nist": "540-07-8",
+  "nist_status": "ok"
+ },
+ "Phenethyl acetate": {
+  "nist": "103-45-7",
+  "nist_status": "ok"
+ },
+ "Phenethyl alcohol": {
+  "nist": "60-12-8",
+  "nist_status": "ok"
+ },
+ "Phenol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Phenylacetaldehyde": {
+  "nist": "122-78-1",
+  "nist_status": "ok"
+ },
+ "Phenylethyl Alcohol": {
+  "nist": "60-12-8",
+  "nist_status": "ok"
+ },
+ "Propanoic acid": {
+  "nist": "79-09-4",
+  "nist_status": "ok"
+ },
+ "Propanol": {
+  "nist": "71-23-8",
+  "nist_status": "ok"
+ },
+ "Propyl hexanoate": {
+  "nist": "626-77-7",
+  "nist_status": "ok"
+ },
+ "Propyl n-Octanoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Propyl octanoate": {
+  "nist": "624-13-5",
+  "nist_status": "ok"
+ },
+ "SC1 戊酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "SC1 正丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "SC2 正丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "SC3 乳酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "SC3 正丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "Table 3": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Table 4": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Tetramethylpyrazine": {
+  "nist": "1124-11-4",
+  "nist_status": "ok"
+ },
+ "Typicality": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Unknown": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "Valeric acid": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "acetal": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "acetaldehyde": {
+  "nist": "75-07-0",
+  "nist_status": "ok"
+ },
+ "acetic acid": {
+  "nist": "64-19-7",
+  "nist_status": "ok"
+ },
+ "benzaldehyde": {
+  "nist": "100-52-7",
+  "nist_status": "ok"
+ },
+ "benzene, (2,2-diethoxyethyl)-ethyl nicotinoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "benzeneacetic acid": {
+  "nist": "103-82-2",
+  "nist_status": "ok"
+ },
+ "butane-2,3-diol": {
+  "nist": "513-85-9",
+  "nist_status": "ok"
+ },
+ "butanol": {
+  "nist": "71-36-3",
+  "nist_status": "ok"
+ },
+ "butyl butanoate": {
+  "nist": "109-21-7",
+  "nist_status": "ok"
+ },
+ "butyric acid": {
+  "nist": "107-92-6",
+  "nist_status": "ok"
+ },
+ "cedrol": {
+  "nist": "77-53-2",
+  "nist_status": "ok"
+ },
+ "decanoic acid": {
+  "nist": "334-48-5",
+  "nist_status": "ok"
+ },
+ "diethyl butanedioate": {
+  "nist": "123-25-1",
+  "nist_status": "ok"
+ },
+ "diethyl succinate": {
+  "nist": "123-25-1",
+  "nist_status": "ok"
+ },
+ "dimethyl trisulfide": {
+  "nist": "3658-80-8",
+  "nist_status": "ok"
+ },
+ "dodecanal": {
+  "nist": "112-54-9",
+  "nist_status": "ok"
+ },
+ "ethyl 2-furoate": {
+  "nist": "614-99-3",
+  "nist_status": "ok"
+ },
+ "ethyl 2-hydroxy-4- methyl valerate": {
+  "nist": "10348-47-7",
+  "nist_status": "ok"
+ },
+ "ethyl 2-hydroxy-4-methyl pentanoate": {
+  "nist": "10348-47-7",
+  "nist_status": "ok"
+ },
+ "ethyl 2-methylbutanoate": {
+  "nist": "7452-79-1",
+  "nist_status": "ok"
+ },
+ "ethyl 2-phenylacetate": {
+  "nist": "101-97-3",
+  "nist_status": "ok"
+ },
+ "ethyl 3- phenylpropanoate": {
+  "nist": "2021-28-5",
+  "nist_status": "ok"
+ },
+ "ethyl 3-hexenoate": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "ethyl 3-phenylpropanoate": {
+  "nist": "2021-28-5",
+  "nist_status": "ok"
+ },
+ "ethyl 3-phenylpropionate": {
+  "nist": "2021-28-5",
+  "nist_status": "ok"
+ },
+ "ethyl 4-methyl valerate": {
+  "nist": "25415-67-2",
+  "nist_status": "ok"
+ },
+ "ethyl 4-methylpentanoate": {
+  "nist": "25415-67-2",
+  "nist_status": "ok"
+ },
+ "ethyl acetate": {
+  "nist": "141-78-6",
+  "nist_status": "ok"
+ },
+ "ethyl benzoate": {
+  "nist": "93-89-0",
+  "nist_status": "ok"
+ },
+ "ethyl butanoate": {
+  "nist": "105-54-4",
+  "nist_status": "ok"
+ },
+ "ethyl caprate": {
+  "nist": "110-38-3",
+  "nist_status": "ok"
+ },
+ "ethyl caprylate": {
+  "nist": "106-32-1",
+  "nist_status": "ok"
+ },
+ "ethyl dodecanoate": {
+  "nist": "106-33-2",
+  "nist_status": "ok"
+ },
+ "ethyl heptanoate": {
+  "nist": "106-30-9",
+  "nist_status": "ok"
+ },
+ "ethyl hexadecanoate": {
+  "nist": "628-97-7",
+  "nist_status": "ok"
+ },
+ "ethyl hexanoate": {
+  "nist": "123-66-0",
+  "nist_status": "ok"
+ },
+ "ethyl isobutyrate": {
+  "nist": "97-62-1",
+  "nist_status": "ok"
+ },
+ "ethyl isovalerate": {
+  "nist": "108-64-5",
+  "nist_status": "ok"
+ },
+ "ethyl laurate": {
+  "nist": "106-33-2",
+  "nist_status": "ok"
+ },
+ "ethyl linoleate": {
+  "nist": "544-35-4",
+  "nist_status": "ok"
+ },
+ "ethyl nonanoate": {
+  "nist": "123-29-5",
+  "nist_status": "ok"
+ },
+ "ethyl octanoate": {
+  "nist": "106-32-1",
+  "nist_status": "ok"
+ },
+ "ethyl palmitate": {
+  "nist": "628-97-7",
+  "nist_status": "ok"
+ },
+ "ethyl pentanoate": {
+  "nist": "539-82-2",
+  "nist_status": "ok"
+ },
+ "ethyl phenylacetate": {
+  "nist": "101-97-3",
+  "nist_status": "ok"
+ },
+ "ethyl tetradecanoate": {
+  "nist": "124-06-1",
+  "nist_status": "ok"
+ },
+ "ethyl undecanoate": {
+  "nist": "627-90-7",
+  "nist_status": "ok"
+ },
+ "ethyl valerate": {
+  "nist": "539-82-2",
+  "nist_status": "ok"
+ },
+ "eugenol": {
+  "nist": "97-53-0",
+  "nist_status": "ok"
+ },
+ "formic acid": {
+  "nist": "64-18-6",
+  "nist_status": "ok"
+ },
+ "furfural": {
+  "nist": "98-01-1",
+  "nist_status": "ok"
+ },
+ "furfuryl acetate": {
+  "nist": "623-17-6",
+  "nist_status": "ok"
+ },
+ "guaiacol": {
+  "nist": "90-05-1",
+  "nist_status": "ok"
+ },
+ "heptanal": {
+  "nist": "111-71-7",
+  "nist_status": "ok"
+ },
+ "heptanoic acid": {
+  "nist": "111-14-8",
+  "nist_status": "ok"
+ },
+ "hexanoic acid": {
+  "nist": "142-62-1",
+  "nist_status": "ok"
+ },
+ "hexyl butanoate": {
+  "nist": "2639-63-6",
+  "nist_status": "ok"
+ },
+ "hexyl hexanoate": {
+  "nist": "6378-65-0",
+  "nist_status": "ok"
+ },
+ "isoamyl acetate": {
+  "nist": "123-92-2",
+  "nist_status": "ok"
+ },
+ "isobutanol": {
+  "nist": "78-83-1",
+  "nist_status": "ok"
+ },
+ "isobutyl hexanoate": {
+  "nist": "105-79-3",
+  "nist_status": "ok"
+ },
+ "isobutyric acid": {
+  "nist": "79-31-2",
+  "nist_status": "ok"
+ },
+ "isocaproic acid": {
+  "nist": "646-07-1",
+  "nist_status": "ok"
+ },
+ "isovaleric acid": {
+  "nist": "503-74-2",
+  "nist_status": "ok"
+ },
+ "linalool": {
+  "nist": "78-70-6",
+  "nist_status": "ok"
+ },
+ "m-cresol": {
+  "nist": "108-39-4",
+  "nist_status": "ok"
+ },
+ "methyl hexanoate": {
+  "nist": "106-70-7",
+  "nist_status": "ok"
+ },
+ "nonan-1-ol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "nonanoic acid": {
+  "nist": "112-05-0",
+  "nist_status": "ok"
+ },
+ "octanoic acid": {
+  "nist": "124-07-2",
+  "nist_status": "ok"
+ },
+ "p-Cresol": {
+  "nist": "106-44-5",
+  "nist_status": "ok"
+ },
+ "p-cresol": {
+  "nist": "106-44-5",
+  "nist_status": "ok"
+ },
+ "pentanoic acid": {
+  "nist": "109-52-4",
+  "nist_status": "ok"
+ },
+ "phenethyl acetate": {
+  "nist": "103-45-7",
+  "nist_status": "ok"
+ },
+ "phenethyl alcohol": {
+  "nist": "60-12-8",
+  "nist_status": "ok"
+ },
+ "phenol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "phenylacetaldehyde": {
+  "nist": "122-78-1",
+  "nist_status": "ok"
+ },
+ "phenylmethanol": {
+  "nist": "100-51-6",
+  "nist_status": "ok"
+ },
+ "propionic acid": {
+  "nist": "79-09-4",
+  "nist_status": "ok"
+ },
+ "propyl hexanoate": {
+  "nist": "626-77-7",
+  "nist_status": "ok"
+ },
+ "propylene glycol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "sec-Butanol": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "style": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "undecan-2-one": {
+  "nist": "112-12-9",
+  "nist_status": "ok"
+ },
+ "undecanoic acid": {
+  "nist": "112-37-8",
+  "nist_status": "ok"
+ },
+ "unknown": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "vanillin": {
+  "nist": "",
+  "nist_status": "no-cas-on-page"
+ },
+ "α-Linolenic acid": {
+  "nist": "463-40-1",
+  "nist_status": "ok"
+ },
+ "β-damascenone": {
+  "nist": "23726-93-4",
+  "nist_status": "ok"
+ },
+ "β-大马士酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "β-大马酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "β-苯乙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "β－苯乙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "γ-丁内酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "γ-壬内酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "γ-己内酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "γ-庚内酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "γ-戊内酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "γ-辛内酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁二酸二乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁二酸二乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁二酸二乙酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸-2-苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸-3 甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸-3 甲基丁酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸-3-甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸己酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸庚酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸异丁酯3-": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸糠酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁酸苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丁醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "三甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙二酸二乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙二醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酸丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙酸正丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "丙醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙偶姻": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙缩醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙缩醛a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙缩醛（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸-2-甲基丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸-2-苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸-3-甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸乙酯（g·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸仲丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸叔戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸己酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸己酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸庚酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸异戊酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸糠酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙酸辛酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙醛a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乙醛缩二乙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸乙酯(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸乙酯(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸乙酯（g·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "乳酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "二乙氧基甲烷": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "二异丁基甲酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "二甲基三硫": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "二甲基二硫": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "亚油酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "亚油酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "亚麻酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "仲丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "仲戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "仲辛酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十一烷酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十一酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十七烷酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十二烷酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十二酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十六酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十六酸甲酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十四酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "十四酸异丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "反,顺-2,6-壬二烯醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "反-2,4-癸二烯醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "反-2-壬醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "反-4-癸烯酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "反式-3-己烯-1-醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "叔戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "四甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "基乙基）-苯 (2,2-二乙氧": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "壬酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "壬酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "壬醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "壬醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "大马士酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "对二甲苯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2 甲基丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2-甲基丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2-甲基丙酯 (己酸异丁酯)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2-甲基丙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2-甲基丙酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2-糠酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2-苯乙 基酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-2-苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-3-甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸-3-甲基丁酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸3-甲基丁酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丁酯(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丁酯(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丁酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丁酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丙酯(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丙酯(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸丙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸己酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸己酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸烯丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸甲酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸糠酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己酸（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己醇b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "己醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "已醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸-3-甲丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸-3-甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸乙酯(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸乙酯(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚酸（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "庚醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丁酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丁酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丁酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丁酸苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丁醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丁醛二乙缩醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异丙基3-苯基丙酸酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异己酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊酸-2-苯乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "异戊醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "愈创木酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊缩醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酮-2": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸-2-甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸-3-甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸乙酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊酸辛酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊醇b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "戊醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "月桂酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "棕榈酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "棕榈酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "橙花叔醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正丁醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正丙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正己醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正己醇(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正己醇(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正庚醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正戊酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正戊酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "正辛醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "油酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "活性异戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "活性戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "活戊醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "环戊酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "琥珀酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "甲基吡嗪": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "甲基壬基甲酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "甲基硫醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "甲氧基乙酸-3-甲基丁酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "甲酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "甲醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "癸酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "癸酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "癸醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "百里酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "硬脂酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "糠醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "糠醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "糠醛(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "糠醛(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "糠醛a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "肉桂酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯丙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯乙酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯乙酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯乙醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯乙醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯乙醛a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲酸正戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲酸甲酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲醛(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯甲醛(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "苯酚": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸-3-甲基丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸-3-甲基丁酯（μg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸丙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸乙酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸乙酯(二聚体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸乙酯(单体)": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸乙酯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸乙酯（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸己酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸异丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸异戊酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸正丁酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸甲酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸辛酯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛酸（mg·L-1）": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛醇b": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "辛醛": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "醋酸": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "顺-3-壬烯-1-醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "顺-4-癸烯-1-醇": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "香叶基丙酮": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "（2,2-二甲氧基）乙基苯a": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ },
+ "（2，2-二乙氧基乙基）-苯": {
+  "nist": "",
+  "nist_status": "non-ascii-refused"
+ }
+}

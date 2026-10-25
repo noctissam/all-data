@@ -1,0 +1,73 @@
+======================================================================
+CAS CHECKSUM   3440 values, 3440 pass, 0 fail the check digit, 0 malformed
+======================================================================
+   printed in the paper : 708
+   filled by lookup     : 2732
+   left unresolved      : 183
+
+--- printed vs resolved disagreements (17) ---
+   02 5  Key Aroma  (-)--terpineol               printed 10482-56-1   resolved 98-55-5
+   07 3  Characteri Ethyl lactate                printed 687-47-8     resolved 97-64-3
+   20 19  浓香、酱香、清香型 3-甲基丁酸丁酯                     printed 106-27-4     resolved 109-19-3
+   20 19  浓香、酱香、清香型 乙酸叔戊酯                        printed 624-41-9     resolved 625-16-1
+   20 19  浓香、酱香、清香型 乙酸                           printed 109-52-4     resolved 64-19-7
+   20 19  浓香、酱香、清香型 壬酸乙酯                         printed 64-19-7      resolved 123-29-5
+   20 19  浓香、酱香、清香型 2,3-丁二醇                      printed 123-29-5     resolved 19132-06-0
+   20 19  浓香、酱香、清香型 丙酸                           printed 101-97-3     resolved 79-09-4
+   20 19  浓香、酱香、清香型 异丁酸                          printed 103-45-7     resolved 79-31-2
+   20 19  浓香、酱香、清香型 丁酸                           printed 142-62-1     resolved 107-92-6
+   20 19  浓香、酱香、清香型 苯甲酸乙酯                        printed 513-85-9     resolved 93-89-0
+   20 19  浓香、酱香、清香型 异戊酸                          printed 2021-28-5    resolved 503-74-2
+   20 19  浓香、酱香、清香型 乙酸苯乙酯                        printed 79-31-2      resolved 103-45-7
+   20 19  浓香、酱香、清香型 己酸                           printed 111-14-8     resolved 142-62-1
+   20 19  浓香、酱香、清香型 苯乙醇                          printed 93-89-0      resolved 60-12-8
+   20 19  浓香、酱香、清香型 庚酸                           printed 124-06-1     resolved 111-14-8
+   20 19  浓香、酱香、清香型 十四酸乙酯                        printed 503-74-2     resolved 124-06-1
+
+======================================================================
+ROWS THE TABLE SPLIT MISSED   0
+======================================================================
+   none
+
+--- round trip on 40 resolved names ---
+   MISMATCH  Ethyl butyrate               105-54-4      name->7762  cas->[7762]
+   MISMATCH  2-戊基呋喃                       3777-69-3     name->19602  cas->[19602]
+   MISMATCH  SC3 正丁醇                      71-36-3       name->263  cas->[263]
+   MISMATCH  苯甲酸乙酯                        93-89-0       name->7165  cas->[7165]
+   MISMATCH  1-nonanol                    143-08-8      name->8914  cas->[8914]
+   MISMATCH  Propyl hexanoate             626-77-7      name->12293  cas->[12293]
+   MISMATCH  乳酸                           50-21-5       name->612  cas->[612]
+   MISMATCH  2-Acetylfuran                1192-62-7     name->14505  cas->[14505]
+   MISMATCH  Isopentyl acetate            123-92-2      name->31276  cas->[31276]
+   MISMATCH  己酸烯丙酯                        123-68-2      name->31266  cas->[31266]
+   MISMATCH  1-癸醇                         112-30-1      name->8174  cas->[8174]
+   MISMATCH  丙酮                           67-64-1       name->180  cas->[180]
+   MISMATCH  3-甲基-2-己醇                    2313-65-7     name->16835  cas->[16835]
+   MISMATCH  1- 辛醇                        111-87-5      name->957  cas->[957]
+   MISMATCH  2,4-Di-t-butylphenol         96-76-4       name->7311  cas->[7311]
+   MISMATCH  ethyl linoleate              544-35-4      name->5282184  cas->[5282184]
+   MISMATCH  ethyl 3-hexenoate            2396-83-0     name->5362622  cas->[5362622]
+   MISMATCH  2-庚醇                         543-49-7      name->10976  cas->[10976]
+   MISMATCH  4-Methylpentanoic acid       646-07-1      name->12587  cas->[12587]
+   MISMATCH  2,6-二甲基-4-庚醇                 108-82-7      name->7957  cas->[7957]
+   MISMATCH  十二烷酸乙酯ethyl dodecanoate      106-33-2      name->7800  cas->[7800]
+   MISMATCH  ethyl butanoate              105-54-4      name->7762  cas->[7762]
+   MISMATCH  1-辛烯-3-酮                     4312-99-6     name->61346  cas->[61346]
+   MISMATCH  对二甲苯                         106-42-3      name->7809  cas->[7809]
+   MISMATCH  2-nonanol                    628-99-9      name->12367  cas->[12367]
+   MISMATCH  3-糠醛                         498-60-2      name->10351  cas->[10351]
+   MISMATCH  正戊醇                          71-41-0       name->6276  cas->[6276]
+   MISMATCH  正庚醇                          111-70-6      name->8129  cas->[8129]
+   MISMATCH  2-丁酮                         78-93-3       name->6569  cas->[6569]
+   MISMATCH  己酸己酯                         6378-65-0     name->22873  cas->[22873]
+   MISMATCH  己醇                           111-27-3      name->8103  cas->[8103]
+   MISMATCH  Valeric acid                 109-52-4      name->7991  cas->[7991]
+   MISMATCH  1-octanol                    111-87-5      name->957  cas->[957]
+   MISMATCH  3-甲基戊酸甲酯                     2177-78-8     name->519891  cas->[519891]
+   MISMATCH  1-dodecanol                  112-53-8      name->8193  cas->[8193]
+   MISMATCH  反式-3-己烯-1-醇                  928-97-2      name->5284503  cas->[5284503]
+   MISMATCH  2-乙基-5-甲基呋喃                  1703-52-2     name->74346  cas->[74346]
+   MISMATCH  Butanal                      123-72-8      name->261  cas->[261]
+   MISMATCH  ethyl 3-phenylpropanoate     2021-28-5     name->16237  cas->[16237]
+   MISMATCH  2-呋喃羧酸乙酯                     614-99-3      name->11980  cas->[11980]
+   0 agree, 40 disagree, 0 the CAS did not resolve

@@ -1,0 +1,22 @@
+raster table detection (dpi=150)
+  p8   rules=2   frags=1   y245-504 g3
+  p21  rules=2   frags=1   y312-473 g3
+  p22  rules=2   frags=2   y534-666 g7 | y724-800 g2
+  p23  rules=1   frags=1   y81-769 g1
+  p24  rules=4   frags=2   y310-444 g3 | y667-740 g5
+  p25  rules=4   frags=1   y390-536 g4
+  p26  rules=2   frags=1   y572-800 g2
+  p27  rules=2   frags=1   y61-562 g7
+  p28  rules=2   frags=1   y302-604 g4
+  p29  rules=1   frags=1   y540-813 g4
+  p30  rules=2   frags=1   y535-810 g4
+  p31  rules=2   frags=1   y60-549 g6
+  p32  rules=1   frags=1   y247-819 g6
+  p33  rules=2   frags=1   y59-628 g4
+  p35  rules=1   frags=2   y216-400 g1 | y546-720 g1
+  p36  rules=1   frags=4   y130-276 g1 | y299-343 g7 | y431-652 g5 | y733-825 g1
+  p37  rules=1   frags=1   y27-799 g1
+  p38  rules=1   frags=4   y83-129 g2 | y150-300 g3 | y552-666 g1 | y686-728 g5
+  p39  rules=1   frags=1   y58-272 g2
+  p42  rules=1   frags=1   y53-265 g3
+candidates: 29 -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm32\candidates.json

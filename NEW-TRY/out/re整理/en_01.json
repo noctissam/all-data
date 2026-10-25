@@ -1,0 +1,1323 @@
+{
+ "idx": 1,
+ "route": "ocr",
+ "note": "A/B agree 83.3% min, 93.9% avg",
+ "tables": [
+  {
+   "caption": "Concentration of 3-(methylthio)propanal in the other 16 base SAB samples determined using derivatization combined with VSLLME-GC-MS (n = 3).",
+   "note": "",
+   "header_rows": [
+    [
+     "No.",
+     "Sample abbreviation",
+     "Cooperant distilleries",
+     "Mean concentration",
+     "RSD",
+     "OAV"
+    ],
+    [
+     "",
+     "",
+     "",
+     "(μg/L)",
+     "(%)",
+     ""
+    ]
+   ],
+   "rows": [
+    [
+     "1",
+     "LZ-2015",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "496.2 ± 40.0",
+     "8.1",
+     "70"
+    ],
+    [
+     "2",
+     "LZ-21(14)",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "301.5 ± 4.6",
+     "1.5",
+     "42"
+    ],
+    [
+     "3",
+     "LZ-21(15)",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "717.6 ± 38.8",
+     "5.4",
+     "101"
+    ],
+    [
+     "4",
+     "LZ-21(16)",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "786.3 ± 49.8",
+     "6.3",
+     "110"
+    ],
+    [
+     "5",
+     "LZ-21(17)",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "734.2 ± 11.9",
+     "1.6",
+     "103"
+    ],
+    [
+     "6",
+     "LZ-21(18)",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "659.1 ± 2.7",
+     "0.4",
+     "93"
+    ],
+    [
+     "7",
+     "LZ-21(19)",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "183.6 ± 6.7",
+     "3.6",
+     "26"
+    ],
+    [
+     "8",
+     "LZ-21(20)",
+     "Luzhoulaojiao Distillery Co., Ltd",
+     "922.3 ± 10.7",
+     "1.2",
+     "130"
+    ],
+    [
+     "9",
+     "GJG-(D-9)",
+     "Gujinggong Distillery Co., Ltd",
+     "626.4 ± 31.8",
+     "5.1",
+     "88"
+    ],
+    [
+     "10",
+     "GJG-(D-20)",
+     "Gujinggong Distillery Co., Ltd",
+     "861.5 ± 15.8",
+     "1.8",
+     "121"
+    ],
+    [
+     "11",
+     "GJG-(D-22)",
+     "Gujinggong Distillery Co., Ltd",
+     "505.3 ± 11.9",
+     "2.4",
+     "71"
+    ],
+    [
+     "12",
+     "GJG-(D-24)",
+     "Gujinggong Distillery Co., Ltd",
+     "700.2 ± 19.7",
+     "2.8",
+     "98"
+    ],
+    [
+     "13",
+     "GJG-(D-26)",
+     "Gujinggong Distillery Co., Ltd",
+     "373.3 ± 23.2",
+     "6.2",
+     "52"
+    ],
+    [
+     "14",
+     "GJG-(D-28)",
+     "Gujinggong Distillery Co., Ltd",
+     "941.1 ± 12.9",
+     "1.4",
+     "132"
+    ],
+    [
+     "15",
+     "GJG-(D-30)",
+     "Gujinggong Distillery Co., Ltd",
+     "780.8 ± 11.2",
+     "1.4",
+     "110"
+    ],
+    [
+     "16",
+     "GJG-(D-33)",
+     "Gujinggong Distillery Co., Ltd",
+     "1552.0 ± 91.2",
+     "5.9",
+     "218"
+    ]
+   ],
+   "n_row": 16,
+   "n_col": 6,
+   "pages": [
+    2
+   ],
+   "src_id": "T01",
+   "long_table": true,
+   "verify": {
+    "n_cells": 108,
+    "n_match": 90,
+    "n_conflict": 18,
+    "n_one_sided": 0,
+    "n_lowconf": 10,
+    "n_repaired": 4,
+    "agree_pct": 83.33,
+    "n_rescued": 18,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 0
+  },
+  {
+   "caption": "Table 2 (continued)",
+   "note": "The quantitative methods detailed in the \"Multi-Quantitative Analysis of Aroma Compounds\" section. D The internal standards used to quantitate the compounds were amyl acetate (IS1), 2-ethylbutyric acid (IS2), ethyl heptadecanoate (IS3), 2,3-dimethylindole (IS4) and 3-(methylthio)butanal-PFBHA (IS5). Calibration factors of aroma compounds, detected by GC-FID.",
+   "header_rows": [
+    [
+     "No.",
+     "Compounds",
+     "Methodsa",
+     "Quantified ion (m/",
+     "ISb",
+     "Linearity",
+     "",
+     "",
+     "",
+     "LOD",
+     "Recovery"
+    ],
+    [
+     "",
+     "",
+     "",
+     "z)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "slope",
+     "intercept",
+     "Range (mg/L)",
+     "R2",
+     "(μg/L)",
+     "(%)"
+    ]
+   ],
+   "rows": [
+    [
+     "63",
+     "3-methylindole",
+     "VSLLME-HP-5MS-CC14",
+     "130",
+     "IS4",
+     "0.1236",
+     "- 0.0005",
+     "0.009-0.09",
+     "0.9976",
+     "0.1",
+     "116.6"
+    ],
+    [
+     "Lactones",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "64",
+     "-nonalactone",
+     "VSLLME-DB-WAX-CH2Cl2",
+     "85",
+     "IS3",
+     "1.2423",
+     "-0.0032",
+     "0.045-0.9",
+     "0.9986",
+     "1.8",
+     "119.4"
+    ],
+    [
+     "Furans",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "67",
+     "furfuryl acetate",
+     "VSLLME-DB-WAX-CH2Cl2",
+     "81",
+     "IS1",
+     "0.1476",
+     "0.0001",
+     "0.009-0.9",
+     "0.9962",
+     "4.2",
+     "84.1"
+    ],
+    [
+     "68",
+     "ethyl 2-furoate",
+     "VSLLME-DB-WAX-CH2Cl2",
+     "95",
+     "IS1",
+     "1.2426",
+     "-0.0035",
+     "0.025-0.5",
+     "0.9982",
+     "0.9",
+     "115.7"
+    ]
+   ],
+   "n_row": 6,
+   "n_col": 11,
+   "pages": [
+    4
+   ],
+   "src_id": "T02",
+   "long_table": true,
+   "verify": {
+    "n_cells": 99,
+    "n_match": 93,
+    "n_conflict": 6,
+    "n_one_sided": 0,
+    "n_lowconf": 4,
+    "n_repaired": 1,
+    "agree_pct": 93.94,
+    "n_rescued": 3,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 0
+  },
+  {
+   "caption": "Concentrations and Odor Activity Values (OAVs) of the SAB samples.",
+   "note": "Odor thresholds in 46% ethanol-water solution detected in this work b Odor threshold reported in (Dong et al., 2018). Odor threshold reported in (Fan & Xu, 2011).",
+   "header_rows": [
+    [
+     "No.",
+     "Compounds",
+     "Odor threshold",
+     "Concentrations (μg/L)",
+     "",
+     "OAV",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "av ± SD (n = 3)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "(μg/L)",
+     "LZ-2016 base SAB",
+     "GJ-1573",
+     "LZ-2016 base SAB",
+     "GJ-1573"
+    ]
+   ],
+   "rows": [
+    [
+     "8",
+     "ethyl hexanoate",
+     "55.3c",
+     "7,606,936 ± 17,161",
+     "1,487,026 ± 6408",
+     "137,558",
+     "26,890"
+    ],
+    [
+     "3",
+     "ethyl butanoate",
+     "81.5c",
+     "622,200 ± 1786",
+     "217,932 ± 369",
+     "7634",
+     "2674"
+    ],
+    [
+     "6",
+     "ethyl pentanoate",
+     "26.8c",
+     "143,889 ± 1500",
+     "44,849 ± 2636",
+     "5369",
+     "1673"
+    ],
+    [
+     "14",
+     "ethyl octanoate",
+     "12.9d",
+     "43,878 ± 1045",
+     "2382 ± 17",
+     "3401",
+     "185"
+    ],
+    [
+     "56",
+     "dimethyl trisulfide",
+     "0.4c",
+     "187 ± 12",
+     "26 ±2",
+     "467",
+     "65"
+    ],
+    [
+     "48",
+     "hexanoic acid",
+     "2520.0c",
+     "1,126,596 ± 34,264",
+     "722,576 ± 17,196",
+     "447",
+     "287"
+    ],
+    [
+     "45",
+     "butyric acid",
+     "964.0c",
+     "295,816 ± 40,762",
+     "78,618 ± 8931",
+     "307",
+     "82"
+    ],
+    [
+     "5",
+     "ethyl isovalerate",
+     "7.0c",
+     "1847 ± 4",
+     "2783 ± 60",
+     "264",
+     "398"
+    ],
+    [
+     "2",
+     "ethyl isobutyrate",
+     "57.0c",
+     "9437 ± 1292",
+     "8766 ± 304",
+     "166",
+     "154"
+    ],
+    [
+     "7",
+     "ethyl 4-methylpentanoate",
+     "6.0a",
+     "932 ± 20",
+     "605 ± 2",
+     "155",
+     "101"
+    ],
+    [
+     "47",
+     "pentanoic acid",
+     "389.0c",
+     "56,841 ± 8653",
+     "13,732 ± 1660",
+     "146",
+     "35"
+    ],
+    [
+     "1",
+     "ethyl acetate",
+     "32,600.0c",
+     "1,772,911 ± 17,586",
+     "985,274 ± 4023",
+     "54",
+     "30"
+    ],
+    [
+     "23",
+     "1-butanol",
+     "2730.0c",
+     "147,160 ± 8188",
+     "41,802 ± 2478",
+     "54",
+     "15"
+    ],
+    [
+     "57",
+     "3-(methylthio)propanal",
+     "7.12d",
+     "369 ± 31",
+     "",
+     "52",
+     ""
+    ],
+    [
+     "4",
+     "ethyl 2-methylbutanoate",
+     "24.7a",
+     "863 ± 21",
+     "819 ± 30",
+     "35",
+     "33"
+    ],
+    [
+     "37",
+     "p-cresol",
+     "167.0c",
+     "3271 ± 201",
+     "571 ± 19",
+     "20",
+     "3"
+    ],
+    [
+     "25",
+     "1-hexanol",
+     "5370.0d",
+     "97,718 ± 5482",
+     "30,025 ± 1548",
+     "18",
+     "6"
+    ],
+    [
+     "16",
+     "hexyl hexanoate",
+     "1890.0e",
+     "28,416 ± 794",
+     "146 ± 4",
+     "15",
+     "<1"
+    ],
+    [
+     "33",
+     "ethyl 3-phenylpropionate",
+     "125.0c",
+     "1646 ± 88",
+     "635±20",
+     "13",
+     "5"
+    ],
+    [
+     "46",
+     "isovaleric acid",
+     "1050.0c",
+     "13,702 ± 2649",
+     "3885 ± 497",
+     "13",
+     "4"
+    ],
+    [
+     "44",
+     "2-methylpropionic acid",
+     "1580.0d",
+     "1130 ± 167",
+     "95 ± 12",
+     "11",
+     ""
+    ],
+    [
+     "52",
+     "octanoic acid",
+     "2700.0c",
+     "25,675 ± 4066",
+     "5535 ± 501",
+     "10",
+     "2"
+    ],
+    [
+     "50",
+     "4-methylvaleric acid",
+     "144.0e",
+     "1311 ± 218",
+     "300 ±62",
+     "9",
+     "2"
+    ],
+    [
+     "63",
+     "3-methylindole",
+     "6.09b",
+     "46 ±3",
+     "",
+     "8",
+     ""
+    ],
+    [
+     "27",
+     "phenylacetaldehyde",
+     "262.0d",
+     "1903 ± 207",
+     "1498 ± 84",
+     "7",
+     "6"
+    ],
+    [
+     "42",
+     "acetic acid",
+     "160,000.0d",
+     "732,061 ± 106,844",
+     "342,535 ± 236,447",
+     "5",
+     "2"
+    ],
+    [
+     "31",
+     "phenethyl acetate",
+     "407.0c",
+     "2075 ± 112",
+     "992 ± 45",
+     "5",
+     "2"
+    ],
+    [
+     "11",
+     "ethyl heptanoate",
+     "13,200.0c",
+     "44,450 ± 1143",
+     "5859 ± 91",
+     "3",
+     "<1"
+    ],
+    [
+     "26",
+     "1-octanol",
+     "1100.0e",
+     "2101 ± 101",
+     "439 ± 28",
+     "2",
+     "<1"
+    ],
+    [
+     "51",
+     "heptanoic acid",
+     "13,300.0e",
+     "23,926±3848",
+     "5382 ± 633",
+     "2",
+     "<1"
+    ],
+    [
+     "36",
+     "4-ethylguaiacol",
+     "123.0c",
+     "130 ± 8",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "35",
+     "4-methyl guaiacol",
+     "315.0d",
+     "425 ± 23",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "64",
+     "-nonalactone",
+     "91.0d",
+     "129 ± 14",
+     "59 ±3",
+     "1",
+     "1"
+    ],
+    [
+     "55",
+     "3-phenyl propionic acid",
+     "420.0a",
+     "374 ± 38",
+     "473 ± 16",
+     "1",
+     "1"
+    ],
+    [
+     "43",
+     "propionic acid",
+     "18,100.0c",
+     "13,666 ±156",
+     "1935 ± 63",
+     "1",
+     "<1"
+    ],
+    [
+     "17",
+     "ethyl caprate",
+     "1120.0",
+     "839 ± 22",
+     "13 ±2",
+     "1",
+     "<1"
+    ],
+    [
+     "10",
+     "propyl hexanoate",
+     "12,800.0c",
+     "28,416 ± 794",
+     "146 ± 4",
+     "1",
+     "<1"
+    ],
+    [
+     "24",
+     "3-methyl-1-butanol",
+     "179,000.0c",
+     "84,178 ± 144",
+     "142,068 ± 324",
+     "<1",
+     "1"
+    ],
+    [
+     "28",
+     "ethyl benzoate",
+     "1430.0c",
+     "174 ±9",
+     "62 ±2",
+     "<1",
+     "<1"
+    ],
+    [
+     "30",
+     "ethyl phenylacetate",
+     "909.0c",
+     "341 ± 23",
+     "61 ±4",
+     "<1",
+     "<1"
+    ],
+    [
+     "38",
+     "4-ethylphenol",
+     "618.0c",
+     "11±1",
+     "49 ±1",
+     "<1",
+     "<1"
+    ],
+    [
+     "12",
+     "isobutyl hexanoate",
+     "5250.0e",
+     "461±2",
+     "81 ±1",
+     "<1",
+     "<1"
+    ],
+    [
+     "13",
+     "hexyl butanoate",
+     "8620.0f",
+     "3483 ± 71",
+     "232±4",
+     "<1",
+     "<1"
+    ],
+    [
+     "67",
+     "furfuryl acetate",
+     "26,050.0a",
+     "114 ± 9",
+     "13 ± 1",
+     "<1",
+     "<1"
+    ],
+    [
+     "68",
+     "ethyl 2-furoate",
+     "132,000.0f",
+     "31 ± 1",
+     "166 ± 9",
+     "<1",
+     "<1"
+    ],
+    [
+     "19",
+     "diethyl succinate",
+     "353,193.0a",
+     "1276 ± 91",
+     "1715 ± 76",
+     "<1",
+     "<1"
+    ],
+    [
+     "34",
+     "phenethyl alcohol",
+     "28,900.0c",
+     "1808 ± 92",
+     "1342 ± 49",
+     "<1",
+     "<1"
+    ],
+    [
+     "54",
+     "benzeneacetic acid",
+     "1430.0f",
+     "469 ± 74",
+     "415 ± 75",
+     "<1",
+     "<1"
+    ],
+    [
+     "41",
+     "vanillin",
+     "439.0c",
+     "58 ±3",
+     "11 ± 1",
+     "<1",
+     "<1"
+    ],
+    [
+     "58",
+     "3-(methylthio)-propanoic acid ethyl ester",
+     "3080.0f",
+     "308 ± 16",
+     "",
+     "<1",
+     ""
+    ],
+    [
+     "60",
+     "3-(methylthio)propanol",
+     "2110.0c",
+     "205 ± 12",
+     "",
+     "<1",
+     ""
+    ],
+    [
+     "39",
+     "2-methoxy-4-vinylphenol",
+     "209.3f",
+     "12 ± 0.2",
+     "",
+     "<1",
+     ""
+    ],
+    [
+     "9",
+     "ethyl 3-hexenoate",
+     "",
+     "473 ± 20",
+     "112 ± 6",
+     "",
+     ""
+    ],
+    [
+     "18",
+     "3-methylbutyl octanoate",
+     "",
+     "141 ± 1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "15",
+     "ethyl 2-hydroxy-4-methyl pentanoate",
+     "",
+     "4268 ±32",
+     "6739 ± 115",
+     "",
+     ""
+    ],
+    [
+     "59",
+     "2-thenaldehyde",
+     "",
+     "22 ± 1",
+     "11 ± 0.4",
+     "",
+     ""
+    ],
+    [
+     "29",
+     "benzene, (2,2-diethoxyethyl)-ethyl nicotinoate",
+     "",
+     "1575 ± 17",
+     "163 ± 1",
+     "-",
+     ""
+    ],
+    [
+     "20",
+     "ethyl tetradecanoate",
+     "",
+     "731 ± 7",
+     "300 ± 0.2",
+     "-",
+     "-"
+    ],
+    [
+     "21",
+     "ethyl palmitate",
+     "",
+     "14,044 ± 445",
+     "601 ±9",
+     "",
+     ""
+    ]
+   ],
+   "n_row": 59,
+   "n_col": 7,
+   "pages": [
+    5
+   ],
+   "src_id": "T03",
+   "long_table": true,
+   "verify": {
+    "n_cells": 441,
+    "n_match": 383,
+    "n_conflict": 58,
+    "n_one_sided": 0,
+    "n_lowconf": 52,
+    "n_repaired": 108,
+    "agree_pct": 86.85,
+    "n_rescued": 7,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 0
+  },
+  {
+   "caption": "Comparison of important odorants in LZ-2016 base SAB and GJ-1573.",
+   "note": "a OAV ratio: The OAV ratios of 18 aroma compounds between LZ-2016 base SAB and GJ-1573.",
+   "header_rows": [
+    [
+     "NO.",
+     "Compounds",
+     "FD factor (FD ≥ 9)",
+     "",
+     "OAV",
+     "",
+     "OAV ratioa"
+    ],
+    [
+     "",
+     "",
+     "LZ-2016 base SAB",
+     "GJ-1573",
+     "LZ-2016 base SAB",
+     "GJ-1573",
+     "LZ-2016 base SAB/GJ-1573"
+    ]
+   ],
+   "rows": [
+    [
+     "16",
+     "hexyl hexanoate",
+     "81",
+     "27",
+     "15",
+     "<1",
+     "195"
+    ],
+    [
+     "10",
+     "propyl hexanoate",
+     "6561",
+     "81",
+     "1",
+     "<1",
+     "195"
+    ],
+    [
+     "17",
+     "ethyl caprate",
+     "81",
+     "27",
+     "1",
+     "< 1",
+     "65"
+    ],
+    [
+     "14",
+     "ethyl octanoate",
+     "19,683",
+     "729",
+     "3401",
+     "185",
+     "18"
+    ],
+    [
+     "44",
+     "2-methylpropionic acid",
+     "243",
+     "27",
+     "11",
+     "<1",
+     "12"
+    ],
+    [
+     "11",
+     "ethyl heptanoate",
+     "6561",
+     "81",
+     "3",
+     "< 1",
+     "8"
+    ],
+    [
+     "56",
+     "dimethyl trisulfide",
+     "729",
+     "81",
+     "467",
+     "65",
+     "7"
+    ],
+    [
+     "37",
+     "p-cresol",
+     "19,683",
+     "6561",
+     "20",
+     "3",
+     "7"
+    ],
+    [
+     "26",
+     "1-octanol",
+     "27",
+     "9",
+     "2",
+     "<1",
+     "5"
+    ],
+    [
+     "45",
+     "butyric acid",
+     "59,049",
+     "19,683",
+     "307",
+     "82",
+     "4"
+    ],
+    [
+     "47",
+     "pentanoic acid",
+     "6561",
+     "243",
+     "146",
+     "35",
+     "4"
+    ],
+    [
+     "63",
+     "3-methylindole",
+     "81",
+     "",
+     "8",
+     "",
+     ""
+    ],
+    [
+     "57",
+     "3-(methylthio)propanal",
+     "729",
+     "",
+     "52",
+     "",
+     ""
+    ],
+    [
+     "36",
+     "4-ethylguaiacol",
+     "81",
+     "",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "35",
+     "4-methyl guaiacol",
+     "243",
+     "",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "58",
+     "3-(methylthio)-propanoic acid ethyl ester",
+     "27",
+     "",
+     "<1",
+     "",
+     ""
+    ],
+    [
+     "60",
+     "3-methylthiopropanol",
+     "81",
+     "",
+     "<1",
+     "",
+     ""
+    ],
+    [
+     "39",
+     "2-methoxy-4-vinylphenol",
+     "729",
+     "",
+     "<1",
+     "",
+     ""
+    ]
+   ],
+   "n_row": 18,
+   "n_col": 7,
+   "pages": [
+    10
+   ],
+   "src_id": "T04",
+   "long_table": true,
+   "verify": {
+    "n_cells": 140,
+    "n_match": 139,
+    "n_conflict": 1,
+    "n_one_sided": 0,
+    "n_lowconf": 6,
+    "n_repaired": 1,
+    "agree_pct": 99.29,
+    "n_rescued": 0,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 0
+  },
+  {
+   "caption": "Omission experiments from LZ-2016 base SAB complete models.",
+   "note": "Significance: \"*, \"***, and \"**\" indicate significance at p < 0.05, 0.01, and 0.001, respectively.",
+   "header_rows": [
+    [
+     "NO.",
+     "Aroma",
+     "Omitted aroma",
+     "Correct number",
+     "Significancea"
+    ],
+    [
+     "",
+     "",
+     "compounds",
+     "in all",
+     ""
+    ]
+   ],
+   "rows": [
+    [
+     "1",
+     "Fruity",
+     "All esters",
+     "10/10",
+     "***"
+    ],
+    [
+     "2",
+     "Floral",
+     "All aromatics",
+     "7/10",
+     "***"
+    ],
+    [
+     "3",
+     "Acidic/rancid",
+     "All acids",
+     "4/10",
+     "*"
+    ],
+    [
+     "3-1",
+     "",
+     "Butyric acid",
+     "4/10",
+     "**"
+    ],
+    [
+     "3-2",
+     "",
+     "Hexanoic acid",
+     "5/10",
+     "*"
+    ],
+    [
+     "4",
+     "Phenolic/horsy",
+     "All phenols",
+     "6/10",
+     "*"
+    ],
+    [
+     "4-1",
+     "",
+     "p-Cresol",
+     "7/10",
+     "*"
+    ],
+    [
+     "5",
+     "Alcoholic",
+     "All alcohols",
+     "4/10",
+     ""
+    ],
+    [
+     "6",
+     "Roasted/onion-like",
+     "All sulfur compounds",
+     "6/10",
+     "**"
+    ],
+    [
+     "6-2",
+     "",
+     "Dimethyl trisulfide",
+     "8/10",
+     "**"
+    ],
+    [
+     "7",
+     "Mud-like",
+     "3-Methylindole",
+     "6/10",
+     "**"
+    ],
+    [
+     "8",
+     "Sweet",
+     "-Nonalactone",
+     "3/10",
+     ""
+    ]
+   ],
+   "n_row": 12,
+   "n_col": 5,
+   "pages": [
+    11
+   ],
+   "src_id": "T05",
+   "long_table": true,
+   "verify": {
+    "n_cells": 80,
+    "n_match": 80,
+    "n_conflict": 0,
+    "n_one_sided": 0,
+    "n_lowconf": 0,
+    "n_repaired": 0,
+    "agree_pct": 100.0,
+    "n_rescued": 0,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 0
+  },
+  {
+   "caption": "OAVs of mixtures of compounds in the ratios of their individual OAVs with their corresponding aroma descriptions.",
+   "note": "1 Mixture 1 = 369 g/L 3-(methylthio)propanal + 295,816 g/L butyric acid. Mixture 2 = 369 g/L 3-(methylthio)propanal +1,126,596 g/L hexanoic acid. Mixture 3 = 369 g/L 3-(methylthio)propanal + 46 g/L 3-methylindole. d Mivtura = 260 ua/I 3-(mathulthin)nrnnanal  3271 ua/I n-cracol",
+   "header_rows": [
+    [
+     "No.",
+     "Mixture",
+     "spiking level",
+     "Re",
+     "SDf",
+     "Aroma description",
+     "Interaction relationship"
+    ],
+    [
+     "",
+     "",
+     "(μg/L)",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "rows": [
+    [
+     "1",
+     "3-(methylthio)propanal + butyric acid",
+     "a",
+     "2.6",
+     "0.23",
+     "cheesy, rancid, roasted potato, mud-like",
+     "masking effect"
+    ],
+    [
+     "2",
+     "3-(methylthio)propanal + hexanoic acid",
+     "b",
+     "5.3",
+     "0.59",
+     "fruity, rancid, roasted",
+     "masking effect"
+    ],
+    [
+     "3",
+     "3-(methylthio)propanal + 3-methylindole",
+     "c",
+     "3.3",
+     "0.26",
+     "roasted potato, mud-like, fecal",
+     "masking effect"
+    ],
+    [
+     "4",
+     "3-(methylthio)propanal + p-cresol",
+     "d",
+     "0.9",
+     "0.03",
+     "roasted, mud-like, animal-like, grain",
+     "additive action"
+    ]
+   ],
+   "n_row": 4,
+   "n_col": 7,
+   "pages": [
+    12
+   ],
+   "src_id": "T06",
+   "long_table": false,
+   "verify": {
+    "n_cells": 42,
+    "n_match": 42,
+    "n_conflict": 0,
+    "n_one_sided": 0,
+    "n_lowconf": 0,
+    "n_repaired": 1,
+    "agree_pct": 100.0,
+    "n_rescued": 0,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 0
+  }
+ ],
+ "suspects": [],
+ "sheet": "2  Characterization of key odor",
+ "pdf": "2  Characterization of key odorants causing the roasted and mud-like aromas in.pdf"
+}

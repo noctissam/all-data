@@ -1,0 +1,80 @@
+{
+ "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\8 Flavoromic Exploration of Regional Variations, Consumer.pdf",
+ "dpi": 150,
+ "n_candidates": 9,
+ "candidates": [
+  {
+   "page": 6,
+   "kind": "below_last",
+   "n_gutters": 10,
+   "gutters": [
+    [
+     165,
+     203
+    ],
+    [
+     359,
+     397
+    ],
+    [
+     398,
+     438
+    ],
+    [
+     493,
+     528
+    ],
+    [
+     580,
+     616
+    ],
+    [
+     669,
+     702
+    ],
+    [
+     755,
+     791
+    ],
+    [
+     844,
+     880
+    ],
+    [
+     935,
+     983
+    ],
+    [
+     1036,
+     1072
+    ]
+   ],
+   "y_top_px": 238,
+   "y_bot_px": 1645,
+   "y_top_pt": 114.2,
+   "y_bot_pt": 789.6,
+   "height_pt": 675.4
+  },
+  {
+   "page": 9,
+   "kind": "below_last",
+   "n_gutters": 2,
+   "gutters": [
+    [
+     595,
+     617
+    ],
+    [
+     631,
+     646
+    ]
+   ],
+   "y_top_px": 162,
+   "y_bot_px": 1645,
+   "y_top_pt": 77.8,
+   "y_bot_pt": 789.6,
+   "height_pt": 711.8
+  }
+ ],
+ "filtered_from": 9
+}

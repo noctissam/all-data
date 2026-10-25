@@ -1,0 +1,351 @@
+{
+  "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\3   Investigation on the key factors associated with flavor quality in northern.pdf",
+  "dpi": 150,
+  "n_candidates": 14,
+  "candidates": [
+    {
+      "page": 1,
+      "kind": "between",
+      "n_gutters": 2,
+      "gutters": [
+        [
+          198,
+          405
+        ],
+        [
+          1046,
+          1058
+        ]
+      ],
+      "y_top_px": 166,
+      "y_bot_px": 315,
+      "y_top_pt": 79.7,
+      "y_bot_pt": 151.2,
+      "height_pt": 71.5
+    },
+    {
+      "page": 1,
+      "kind": "between",
+      "n_gutters": 2,
+      "gutters": [
+        [
+          886,
+          900
+        ],
+        [
+          1004,
+          1055
+        ]
+      ],
+      "y_top_px": 333,
+      "y_bot_px": 625,
+      "y_top_pt": 159.8,
+      "y_bot_pt": 300.0,
+      "height_pt": 140.2
+    },
+    {
+      "page": 1,
+      "kind": "between",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          296,
+          422
+        ]
+      ],
+      "y_top_px": 711,
+      "y_bot_px": 911,
+      "y_top_pt": 341.3,
+      "y_bot_pt": 437.3,
+      "height_pt": 96.0
+    },
+    {
+      "page": 1,
+      "kind": "below_last_part",
+      "n_gutters": 2,
+      "gutters": [
+        [
+          603,
+          614
+        ],
+        [
+          628,
+          640
+        ]
+      ],
+      "y_top_px": 982,
+      "y_bot_px": 1483,
+      "y_top_pt": 471.4,
+      "y_bot_pt": 711.8,
+      "height_pt": 240.5
+    },
+    {
+      "page": 3,
+      "kind": "above_first",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          491,
+          959
+        ]
+      ],
+      "y_top_px": 127,
+      "y_bot_px": 200,
+      "y_top_pt": 61.0,
+      "y_bot_pt": 96.0,
+      "height_pt": 35.0
+    },
+    {
+      "page": 3,
+      "kind": "below_last",
+      "n_gutters": 9,
+      "gutters": [
+        [
+          105,
+          148
+        ],
+        [
+          290,
+          463
+        ],
+        [
+          648,
+          727
+        ],
+        [
+          756,
+          813
+        ],
+        [
+          819,
+          873
+        ],
+        [
+          899,
+          933
+        ],
+        [
+          959,
+          994
+        ],
+        [
+          1020,
+          1057
+        ],
+        [
+          1084,
+          1121
+        ]
+      ],
+      "y_top_px": 261,
+      "y_bot_px": 1588,
+      "y_top_pt": 125.3,
+      "y_bot_pt": 762.2,
+      "height_pt": 637.0
+    },
+    {
+      "page": 4,
+      "kind": "above_first",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          209,
+          959
+        ]
+      ],
+      "y_top_px": 127,
+      "y_bot_px": 177,
+      "y_top_pt": 61.0,
+      "y_bot_pt": 85.0,
+      "height_pt": 24.0
+    },
+    {
+      "page": 4,
+      "kind": "between",
+      "n_gutters": 9,
+      "gutters": [
+        [
+          105,
+          148
+        ],
+        [
+          275,
+          464
+        ],
+        [
+          598,
+          727
+        ],
+        [
+          756,
+          813
+        ],
+        [
+          819,
+          872
+        ],
+        [
+          899,
+          933
+        ],
+        [
+          959,
+          994
+        ],
+        [
+          1000,
+          1057
+        ],
+        [
+          1084,
+          1121
+        ]
+      ],
+      "y_top_px": 241,
+      "y_bot_px": 331,
+      "y_top_pt": 115.7,
+      "y_bot_pt": 158.9,
+      "height_pt": 43.2
+    },
+    {
+      "page": 4,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          602,
+          640
+        ]
+      ],
+      "y_top_px": 341,
+      "y_bot_px": 1598,
+      "y_top_pt": 163.7,
+      "y_bot_pt": 767.0,
+      "height_pt": 603.4
+    },
+    {
+      "page": 8,
+      "kind": "above_first",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          602,
+          640
+        ]
+      ],
+      "y_top_px": 127,
+      "y_bot_px": 202,
+      "y_top_pt": 61.0,
+      "y_bot_pt": 97.0,
+      "height_pt": 36.0
+    },
+    {
+      "page": 8,
+      "kind": "between",
+      "n_gutters": 4,
+      "gutters": [
+        [
+          602,
+          653
+        ],
+        [
+          671,
+          696
+        ],
+        [
+          904,
+          928
+        ],
+        [
+          1020,
+          1044
+        ]
+      ],
+      "y_top_px": 206,
+      "y_bot_px": 278,
+      "y_top_pt": 98.9,
+      "y_bot_pt": 133.4,
+      "height_pt": 34.6
+    },
+    {
+      "page": 8,
+      "kind": "between",
+      "n_gutters": 8,
+      "gutters": [
+        [
+          602,
+          653
+        ],
+        [
+          667,
+          697
+        ],
+        [
+          834,
+          928
+        ],
+        [
+          942,
+          967
+        ],
+        [
+          981,
+          1006
+        ],
+        [
+          1019,
+          1045
+        ],
+        [
+          1062,
+          1089
+        ],
+        [
+          1106,
+          1132
+        ]
+      ],
+      "y_top_px": 279,
+      "y_bot_px": 609,
+      "y_top_pt": 133.9,
+      "y_bot_pt": 292.3,
+      "height_pt": 158.4
+    },
+    {
+      "page": 8,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          602,
+          640
+        ]
+      ],
+      "y_top_px": 611,
+      "y_bot_px": 1595,
+      "y_top_pt": 293.3,
+      "y_bot_pt": 765.6,
+      "height_pt": 472.3
+    },
+    {
+      "page": 9,
+      "kind": "above_first",
+      "n_gutters": 2,
+      "gutters": [
+        [
+          356,
+          373
+        ],
+        [
+          556,
+          574
+        ]
+      ],
+      "y_top_px": 127,
+      "y_bot_px": 1338,
+      "y_top_pt": 61.0,
+      "y_bot_pt": 642.2,
+      "height_pt": 581.3
+    }
+  ]
+}

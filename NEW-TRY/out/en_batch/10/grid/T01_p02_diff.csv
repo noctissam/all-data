@@ -1,0 +1,2 @@
+﻿table_id,name,pdf_page,section,row,col,status,pass_A_text,pass_B_text,min_score
+T01,T01_p02,2,body,1,2,conflict_b,02,0-2,0.9243

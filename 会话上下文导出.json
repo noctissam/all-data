@@ -1,0 +1,91 @@
+{
+  "project": "浓香型白酒香气数据库 (26年3月)",
+  "exported_at": "2026-10-25",
+  "workdir": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月",
+  "objective": [
+    "长表转宽表数据库 浓香型数据库.xlsx",
+    "按 阈值.xlsx 第2表单'周' 计算 OAV 并核算 OAV>1 有效数据",
+    "整理缺阈值化合物清单",
+    "导出可用化合物完整原始数据(标注阈值, 不计算OAV)",
+    "对原始浓度做 PCA + 层次聚类热图"
+  ],
+  "inputs": {
+    "清洗后数据.xlsx": "源长表",
+    "data总库.xlsx": "格式参考 + 27篇分表(μg/L浓度/OAV/阈值)",
+    "26.10\\英文\\阈值.xlsx": "表单: 周文章/周/Sheet3; 使用'周'=120条 ppb 阈值"
+  },
+  "units": {
+    "factor_1000_docs": ["D5","D9","D10","D11","D12","D14","D19","D22","D24"],
+    "factor_1_docs": "其余文献",
+    "rule": "清洗值 × 因子 = μg/L; OAV 列不乘因子",
+    "ppb_equals": "1 ppb = 1 μg/L (水溶液基准)",
+    "D26_note": "标注mg/L但换算后97g/L不可能, 保持×1"
+  },
+  "exclusions": {
+    "whole_docs": {"D13": "芝麻香型", "D17": "三种香型对比且样品名丢失"},
+    "aroma_removed_keys": 3092,
+    "D14_牛栏山/红星二锅头": "经用户确认保留",
+    "D21": "量比表/FD表, 浓度列整篇剔除, 仅保留OAV",
+    "D12_D24": "OAV_MIXED: 同组多行取最大值为浓度(mg/L), 其余为OAV; 单行整数=OAV, 小数=浓度"
+  },
+  "database": {
+    "file": "浓香型数据库.xlsx",
+    "sheets": ["all data", "文献索引与单位", "样品名清洗对照", "香型判定"],
+    "all_data_shape": {"rows_compounds": 373, "cols_total": 144, "conc_cols": 113, "paper_oav_cols": 25},
+    "counts": {"kept_keys": 6055, "aroma_removed": 3092, "sample_merge_dropped": 192, "conc_dropped": 84,
+               "threshold_backfill": 101, "smiles_new": 206, "smiles_tried": 212}
+  },
+  "oav": {
+    "file": "OAV核算_周阈值.xlsx",
+    "threshold_source": "阈值.xlsx / 周 (120条, ppb)",
+    "formula": "OAV = 浓度(μg/L) / 阈值(ppb)",
+    "matched_rows": 152,
+    "missing_threshold_rows": {"total": 221, "not_in_zhou_table": 135, "no_chinese_name": 48, "junk_rows": 38},
+    "computable_cells": 4581,
+    "oav_gt_1_cells": 2042,
+    "oav_gt_1_ratio": 0.446,
+    "compounds_with_oav_gt_1_rows": 93,
+    "distinct_compounds_est": 85,
+    "sample_cols_total": 113,
+    "sample_cols_with_oav_gt_1": 113
+  },
+  "usable": {
+    "file": "可用数据_OAV大于1.xlsx",
+    "tiers": {"T1": ">=80% cols", "T2": "50-80%", "T3": "20-50%", "T4": "<20%"}
+  },
+  "extracted": {
+    "file": "可用化合物原始数据.xlsx",
+    "cutoff": "OAV>1列数 >= 17 (排名1-41, 末位=1-辛烯-3-醇)",
+    "rows": 41,
+    "cols_total": 145,
+    "added_columns": ["阈值(ppb,周表)"],
+    "sheets": ["all data", "OAV(周阈值)", "阈值来源", "说明"],
+    "backup_full": "可用化合物原始数据_93行.xlsx"
+  },
+  "pca_cluster": {
+    "dir": "PCA聚类分析",
+    "input": "41化合物 x 113样品, 非空浓度2770/4633",
+    "preprocess": "missing=0 -> log10(1+x) -> z-score per compound",
+    "variance": {"PC1": 31.8, "PC2": 19.3, "PC3": 11.2, "PC4": 9.1},
+    "pc1_meaning": "总体香气强度/浓度水平 (与log10总浓度 r=0.60, p=1.9e-12)",
+    "pc2_meaning": "醇类(正) vs 酯类(负) 平衡",
+    "clustering": "ward + euclidean, 行列双聚类",
+    "doc_clusters_k3": [
+      ["D1","D3","D9","D10","D12","D18","D27"],
+      ["D22","D23"],
+      ["D11","D14","D15","D16","D19","D2","D20","D24","D25","D26","D5","D7","D8"]
+    ],
+    "relative_composition_pca": {"PC1": 21.3, "PC2": 17.1, "sum": 38.3},
+    "outputs": ["1_PCA碎石图.png","2_PCA得分图.png","3_PCA载荷图.png","4_聚类热图.png",
+                "5_相对组成PCA得分图.png","6_文献均值热图.png","PCA_聚类分析结果.xlsx","PCA聚类分析.txt"]
+  },
+  "scripts": ["build_db_v2.py","check_v2.py","stats_nonzero.py","calc_oav.py","usable_oav.py",
+              "extract_raw.py","verify_out.py","analyze_pca.py","pca_interpret.py",
+              "probe_*.py/txt","unit_scan2.*","debug_net.txt"],
+  "caveats": [
+    "缺阈值≠不可用: 135个有数据化合物待补阈值",
+    "同化合物多行记录需合并取并集",
+    "原库Threshold(μg/L)与周表阈值两套体系, 数值可差一个数量级以上",
+    "文献间量级差异大(部分×1000), PC1 主要反映浓度水平"
+  ]
+}

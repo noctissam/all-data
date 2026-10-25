@@ -1,0 +1,48 @@
+================================================================================
+文献: Characterization of key odorants causing the roasted and mud-like aromas in
+分表: 2  Characterization of key odor  (原文献单位=μg/L)
+  化合物列='Compounds' CAS列='cas' 用浓度列=['LZ–2016 base SAB (Mean ± SD)', 'GJ–1573 (Mean ± SD)']
+  匹配到 88 个化合物(按名称)
+  分表值/清洗值 中位数 = 1.0002
+  解读: 清洗数据与分表同单位(即 μg/L)
+  样本比值(前10): [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+
+================================================================================
+文献: Decoding the Molecular Mechanism of Cellar Aroma Loss
+分表: 2  Decoding the Molecular Mecha  (原文献单位=μg/L)
+  化合物列='Compounds' CAS列=None 用浓度列=['Concentration LZLJ-M7 (Mean ± SD)', 'Concentration LZLJ-T7 (Mean ± SD)']
+  匹配到 11 个化合物(按名称)
+  分表值/清洗值 中位数 = 355.071
+  解读: 倍数不明确(可能匹配错化合物)
+  样本比值(前10): [9.6818, 24.5238, 71.4, 92.8889, 106.0, 355.0714, 721.25, 1202.0667, 90524.5, 291086.0]
+
+================================================================================
+文献: Impact of Pulsed Electric Fields Combined with Dissolved
+分表: 5  Impact of Pulsed Electric Fi  (原文献单位=mg/L)
+  化合物列='Compound Name' CAS列=None 用浓度列=['Blank (mg/L)', 'S1 (mg/L)', 'S2 (F3) (mg/L)', 'S3 (mg/L)', 'F1 (mg/L)', 'F3 (mg/L)']
+  匹配到 475 个化合物(按名称)
+  分表值/清洗值 中位数 = 1.29111
+  解读: 清洗数据与分表同单位(即 mg/L)
+  样本比值(前10): [0.0092, 0.0113, 0.0157, 0.0186, 0.0217, 1.0, 1.0, 1.0, 1.0, 1.0]
+
+================================================================================
+文献: Exploration of key aroma active compounds in strong flavor Baijiu during
+分表: 8  Exploration of key aroma act  (原文献单位=mg/L)
+  化合物列='Aroma compounds' CAS列=None 用浓度列=['Concentration (mg/L) - 1', 'Concentration (mg/L) - 2', 'Concentration (mg/L) - 3', 'Concentration (mg/L) - 4', 'Concentration (mg/L) - 5', 'Concentration (mg/L) - 6', 'Concentration (mg/L) - 7', 'Concentration (mg/L) - 8']
+  匹配到 247 个化合物(按名称)
+  分表值/清洗值 中位数 = 4.15447
+  解读: 倍数不明确(可能匹配错化合物)
+  样本比值(前10): [0.001, 0.0011, 0.0012, 0.0014, 0.0017, 0.0019, 0.002, 0.0021, 0.0022, 0.0022]
+
+================================================================================
+文献: Investigation on the key factors associated with flavor quality in northern
+分表: 3  Investigation on the key fac  (原文献单位=mg/L)
+  化合物列='Compounds' CAS列=None 用浓度列=[]
+  匹配到 0 个化合物(按名称)
+
+================================================================================
+文献: Unraveling variation on the profile aroma
+分表: 3  Unraveling variation on the   (原文献单位=μg/L(存疑))
+  化合物列='Compounds' CAS列='CAS' 用浓度列=[]
+  匹配到 0 个化合物(按名称)
+

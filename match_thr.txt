@@ -1,0 +1,348 @@
+周阈值条数=120 单位核对: 乙酸乙酯=[32552.0](应32552ppb=32.55mg/L) 己酸乙酯=[55.3](应55.3)
+数据库化合物=373
+精确匹配=78 规范化匹配=1 未匹配=294
+
+== 规范化命中的(名称写法不同) ==
+  db:（2，2-二乙氧基乙基）-苯 <- 周:(2,2-二乙氧基乙基)-苯
+
+== 未匹配(共294, 含候选) ==
+  [] 乳酸a  候选: 
+  [1,2-Propanediol] 丙二醇  候选: 
+  [Phenethyl alcohol] 2-苯乙醇  候选: 苯乙醇
+  []   无中文名
+  []   无中文名
+  [Methanol] 甲醇  候选: 苯甲醇
+  [] 丙酮  候选: 
+  [1-propanol] 1-丙醇  候选: 
+  [1-Butanol] 1-丁醇  候选: 
+  [] 甲基硫醇  候选: 
+  []   无中文名
+  []   无中文名
+  [Isobutyraldehyde] 2-甲基丙醛  候选: 
+  [2-Butanol] 2-丁醇a  候选: 2-丁醇
+  [3-methylindole]   无中文名
+  [Dibutyl phthalate]   无中文名
+  [] 百里酚  候选: 
+  [2-Methoxy-4-methylphenol] 2-甲氧基-4-甲基苯酚（2-甲氧基对甲酚）  候选: 苯酚|4-甲基苯酚
+  [] 苯甲酸甲酯  候选: 
+  [] 2-甲基丁醛  候选: 
+  [Cyclopentanol]   无中文名
+  [] γ-丁内酯  候选: 
+  [2-thenaldehyde]   无中文名
+  [Phenethyl acetate] 乙酸苯乙酯  候选: 乙酸
+  [] 异丁酸苯乙酯  候选: 异丁酸|丁酸
+  [] 丁酸-2-苯乙酯  候选: 丁酸
+  [benzeneacetic acid]   无中文名
+  []   无中文名
+  [Ethyl propionate] 丙酸乙酯a  候选: 丙酸
+  [3-Methyl pentatonic acid]   无中文名
+  [] 乙酸仲丁酯  候选: 乙酸
+  [Acetal] 乙醛二乙缩醛  候选: 乙醛|乙缩醛
+  [] 丁酸丙酯propyl butanoate  候选: 丁酸
+  [] 丙酸正丙酯  候选: 丙酸
+  [p-cresol] 对甲酚  候选: 
+  [] 仲辛酮  候选: 
+  [Methyl hexanoate] 己酸甲酯  候选: 己酸
+  [] 2-戊酮a  候选: 
+  [] γ-戊内酯  候选: 
+  []   无中文名
+  [Ethyl isovalerate] 异戊酸乙酯（3-甲基丁酸乙酯）  候选: 丁酸乙酯|3-甲基丁酸乙酯|戊酸乙酯|丁酸
+  [] 2,6-二甲基-4-庚醇  候选: 庚醇
+  [] 2-甲基吡嗪  候选: 
+  []   无中文名
+  [] 乙酸丙酯  候选: 乙酸
+  [Ethyl formate] 甲酸乙酯  候选: 苯甲酸乙酯
+  [] 乙酸异丁酯  候选: 乙酸
+  [Octyl butyrate]   无中文名
+  [2-Heptanone] 2-庚酮  候选: 
+  [] 戊醛  候选: 异戊醛
+  [Heptanoic acid] 庚酸  候选: 庚酸乙酯
+  [1-Hexanol] 1-己醇  候选: 
+  [] 硬脂酸乙酯  候选: 
+  [Ethyl oleate] 油酸乙酯  候选: 
+  [heptanal]   无中文名
+  [Nonanoic acid] 壬酸  候选: 
+  []   无中文名
+  [Heptyl acetate] 乙酸庚酯  候选: 乙酸
+  [2-Undecanone] 2-十一酮  候选: 
+  []   无中文名
+  [] 1-癸醇  候选: 
+  [] 癸醛  候选: 
+  []   无中文名
+  []   无中文名
+  [Methyl palmitate]   无中文名
+  []   无中文名
+  []   无中文名
+  [] 苯甲酸异丁酯  候选: 
+  [vanillin]   无中文名
+  [Ethyl nonanoate] 壬酸乙酯  候选: 
+  [] 丙醛  候选: 
+  [3-Methyl-1-butanol] 3-甲基-1-丁醇（异戊醇）  候选: 
+  [] 己酸烯丙酯  候选: 己酸
+  [Butyraldehyde] 丁醛  候选: 异丁醛
+  [Butyl lactate] 乳酸丁酯  候选: 
+  []   无中文名
+  [] 异戊酸-2-苯乙酯  候选: 异戊酸|戊酸
+  [] E-橙花叔醇  候选: 
+  [] 癸酸  候选: 癸酸乙酯
+  []   无中文名
+  [] 二乙氧基甲烷  候选: 
+  [α-Linolenic acid]   无中文名
+  [3-Furaldehyde] 3-糠醛  候选: 糠醛
+  [3-phenyl propionic acid] 3-苯基丙酸  候选: 丙酸
+  [Fitone]   无中文名
+  [Isovalenic acid] 异戊酸/3-甲基丁酸  候选: 丁酸|异戊酸|戊酸
+  [3-Methylthiopropanol]   无中文名
+  [] 2-甲基呋喃  候选: 
+  [] 丁酸异丁酯  候选: 丁酸
+  [Ethyl 4-methyl valerate] 4-甲基戊酸乙酯/异己酸乙酯  候选: 戊酸乙酯|己酸乙酯|戊酸|己酸
+  []   无中文名
+  []   无中文名
+  [Ethyl linoleate] 亚油酸乙酯  候选: 
+  []   无中文名
+  [] 乳酸异丁酯  候选: 
+  [Butyl valerate] 戊酸丁酯  候选: 戊酸
+  [Butyl formate]   无中文名
+  []   无中文名
+  [ethyl 2-furoate] 2-糠醛乙酯  候选: 糠醛
+  [] 乳酸丙酯  候选: 
+  [Ethyl pyruvate]   无中文名
+  [] 5-甲基-2-糠醛  候选: 糠醛
+  [Propyl n-Octanoate] 辛酸丙酯  候选: 辛酸
+  [] 二甲基二硫  候选: 
+  [Propyl hexanoate] 己酸丙酯a  候选: 己酸丙酯|己酸
+  [2-Hexanol] 2-己醇  候选: 
+  [Ethyl undecanoate] 十一酸乙酯  候选: 
+  [] 乙酸戊酯  候选: 乙酸
+  [Ethyl palmitate] 棕榈酸乙酯  候选: 
+  [] 2-壬基醇  候选: 
+  [4-methylvaleric acid] 异己酸（4-甲基戊酸）  候选: 戊酸|己酸
+  [Ethyl L(--)-lactate]   无中文名
+  [Hexyl octanoate] 辛酸己酯  候选: 辛酸
+  [] 亚麻酸乙酯  候选: 
+  []   无中文名
+  [3-Hydroxylauric acid]   无中文名
+  [Ethyl 3-phenylpropionate] 3-苯基丙酸乙酯  候选: 丙酸
+  [Isoamyl octanoate] 辛酸异戊酯  候选: 辛酸
+  [] 苯甲酸正戊酯  候选: 
+  [] 异丁酸异戊酯  候选: 丁酸异戊酯|异丁酸|丁酸
+  [3-methylbutyl pentanoate] 戊酸-3-甲基丁酯  候选: 戊酸
+  [Hexanoic anhydride]   无中文名
+  [9-Hexadecenoic acid]   无中文名
+  [3-methylbutyl hexanoate/Isoamyl hexanoat] 己酸异戊脂（3-甲基丁基己酸酯）  候选: 己酸
+  [Octyl octanoate] 辛酸辛酯  候选: 辛酸
+  []   无中文名
+  [] 3-甲基-2-己醇  候选: 
+  [2-Pentadecanone]   无中文名
+  [Ethyl 3-hexenoate] 3-己烯酸乙酯  候选: 
+  [FEMA 2721]   无中文名
+  []   无中文名
+  [] 反-2-壬醛  候选: 壬醛
+  [] 2-十一烯醛  候选: 
+  [Hexyl butanoate] 丁酸己酯  候选: 丁酸
+  [5-Dodecenoic acid]   无中文名
+  [4-Ethyl-2-methoxyphenol] 4-乙基-2-甲氧基苯酚  候选: 苯酚
+  [3-(methylthio)propanal]   无中文名
+  []   无中文名
+  [Dimethyl Trisulfide] 二甲基三硫醚  候选: 二甲基三硫
+  [1,1-diethoxy-Hexane]   无中文名
+  []   无中文名
+  [] 香叶基丙酮  候选: 
+  [1,1-Diethoxy-3-methylbutane] 异丁醛二乙缩醛  候选: 异丁醛|乙缩醛
+  [2-Dodecenoic acid]   无中文名
+  []   无中文名
+  [2-Butylfuran] 2-正丁基呋喃  候选: 
+  []   无中文名
+  [Butyl heptanoate] 庚酸丁酯  候选: 
+  [Isobutyl octanoate] 辛酸异丁酯  候选: 辛酸
+  [] 3-甲基戊酸乙酯  候选: 戊酸乙酯|戊酸
+  [Ethyl hexadienoate]   无中文名
+  [-nonalactone]   无中文名
+  []   无中文名
+  [Benzeneacetaldehyde, diethyl acetal]   无中文名
+  []   无中文名
+  [Heptyl hexanoate]   无中文名
+  [Ethyl 2-decenoate]   无中文名
+  [13-Octadecenoic acid]   无中文名
+  []   无中文名
+  []   无中文名
+  [Isobutyl heptanoate] 庚酸异丁酯  候选: 
+  []   无中文名
+  [Ethyl 4-phenylbutyrate]   无中文名
+  [Ethyl 5-methylhexanoate] 5-甲基己酸乙酯  候选: 己酸乙酯|己酸
+  [Ethyl 2-hydroxy-4-methylvalerate] DL-2-羟基-4-甲基戊酸乙酯  候选: 戊酸乙酯|戊酸
+  []   无中文名
+  [3-(methylthio)-propanoic acid ethyl este] 3-甲硫基丙酸乙酯  候选: 丙酸
+  [Ethyl heptadecanoate] 十七烷酸乙酯  候选: 
+  [Trimethyl-pyrazine] 三甲基吡嗪  候选: 2,3,5-三甲基吡嗪
+  [] 2-甲基丁酸丁酯  候选: 丁酸丁酯|丁酸
+  [] 2,3-二乙基吡嗪  候选: 
+  [] 3,3-二乙氧基-1-丙醇  候选: 
+  [2,3-Butanediol] 2,3-丁二醇  候选: 
+  [Isoamyl lactate] 乳酸异戊酯  候选: 
+  [] 异丙基3-苯基丙酸酯  候选: 丙酸
+  [] 大马士酮  候选: β-大马士酮
+  [β-damascenone] β-大马酮  候选: 
+  [] 2-甲基丁酸-2-苯乙酯  候选: 丁酸
+  [Ethyl 4-methylpentanoate] 4-甲基-戊酸乙酯  候选: 戊酸乙酯|戊酸
+  [Eicosenoic acid]   无中文名
+  [2-Nonen-4-one] 2-壬烯-4-酮  候选: 
+  [Ethyl tridecanoate]   无中文名
+  [Decane, 1,1-diethoxy-]   无中文名
+  [Furfuryl hexanoate] 己酸糠酯  候选: 己酸
+  [Ethyl pentadecanoate]   无中文名
+  [] 2-羟基己酸乙酯a  候选: 己酸乙酯|己酸
+  [Ethyl 9-hexadecenoate]   无中文名
+  [1,1-diethoxynonane]   无中文名
+  [Ethyl 15-methylheptadecanoate]   无中文名
+  []   无中文名
+  []   无中文名
+  [Ethyl 4-decenoate] 反-4-癸烯酸乙酯  候选: 
+  [Ethyl 3-nonenoate] 3-壬烯酸乙酯  候选: 
+  [(E)-2-Octenal]   无中文名
+  [1,1-二乙氧基-2-苯乙烷] 1,1-二乙氧基-2-苯乙烷  候选: 
+  [1-Hexanoic Acid]   无中文名
+  [1-丁醇（Mg·L-1）] 1-丁醇（mg·L-1）  候选: 
+  [1-己醇（Mg·L-1）] 1-己醇（mg·L-1）  候选: 
+  [1-辛醇（Mg·L-1）] 1-辛醇（mg·L-1）  候选: 1-辛醇
+  [1-（1-乙氧基乙氧基）-丁烷] 1-（1-乙氧基乙氧基）-丁烷  候选: 
+  [1.2- 丙二醇] 1.2- 丙二醇  候选: 
+  [17-Octadecenoic Acid]   无中文名
+  [1，1-二乙氧基-2-甲基丁烷] 1，1-二乙氧基-2-甲基丁烷  候选: 
+  [1，1-二乙氧基-3-甲基丁烷] 1，1-二乙氧基-3-甲基丁烷  候选: 
+  [1，1-二乙氧基乙烷] 1，1-二乙氧基乙烷  候选: 
+  [1，1，3-三乙氧基丙烷] 1，1，3-三乙氧基丙烷  候选: 
+  [1，2－丙二醇] 1，2－丙二醇  候选: 
+  [2-(Ethoxymethyl)Furan]   无中文名
+  [2-Heptanone]   无中文名
+  [2-hydroxy-4-methylvalerate]   无中文名
+  [2-Pentanone]   无中文名
+  [2-壬酮2-Nonanone] 2-壬酮2-nonanone  候选: 2-壬酮
+  [2-庚醇2-Heptanol] 2-庚醇2-heptanol  候选: 2-庚醇|庚醇
+  [2-癸醛Decanal] 2-癸醛decanal  候选: 
+  [2-苯乙酸乙酯Ethyl 2-Phenylacetate] 2-苯乙酸乙酯ethyl 2-phenylacetate  候选: 乙酸乙酯|乙酸|苯乙酸乙酯
+  [2-苯乙酸乙酯（Mg·L-1）] 2-苯乙酸乙酯（mg·L-1）  候选: 乙酸乙酯|乙酸|苯乙酸乙酯
+  [2-辛酮2-Octanone] 2-辛酮2-octanone  候选: 2-辛酮
+  [2.3- 丁二醇] 2.3- 丁二醇  候选: 
+  [2，3－丁二醇] 2，3－丁二醇  候选: 
+  [2－丁醇] 2－丁醇  候选: 
+  [2－戊酮] 2－戊酮  候选: 
+  [3-甲基-2（3H）-苯并呋喃酮] 3-甲基-2（3H）-苯并呋喃酮  候选: 
+  [3-甲基丁酸3-Methylbutanoic Acid] 3-甲基丁酸3-methylbutanoic acid  候选: 丁酸
+  [3-甲基丁酸（Μg·L-1）] 3-甲基丁酸（μg·L-1）  候选: 丁酸
+  [3-甲基丁醛二乙基缩醛] 3-甲基丁醛二乙基缩醛  候选: 
+  [3-苯丙酸乙酯Ethyl 3-Phenylpropanoate] 3-苯丙酸乙酯ethyl 3-phenylpropanoate  候选: 丙酸|3-苯丙酸乙酯
+  [3-苯丙酸乙酯（Mg·L-1）] 3-苯丙酸乙酯（mg·L-1）  候选: 丙酸|3-苯丙酸乙酯
+  [3-辛醇3-Octanol] 3-辛醇3-octanol  候选: 3-辛醇
+  [3-（环戊基）丙酸乙酯] 3-（环戊基）丙酸乙酯  候选: 丙酸
+  [3－羟基－2－丁酮] 3－羟基－2－丁酮  候选: 
+  [4-乙基愈创木酚（Μg·L-1）] 4-乙基愈创木酚（μg·L-1）  候选: 愈创木酚
+  [4-乙基苯酚4-Ethylphenol] 4-乙基苯酚4-ethylphenol  候选: 苯酚|4-乙基苯酚
+  [4-乙基苯酚（Μg·L-1）] 4-乙基苯酚（μg·L-1）  候选: 苯酚|4-乙基苯酚
+  [4-甲基愈创木酚（Μg·L-1）] 4-甲基愈创木酚（μg·L-1）  候选: 愈创木酚|4-甲基愈创木酚
+  [4-甲基戊酸（Μg·L-1）] 4-甲基戊酸（μg·L-1）  候选: 戊酸
+  [4-甲基苯酚4-Methylphenol] 4-甲基苯酚4-methylphenol  候选: 苯酚|4-甲基苯酚
+  [9-十六碳烯酸乙酯] 9-十六碳烯酸乙酯  候选: 
+  [Aceal]   无中文名
+  [Acetoin]   无中文名
+  [benzene, (2,2-diethoxyethyl)-ethyl nicot]   无中文名
+  [Cyclohexanecarboxylic]   无中文名
+  [Dimethyl Triasulfide]   无中文名
+  [Ethyl 7-Octanoate]   无中文名
+  [Ethyl Butanedioate]   无中文名
+  [Ethyl cyclopropanepropionate]   无中文名
+  [Ethyl Isovvalerate]   无中文名
+  [Furfuryl Alcohol]   无中文名
+  [Furhral]   无中文名
+  [Gamma-Nonanolactone]   无中文名
+  [Hepanoic Acid]   无中文名
+  [Hexanal]   无中文名
+  [Hexanole Acid]   无中文名
+  [Isovacetaldehyde]   无中文名
+  [Isovalenic Acid]   无中文名
+  [Nominal]   无中文名
+  [Purfural]   无中文名
+  [Sum]   无中文名
+  [Total Sum]   无中文名
+  [Trimethyl-Pyrazine]   无中文名
+  [unknown]   无中文名
+  [Β－苯乙醇] β－苯乙醇  候选: 苯乙醇
+  [丁二酸二乙酯（Mg·L-1）] 丁二酸二乙酯（mg·L-1）  候选: 丁二酸二乙酯
+  [丁酸-3 甲基丁酯（Mg·L-1）] 丁酸-3 甲基丁酯（mg·L-1）  候选: 丁酸
+  [丁酸异丁酯3-] 丁酸异丁酯3-  候选: 丁酸
+  [乙烯二乙酯] 乙烯二乙酯  候选: 
+  [乙缩醛（Mg·L-1）] 乙缩醛（mg·L-1）  候选: 乙缩醛
+  [乙酸乙酯（G·L-1）] 乙酸乙酯（g·L-1）  候选: 乙酸乙酯|乙酸
+  [乙酸已酯] 乙酸已酯  候选: 乙酸
+  [乳酸乙酯（G·L-1）] 乳酸乙酯（g·L-1）  候选: 乳酸乙酯
+  [十五酸乙酯] 十五酸乙酯  候选: 
+  [反-2,4-癸二烯醛] 反-2,4-癸二烯醛  候选: 
+  [反油酸乙酯] 反油酸乙酯  候选: 
+  [己酸-2-甲基丙酯（Mg·L-1）] 己酸-2-甲基丙酯（mg·L-1）  候选: 己酸
+  [己酸-2-糠酯] 己酸-2-糠酯  候选: 己酸
+  [己酸丁酯（Mg·L-1）] 己酸丁酯（mg·L-1）  候选: 己酸丁酯|己酸
+  [己酸（Mg·L-1）] 己酸（mg·L-1）  候选: 己酸
+  [庚酸（Mg·L-1）] 庚酸（mg·L-1）  候选: 
+  [异丁醇2-Methyl-1-Propanol] 异丁醇2-methyl-1-propanol  候选: 异丁醇
+  [异戊醇3-Methyl-1-Butanol] 异戊醇3-methyl-1-butanol  候选: 
+  [异戊醛3-Methylbutanal] 异戊醛3-methylbutanal  候选: 异戊醛
+  [异戊醛二乙缩醛] 异戊醛二乙缩醛  候选: 乙缩醛|异戊醛
+  [戊酮-2] 戊酮-2  候选: 
+  [戊酸乙酯（Mg·L-1）] 戊酸乙酯（mg·L-1）  候选: 戊酸乙酯|戊酸
+  [正丁醇1-Butanol] 正丁醇1-butanol  候选: 正丁醇
+  [正丙醇1-Propanol] 正丙醇1-propanol  候选: 正丙醇
+  [正己醇1-Hexanol] 正己醇1-hexanol  候选: 正己醇
+  [正辛醇1-Octanol] 正辛醇1-octanol  候选: 
+  [甲醚] 甲醚  候选: 
+  [苯乙烯] 苯乙烯  候选: 
+  [苯乙醛二乙缩醛] 苯乙醛二乙缩醛  候选: 乙醛|乙缩醛|苯乙醛
+  [辛酸-3-甲基丁] 辛酸-3-甲基丁  候选: 辛酸
+  [辛酸-3-甲基丁酯（Μg·L-1）] 辛酸-3-甲基丁酯（μg·L-1）  候选: 辛酸
+  [辛酸乙酯（Mg·L-1）] 辛酸乙酯（mg·L-1）  候选: 辛酸乙酯|辛酸
+  [辛酸（Mg·L-1）] 辛酸（mg·L-1）  候选: 辛酸
+
+== 周表未被匹配的阈值条目(44) ==
+  异丁醛 (5.9)
+  乙缩醛 (2090.0)
+  正丙醇 (109000.0)
+  2-丁醇 (50000.0)
+  3-甲基丁酸乙酯 (6.89)
+  正丁醇 (2733.0)
+  2,4,5-三甲基噁唑 (2300.13)
+  3-甲基丁醇 (179191.0)
+  3-辛酮 (529.96)
+  2-己基呋喃 (3033.94)
+  己酸丙酯 (12784.0)
+  正己醇 (5370.0)
+  二甲基三硫 (0.36)
+  2-羟基正丁酸乙酯 (85167.6)
+  2,3,5-三甲基吡嗪 (730.0)
+  2-辛醇 (6695.92)
+  2,3-二甲基-5-乙基吡嗪 (530.0)
+  3-羟基丁酸乙酯 (67000.0)
+  5-甲基糠醛 (16000.0)
+  丁酸庚酯 (13241.2)
+  长叶烯 (7834.24)
+  2-乙酰基吡啶 (634.228)
+  乙酰丙酸乙酯 (307381.0)
+  5-甲基-2(5H)-呋喃酮 (273887.0)
+  异戊酸 (1050.0)
+  反式-4-癸烯酸乙酯 (8844.66)
+  (2,2-二乙氧基乙基)-苯 (2706.87)
+  萘 (256.622)
+  β-大马士酮 (0.12)
+  乙酸-2-苯乙酯 (909.0)
+  香叶醇 (120.0)
+  月桂酸乙酯 (400.0)
+  3-苯丙酸乙酯 (125.0)
+  苯乙醇 (28900.0)
+  2-乙酰基吡咯 (58090.9)
+  4-甲基愈创木酚 (315.0)
+  2-十五酮 (38091.5)
+  4-甲基苯酚 (167.0)
+  2,4-二甲基苯酚 (4501.59)
+  γ-癸内酯 (30.773)
+  桃醛 (98.04)
+  γ-十二内酯 (175.353)
+  δ-十二内酯 (762.828)
+  香兰素 (439.0)

@@ -1,0 +1,111 @@
+{
+  "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\2  Decoding the Molecular Mechanism of Cellar Aroma Loss.pdf",
+  "dpi": 150,
+  "n_candidates": 3,
+  "candidates": [
+    {
+      "page": 6,
+      "kind": "above_first",
+      "n_gutters": 10,
+      "gutters": [
+        [
+          147,
+          174
+        ],
+        [
+          359,
+          400
+        ],
+        [
+          550,
+          591
+        ],
+        [
+          625,
+          654
+        ],
+        [
+          689,
+          721
+        ],
+        [
+          755,
+          784
+        ],
+        [
+          819,
+          852
+        ],
+        [
+          923,
+          957
+        ],
+        [
+          1013,
+          1055
+        ],
+        [
+          1131,
+          1208
+        ]
+      ],
+      "y_top_px": 133,
+      "y_bot_px": 1523,
+      "y_top_pt": 63.8,
+      "y_bot_pt": 731.0,
+      "height_pt": 667.2
+    },
+    {
+      "page": 10,
+      "kind": "above_first",
+      "n_gutters": 6,
+      "gutters": [
+        [
+          165,
+          184
+        ],
+        [
+          363,
+          422
+        ],
+        [
+          505,
+          559
+        ],
+        [
+          695,
+          777
+        ],
+        [
+          857,
+          938
+        ],
+        [
+          1015,
+          1058
+        ]
+      ],
+      "y_top_px": 133,
+      "y_bot_px": 557,
+      "y_top_pt": 63.8,
+      "y_bot_pt": 267.4,
+      "height_pt": 203.5
+    },
+    {
+      "page": 10,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          603,
+          639
+        ]
+      ],
+      "y_top_px": 560,
+      "y_bot_px": 1635,
+      "y_top_pt": 268.8,
+      "y_bot_pt": 784.8,
+      "height_pt": 516.0
+    }
+  ]
+}

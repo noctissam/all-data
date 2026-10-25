@@ -1,0 +1,28 @@
+文献 | 因子 | 浓度中位 | 浓度90分位 | 浓度max | 依据
+[ 1] x1     med=1130         p90=1.472e+05    max=7.607e+06    | Characterization of key odorants c | 分表单位μg/L + 名称定标比值1.0(88化合物)
+[ 2] x1     med=61.44        p90=1.148e+04    max=5.489e+05    | Key Aroma Compounds and Aroma Char | 总库Y列μg/L; 无重叠, 量级核对
+[ 3] x1     med=25           p90=6.342e+04    max=8.505e+06    | Decoding the Molecular Mechanism o | 分表μg/L(阈值/浓度), 低置信
+[ 4] x1     med=0.22         p90=7.55         max=7.55         | Volatilomics and Lipidomics reveal | 仅OAV, 分表阈值μg/L
+[ 5] x1000  med=1.699        p90=59.22        max=1264         | Impact of Pulsed Electric Fields C | 分表(mg/L) + 定标比值≈1
+[ 6] x1     med=33           p90=1897         max=2.432e+05    | Characterization of the difference | 分表仅OAV/阈值μg/L, 浓度存疑
+[ 7] x1     med=22           p90=141          max=5.331e+04    | Unraveling variation on the profil | 总库μg/L, 低置信
+[ 8] x1     med=1.5          p90=2            max=3            | Aroma characterization and reconst | 分表'10 Aroma...'μg/L
+[ 9] x1000  med=7            p90=439          max=2.103e+04    | Exploration of key aroma active co | 分表Concentration(mg/L)
+[10] x1000  med=6.79         p90=244          max=1.824e+04    | Investigation on the key factors a | 定标比值0.001(A,B重叠) + 分表mg/L
+[11] x1000  med=1.14         p90=33.68        max=139.9        | 四川不同产区浓香型白酒风味物质差异化分析 | 定标比值0.001(CJ/DJ/LJ重叠3)
+[12] x1000  med=9            p90=210          max=5.666e+04    | 基于GC×GC-MS分析不同等级浓香型白酒的关键风味化合物 | 定标比值0.001(A/B/C重叠3)
+[13] x1     med=862          p90=922          max=942          | 基于全二维气相色谱-飞行时间质谱结合多元统计方法解析芝麻香型白酒的风 | 芝麻香-将剔除
+[14] x1     med=3.35         p90=1408         max=2307         | 5种品牌浓香型白酒香气成分分析 | 量级核对(待定)
+[15] x1     med=10.78        p90=239          max=4429         | 不同贮存年份的五粮浓香型白酒挥发性风味物质对比分析 | 定标比值0.958(206化合物)
+[16] x1     med=16.86        p90=893.9        max=2470         | 浓香、酱香、清香型白酒挥发性风味的特征与差异研究 | 总库'19 LZ /(μg/L)'
+[17] x1     med=63.5         p90=670.5        max=5597         | 三种香型白酒的ICP-OES和GC-QTOF_MS分析及判别研究 | 三种香对比-将剔除
+[18] x1     med=908          p90=3.116e+05    max=1.304e+06    | 浓香型白酒及其风味成分对乙醇代谢关键酶酶活性的影响 | 总库总doc22 μg/L(SC1/2/3比值0.84), 低置信
+[19] x1     med=0.336        p90=9.204        max=39.58        | 3个年份浓香型白酒香气成分比较研究 | 量级核对(待定)
+[20] x1     med=79.34        p90=2089         max=7.235e+05    | 山东沂蒙老区浓香型白酒特征风味研究 | 定标比值0.997(9样品/462化合物)
+[21] x1     med=16           p90=400.4        max=6.426e+04    | 浓香型白酒基酒挥发性成分分析及等级识别研究 | 总库'一级好酒(μ/L)', 低置信
+[22] x1     med=15.4         p90=371.9        max=2812         | 基于GC-QTOF_MS技术的浓香型白酒原酒质量等级评价 | 总库总doc27 μg/L, 低置信
+[23] x1     med=139          p90=2445         max=6.343e+04    | 酱香型和浓香型白酒中香气物质及其差异研究 | 定标比值0.835(13样品/712化合物)
+[24] x1000  med=5.819        p90=1292         max=4.062e+04    | 洋河绵柔型白酒关键风味成分 | 定标比值0.001(TZL/MZL/HZL重叠5)
+[25] x1     med=144.2        p90=3.596e+04    max=1.2e+06      | 浓香型洋河天之蓝和清香型二锅头大曲白酒特征香气成分研究 | 量级核对(待定)
+[26] x1     med=447.8        p90=2435         max=3.868e+04    | 浓香型白酒基酒味觉特征与挥发性风味成分相关性研究 | 定标比值1.0(4样品); 总库标g/L存疑
+[27] x1     med=706.7        p90=5.57e+04     max=1.69e+06     | 宜宾产区浓香型白酒风味特征及香气活性物质鼻后释放规律的研究 | 总库总doc33 μg/L

@@ -1,0 +1,68 @@
+
+===== s1_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\8  Exploration of key aroma active compounds in strong flavor Baijiu during.pdf =====
+STEP 1 - detect three-line tables
+pdf: C:\Users\24252\Desktop\PPT\??\26?\26?3?\????\8  Exploration of key aroma active compounds in strong flavor Baijiu during.pdf
+pages: 14
+  page  1: rules=   6  candidates=6  tables=0
+        rejected p01 y=80..474 h=394  median runs/row 2.0 < 3
+  page  2: rules=   4  candidates=2  tables=1
+  page  3: rules=   0  candidates=0  tables=0
+  page  4: rules=   0  candidates=0  tables=0
+  page  5: rules=   3  candidates=1  tables=1
+  page  6: rules=   2  candidates=0  tables=0
+  page  7: rules=   5  candidates=1  tables=1
+  page  8: rules=   4  candidates=0  tables=0
+  page  9: rules=  11  candidates=22  tables=1
+  page 10: rules=   0  candidates=0  tables=0
+  page 11: rules=   0  candidates=0  tables=0
+  page 12: rules=   0  candidates=0  tables=0
+  page 13: rules=   0  candidates=0  tables=0
+  page 14: rules=   0  candidates=0  tables=0
+  T01 p02  251.5 x  86.5 pt  rows~13  long=True  A=1090x448 B=1454x596
+  T02 p05  251.5 x 652.4 pt  rows~102  long=True  A=1090x2919 B=1454x3891
+  T03 p07  251.5 x  52.3 pt  rows~ 5  long=False  A=1090x305 B=1454x405
+  T04 p09  522.8 x 640.1 pt  rows~71  long=True  A=2221x2919 B=2961x3891
+candidates=5  tables kept=4  (long: 3)  -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\10\tables.json
+images -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\10\img   previews -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\10\page_preview
+
+===== s2_umi_ocr.py  =====
+STEP 2 - Umi-OCR multi pass
+engine: C:\UMI-OCR\Umi-OCR_Rapid_v2.1.3\Umi-OCR.exe
+pass A/B: lang=English   pass C: lang=???? (symbol donor)
+options: maxSideLen=999999 parser=none format=dict
+engine already running on port 1224
+  T01 pass A    0.6s  boxes=31  score_avg=0.974  -> T01_p02_A.json
+  T01 pass B    0.9s  boxes=30  score_avg=0.965  -> T01_p02_B.json
+  T01 pass C    1.0s  boxes=31  score_avg=0.992  -> T01_p02_C.json
+  T02 pass A    9.7s  boxes=414  score_avg=0.997  -> T02_p05_A.json
+  T02 pass B   12.1s  boxes=414  score_avg=0.998  -> T02_p05_B.json
+  T02 pass C   11.0s  boxes=414  score_avg=0.998  -> T02_p05_C.json
+  T03 pass A    0.8s  boxes=17  score_avg=0.964  -> T03_p07_A.json
+  T03 pass B    0.6s  boxes=17  score_avg=0.949  -> T03_p07_B.json
+  T03 pass C    0.9s  boxes=17  score_avg=0.944  -> T03_p07_C.json
+  T04 pass A   17.9s  boxes=624  score_avg=0.990  -> T04_p09_A.json
+  T04 pass B   24.5s  boxes=624  score_avg=0.992  -> T04_p09_B.json
+  T04 pass C   20.1s  boxes=624  score_avg=0.974  -> T04_p09_C.json
+done: 12 images, 0 failed, 100.3s total
+
+===== s3_verify_grid.py  =====
+STEP 3 - rebuild grid + verify A/B
+  T01 p02  cols=3 (B:3)  head=1 body=8  match=26 conflict=1 one-sided=0 repaired=0 lowconf=0  agree=96.3%
+  T02 p05  cols=6 (B:6)  head=2 body=73  match=448 conflict=2 one-sided=0 repaired=1 lowconf=0  agree=99.6%
+  T03 p07  cols=2 (B:2)  head=2 body=3  match=10 conflict=0 one-sided=0 repaired=0 lowconf=2  agree=100.0%
+  T04 p09  cols=11 (B:11)  head=28 body=41  match=758 conflict=1 one-sided=0 repaired=43 lowconf=2  agree=99.9%
+tables rebuilt: 4
+
+===== s4_rescue_cells.py  =====
+STEP 4 - targeted cell rescue at 600 dpi
+  T01 p02  examined=1  changed=0  -> T01_p02_rescue.csv
+  T02 p05  examined=276  changed=0  -> T02_p05_rescue.csv
+  T03 p07  examined=1  changed=0  -> T03_p07_rescue.csv
+  T04 p09  examined=170  changed=0  -> T04_p09_rescue.csv
+rescued: symbol=0 score=0 kept=448 no_reading=0
+
+===== s5_to_excel.py  =====
+STEP 4 - write excel
+  tables: 4  diff: 48  lowconf: 4  symbol-repair: 44  rescue: 0
+  -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\10\tables_extracted.xlsx
+  sheets: 00_??, T01_p02, T02_p05, T03_p07, T04_p09, 90_??_??, 91_??_???, 92_????, 93_?????, 94_????

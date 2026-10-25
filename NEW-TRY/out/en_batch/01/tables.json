@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\2  Characterization of key odorants causing the roasted and mud-like aromas in.pdf",
+    "n_pages": 13,
+    "dpi_main": 300,
+    "dpi_check": 400,
+    "cfg": {
+      "min_rule_w": 60.0,
+      "max_rule_h": 4.0,
+      "flat_tol": 0.8,
+      "rule_dy_tol": 1.2,
+      "rule_ox": 0.5,
+      "min_x_overlap": 0.6,
+      "min_table_h": 18.0,
+      "max_table_h": 760.0,
+      "max_mid_frac": 0.45,
+      "pad_x": 5.0,
+      "pad_top": 5.0,
+      "pad_bot": 6.0,
+      "long_h_pt": 150.0,
+      "long_rows": 8,
+      "min_body_rows": 3,
+      "min_med_runs": 3.0,
+      "min_frac_3plus": 0.35,
+      "dpi_main": 300,
+      "dpi_check": 400
+    },
+    "rules_per_page": {
+      "1": 6,
+      "2": 4,
+      "3": 3,
+      "4": 4,
+      "5": 7,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 6,
+      "11": 3,
+      "12": 3,
+      "13": 0
+    },
+    "n_candidates": 7,
+    "n_rejected": 1,
+    "rejected": [
+      {
+        "page": 1,
+        "box": [
+          37.68,
+          79.02,
+          558.48,
+          481.5
+        ],
+        "why": "median runs/row 2.0 < 3"
+      }
+    ],
+    "n_tables": 6,
+    "n_long": 5
+  },
+  "tables": [
+    {
+      "page": 2,
+      "box": [
+        37.68,
+        102.78,
+        558.48,
+        282.66
+      ],
+      "crop": [
+        32.68,
+        88.76,
+        563.48,
+        288.66
+      ],
+      "rules": {
+        "top": [
+          102.78,
+          37.68,
+          558.48,
+          0.600006103515625
+        ],
+        "mid": [
+          136.38,
+          37.68,
+          558.48,
+          0.600006103515625
+        ],
+        "bottom": [
+          282.66,
+          37.68,
+          558.48,
+          0.5999755859375
+        ]
+      },
+      "h_pt": 179.88,
+      "w_pt": 520.8,
+      "mid_frac": 0.187,
+      "extra_rules": 1,
+      "n_text_rows": 18,
+      "tab": {
+        "n_body_rows": 16,
+        "n_head_rows": 2,
+        "med_runs_body": 8,
+        "frac_rows_3plus": 1.0,
+        "body_col_runs": 6
+      },
+      "id": "T01",
+      "name": "T01_p02",
+      "long_table": true,
+      "img_a": "img/T01_p02_A.png",
+      "img_b": "img/T01_p02_B.png",
+      "px_a": [
+        2212,
+        834
+      ],
+      "px_b": [
+        2950,
+        1111
+      ]
+    },
+    {
+      "page": 4,
+      "box": [
+        37.68,
+        95.34,
+        558.48,
+        198.54
+      ],
+      "crop": [
+        32.68,
+        79.02,
+        563.48,
+        245.64
+      ],
+      "rules": {
+        "top": [
+          95.34,
+          37.68,
+          558.48,
+          0.5999984741210938
+        ],
+        "mid": [
+          129.42,
+          37.68,
+          558.48,
+          0.600006103515625
+        ],
+        "bottom": [
+          198.54,
+          37.68,
+          558.48,
+          0.5999908447265625
+        ]
+      },
+      "h_pt": 103.2,
+      "w_pt": 520.8,
+      "mid_frac": 0.33,
+      "extra_rules": 1,
+      "n_text_rows": 9,
+      "tab": {
+        "n_body_rows": 6,
+        "n_head_rows": 3,
+        "med_runs_body": 11,
+        "frac_rows_3plus": 0.667,
+        "body_col_runs": 11
+      },
+      "id": "T02",
+      "name": "T02_p04",
+      "long_table": true,
+      "img_a": "img/T02_p04_A.png",
+      "img_b": "img/T02_p04_B.png",
+      "px_a": [
+        2212,
+        695
+      ],
+      "px_b": [
+        2950,
+        926
+      ]
+    },
+    {
+      "page": 5,
+      "box": [
+        37.68,
+        102.78,
+        558.48,
+        676.98
+      ],
+      "crop": [
+        32.68,
+        88.76,
+        563.48,
+        714.4
+      ],
+      "rules": {
+        "top": [
+          102.78,
+          37.68,
+          558.48,
+          0.600006103515625
+        ],
+        "mid": [
+          153.3,
+          37.68,
+          558.48,
+          0.600006103515625
+        ],
+        "bottom": [
+          676.98,
+          37.68,
+          558.48,
+          0.5999755859375
+        ]
+      },
+      "h_pt": 574.2,
+      "w_pt": 520.8,
+      "mid_frac": 0.088,
+      "extra_rules": 2,
+      "n_text_rows": 63,
+      "tab": {
+        "n_body_rows": 60,
+        "n_head_rows": 3,
+        "med_runs_body": 11,
+        "frac_rows_3plus": 1.0,
+        "body_col_runs": 7
+      },
+      "id": "T03",
+      "name": "T03_p05",
+      "long_table": true,
+      "img_a": "img/T03_p05_A.png",
+      "img_b": "img/T03_p05_B.png",
+      "px_a": [
+        2212,
+        2608
+      ],
+      "px_b": [
+        2950,
+        3476
+      ]
+    },
+    {
+      "page": 10,
+      "box": [
+        37.68,
+        102.78,
+        558.48,
+        299.82
+      ],
+      "crop": [
+        32.68,
+        88.76,
+        563.48,
+        317.98
+      ],
+      "rules": {
+        "top": [
+          102.78,
+          37.68,
+          558.48,
+          0.600006103515625
+        ],
+        "mid": [
+          136.38,
+          37.68,
+          558.48,
+          0.600006103515625
+        ],
+        "bottom": [
+          299.82,
+          37.68,
+          558.48,
+          0.600006103515625
+        ]
+      },
+      "h_pt": 197.04,
+      "w_pt": 520.8,
+      "mid_frac": 0.171,
+      "extra_rules": 1,
+      "n_text_rows": 20,
+      "tab": {
+        "n_body_rows": 18,
+        "n_head_rows": 2,
+        "med_runs_body": 7,
+        "frac_rows_3plus": 1.0,
+        "body_col_runs": 7
+      },
+      "id": "T04",
+      "name": "T04_p10",
+      "long_table": true,
+      "img_a": "img/T04_p10_A.png",
+      "img_b": "img/T04_p10_B.png",
+      "px_a": [
+        2212,
+        956
+      ],
+      "px_b": [
+        2950,
+        1274
+      ]
+    },
+    {
+      "page": 11,
+      "box": [
+        37.68,
+        587.46,
+        289.2,
+        741.66
+      ],
+      "crop": [
+        32.68,
+        573.39,
+        294.2,
+        770.28
+      ],
+      "rules": {
+        "top": [
+          587.46,
+          37.68,
+          289.2,
+          0.5999755859375
+        ],
+        "mid": [
+          612.42,
+          37.68,
+          289.2,
+          0.60003662109375
+        ],
+        "bottom": [
+          741.66,
+          37.68,
+          289.2,
+          0.60003662109375
+        ]
+      },
+      "h_pt": 154.2,
+      "w_pt": 251.52,
+      "mid_frac": 0.162,
+      "extra_rules": 0,
+      "n_text_rows": 25,
+      "tab": {
+        "n_body_rows": 22,
+        "n_head_rows": 3,
+        "med_runs_body": 6,
+        "frac_rows_3plus": 0.955,
+        "body_col_runs": 7
+      },
+      "id": "T05",
+      "name": "T05_p11",
+      "long_table": true,
+      "img_a": "img/T05_p11_A.png",
+      "img_b": "img/T05_p11_B.png",
+      "px_a": [
+        1090,
+        821
+      ],
+      "px_b": [
+        1454,
+        1095
+      ]
+    },
+    {
+      "page": 12,
+      "box": [
+        37.68,
+        634.5,
+        558.48,
+        711.3
+      ],
+      "crop": [
+        32.68,
+        620.37,
+        563.48,
+        748.9
+      ],
+      "rules": {
+        "top": [
+          634.5,
+          37.68,
+          558.48,
+          0.60009765625
+        ],
+        "mid": [
+          667.98,
+          37.68,
+          558.48,
+          0.5999755859375
+        ],
+        "bottom": [
+          711.3,
+          37.68,
+          558.48,
+          0.5999755859375
+        ]
+      },
+      "h_pt": 76.8,
+      "w_pt": 520.8,
+      "mid_frac": 0.436,
+      "extra_rules": 0,
+      "n_text_rows": 6,
+      "tab": {
+        "n_body_rows": 4,
+        "n_head_rows": 2,
+        "med_runs_body": 7,
+        "frac_rows_3plus": 1.0,
+        "body_col_runs": 7
+      },
+      "id": "T06",
+      "name": "T06_p12",
+      "long_table": false,
+      "img_a": "img/T06_p12_A.png",
+      "img_b": "img/T06_p12_B.png",
+      "px_a": [
+        2212,
+        537
+      ],
+      "px_b": [
+        2950,
+        715
+      ]
+    }
+  ]
+}

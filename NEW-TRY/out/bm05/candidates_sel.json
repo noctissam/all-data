@@ -1,0 +1,144 @@
+{
+ "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\5  Impact of Pulsed Electric Fields Combined with Dissolved.pdf",
+ "dpi": 150,
+ "n_candidates": 6,
+ "candidates": [
+  {
+   "page": 15,
+   "kind": "below_last",
+   "n_gutters": 7,
+   "gutters": [
+    [
+     99,
+     116
+    ],
+    [
+     391,
+     480
+    ],
+    [
+     550,
+     598
+    ],
+    [
+     665,
+     716
+    ],
+    [
+     783,
+     834
+    ],
+    [
+     902,
+     953
+    ],
+    [
+     1022,
+     1071
+    ]
+   ],
+   "y_top_px": 283,
+   "y_bot_px": 1537,
+   "y_top_pt": 135.8,
+   "y_bot_pt": 737.8,
+   "height_pt": 601.9
+  },
+  {
+   "page": 16,
+   "kind": "between",
+   "n_gutters": 6,
+   "gutters": [
+    [
+     381,
+     485
+    ],
+    [
+     545,
+     603
+    ],
+    [
+     660,
+     721
+    ],
+    [
+     780,
+     839
+    ],
+    [
+     901,
+     958
+    ],
+    [
+     1019,
+     1076
+    ]
+   ],
+   "y_top_px": 194,
+   "y_bot_px": 1572,
+   "y_top_pt": 93.1,
+   "y_bot_pt": 754.6,
+   "height_pt": 661.4
+  },
+  {
+   "page": 17,
+   "kind": "between",
+   "n_gutters": 7,
+   "gutters": [
+    [
+     671,
+     688
+    ],
+    [
+     696,
+     711
+    ],
+    [
+     794,
+     808
+    ],
+    [
+     900,
+     923
+    ],
+    [
+     942,
+     956
+    ],
+    [
+     1019,
+     1035
+    ],
+    [
+     1037,
+     1058
+    ]
+   ],
+   "y_top_px": 194,
+   "y_bot_px": 956,
+   "y_top_pt": 93.1,
+   "y_bot_pt": 458.9,
+   "height_pt": 365.8
+  },
+  {
+   "page": 17,
+   "kind": "between",
+   "n_gutters": 2,
+   "gutters": [
+    [
+     567,
+     729
+    ],
+    [
+     825,
+     1002
+    ]
+   ],
+   "y_top_px": 978,
+   "y_bot_px": 1409,
+   "y_top_pt": 469.4,
+   "y_bot_pt": 676.3,
+   "height_pt": 206.9
+  }
+ ],
+ "filtered_from": 6
+}

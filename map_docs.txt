@@ -1,0 +1,191 @@
+==========================================================================================
+### data总库 'all data' 表头解析 -> 文献组 ###
+
+  文献3: 样品=['LZLJ-M7', 'LZLJ-T7']  单位线索=['μg/L']
+
+  文献4: 样品=['LS', 'LS']  单位线索=['μg/L']
+
+  文献5: 样品=['S1', 'S2 (F3)', 'S3', 'F1', 'F3']  单位线索=['μg/L']
+
+  文献6: 样品=['JH1', 'JH2', 'SC1', 'SC2', 'SC3', 'SC4', 'SC5', 'SC6']  单位线索=['μg/L']
+
+  文献7: 样品=['CB', 'FB', 'SB']  单位线索=['μg/L']
+
+  文献9: 样品=['B1-H', 'B1-L', 'B3-H', 'B3-L', 'B2-H', 'B2-L', 'B4-H', 'B4-L', 'B5-H', 'B5-L']  单位线索=['μg/L']
+
+  文献10: 样品=['1', '2', '3', '4', '5', '6', '7', '8']  单位线索=['μg/L']
+
+  文献11: 样品=['优级', '一级', '二级', '丢糟']  单位线索=['μg/L']
+
+  文献12: 样品=['JZG-1', 'JZ12-1', 'CZ5-1', 'JZB-1', 'LZ1-1', 'LZ1-1.1', 'JZ19-1', 'LZ2-1']  单位线索=['μg/L']
+
+  文献13: 样品=['YJ', 'DJ', 'CJ', 'LJ']  单位线索=['μg/L']
+
+  文献14: 样品=['A', 'B', 'C']  单位线索=['μg/L']
+
+  文献15: 样品=['L1', 'L2']  单位线索=['μg/L']
+
+  文献16: 样品=['GJGJ', 'HXEGT', 'NLS', 'YZQJ', 'THDQ']  单位线索=['mg/L']
+
+  文献17: 样品=['A', 'B', 'C']  单位线索=['μg/L']
+
+  文献18: 样品=['X\u200b', 'X1\u200b', 'X3\u200b', 'X5\u200b', 'X8\u200b']  单位线索=['μg/L']
+
+  文献19: 样品=['LZ /']  单位线索=['μg/L']
+
+  文献20: 样品=['NX 平均含量']  单位线索=['μg/L']
+
+  文献21: 样品=['NX 平均含量']  单位线索=['μg/L']
+
+  文献22: 样品=['SC1', 'SC2', 'SC3', 'JS']  单位线索=['μg/L']
+
+  文献25: 样品=['沂蒙老区6成品酒μg/L GRD-1', 'GRD-JC', 'GRD-PD', 'GRD-2', 'JPLG', 'LGTQ', '典型5浓香型μg/L JNC', 'LZLJ', 'WLY', 'GJG', 'JSY', '沂蒙老区新老原酒μg/L 新酒浓度', '老酒浓度']  单位线索=['μg/L']
+
+  文献26: 样品=['一级好酒（μ/L）', '一级差酒', '二级好酒', '二级差酒', '三级酒']  单位线索=[]
+
+  文献27: 样品=['NX1\u200b', 'NX2\u200b', 'NX3\u200b', 'NX4\u200b', 'NX5\u200b', 'NX6\u200b', 'NX7\u200b', 'NX8\u200b', 'NX9\u200b', 'NX1\u200b0']  单位线索=['μg/L']
+
+  文献28: 样品=['n-c-1', 'n-c-2', 'n-g-1', 'n-g-2', 'n-d-2012', 'n-s-2012', 'n-d-2011', 'n-s-2010', 'n-s-2009', 'n-d-2007', 'n-s-2004', 'n-d-2002', 'n-d-2000', 'n-d-1997', 'n-d-1994']  单位线索=['μg/L']
+
+  文献29: 样品=['G1', 'G2']  单位线索=['μg/L']
+
+  文献30: 样品=['41.6% HZL', '41% TZL', '46% TZL', '52% TZL', '42.6% MZL']  单位线索=['μg/L']
+
+  文献31: 样品=['46% 浓度', '52% 浓度']  单位线索=['μg/L']
+
+  文献32: 样品=['均衡组', '微涩组', '较涩组', '涩味组', '苦味组']  单位线索=['g/L']
+
+  文献33: 样品=['S-Y1-H', 'S-Y2 H', 'S-Y3 H', 'S-Y4 H', 'S-Y5 H', 'S-Y6 H', 'S-L1 H', 'A-GJG H', 'G-J1 H', 'J-Y1 H', 'S-Y1', 'S-Y2', 'S-Y3', 'S-Y4', 'S-Y5', 'S-Y6', 'S-L1', 'A-G1', 'G-J1', 'J-Y1']  单位线索=['μg/L']
+
+==========================================================================================
+### data总库 分表结构 ###
+
+--- '2  Characterization of key odor' (rows=64, cols=33) ---
+   R1: ['Compounds', '(μg/L)', 'LZ–2016 base SAB (Mean ± SD)', 'GJ–1573 (Mean ± SD)', 'LZ–2016 base SAB (OAV)', 'GJ–1573 (OAV)', '', '中文名称', 'cas', '', '', '', '序号', '化合物名称 (Aroma compounds)', '样本 1 含量', '样本 2 含量', '', '', '序号', '化合物 (标准顺序)', '阈值 (μg/L)', '样本 1 含量', '样本 2 含量', '', '', '', '', '', '', '', '', '', '']
+   R2: ['ethyl hexanoate', '55.3', '7,606,936 ± 17,161', '1,487,026 ± 6408', '137558', '26890', '', '己酸乙酯', '123-66-0', '', '', '', '1', 'ethyl hexanoate', '7,606,936 ± 17,161', '1,487,026 ± 6,408', '', '', '1', '己酸乙酯', '55.3', '7,606,936 ± 17,161', '1,487,026 ± 6,408', '', '', '7,606,936 ± 17,161', '1,487,026 ± 6,408', '', '7,606,936 ', '1,487,026 ', '', '7606936', '1487026']
+
+--- '5  Key Aroma Compounds and Arom' (rows=132, cols=10) ---
+   R1: ['no.', 'flavor components', 'CAS', 'Y1', 'Y3', 'Y5', 'Y8', 'Y11', 'Threshold', 'OAV']
+   R2: ['1', 'ethyl hexanoate', '123–66–0', '5320.56 ± 47.54b', '972.62 ± 17.26d', '1104.58 ± 26.46c', '6009.12 ± 29.01a', '918.62 ± 3.73t', '', '']
+
+--- '2  Decoding the Molecular Mecha' (rows=29, cols=7) ---
+   R1: ['NO.', 'Compounds', 'Threshold(μg/L)', 'Concentration LZLJ-M7 (Mean ', 'Concentration LZLJ-T7 (Mean ', 'LZLJ-M7 (OAV)', 'LZLJ-T7 (OAV)']
+   R2: ['1', 'Ethyl Hexanoate', '55.33a', '873,258 ± 9159', '738,302 ± 3649', '15783', '13344']
+
+--- '2  Volatilomics and Lipidomics ' (rows=27, cols=5) ---
+   R1: ['Code', 'Aroma compound', 'Odor threshold (μg/L)', 'OAV LS', 'OAV FS']
+   R2: ['1', 'Ethyl acetate', '32551.6', '5.45 ± 0.69', '5.50 ± 6.64']
+
+--- '5  Impact of Pulsed Electric Fi' (rows=102, cols=7) ---
+   R1: ['Compound Name', 'Blank (mg/L)', 'S1 (mg/L)', 'S2 (F3) (mg/L)', 'S3 (mg/L)', 'F1 (mg/L)', 'F3 (mg/L)']
+   R2: ['3-methylbutyl pentanoate', '1.688', '2.007', '2.239', '2.124', '2.474', '2.316']
+
+--- '8 Flavoromic Exploration of Reg' (rows=34, cols=11) ---
+   R1: ['ID', 'compound', 'odor threshold (μg/L)', 'JH1', 'JH2', 'SC1', 'SC2', 'SC3', 'SC4', 'SC5', 'SC6']
+   R2: ['A1', '1-propanol', '54', '2.23', '2.68', '3.7', '3.18', '2.81', '3.93', '3.58', '3.59']
+
+--- '3  Characterization of the diff' (rows=39, cols=6) ---
+   R1: ['Compound', 'Odor Threshold (μg/L)', 'OAV Sample 1', 'OAV Sample 2', 'OAV Sample 3', 'Average OAV']
+   R2: ['Ethyl hexanoate', '55b', '84503', '121499', '111532', '105845']
+
+--- '3  Unraveling variation on the ' (rows=61, cols=16) ---
+   R1: ['No.', 'Category', 'Compounds', 'CAS number', 'BC/SG', 'GJG', 'LZ', '', 'No.⁺', 'Category', 'Compounds', 'CAS', '(mg L⁻¹)', 'BCSG', 'GJG', 'LZ']
+   R2: ['1', 'Alcohols', '2-Butanol', '78-92-2', '71.11 ± 1.09', '29.83 ± 0.56', '20.70 ± 0.18', '', '1', 'Alcohols', '2-Butanol', '78-92-2', '50', '1', '1', '0']
+
+--- '10  Aroma characterization and ' (rows=45, cols=13) ---
+   R1: ['Zone', 'Compounds (μg/L)', 'threshold', 'B1-H', 'B1-L', 'B3-H', 'B3-L', 'B2-H', 'B2-L', 'B4-H', 'B4-L', 'B5-H', 'B5-L']
+   R2: ['19', 'ethyl hexanoate*', '55.3ᵃ', '29229', '23061', '28017', '22810', '28456', '22909', '27266', '22513', '30552', '25546']
+
+--- '8  Exploration of key aroma act' (rows=51, cols=22) ---
+   R1: ['No.', 'Aroma compounds', 'Odor threshold (μg/L)', 'OAV (1)', 'OAV (2)', 'OAV (3)', 'OAV (4)', 'OAV (5)', 'OAV (6)', 'OAV (7)', 'OAV (8)', '', 'No.', 'Aroma compounds', 'Concentration (mg/L) - 1', 'Concentration (mg/L) - 2', 'Concentration (mg/L) - 3', 'Concentration (mg/L) - 4', 'Concentration (mg/L) - 5', 'Concentration (mg/L) - 6', 'Concentration (mg/L) - 7', 'Concentration (mg/L) - 8']
+   R2: ['1', 'Ethyl butanoate', '82ᵃ', '11465', '2515', '1677', '1373', '902', '695', '247', '233', '', '1', 'Ethyl butanoate', '940 ± 14.6', '206 ± 3.2', '138 ± 0.727', '113 ± 2.27', '73 ± 1.28', '57 ± 0.543', '20.3 ± 0.31', '19.1 ± 0.17']
+
+--- '3  Investigation on the key fac' (rows=58, cols=10) ---
+   R1: ['No.', 'Compounds', 'Quantified ion', 'Concentration (mg/L)', '', '', 'Outer threshold (mg/L)', 'OAV', '', '']
+   R2: ['', '', '', 'A', 'B', 'C', '', 'A', 'B', 'C']
+
+--- 'Sheet9' (rows=1, cols=1) ---
+
+==========================================================================================
+### 清洗后数据 每篇文献 -> (原始样品, 清洗后样品) ###
+
+  [1] Characterization of key odorants causing the roasted and mud-like aromas in
+      清洗后样品(3): ['LZ-2016 base SAB', 'GJ-1573', 'LZ-2016 base SAB/GJ-1573']
+
+  [2] Key Aroma Compounds and Aroma Characteristics in
+      清洗后样品(0): []
+
+  [3] Decoding the Molecular Mechanism of Cellar Aroma Loss
+      清洗后样品(1): ['LZLJ-T7']
+
+  [4] Volatilomics and Lipidomics revealed flavoring mechanism in baijiu
+      清洗后样品(0): []
+
+  [5] Impact of Pulsed Electric Fields Combined with Dissolved
+      清洗后样品(0): []
+
+  [6] Characterization of the differences in aroma-active compounds in
+      清洗后样品(4): ['CB', 'FB', 'SB', 'Average']
+
+  [7] Unraveling variation on the profile aroma
+      清洗后样品(3): ['BCSG', 'GJG', 'LZ']
+
+  [8] Aroma characterization and reconstitution of strong-aroma baijiu Insights
+      清洗后样品(1): ['H']
+
+  [9] Exploration of key aroma active compounds in strong flavor Baijiu during
+      清洗后样品(0): []
+
+  [10] Investigation on the key factors associated with flavor quality in northern
+      清洗后样品(3): ['A', 'B', 'c']
+
+  [11] 四川不同产区浓香型白酒风味物质差异化分析
+      清洗后样品(3): ['DJ', 'CJ', 'LJ']
+
+  [12] 基于GC×GC-MS分析不同等级浓香型白酒的关键风味化合物
+      清洗后样品(3): ['B', 'C', 'A']
+
+  [13] 基于全二维气相色谱-飞行时间质谱结合多元统计方法解析芝麻香型白酒的风味组分研究
+      清洗后样品(0): []
+
+  [14] 5种品牌浓香型白酒香气成分分析
+      清洗后样品(4): ['红星二锅头', '牛栏山', '银装青酒', '洋河大曲']
+
+  [15] 不同贮存年份的五粮浓香型白酒挥发性风味物质对比分析
+      清洗后样品(4): ['X1', 'X3', 'X5', 'X8']
+
+  [16] 浓香、酱香、清香型白酒挥发性风味的特征与差异研究
+      清洗后样品(2): ['ZSW/', 'LZ/']
+
+  [17] 三种香型白酒的ICP-OES和GC-QTOF_MS分析及判别研究
+      清洗后样品(0): []
+
+  [18] 浓香型白酒及其风味成分对乙醇代谢关键酶酶活性的影响
+      清洗后样品(4): ['SC2', 'SC3', 'JS', 'SC1']
+
+  [19] 3个年份浓香型白酒香气成分比较研究
+      清洗后样品(2): ['3 年陈', '5 年陈']
+
+  [20] 山东沂蒙老区浓香型白酒特征风味研究
+      清洗后样品(15): ['TT-2S', 'TT-4S', 'TJ-2S', 'TJ-4S', 'GRD-JC', 'GRD-PD', 'GRD-2', 'JPLG', 'LGTQ', 'LZLJ', 'WLY', 'GJG', 'JSY', 'GRD-1', 'TJ-1S']
+
+  [21] 浓香型白酒基酒挥发性成分分析及等级识别研究
+      清洗后样品(16): ['一级差酒', '二级好酒', '二级差酒', '三级酒', '好酒', '差酒', '一级', '二级', '三级', '差酒 LH', '好酒 >工', '一级 好酒', '一级 差酒', '二级 差酒 三级 酒', '一级 差酒 H', '差酒 二级 三级酒']
+
+  [22] 基于GC-QTOF_MS技术的浓香型白酒原酒质量等级评价
+      清洗后样品(9): ['NX2', 'NX3', 'NX4', 'NX5', 'NX6', 'NX7', 'NX8', 'NX9', 'NX10']
+
+  [23] 酱香型和浓香型白酒中香气物质及其差异研究
+      清洗后样品(52): ['茅台酒', '习酒·窖藏1988', 'j-c-1', 'j-c-2', '香', '甜', '窖底', '底', 'n-g-2', 'n-c-1', 'n-c-2', 'n-g-1', '习酒', '酱香', '醇甜', '原酒', '中', '碱', '碱 酸', 'C-2013', 'J-2012', 'C-2012', 'D-2012', 'C-2011', 'J-2010', 'C-2010', 'D-2010', 'D-2008', 'J-2006', 'C-2004', 'C-1994', 'C-1992', 'C-lun-1', 'C-lun-2', 'C-lun-3', 'C-lun-5', 'C-lun-6', 'J-lun-3', 'J-lun-4', 'D-lun-3', 'D-lun-4', 'n-s-2012', 'n-d-2011', 'n-s-2010', 'n-s-2009', 'n-d-2007', 'n-s-2004', 'n-d-2000', 'n-d-1997', 'n-d-1994', '酱香型酒', '浓香型酒']
+
+  [24] 洋河绵柔型白酒关键风味成分
+      清洗后样品(5): ['41% TZL', '46% TZL', '52% TZL', '42.6% MZL', '41.6% HZL']
+
+  [25] 浓香型洋河天之蓝和清香型二锅头大曲白酒特征香气成分研究
+      清洗后样品(1): ['二锅头']
+
+  [26] 浓香型白酒基酒味觉特征与挥发性风味成分相关性研究
+      清洗后样品(4): ['微涩组', '较涩组', '涩味组', '苦味组']
+
+  [27] 宜宾产区浓香型白酒风味特征及香气活性物质鼻后释放规律的研究
+      清洗后样品(16): ['S-Y2-H', 'S-Y3-H', 'S-Y4-H', 'S-Y5-H', 'S-L1-H', 'A-GJG-H', 'G-J1-H', 'J-Y1-H', 'S-Y2-L', 'S-Y3-L', 'S-Y4-L', 'S-Y5-L', 'S-L1-L', 'A-G1-L', 'G-J1-L', 'J-Y1-L']

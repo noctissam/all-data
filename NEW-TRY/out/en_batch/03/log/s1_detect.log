@@ -1,0 +1,28 @@
+STEP 1 - detect three-line tables
+pdf: C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\2  Decoding the Molecular Mechanism of Cellar Aroma Loss.pdf
+pages: 16
+  page  1: rules=   2  candidates=0  tables=0
+  page  2: rules=   1  candidates=0  tables=0
+  page  3: rules=   1  candidates=0  tables=0
+  page  4: rules=   7  candidates=6  tables=0
+        rejected p04 y=494..772 h=277  median runs/row 2.0 < 3
+  page  5: rules=   1  candidates=0  tables=0
+  page  6: rules=   8  candidates=7  tables=0
+        rejected p06 y=77..772 h=695  median runs/row 1.0 < 3
+  page  7: rules=   8  candidates=7  tables=0
+        rejected p07 y=77..772 h=695  median runs/row 1.0 < 3
+  page  8: rules=   8  candidates=7  tables=0
+        rejected p08 y=77..772 h=694  median runs/row 1.0 < 3
+  page  9: rules=  16  candidates=18  tables=0
+        rejected p09 y=77..772 h=695  median runs/row 1.0 < 3
+  page 10: rules=  16  candidates=19  tables=0
+        rejected p10 y=77..772 h=695  median runs/row 1.0 < 3
+  page 11: rules=   1  candidates=0  tables=0
+  page 12: rules=  13  candidates=14  tables=0
+        rejected p12 y=77..772 h=695  median runs/row 1.0 < 3
+  page 13: rules=   1  candidates=0  tables=0
+  page 14: rules=   1  candidates=0  tables=0
+  page 15: rules=   2  candidates=0  tables=0
+  page 16: rules=   1  candidates=0  tables=0
+candidates=7  tables kept=0  (long: 0)  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\03\tables.json
+images -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\03\img   previews -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\03\page_preview

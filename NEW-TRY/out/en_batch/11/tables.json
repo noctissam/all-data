@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\3   Investigation on the key factors associated with flavor quality in northern.pdf",
+    "n_pages": 11,
+    "dpi_main": 300,
+    "dpi_check": 400,
+    "cfg": {
+      "min_rule_w": 60.0,
+      "max_rule_h": 4.0,
+      "flat_tol": 0.8,
+      "rule_dy_tol": 1.2,
+      "rule_ox": 0.5,
+      "min_x_overlap": 0.6,
+      "min_table_h": 18.0,
+      "max_table_h": 760.0,
+      "max_mid_frac": 0.45,
+      "pad_x": 5.0,
+      "pad_top": 5.0,
+      "pad_bot": 6.0,
+      "long_h_pt": 150.0,
+      "long_rows": 8,
+      "min_body_rows": 3,
+      "min_med_runs": 3.0,
+      "min_frac_3plus": 0.35,
+      "dpi_main": 300,
+      "dpi_check": 400
+    },
+    "rules_per_page": {
+      "1": 6,
+      "2": 0,
+      "3": 5,
+      "4": 5,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 3,
+      "9": 0,
+      "10": 0,
+      "11": 0
+    },
+    "n_candidates": 1,
+    "n_rejected": 1,
+    "rejected": [
+      {
+        "page": 1,
+        "box": [
+          37.68,
+          80.1,
+          558.48,
+          446.1
+        ],
+        "why": "median runs/row 2.0 < 3"
+      }
+    ],
+    "n_tables": 0,
+    "n_long": 0
+  },
+  "tables": []
+}

@@ -1,0 +1,540 @@
+{
+ "idx": 8,
+ "route": "ocr",
+ "note": "A/B agree 99.8% min, 99.8% avg",
+ "tables": [
+  {
+   "caption": "Table 3 OAVs of aroma compounds in three representative Nongxiangxing Baijiu samples",
+   "note": "",
+   "header_rows": [
+    [
+     "",
+     "",
+     "",
+     "",
+     "OAVC",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "Odor thresholdsb",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "No.a Category",
+     "Compounds",
+     "CAS",
+     "(mg L-1)",
+     "BCSG",
+     "GJG",
+     "LZ",
+     "Aroma characteristicsd"
+    ]
+   ],
+   "rows": [
+    [
+     "1 Alcohols",
+     "2-Butanol",
+     "78-92-2",
+     "50.00",
+     "1",
+     "1",
+     "0",
+     "Fruity"
+    ],
+    [
+     "2",
+     "1-Propanol",
+     "71-23-8",
+     "53.95",
+     "2",
+     "4",
+     "1",
+     "Fermented grain"
+    ],
+    [
+     "38",
+     "2-Pentanol",
+     "6032-29-7",
+     "45.00",
+     "1",
+     "0",
+     "0",
+     "Green"
+    ],
+    [
+     "39",
+     "2-Methyl-1-butanol",
+     "137-32-6",
+     "50.00",
+     "2",
+     "3",
+     "0",
+     "Banana"
+    ],
+    [
+     "4",
+     "3-Methyl-1-butanol",
+     "123-51-3",
+     "179.19",
+     "2",
+     "2",
+     "1",
+     "Ripe fruit"
+    ],
+    [
+     "40",
+     "2-Hexanol",
+     "626-93-7",
+     "1.51",
+     "16",
+     "0",
+     "0",
+     "Fruity"
+    ],
+    [
+     "5",
+     "1-Pentanol",
+     "71-41-0",
+     "4.00",
+     "3",
+     "0",
+     "0",
+     "Fermented grain"
+    ],
+    [
+     "41",
+     "2-Heptanol",
+     "543-49-7",
+     "1.43",
+     "2",
+     "0",
+     "0",
+     "Fruity"
+    ],
+    [
+     "6",
+     "1-Hexanol",
+     "111-27-3",
+     "5.37",
+     "11",
+     "0",
+     "5",
+     "Green"
+    ],
+    [
+     "3",
+     "2-Methyl-1-propanol",
+     "78-83-1",
+     "40.00",
+     "0",
+     "1",
+     "0",
+     "Fermented grain"
+    ],
+    [
+     "45 Aromatic",
+     "2-Furan methanol",
+     "98-00-0",
+     "2.00",
+     "2",
+     "0",
+     "1",
+     "Roasted sesame"
+    ],
+    [
+     "10 compounds",
+     "Furfural",
+     "98-01-1",
+     "15.00",
+     "0",
+     "0",
+     "1",
+     "Sweet"
+    ],
+    [
+     "46",
+     "2-Butylfuran",
+     "4466-24-4",
+     "0.01",
+     "1157",
+     "0",
+     "0",
+     "Oranges"
+    ],
+    [
+     "7",
+     "Ethyl 3-phenylpropionate",
+     "2021-28-5",
+     "0.13",
+     "40",
+     "85",
+     "0",
+     "Honey"
+    ],
+    [
+     "48",
+     "4-Ethyl-2-methoxy-phenol",
+     "2785-89-9",
+     "0.12",
+     "16",
+     "0",
+     "0",
+     "Wood"
+    ],
+    [
+     "49",
+     "Ethyl benzoate",
+     "93-89-0",
+     "1.43",
+     "0",
+     "1",
+     "0",
+     "Fruity"
+    ],
+    [
+     "8",
+     "4-甲基苯酚",
+     "106-44-5",
+     "0.17",
+     "0",
+     "8",
+     "7",
+     "Narcissus"
+    ],
+    [
+     "12 Acids",
+     "Acetic acid",
+     "64-19-7",
+     "160.00",
+     "2",
+     "3",
+     "3",
+     "Acidity"
+    ],
+    [
+     "50",
+     "2-Methylpropanoic acid",
+     "79-31-2",
+     "0.13",
+     "49",
+     "40",
+     "35",
+     "Cheesy"
+    ],
+    [
+     "14",
+     "Butanoic acid",
+     "107-92-6",
+     "0.96",
+     "132",
+     "194",
+     "212",
+     "Cheesy"
+    ],
+    [
+     "15",
+     "3-Methylbutanoic acid",
+     "503-74-2",
+     "1.05",
+     "0",
+     "7",
+     "9",
+     "Dairy"
+    ],
+    [
+     "51",
+     "3-Methyl pentatonic acid",
+     "105-43-1",
+     "0.15",
+     "38",
+     "0",
+     "0",
+     "Cheesy"
+    ],
+    [
+     "16",
+     "Pentatonic acid",
+     "109-52-4",
+     "0.39",
+     "61",
+     "20",
+     "36",
+     "Dairy"
+    ],
+    [
+     "17",
+     "Hexanoic acid",
+     "142-62-1",
+     "2.52",
+     "197",
+     "128",
+     "141",
+     "Fatty"
+    ],
+    [
+     "18",
+     "Heptanoic acid",
+     "111-14-8",
+     "13.82",
+     "1",
+     "1",
+     "0",
+     "Honey"
+    ],
+    [
+     "19",
+     "Octanoic acid",
+     "124-07-2",
+     "2.70",
+     "2",
+     "6",
+     "2",
+     "Fatty"
+    ],
+    [
+     "52",
+     "Nonanoic acid",
+     "112-05-0",
+     "3.56",
+     "0",
+     "0",
+     "2",
+     "Acidity"
+    ],
+    [
+     "20 Esters",
+     "Ethyl acetate",
+     "141-78-6",
+     "32.55",
+     "71",
+     "37",
+     "36",
+     "Apple"
+    ],
+    [
+     "22",
+     "Ethyl pentanoate",
+     "539-82-2",
+     "0.03",
+     "2674",
+     "0",
+     "6665",
+     "Apple"
+    ],
+    [
+     "23",
+     "Butyl formate",
+     "592-84-7",
+     "0.80",
+     "89",
+     "64",
+     "71",
+     "Fruity"
+    ],
+    [
+     "24",
+     "Butyl butanoate",
+     "109-21-7",
+     "0.11",
+     "310",
+     "0",
+     "0",
+     "Fruity"
+    ],
+    [
+     "25",
+     "Ethyl hexanoate",
+     "123-66-0",
+     "0.06",
+     "37 901",
+     "53 306",
+     "44 759",
+     "Fruity"
+    ],
+    [
+     "28",
+     "Propyl hexanoate",
+     "626-77-7",
+     "12.80",
+     "3",
+     "1",
+     "0",
+     "Grape"
+    ],
+    [
+     "26",
+     "Ethyl heptanoate",
+     "106-30-9",
+     "13.15",
+     "29",
+     "5",
+     "8",
+     "Pineapple"
+    ],
+    [
+     "27",
+     "Ethyl lactate",
+     "97-64-3",
+     "128.08",
+     "7",
+     "4",
+     "5",
+     "Dairy"
+    ],
+    [
+     "29",
+     "Butyl hexanoate",
+     "626-82-4",
+     "0.70",
+     "113",
+     "21",
+     "29",
+     "Fruity"
+    ],
+    [
+     "31",
+     "Hexyl butyrate",
+     "2639-63-6",
+     "0.25",
+     "38",
+     "0",
+     "0",
+     "Sweet"
+    ],
+    [
+     "30",
+     "Ethyl octanoate",
+     "106-32-1",
+     "0.01",
+     "21 313",
+     "10 273",
+     "5625",
+     "Ripe fruit"
+    ],
+    [
+     "36",
+     "Isopentyl hexanoate",
+     "2198-61-0",
+     "1.40",
+     "71",
+     "36",
+     "0",
+     "Banana"
+    ],
+    [
+     "54",
+     "Ethyl nonanoate",
+     "123-29-5",
+     "3.15",
+     "1",
+     "0",
+     "0",
+     "Grape"
+    ],
+    [
+     "33",
+     "Hexyl hexanoate",
+     "6378-65-0",
+     "1.89",
+     "14",
+     "27",
+     "20",
+     "Green"
+    ],
+    [
+     "34",
+     "Ethyl decanoate",
+     "110-38-3",
+     "1.12",
+     "13",
+     "6",
+     "0",
+     "Floral"
+    ],
+    [
+     "35",
+     "Ethyl hexadecanoate",
+     "628-97-7",
+     "1.50",
+     "10",
+     "53",
+     "16",
+     "Toffee"
+    ],
+    [
+     "21",
+     "Ethyl butanoate",
+     "105-54-4",
+     "0.08",
+     "1828",
+     "2011",
+     "2558",
+     "Ripe fruit"
+    ],
+    [
+     "a The numbers are the same as the numbers listed in Tables 1 and 2. b OAVs were calculated by dividing the concentration by the respective odor",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "threshold. ° Odor thresholds were taken from ref. 41 and 42. d Aroma characteristic, aroma characteristics of aroma compounds smelled by",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "assessors.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "n_row": 47,
+   "n_col": 8,
+   "pages": [
+    8
+   ],
+   "src_id": "T01",
+   "long_table": true,
+   "verify": {
+    "n_cells": 400,
+    "n_match": 399,
+    "n_conflict": 1,
+    "n_one_sided": 0,
+    "n_lowconf": 0,
+    "n_repaired": 1,
+    "agree_pct": 99.75,
+    "n_rescued": 0,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 2
+  }
+ ],
+ "suspects": [
+  "T01 r44 c0 'a The numbers are the same as the numbers listed in Tables 1 and 2. b OAVs were calculated by dividing the concentration by the respective odor'",
+  "T01 r45 c0 'threshold. ° Odor thresholds were taken from ref. 41 and 42. d Aroma characteristic, aroma characteristics of aroma compounds smelled by'"
+ ],
+ "sheet": "3  Unraveling variation on the ",
+ "pdf": "3  Unraveling variation on the profile aroma.pdf"
+}

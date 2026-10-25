@@ -1,0 +1,494 @@
+{
+ "1-丁醇a": {
+  "cas": "71-36-3",
+  "cid": 263,
+  "status": "ok-eutils",
+  "query": "butan-1-ol"
+ },
+ "1-丙醇a": {
+  "cas": "71-23-8",
+  "cid": 1031,
+  "status": "ok-eutils",
+  "query": "propan-1-ol"
+ },
+ "1-丙醇b": {
+  "cas": "71-23-8",
+  "cid": 1031,
+  "status": "ok-eutils",
+  "query": "propan-1-ol"
+ },
+ "1-己醇a": {
+  "cas": "111-27-3",
+  "cid": 8103,
+  "status": "ok-eutils",
+  "query": "hexan-1-ol"
+ },
+ "1-戊醇a": {
+  "cas": "71-41-0",
+  "cid": 6276,
+  "status": "ok-eutils",
+  "query": "pentan-1-ol"
+ },
+ "1-辛醇a": {
+  "cas": "111-87-5",
+  "cid": 957,
+  "status": "ok-eutils",
+  "query": "octan-1-ol"
+ },
+ "2-丁醇a": {
+  "cas": "78-92-2",
+  "cid": 6568,
+  "status": "ok-eutils",
+  "query": "butan-2-ol"
+ },
+ "2-丁醇b": {
+  "cas": "78-92-2",
+  "cid": 6568,
+  "status": "ok-eutils",
+  "query": "butan-2-ol"
+ },
+ "2-戊酮a": {
+  "cas": "107-87-9",
+  "cid": 7895,
+  "status": "ok-eutils",
+  "query": "pentan-2-one"
+ },
+ "2-戊醇a": {
+  "cas": "6032-29-7",
+  "cid": 22386,
+  "status": "ok-eutils",
+  "query": "pentan-2-ol"
+ },
+ "2-戊醇b": {
+  "cas": "6032-29-7",
+  "cid": 22386,
+  "status": "ok-eutils",
+  "query": "pentan-2-ol"
+ },
+ "2-甲基丙酸a": {
+  "cas": "79-31-2",
+  "cid": 6590,
+  "status": "ok-eutils",
+  "query": "2-methylpropanoic acid"
+ },
+ "2-甲基丙酸b": {
+  "cas": "79-31-2",
+  "cid": 6590,
+  "status": "ok-eutils",
+  "query": "2-methylpropanoic acid"
+ },
+ "2-甲基丙酸乙酯a": {
+  "cas": "97-62-1",
+  "cid": 7342,
+  "status": "ok-eutils",
+  "query": "ethyl 2-methylpropanoate"
+ },
+ "2-甲基丙醇a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "2-糠醇a": {
+  "cas": "98-00-0",
+  "cid": 7361,
+  "status": "ok-eutils",
+  "query": "furan-2-ylmethanol"
+ },
+ "2-羟基丙酸-2-甲基丙酯a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "2-羟基己酸乙酯a": {
+  "cas": "52089-55-1",
+  "cid": 103589,
+  "status": "ok-eutils",
+  "query": "ethyl 2-hydroxyhexanoate"
+ },
+ "2-苯乙酸乙酯a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "2-苯乙醇a": {
+  "cas": "60-12-8",
+  "cid": 6054,
+  "status": "ok-eutils",
+  "query": "2-phenylethanol"
+ },
+ "3-甲基丁酸a": {
+  "cas": "503-74-2",
+  "cid": 10430,
+  "status": "ok-eutils",
+  "query": "3-methylbutanoic acid"
+ },
+ "3-甲基丁酸b": {
+  "cas": "503-74-2",
+  "cid": 10430,
+  "status": "ok-eutils",
+  "query": "3-methylbutanoic acid"
+ },
+ "3-甲基丁酸乙酯a": {
+  "cas": "108-64-5",
+  "cid": 7945,
+  "status": "ok-eutils",
+  "query": "ethyl 3-methylbutanoate"
+ },
+ "3-甲基丁醇a": {
+  "cas": "123-51-3",
+  "cid": 31260,
+  "status": "ok-eutils",
+  "query": "3-methylbutan-1-ol"
+ },
+ "3-甲基丁醛a": {
+  "cas": "590-86-3",
+  "cid": 11552,
+  "status": "ok-eutils",
+  "query": "3-methylbutanal"
+ },
+ "3-苯丙酸乙酯a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "4-甲基戊酸b": {
+  "cas": "646-07-1",
+  "cid": 12587,
+  "status": "ok-eutils",
+  "query": "4-methylpentanoic acid"
+ },
+ "Ethyl linolenate milky sweet": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Ethyl linolenate milky sweet)",
+  "query": "Ethyl linolenate milky sweet"
+ },
+ "FEMA 2575": {
+  "cas": "1117-55-1",
+  "cid": 14228,
+  "status": "ok-eutils",
+  "query": "FEMA 2575"
+ },
+ "FEMA 2721": {
+  "cas": "2412-80-8",
+  "cid": 17008,
+  "status": "ok-eutils",
+  "query": "FEMA 2721"
+ },
+ "Fema 2575": {
+  "cas": "1117-55-1",
+  "cid": 14228,
+  "status": "ok-eutils",
+  "query": "Fema 2575"
+ },
+ "Table 3": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Table 3)",
+  "query": "Table 3"
+ },
+ "Table 4": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Table 4)",
+  "query": "Table 4"
+ },
+ "roasty": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(roasty)",
+  "query": "roasty"
+ },
+ "丁二酸二乙酯a": {
+  "cas": "123-25-1",
+  "cid": 31249,
+  "status": "ok-eutils",
+  "query": "diethyl succinate"
+ },
+ "丁酸a": {
+  "cas": "107-92-6",
+  "cid": 264,
+  "status": "ok-eutils",
+  "query": "butanoic acid"
+ },
+ "丁酸b": {
+  "cas": "107-92-6",
+  "cid": 264,
+  "status": "ok-eutils",
+  "query": "butanoic acid"
+ },
+ "丁酸乙酯a": {
+  "cas": "105-54-4",
+  "cid": 7762,
+  "status": "ok-eutils",
+  "query": "ethyl butyrate"
+ },
+ "丁酸异丁酯3": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "丁醇)": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "丁醛二乙缩醛": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "丙酸a": {
+  "cas": "79-09-4",
+  "cid": 1032,
+  "status": "ok-eutils",
+  "query": "propanoic acid"
+ },
+ "丙酸b": {
+  "cas": "79-09-4",
+  "cid": 1032,
+  "status": "ok-eutils",
+  "query": "propanoic acid"
+ },
+ "丙酸乙酯a": {
+  "cas": "105-37-3",
+  "cid": 7749,
+  "status": "ok-eutils",
+  "query": "ethyl propanoate"
+ },
+ "乙缩醛a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "乙酸a": {
+  "cas": "64-19-7",
+  "cid": 176,
+  "status": "ok-eutils",
+  "query": "acetic acid"
+ },
+ "乙酸b": {
+  "cas": "64-19-7",
+  "cid": 176,
+  "status": "ok-eutils",
+  "query": "acetic acid"
+ },
+ "乙酸乙酯a": {
+  "cas": "141-78-6",
+  "cid": 8857,
+  "status": "ok-eutils",
+  "query": "ethyl acetate"
+ },
+ "乙酸己酯a": {
+  "cas": "142-92-7",
+  "cid": 8908,
+  "status": "ok-eutils",
+  "query": "hexyl acetate"
+ },
+ "乙酸异戊酯a": {
+  "cas": "123-92-2",
+  "cid": 31276,
+  "status": "ok-eutils",
+  "query": "isopentyl acetate"
+ },
+ "乙醛a": {
+  "cas": "75-07-0",
+  "cid": 177,
+  "status": "ok-eutils",
+  "query": "acetaldehyde"
+ },
+ "乳酸a": {
+  "cas": "50-21-5",
+  "cid": 612,
+  "status": "ok-eutils",
+  "query": "lactic acid"
+ },
+ "乳酸乙酯a": {
+  "cas": "97-64-3",
+  "cid": 7344,
+  "status": "ok-eutils",
+  "query": "ethyl lactate"
+ },
+ "十一烷酸乙酯": {
+  "cas": "627-90-7",
+  "cid": 12327,
+  "status": "ok-eutils",
+  "query": "ethyl undecanoate"
+ },
+ "十二烷酸乙酯": {
+  "cas": "106-33-2",
+  "cid": 7800,
+  "status": "ok-eutils",
+  "query": "ethyl dodecanoate"
+ },
+ "己酸-2-甲基丙酯a": {
+  "cas": "105-79-3",
+  "cid": 7775,
+  "status": "ok-eutils",
+  "query": "2-methylpropyl hexanoate"
+ },
+ "己酸-3-甲基丁酯a": {
+  "cas": "2198-61-0",
+  "cid": 16617,
+  "status": "ok-eutils",
+  "query": "3-methylbutyl hexanoate"
+ },
+ "己酸3-甲基丁酯a": {
+  "cas": "2198-61-0",
+  "cid": 16617,
+  "status": "ok-eutils",
+  "query": "3-methylbutyl hexanoate"
+ },
+ "己酸a": {
+  "cas": "142-62-1",
+  "cid": 8892,
+  "status": "ok-eutils",
+  "query": "hexanoic acid"
+ },
+ "己酸b": {
+  "cas": "142-62-1",
+  "cid": 8892,
+  "status": "ok-eutils",
+  "query": "hexanoic acid"
+ },
+ "己酸丁酯a": {
+  "cas": "626-82-4",
+  "cid": 12294,
+  "status": "ok-eutils",
+  "query": "butyl hexanoate"
+ },
+ "己酸丙酯a": {
+  "cas": "626-77-7",
+  "cid": 12293,
+  "status": "ok-eutils",
+  "query": "propyl hexanoate"
+ },
+ "己酸乙酯a": {
+  "cas": "123-66-0",
+  "cid": 31265,
+  "status": "ok-eutils",
+  "query": "ethyl hexanoate"
+ },
+ "己酸己酯a": {
+  "cas": "6378-65-0",
+  "cid": 22873,
+  "status": "ok-eutils",
+  "query": "hexyl hexanoate"
+ },
+ "己醇b": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "己醛二乙缩醛": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "庚酸a": {
+  "cas": "111-14-8",
+  "cid": 8094,
+  "status": "ok-eutils",
+  "query": "heptanoic acid"
+ },
+ "庚酸b": {
+  "cas": "111-14-8",
+  "cid": 8094,
+  "status": "ok-eutils",
+  "query": "heptanoic acid"
+ },
+ "庚酸乙酯a": {
+  "cas": "106-30-9",
+  "cid": 7797,
+  "status": "ok-eutils",
+  "query": "ethyl heptanoate"
+ },
+ "异戊醇(3-甲基": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "戊酸a": {
+  "cas": "109-52-4",
+  "cid": 7991,
+  "status": "ok-eutils",
+  "query": "pentanoic acid"
+ },
+ "戊酸b": {
+  "cas": "109-52-4",
+  "cid": 7991,
+  "status": "ok-eutils",
+  "query": "pentanoic acid"
+ },
+ "戊酸乙酯a": {
+  "cas": "539-82-2",
+  "cid": 10882,
+  "status": "ok-eutils",
+  "query": "ethyl valerate"
+ },
+ "戊醇b": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "甲氧基乙酸-3-甲基丁酯a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "糠醛a": {
+  "cas": "98-01-1",
+  "cid": 7362,
+  "status": "ok-eutils",
+  "query": "furan-2-carbaldehyde"
+ },
+ "苯乙醛a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "辛酸a": {
+  "cas": "124-07-2",
+  "cid": 379,
+  "status": "ok-eutils",
+  "query": "octanoic acid"
+ },
+ "辛酸b": {
+  "cas": "124-07-2",
+  "cid": 379,
+  "status": "ok-eutils",
+  "query": "octanoic acid"
+ },
+ "辛酸乙酯a": {
+  "cas": "106-32-1",
+  "cid": 7799,
+  "status": "ok-eutils",
+  "query": "ethyl octanoate"
+ },
+ "辛醇b": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "乙基苯a": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(2-ethylbenzene)",
+  "query": "2-ethylbenzene"
+ }
+}

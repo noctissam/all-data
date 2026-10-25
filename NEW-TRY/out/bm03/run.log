@@ -1,0 +1,15 @@
+
+===== cn_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\2  Decoding the Molecular Mechanism of Cellar Aroma Loss.pdf --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm03 =====
+raster table detection (dpi=150)
+  p6   rules=1   frags=1   y64-731 g10
+  p10  rules=1   frags=2   y64-267 g6 | y269-785 g1
+candidates: 3 -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\bm03\candidates.json
+
+===== cn_crop_ocr.py --pdf C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\2  Decoding the Molecular Mechanism of Cellar Aroma Loss.pdf --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm03\candidates_sel.json --dpi 300 --lang English --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm03\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm03\ocr_raw.json --no-pass-b =====
+  T01_p06   p6   2318x2822 gutters=10 boxes=358  avg=0.964 12.8s
+  T02_p10   p10  2332x890  gutters=6  boxes=78   avg=0.934 3.7s
+done: 2 crops -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm03\ocr_raw.json
+
+===== bitmap_grid.py --paper 3 --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm03\candidates_sel.json --ocr C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm03\ocr_raw.json --dpi 300 --tag bm =====
+  #3   tables=2   rows=43     skipped=0   
+  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\bm_03.json

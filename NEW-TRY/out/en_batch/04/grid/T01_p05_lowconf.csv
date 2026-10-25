@@ -1,0 +1,10 @@
+﻿table_id,name,pdf_page,section,row,col,text,score,status
+T01,T01_p05,5,body,2,2,0.33,0,conflict_a
+T01,T01_p05,5,body,2,3,0.22,0,conflict_a
+T01,T01_p05,5,body,3,1,style,0,conflict_a
+T01,T01_p05,5,body,3,2,0.33,0,conflict_b
+T01,T01_p05,5,body,3,3,0.22,0,conflict_b
+T01,T01_p05,5,body,4,1,style,0,conflict_b
+T01,T01_p05,5,body,4,2,7.59,0,conflict_a
+T01,T01_p05,5,body,4,3,7.55,0,conflict_a
+T01,T01_p05,5,body,5,1,Obviousness,0,conflict_a

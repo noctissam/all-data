@@ -1,0 +1,110 @@
+{
+ "(2,2-Diethoxyethyl) benzene": {
+  "cas": "6314-97-2",
+  "cid": 80584,
+  "status": "ok-eutils",
+  "query": "(2,2-Diethoxyethyl) benzene"
+ },
+ "(S)-(-)-2-methylbutanol": {
+  "cas": "1565-80-6",
+  "cid": 2723602,
+  "status": "ok-eutils",
+  "query": "(S)-(-)-2-methylbutanol"
+ },
+ "1-(1-乙氧基乙氧基)-丁烷": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "2-(12-Pentadecynyloxy) tetrahydro-2H-pyran": {
+  "cas": "56666-38-7",
+  "cid": 41961,
+  "status": "ok-eutils",
+  "query": "2-(12-Pentadecynyloxy) tetrahydro-2H-pyran"
+ },
+ "2-[(Z)-9-Octadecenyloxy]ethanol": {
+  "cas": "5353-25-3",
+  "cid": 5364713,
+  "status": "ok-eutils",
+  "query": "2-[(Z)-9-Octadecenyloxy]ethanol"
+ },
+ "3-(methylthio)-propanoic acid ethyl ester": {
+  "cas": "13327-56-5",
+  "cid": 61592,
+  "status": "ok-eutils",
+  "query": "3-(methylthio)-propanoic acid ethyl ester"
+ },
+ "3-(methylthio)propanal": {
+  "cas": "3268-49-3",
+  "cid": 18635,
+  "status": "ok-eutils",
+  "query": "3-(methylthio)propanal"
+ },
+ "3-(methylthio)propanal + 3-methylindole": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + 3-methylindole)",
+  "query": "3-(methylthio)propanal + 3-methylindole"
+ },
+ "3-(methylthio)propanal + butyric acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + butyric acid)",
+  "query": "3-(methylthio)propanal + butyric acid"
+ },
+ "3-(methylthio)propanal + hexanoic acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + hexanoic acid)",
+  "query": "3-(methylthio)propanal + hexanoic acid"
+ },
+ "3-(methylthio)propanal + p-cresol": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + p-cresol)",
+  "query": "3-(methylthio)propanal + p-cresol"
+ },
+ "3-(methylthio)propanol": {
+  "cas": "505-10-2",
+  "cid": 10448,
+  "status": "ok-eutils",
+  "query": "3-(methylthio)propanol"
+ },
+ "3-(环戊基)丙酸乙酯": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "Ethyl (Z)hex-3-enoate": {
+  "cas": "64187-83-3",
+  "cid": 5362623,
+  "status": "ok-eutils",
+  "query": "Ethyl (Z)hex-3-enoate"
+ },
+ "Ethyl L(--)-lactate": {
+  "cas": "97-64-3",
+  "cid": 7344,
+  "status": "ok-eutils",
+  "query": "Ethyl L(--)-lactate"
+ },
+ "benzene, (2,2-diethoxyethyl)-ethyl nicotinoate": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(benzene, (2,2-diethoxyethyl)-ethyl nicot)",
+  "query": "benzene, (2,2-diethoxyethyl)-ethyl nicotinoate"
+ },
+ "(2,2-二甲氧基)乙基苯a": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "(2,2-二乙氧基乙基)-苯": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ }
+}

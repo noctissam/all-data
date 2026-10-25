@@ -1,0 +1,86 @@
+{
+ "己酸乙酯": {
+  "cas": "123-66-0",
+  "cid": 31265,
+  "status": "ok",
+  "query": "ethyl hexanoate"
+ },
+ "乙酸乙酯": {
+  "cas": "141-78-6",
+  "cid": 8857,
+  "status": "ok",
+  "query": "ethyl acetate"
+ },
+ "丁酸乙酯": {
+  "cas": "105-54-4",
+  "cid": 7762,
+  "status": "ok",
+  "query": "ethyl butanoate"
+ },
+ "苯乙醇": {
+  "cas": "60-12-8",
+  "cid": 6054,
+  "status": "ok",
+  "query": "2-phenylethanol"
+ },
+ "己醛": {
+  "cas": "66-25-1",
+  "cid": 6184,
+  "status": "ok",
+  "query": "hexanal"
+ },
+ "2-戊酮": {
+  "cas": "107-87-9",
+  "cid": 7895,
+  "status": "ok",
+  "query": "2-pentanone"
+ },
+ "1-丁醇": {
+  "cas": "71-36-3",
+  "cid": 263,
+  "status": "ok",
+  "query": "1-butanol"
+ },
+ "异丁醇": {
+  "cas": "78-83-1",
+  "cid": 6560,
+  "status": "ok",
+  "query": "2-methylpropan-1-ol"
+ },
+ "乳酸乙酯": {
+  "cas": "97-64-3",
+  "cid": 7344,
+  "status": "ok",
+  "query": "ethyl lactate"
+ },
+ "ethyl hexanoate": {
+  "cas": "123-66-0",
+  "cid": 31265,
+  "status": "ok",
+  "query": "ethyl hexanoate"
+ },
+ "Ethyl acetate": {
+  "cas": "141-78-6",
+  "cid": 8857,
+  "status": "ok",
+  "query": "Ethyl acetate"
+ },
+ "3-methylindole": {
+  "cas": "83-34-1",
+  "cid": 6736,
+  "status": "ok",
+  "query": "3-methylindole"
+ },
+ "β-苯乙醇": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "2-甲基丁醇": {
+  "cas": "137-32-6",
+  "cid": 8723,
+  "status": "ok",
+  "query": "2-methylbutanol"
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "idx": 6,
+ "sheet": "8 Flavoromic Exploration of Reg",
+ "pdf": "8 Flavoromic Exploration of Regional Variations, Consumer.pdf",
+ "route": "needs-ocr",
+ "n_tables": 0,
+ "fragments": 0,
+ "tables": [],
+ "note": "text layer looks OCR-derived - needs the image pipeline"
+}

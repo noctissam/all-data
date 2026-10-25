@@ -1,0 +1,6398 @@
+{
+ "idx": 5,
+ "sheet": "5  Impact of Pulsed Electric Fi",
+ "pdf": "5  Impact of Pulsed Electric Fields Combined with Dissolved.pdf",
+ "route": "text-layer",
+ "n_tables": 13,
+ "fragments": 13,
+ "tables": [
+  {
+   "header": [
+    "Article Impact of Pulse Oxygen and Fer Strong-Flavor B Jin Lu 1, Zhilei Zhou 1, Meng",
+    "d Electric Fi rous Ions o aijiu yang Huang 2, Zhon 1 School of Food Science",
+    "elds C n the A gwei Ji 1,3,* and Technolog",
+    "o , y",
+    "mbine roma a Hui Qin 2 a , National Engi",
+    "d wit nd Co nd Jian Ma neering Rese",
+    "h Dissolved mponents of o 1,3,4,* arch Center of Cereal Fermentation"
+   ],
+   "sig": "ArticleImpactofPulseOxygenandFerStrong-FlavorBJinLu1,ZhileiZhou1,Meng|dElectricFirousIonsoaijiuyangHuang2,Zhon1SchoolofFoodScience|eldsCntheAgweiJi1,3,*andTechnolog|o,y|mbineromaaHuiQin2a,NationalEngi|dwitndCondJianManeeringRese|hDissolvedmponentsofo1,3,4,*archCenterofCerealFermentation",
+   "rows": [
+    [
+     "Article",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Impact of Pulse",
+     "d Electric Fi",
+     "elds C",
+     "o",
+     "mbine",
+     "d wit",
+     "h Dissolved"
+    ],
+    [
+     "Oxygen and Fer",
+     "rous Ions o",
+     "n the A",
+     "",
+     "roma a",
+     "nd Co",
+     "mponents of"
+    ],
+    [
+     "Strong-Flavor B",
+     "aijiu",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jin Lu 1, Zhilei Zhou 1, Meng",
+     "yang Huang 2, Zhon",
+     "gwei Ji 1,3,*",
+     ",",
+     "Hui Qin 2 a",
+     "nd Jian Ma",
+     "o 1,3,4,*"
+    ],
+    [
+     "",
+     "1 School of Food Science",
+     "and Technolog",
+     "y",
+     ", National Engi",
+     "neering Rese",
+     "arch Center of Cereal Fermentation"
+    ],
+    [
+     "",
+     "and Food Biomanufact",
+     "uring, Jiangna",
+     "n",
+     "University, Wu",
+     "xi 214122, Ch",
+     "ina; lujinyouxiang@163.com (J.L.);"
+    ],
+    [
+     "",
+     "zhouzl1985@126.com (",
+     "Z.Z.)",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "2 National Engineering R",
+     "esearch Cente",
+     "r",
+     "of Solid-State B",
+     "rewing, Luzh",
+     "ou 646000, China; hmy@163.com (M.H.);"
+    ],
+    [
+     "",
+     "qinhui@163.com (H.Q.)",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "3 Jiangnan University (S",
+     "haoxing) Indus",
+     "t",
+     "rial Technology",
+     "Research Ins",
+     "titute, Shaoxing 312000, China"
+    ],
+    [
+     "",
+     "4 National Engineering R",
+     "esearch Cente",
+     "r",
+     "for Huangjiu, S",
+     "haoxing 3120",
+     "00, China"
+    ],
+    [
+     "",
+     "* Correspondence: jizho",
+     "ngwei@jiangna",
+     "n",
+     ".edu.cn (Z.J.); m",
+     "aojian@jiang",
+     "nan.edu.cn (J.M.);"
+    ],
+    [
+     "",
+     "Tel.: +86-0510-85329062",
+     "(Z.J.); +86-051",
+     "0",
+     "-85329063 (J.M.",
+     ")",
+     ""
+    ],
+    [
+     "",
+     "Abstract: This resear",
+     "ch examine",
+     "d",
+     "the influen",
+     "ces of elec",
+     "tric field strength and pulse fre-"
+    ],
+    [
+     "",
+     "quency of pulsed elect",
+     "ric field (PE",
+     "F",
+     ") treatment, a",
+     "long with",
+     "the combined effects of dissolved"
+    ],
+    [
+     "",
+     "oxygen and ferrous i",
+     "ron ions on",
+     "t",
+     "he aroma an",
+     "d compon",
+     "ents of strong-flavor baijiu. PEF"
+    ],
+    [
+     "",
+     "treatment improved f",
+     "ruity aroma",
+     "s",
+     "and decreas",
+     "ed the pit",
+     "mud odor. Electric field strength"
+    ],
+    [
+     "",
+     "promoted the produc",
+     "tion of short",
+     "-",
+     "chain fatty a",
+     "cid esters,",
+     "while pulse frequency facilitated"
+    ],
+    [
+     "",
+     "the formation of acet",
+     "al oxidation",
+     "",
+     "products. T",
+     "he most no",
+     "table changes were observed at"
+    ],
+    [
+     "",
+     "an electric field stren",
+     "gth of 25 kV",
+     ",",
+     "and a pulse",
+     "frequency",
+     "of 350 Hz. Increasing dissolved"
+    ],
+    [
+     "",
+     "oxygen significantly",
+     "improves fr",
+     "",
+     "uity and mel",
+     "low arom",
+     "as and promotes the generation"
+    ],
+    [
+     "",
+     "of 17 compounds inc",
+     "luding ethy",
+     "l",
+     "lactate, eth",
+     "yl butyrate",
+     ", hexan-1-ol, octanoic acid, and"
+    ],
+    [
+     "",
+     "3-methylbutanal, whi",
+     "le Fe2+ treat",
+     "",
+     "ment reduces",
+     "the fruity",
+     "aroma of baijiu and significantly"
+    ],
+    [
+     "",
+     "suppresses the produ",
+     "ction of 15",
+     "e",
+     "sters includi",
+     "ng ethyl h",
+     "exanoate, hexyl hexanoate, and"
+    ],
+    [
+     "",
+     "ethyl lactate. Dissolve",
+     "d oxygen m",
+     "",
+     "ay contribute",
+     "to the gen",
+     "eration of hydroxyl radicals and"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "2",
+     "+"
+    ],
+    [
+     "Academic Editors: Salvador Maestre",
+     "regulated oxidation re",
+     "actions par",
+     "ti",
+     "ally in baijiu",
+     ". And, Fe",
+     "may react with organic acids to"
+    ],
+    [
+     "Pérez and Xiangyu Sun",
+     "promote the hydrolys",
+     "is of ester co",
+     "",
+     "mpounds. Th",
+     "is study ai",
+     "ms to offer valuable insights into"
+    ],
+    [
+     "Received: 13 January 2025",
+     "the practical applicati",
+     "on of PEF i",
+     "n",
+     "the flavor re",
+     "gulation o",
+     "f baijiu."
+    ],
+    [
+     "Revised: 15 March 2025",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Accepted: 20 March 2025",
+     "Keywords: strong-fla",
+     "vor baijiu;",
+     "p",
+     "ulsed electri",
+     "c field; dis",
+     "solved oxygen; ferrous iron ion;"
+    ],
+    [
+     "Published: 21 March 2025",
+     "sensory evaluation; v",
+     "olatile orga",
+     "n",
+     "ic compound",
+     "s; multiva",
+     "riate statistical analysis"
+    ],
+    [
+     "Citation: Lu, J.; Zhou, Z.; Huang, M.;",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ji, Z.; Qin, H.; Mao, J. Impact of",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Pulsed Electric Fields Combined with",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dissolved Oxygen and Ferrous Ions",
+     "1. Introduction",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "on the Aroma and Components of",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Baijiu is a uniqu",
+     "e alcoholic",
+     "b",
+     "everage fro",
+     "m China, a",
+     "nd freshly distilled baijiu often"
+    ],
+    [
+     "Strong-Flavor Baijiu. Foods 2025, 14,",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1097. https://doi.org/10.3390/",
+     "exhibits undesirable",
+     "sensory attr",
+     "i",
+     "butes, includ",
+     "ing punge",
+     "ncy, harshness, immaturity, and"
+    ],
+    [
+     "foods14071097",
+     "unpleasantness, whic",
+     "h require an",
+     "",
+     "extended agi",
+     "ng period [",
+     "1]. Aging is crucial for removing"
+    ],
+    [
+     "",
+     "off-odors and integr",
+     "ating variou",
+     "",
+     "s flavor com",
+     "ponents, l",
+     "eading to a more balanced and"
+    ],
+    [
+     "Copyright: © 2025 by the authors.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Licensee MDPI, Basel, Switzerland.",
+     "harmonious aroma [1",
+     ",2]. During",
+     "t",
+     "he aging of b",
+     "aijiu, sever",
+     "al physicochemical processes are"
+    ],
+    [
+     "This article is an open access article",
+     "considered essential f",
+     "or flavor de",
+     "v",
+     "elopment, su",
+     "ch as hyd",
+     "rogen bonding, esterification, hy-"
+    ],
+    [
+     "distributed under the terms and",
+     "drolysis, redox reactio",
+     "ns, and the",
+     "",
+     "Maillard react",
+     "ion [3]. Ho",
+     "wever, the natural aging process"
+    ],
+    [
+     "conditions of the Creative Commons",
+     "is slow, resulting in ch",
+     "allenges suc",
+     "",
+     "h as low prod",
+     "uction eff",
+     "iciency and high costs. To address"
+    ],
+    [
+     "Attribution (CC BY) license",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "these limitations, seve",
+     "ral studies h",
+     "a",
+     "ve employed",
+     "strategies",
+     "such as electrochemistry, electric"
+    ],
+    [
+     "(https://creativecommons.org/",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "licenses/by/4.0/).",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Foods 2025, 14, 1097",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "https://doi.org/10.3390/foods14071097"
+    ]
+   ],
+   "pages": [
+    1
+   ],
+   "frags": 1,
+   "n_row": 53,
+   "n_col": 7,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "fields, electromagn aging mechanisms, Pulsed electric applied in the win to other technologi",
+    "etism, microwave offering promisin field (PEF) techno e and vinegar ind es, it can change t",
+    "s, and irradi g solutions fo logy, a type ustries, with he physical",
+    "ation to enhance r reducing time of electric field t limited use in b and chemical pr",
+    "2 of 19 flavor and investigate and space costs [4–8]. echnology, is primarily aijiu [9,10]. Compared operties of food while"
+   ],
+   "sig": "fields,electromagnagingmechanisms,Pulsedelectricappliedinthewintoothertechnologi|etism,microwaveofferingpromisinfield(PEF)technoeandvinegarindes,itcanchanget|s,andirradigsolutionsfology,atypeustries,withhephysical|ationtoenhancerreducingtimeofelectricfieldtlimiteduseinbandchemicalpr|2of19flavorandinvestigateandspacecosts[4–8].echnology,isprimarilyaijiu[9,10].Comparedopertiesoffoodwhile",
+   "rows": [
+    [
+     "",
+     "",
+     "",
+     "",
+     "2 of 19"
+    ],
+    [
+     "fields, electromagn",
+     "etism, microwave",
+     "s, and irradi",
+     "ation to enhance",
+     "flavor and investigate"
+    ],
+    [
+     "aging mechanisms,",
+     "offering promisin",
+     "g solutions fo",
+     "r reducing time",
+     "and space costs [4–8]."
+    ],
+    [
+     "Pulsed electric",
+     "field (PEF) techno",
+     "logy, a type",
+     "of electric field t",
+     "echnology, is primarily"
+    ],
+    [
+     "applied in the win",
+     "e and vinegar ind",
+     "ustries, with",
+     "limited use in b",
+     "aijiu [9,10]. Compared"
+    ],
+    [
+     "to other technologi",
+     "es, it can change t",
+     "he physical",
+     "and chemical pr",
+     "operties of food while"
+    ],
+    [
+     "avoiding the destr",
+     "uction of flavored",
+     "substances.",
+     "Liang et al. high",
+     "lighted the significant"
+    ],
+    [
+     "potential of PEF in",
+     "winemaking, wher",
+     "e it effectivel",
+     "y improves flav",
+     "or and phenolic content"
+    ],
+    [
+     "in wine [11]. Arte",
+     "mis K. identified 1",
+     "0 new volati",
+     "le compounds i",
+     "n Xinomavro red wine"
+    ],
+    [
+     "using headspace so",
+     "lid-phase micro-e",
+     "xtraction (H",
+     "SPME) and gas",
+     "chromatography-mass"
+    ],
+    [
+     "spectrometry (GC-",
+     "MS) following PEF",
+     "treatment wi",
+     "th wood chips, w",
+     "hich notably enhanced"
+    ],
+    [
+     "floral, fruity, and ov",
+     "erall aromas [12].",
+     "The electric f",
+     "ield strength and",
+     "pulse frequency in PEF"
+    ],
+    [
+     "are critical factors a",
+     "ffecting process qu",
+     "ality and sta",
+     "bility [6,13]. Incr",
+     "easing the electric field"
+    ],
+    [
+     "strength (15–25 kV",
+     "/cm) in an ethano",
+     "l–lactic acid",
+     "model system e",
+     "nhanced esterification"
+    ],
+    [
+     "between lactic acid",
+     "and ethanol, resu",
+     "lting in a 1.1",
+     "-fold increase in",
+     "ethyl lactate yield [14]."
+    ],
+    [
+     "Additionally, increa",
+     "sing treatment inte",
+     "nsity can alte",
+     "r pH levels, sign",
+     "ificantly improving the"
+    ],
+    [
+     "chelation of ferrous",
+     "ions, copper ions,",
+     "and amino a",
+     "cids such as gly",
+     "cine [15]. Furthermore,"
+    ],
+    [
+     "the solution charact",
+     "eristics and redox",
+     "microenviron",
+     "ment must be s",
+     "ystematically evaluated"
+    ],
+    [
+     "as critical factors in",
+     "PEF effects. And,",
+     "the oxidation",
+     "process driven",
+     "by oxygen is crucial for"
+    ],
+    [
+     "the formation of fla",
+     "vor compounds [1",
+     "6,17]. Free ra",
+     "dicals are recogn",
+     "ized as key initiators in"
+    ],
+    [
+     "the redox chemistry",
+     "of wine [18,19]. T",
+     "he radicals p",
+     "roduced by the e",
+     "lectric field can initiate"
+    ],
+    [
+     "chain reactions, lea",
+     "ding to the oxidat",
+     "ive degrada",
+     "tion of specific c",
+     "ompounds. Hydroxyl"
+    ],
+    [
+     "radicals are the mo",
+     "st produced ones",
+     "[20]. Durin",
+     "g the natural ag",
+     "ing of baijiu, hydroxyl"
+    ],
+    [
+     "radicals are mainly",
+     "generated throug",
+     "h the Fenton",
+     "reaction (i.e., H",
+     "2O reacts to produce 2"
+    ],
+    [
+     "·OH under the cat",
+     "alysis of Fe2+). Th",
+     "e highly oxid",
+     "izing nature of",
+     "·OH enables it to react"
+    ],
+    [
+     "with carbon–carbo",
+     "n unsaturated bon",
+     "ds and arom",
+     "atic rings in orga",
+     "nic molecules through"
+    ],
+    [
+     "addition, substituti",
+     "on, electron transf",
+     "er, and other",
+     "reactions [21,22",
+     "]. Limited research has"
+    ],
+    [
+     "been conducted on",
+     "the effect of oxyge",
+     "n in PEF-pro",
+     "cessed baijiu sys",
+     "tems, which may yield"
+    ],
+    [
+     "significant impacts",
+     "on flavor.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "This study aim",
+     "s to investigate th",
+     "e impact of",
+     "PEF on the flav",
+     "or properties of strong-"
+    ],
+    [
+     "flavor baijiu. The ob",
+     "jectives of this wo",
+     "rk are (1) to a",
+     "ssess the effects",
+     "of electric field strength"
+    ],
+    [
+     "and pulse frequenc",
+     "y on the electrical",
+     "conductivit",
+     "y, dissolved oxy",
+     "gen concentration, and"
+    ],
+    [
+     "flavor compounds o",
+     "f strong-flavor baij",
+     "iu; (2) to expl",
+     "ore the role and",
+     "mechanism of dissolved"
+    ],
+    [
+     "oxygen and transit",
+     "ion metals in com",
+     "bination with",
+     "PEF in enhanci",
+     "ng the aging efficiency"
+    ],
+    [
+     "of baijiu. The resu",
+     "lts of this study ar",
+     "e anticipate",
+     "d to provide val",
+     "uable insights into the"
+    ],
+    [
+     "practical applicatio",
+     "n of PEF in baijiu p",
+     "roduction.",
+     "",
+     ""
+    ],
+    [
+     "2. Materials and",
+     "Methods",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.1. Materials and C",
+     "hemicals",
+     "",
+     "",
+     ""
+    ],
+    [
+     "The strong-fla",
+     "vor baijiu utilized i",
+     "n this researc",
+     "h is a new distil",
+     "led baijiu, produced by"
+    ],
+    [
+     "Luzhoulaojiao Co.,",
+     "Ltd. (Luzhou, Ch",
+     "ina) in Dece",
+     "mber 2023. All t",
+     "he baijiu samples were"
+    ],
+    [
+     "sealed and stored a",
+     "t 4 ◦C prior to trea",
+     "tment.",
+     "",
+     ""
+    ],
+    [
+     "Sodium chlori",
+     "de was sourced fro",
+     "m Sinopharm",
+     "Chemical Reag",
+     "ent Co., Ltd. (Shanghai,"
+    ],
+    [
+     "China). Internal sta",
+     "ndards, including",
+     "tertiary amy",
+     "l alcohol, pentyl",
+     "acetate, and 2-octanol,"
+    ],
+    [
+     "were purchased fro",
+     "m Aladdin Reage",
+     "nt Co., Ltd.",
+     "(Shanghai, Chin",
+     "a). A C 4–C n-alkane 25"
+    ],
+    [
+     "mixture (Sigma-Al",
+     "drich, Shanghai,",
+     "China) was",
+     "employed to d",
+     "etermine linear reten-"
+    ],
+    [
+     "tion indices (RIs).",
+     "A standard stock",
+     "solution of",
+     "Fe (PerkinElme",
+     "r Instrument Co., Ltd.,"
+    ],
+    [
+     "San Jose, CA, USA)",
+     "was used. The f",
+     "ollowing ref",
+     "erence compoun",
+     "ds for qualitative and"
+    ],
+    [
+     "quantitative analys",
+     "is were acquired f",
+     "rom Sigma-",
+     "Aldrich Chemic",
+     "al Co., Ltd. (Shanghai,"
+    ],
+    [
+     "China): acetic acid",
+     "(99%), acetal (≥98",
+     "%), butyric a",
+     "cid (99%), butyr",
+     "aldehyde (≥99%), ben-"
+    ],
+    [
+     "zaldehyde (≥99%),",
+     "benzene acetaldeh",
+     "yde diethyl",
+     "acetal (97%), eth",
+     "yl acetate (99.5%), ethyl"
+    ]
+   ],
+   "pages": [
+    2
+   ],
+   "frags": 1,
+   "n_row": 50,
+   "n_col": 5,
+   "roles": [
+    null,
+    "no",
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "propionate (99%), caprate (99%), et ethyl lactate (99% (98%), hexyl hexa (≥99%), isovalera",
+    "ethyl butyrat hyl isovalerat ), ethyl palmit noate (99%), h ldehyde (97%",
+    "e (99%), ethyl e, ethyl hepta ate (99%), furf exan-1-ol (99% ), isobutanol (",
+    "myri noate ural ), is ≥97%",
+    "state (99%), ethyl (99%), (98%), et (99%), geranyl ace obutyric acid (99% ), isoamyl alcoho",
+    "3 of 19 valerate (99%), ethyl hyl caprylate (99%), tone (99%), hexanal ), isobutyraldehyde l (≥98%), lactic acid"
+   ],
+   "sig": "propionate(99%),caprate(99%),etethyllactate(99%(98%),hexylhexa(≥99%),isovalera|ethylbutyrathylisovalerat),ethylpalmitnoate(99%),hldehyde(97%|e(99%),ethyle,ethylheptaate(99%),furfexan-1-ol(99%),isobutanol(|myrinoateural),is≥97%|state(99%),ethyl(99%),(98%),et(99%),geranylaceobutyricacid(99%),isoamylalcoho|3of19valerate(99%),ethylhylcaprylate(99%),tone(99%),hexanal),isobutyraldehydel(≥98%),lacticacid",
+   "rows": [
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "3 of 19"
+    ],
+    [
+     "propionate (99%),",
+     "ethyl butyrat",
+     "e (99%), ethyl",
+     "myri",
+     "state (99%), ethyl",
+     "valerate (99%), ethyl"
+    ],
+    [
+     "caprate (99%), et",
+     "hyl isovalerat",
+     "e, ethyl hepta",
+     "noate",
+     "(99%), (98%), et",
+     "hyl caprylate (99%),"
+    ],
+    [
+     "ethyl lactate (99%",
+     "), ethyl palmit",
+     "ate (99%), furf",
+     "ural",
+     "(99%), geranyl ace",
+     "tone (99%), hexanal"
+    ],
+    [
+     "(98%), hexyl hexa",
+     "noate (99%), h",
+     "exan-1-ol (99%",
+     "), is",
+     "obutyric acid (99%",
+     "), isobutyraldehyde"
+    ],
+    [
+     "(≥99%), isovalera",
+     "ldehyde (97%",
+     "), isobutanol (",
+     "≥97%",
+     "), isoamyl alcoho",
+     "l (≥98%), lactic acid"
+    ],
+    [
+     "(99%), methanol (",
+     "99%), octanoi",
+     "c acid (99%),p",
+     "entyl",
+     "hexanoate (99%),",
+     "propyl n-octanoate"
+    ],
+    [
+     "(99%), p-cresol (9",
+     "8%), pentan-1-",
+     "ol (99%), 1,1-d",
+     "ieth",
+     "oxydecane (97%),",
+     "1,1-diethoxynonane"
+    ],
+    [
+     "(97%), 1-propanol",
+     "(99%), 2,3-buta",
+     "nedione (97%)",
+     ", 2,3-",
+     "pentanedione (97%",
+     ") 2-heptanone (99%),"
+    ],
+    [
+     "2-octanone (≥98%",
+     "), 2-butanone",
+     "(≥99%), 2-pen",
+     "tano",
+     "ne (≥98%), 3-met",
+     "hyl-1-butanol (99%),"
+    ],
+    [
+     "and 3-methylbuty",
+     "l pentanoate (",
+     "99%).",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.2. PEF Treatment",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.2.1. PEF System",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "A bench-scal",
+     "e PEF continuo",
+     "us system (OS",
+     "U-4L",
+     ", The Ohio State U",
+     "niversity, Columbus,"
+    ],
+    [
+     "OH, USA) with sq",
+     "uare-wave pul",
+     "sed was used i",
+     "n thi",
+     "s study [23]. The P",
+     "EF system schematic"
+    ],
+    [
+     "diagram is shown",
+     "in Figure A1.",
+     "Throughout al",
+     "l the",
+     "experiments, the t",
+     "emperature rise after"
+    ],
+    [
+     "treatment did not",
+     "exceed 3 ◦C.",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.2.2. Parameter O",
+     "ptimization",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "In the param",
+     "eter optimiza",
+     "tion experime",
+     "nt, th",
+     "e baijiu was direc",
+     "tly subjected to PEF"
+    ],
+    [
+     "treatment with di",
+     "fferent electric",
+     "field strength",
+     "s and",
+     "pulse frequencie",
+     "s. The control group"
+    ],
+    [
+     "(referred to as CK)",
+     "was not expo",
+     "sed to any PEF",
+     "treat",
+     "ment, and the exp",
+     "erimental groups are"
+    ],
+    [
+     "S1–S3 and F1–F3.",
+     "According to",
+     "the prelimina",
+     "ry ex",
+     "periment, for the",
+     "S1 to S3, the electric"
+    ],
+    [
+     "field strength was",
+     "15 kV, 25 kV,",
+     "and 35 kV and",
+     "the",
+     "pulse frequency w",
+     "as 350 Hz; for the P1"
+    ],
+    [
+     "to P3, the pulse fr",
+     "equency was 2",
+     "00 Hz, 350 Hz",
+     "and",
+     "500 Hz, and the e",
+     "lectric field strength"
+    ],
+    [
+     "was 25 kV.",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.2.3. Experiment",
+     "Design of Baij",
+     "iu Sample Pret",
+     "reate",
+     "d",
+     ""
+    ],
+    [
+     "The control g",
+     "roup (referred",
+     "to as G-PEF)",
+     "was",
+     "treated directly w",
+     "ith PEF without any"
+    ],
+    [
+     "additives. Two g",
+     "roups of baijiu",
+     "samples requ",
+     "ired",
+     "pretreatment. On",
+     "e group underwent"
+    ],
+    [
+     "pretreatment usin",
+     "g a micro-oxy",
+     "genation (MO",
+     "X) op",
+     "eration (referred t",
+     "o as G-PEF+DO) be-"
+    ],
+    [
+     "fore the PEF treat",
+     "ment. The mi",
+     "cro-oxygenatio",
+     "n te",
+     "chnique used in t",
+     "his study was based"
+    ],
+    [
+     "on Pérez-Magarin",
+     "[22] with so",
+     "me modificatio",
+     "ns.",
+     "The MOX process",
+     "was conducted us-"
+    ],
+    [
+     "ing a microporou",
+     "s diffuser, spe",
+     "cifically the Vi",
+     "nO 2",
+     "4-exit impact mod",
+     "el, connected to 1 L"
+    ],
+    [
+     "glass bottles (225",
+     "mm in height",
+     "and 101 mm i",
+     "n dia",
+     "meter). Oxygen w",
+     "as injected through"
+    ],
+    [
+     "a pressure-reduci",
+     "ng valve and m",
+     "ass flowmeter",
+     ", mai",
+     "ntaining a dissolv",
+     "ed oxygen concentra-"
+    ],
+    [
+     "tion of 8.19 mg/L",
+     "for 5 min whil",
+     "e ensuring con",
+     "troll",
+     "ed airflow to preve",
+     "nt excessive bubbles"
+    ],
+    [
+     "(flow rate mainta",
+     "ined below 1",
+     "mL/min). Th",
+     "e oth",
+     "er group (referre",
+     "d to as G-PEF+Fe2+)"
+    ],
+    [
+     "was treated with",
+     "a ferrous iron",
+     "ion buffer be",
+     "fore",
+     "the PEF treatmen",
+     "t. A 200 µL ferrous"
+    ],
+    [
+     "iron ion solution",
+     "(10.79 mmol/",
+     "L) was added",
+     "to a",
+     "100 mL baijiu sa",
+     "mple. Finally, both"
+    ],
+    [
+     "the experimental",
+     "and control gr",
+     "oups were sa",
+     "mple",
+     "d following the un",
+     "ified PEF treatment"
+    ],
+    [
+     "(parameters defin",
+     "ed in Section 2",
+     ".2.2).",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.3. Sensory Analy",
+     "sis",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.3.1. Panelists",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "The sensory",
+     "evaluation pa",
+     "nel consisted",
+     "of tw",
+     "elve trained stud",
+     "ents (five males and"
+    ],
+    [
+     "seven females) fro",
+     "m Jiangnan U",
+     "niversity, along",
+     "wit",
+     "h five baijiu tasters",
+     ". The panelists were"
+    ],
+    [
+     "selected according",
+     "to the nationa",
+     "l standard GB/",
+     "T141",
+     "95–93 [24]. The stu",
+     "dents involved were"
+    ],
+    [
+     "selected based on",
+     "interest, healt",
+     "h status (witho",
+     "ut al",
+     "cohol addiction, al",
+     "cohol exclusion, and"
+    ],
+    [
+     "alcohol allergy), a",
+     "vailability for",
+     "the entire stud",
+     "y, a",
+     "nd familiarity with",
+     "distilled beverages"
+    ],
+    [
+     "using an initial rec",
+     "ruitment ques",
+     "tionnaire. In ad",
+     "ditio",
+     "n, assessors were",
+     "required to complete"
+    ]
+   ],
+   "pages": [
+    3
+   ],
+   "frags": 1,
+   "n_row": 48,
+   "n_col": 6,
+   "roles": [
+    null,
+    null,
+    null,
+    "ri",
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "ods 2025, 14, 1097",
+    "",
+    "The instrument parameters inclu auxiliary flow at 1.0 L/min, and n 2.7. Electron Paramagnetic Resonan Aqueous sample solutions (1 25 ◦C. Subsequently, 200 µL aliqu",
+    "ded ebuli ce (EP mg/ ots w",
+    "RF zer R) mL er",
+    "power at 1.50 kW flow at 0.10 L/m Spin Trapping ) were prepared b e mixed with equ",
+    ", plasma flow in. y ultrasonicatio al volumes of 1",
+    "5 of 19 at 15.0 L/min, n for 15 min at 00 mM DMPO"
+   ],
+   "sig": "ods2025,14,1097||Theinstrumentparametersincluauxiliaryflowat1.0L/min,andn2.7.ElectronParamagneticResonanAqueoussamplesolutions(125◦C.Subsequently,200µLaliqu|dedebulice(EPmg/otsw|RFzerR)mLer|powerat1.50kWflowat0.10L/mSpinTrapping)werepreparedbemixedwithequ|,plasmaflowin.yultrasonicatioalvolumesof1|5of19at15.0L/min,nfor15minat00mMDMPO",
+   "rows": [
+    [
+     "ods 2025, 14, 1097",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "5 of 19"
+    ],
+    [
+     "",
+     "",
+     "The instrument parameters inclu",
+     "ded",
+     "RF",
+     "power at 1.50 kW",
+     ", plasma flow",
+     "at 15.0 L/min,"
+    ],
+    [
+     "",
+     "",
+     "auxiliary flow at 1.0 L/min, and n",
+     "ebuli",
+     "zer",
+     "flow at 0.10 L/m",
+     "in.",
+     ""
+    ],
+    [
+     "",
+     "",
+     "2.7. Electron Paramagnetic Resonan",
+     "ce (EP",
+     "R)",
+     "Spin Trapping",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "Aqueous sample solutions (1",
+     "mg/",
+     "mL",
+     ") were prepared b",
+     "y ultrasonicatio",
+     "n for 15 min at"
+    ],
+    [
+     "",
+     "",
+     "25 ◦C. Subsequently, 200 µL aliqu",
+     "ots w",
+     "er",
+     "e mixed with equ",
+     "al volumes of 1",
+     "00 mM DMPO"
+    ],
+    [
+     "",
+     "",
+     "solution through vortex agitation (",
+     "30 s, 2",
+     "00",
+     "0 rpm). The result",
+     "ing mixtures we",
+     "re immediately"
+    ],
+    [
+     "",
+     "",
+     "transferred into quartz capillaries.",
+     "EPR s",
+     "pe",
+     "ctra (EMXplus-10",
+     "/12, Bruker, Bre",
+     "men, Germany)"
+    ],
+    [
+     "",
+     "",
+     "were recorded at room temperatu",
+     "re, an",
+     "d s",
+     "pin adducts were",
+     "quantified. Th",
+     "e sweep width"
+    ],
+    [
+     "",
+     "",
+     "was set to 200.00 G, with microw",
+     "ave p",
+     "ow",
+     "er at 19.45 mW. T",
+     "he modulation",
+     "frequency and"
+    ],
+    [
+     "",
+     "",
+     "amplitude were set to 9.85 GHz a",
+     "nd 1.0",
+     "0",
+     "G, respectively.",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "2.8. Statistical Analysis",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "The results are presented as",
+     "the m",
+     "ea",
+     "n ± standard de",
+     "viation (n = 3).",
+     "The data were"
+    ],
+    [
+     "",
+     "",
+     "processed and plotted using the",
+     "Orig",
+     "in",
+     "2018 software (O",
+     "rigin Lab Co.,",
+     "Northampton,"
+    ],
+    [
+     "",
+     "",
+     "MA, USA) and Microsoft Office E",
+     "xcel 2",
+     "01",
+     "9 (Microsoft Co., L",
+     "td., Redmond,",
+     "WA, USA). For"
+    ],
+    [
+     "",
+     "",
+     "analysis, the processed data were",
+     "eval",
+     "ua",
+     "ted using the Sim",
+     "ca 13.0 and SP",
+     "SS 25 software"
+    ],
+    [
+     "",
+     "",
+     "(SPSS Inc., Chicago, IL, USA), o",
+     "ne-w",
+     "ay",
+     "analysis of varia",
+     "nce (ANOVA),",
+     "and Duncan’s"
+    ],
+    [
+     "",
+     "",
+     "multiple range tests were carrie",
+     "d out",
+     "w",
+     "ith the SPSS 25.0",
+     "software to ev",
+     "aluate signifi-"
+    ],
+    [
+     "",
+     "",
+     "cant differences in the assay (p <",
+     "0.05)",
+     ". S",
+     "tatistical analysis",
+     "was performe",
+     "d using Origin"
+    ],
+    [
+     "",
+     "",
+     "2018. Substantial differences wer",
+     "e vis",
+     "ual",
+     "ized using the Si",
+     "mca 13.0 and o",
+     "nline websites"
+    ],
+    [
+     "",
+     "",
+     "(https://www.omicstudio.cn (acc",
+     "essed",
+     "on",
+     "15 December 20",
+     "24)).",
+     ""
+    ],
+    [
+     "",
+     "",
+     "3. Results",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "3.1. Effects of PEF Treatment on Phy",
+     "sicoch",
+     "em",
+     "ical Parameters of t",
+     "he Strong-Flavor",
+     "Baijiu"
+    ],
+    [
+     "",
+     "",
+     "The physicochemical parame",
+     "ters o",
+     "f st",
+     "rong-flavor baijiu",
+     "before and afte",
+     "r the PEF treat-"
+    ],
+    [
+     "",
+     "",
+     "ment are summarized in Table 1.",
+     "The",
+     "alc",
+     "ohol content exh",
+     "ibited compara",
+     "ble decreasing"
+    ],
+    [
+     "",
+     "",
+     "trends, while conductivity and dis",
+     "solve",
+     "d o",
+     "xygen (DO) show",
+     "ed a notable incr",
+     "ease after treat-"
+    ],
+    [
+     "",
+     "",
+     "ment (p < 0.05). This increase is m",
+     "ost lik",
+     "ely",
+     "attributed to the",
+     "heightened colli",
+     "sion frequency"
+    ],
+    [
+     "",
+     "",
+     "of active molecules or ions induce",
+     "d by",
+     "the",
+     "PEF treatment. E",
+     "thanol and wate",
+     "r molecules in"
+    ],
+    [
+     "",
+     "",
+     "the solution are excited or ionized",
+     ", gen",
+     "era",
+     "ting charged part",
+     "icles and active",
+     "oxygen [29,30]."
+    ],
+    [
+     "",
+     "",
+     "The analysis of various PEF proce",
+     "ssing",
+     "pa",
+     "rameters revealed",
+     "significant diff",
+     "erences in con-"
+    ],
+    [
+     "",
+     "",
+     "ductivity and DO post-treatment,",
+     "with",
+     "th",
+     "e intensity of thes",
+     "e effects varyin",
+     "g based on the"
+    ],
+    [
+     "",
+     "",
+     "strength of the treatment. The F1 b",
+     "aijiu s",
+     "am",
+     "ple showed the h",
+     "ighest conductiv",
+     "ity (17 µs/cm),"
+    ],
+    [
+     "",
+     "",
+     "significantly higher than the other",
+     "sam",
+     "ple",
+     "s (p < 0.05). Guls",
+     "um also indicate",
+     "d that the con-"
+    ],
+    [
+     "",
+     "",
+     "ductivity of wine increased signif",
+     "icantl",
+     "y af",
+     "ter PEF treatment",
+     "[31]. There was",
+     "no significant"
+    ],
+    [
+     "",
+     "",
+     "difference in DO treatment with",
+     "high",
+     "ele",
+     "ctric strength (25",
+     "–35 kV/cm). Th",
+     "is is probably"
+    ],
+    [
+     "",
+     "",
+     "because PEF is a short-duration p",
+     "roces",
+     "s w",
+     "ith limited impac",
+     "t on DO in a sho",
+     "rt time."
+    ],
+    [
+     "",
+     "",
+     "Table 1. Processing parameters and re",
+     "levan",
+     "t p",
+     "hysicochemical indi",
+     "ces of strong-flav",
+     "or baijiu sample."
+    ],
+    [
+     "Factors",
+     "",
+     "CK S1 S2",
+     "(F2)",
+     "",
+     "S3",
+     "F1",
+     "F3"
+    ],
+    [
+     "Electric field str",
+     "ength",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "- 15",
+     "25",
+     "",
+     "35",
+     "25",
+     "25"
+    ],
+    [
+     "(kV/cm)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Pulse frequenc",
+     "y (Hz)",
+     "- 350 3",
+     "50",
+     "",
+     "350",
+     "200",
+     "500"
+    ],
+    [
+     "Alcohol Content",
+     "(%vol) 67.2",
+     "0 ± 0.70 b 69.47 ± 0.55 b 65.10",
+     "± 1.10",
+     "a",
+     "67.73 ± 0.95 ab",
+     "66.08 ± 1.00 a",
+     "66.03 ± 0.15 a"
+    ],
+    [
+     "Conductivity (µ",
+     "S/cm) 11.8",
+     "0 ± 0.07 a 13.57 ± 0.80 b 15.10",
+     "± 0.96",
+     "b",
+     "13.97 ± 0.12 b",
+     "17.47 ± 0.74 c",
+     "13.90 ± 0.12 b"
+    ],
+    [
+     "pH",
+     "3.9",
+     "8 ± 0.20 a 3.92 ± 0.05 a 3.94 ±",
+     "0.07",
+     "a",
+     "3.94 ± 0.02 a",
+     "4.02 ± 0.08 a",
+     "3.94 ± 0.02 a"
+    ],
+    [
+     "Dissolve oxygen",
+     "(mg/L) 7.3",
+     "4 ± 0.14 a 7.34 ± 0.14 a 7.58 ±",
+     "0.05",
+     "b",
+     "7.50 ± 0.09 b",
+     "7.42 ± 0.08 ab",
+     "7.50 ± 0.09 b"
+    ],
+    [
+     "Electrical potenti",
+     "al (mV) 175.",
+     "00 ± 3.34 a 175.83 ± 4.34 a 172.40",
+     "± 2.6",
+     "3 a",
+     "177.27 ± 3.68 a",
+     "177.27 ± 1.20 a",
+     "177.27 ± 3.68 a"
+    ],
+    [
+     "",
+     "",
+     "a,b,c different superscript letters for the sam",
+     "e indic",
+     "es i",
+     "n one line denote sign",
+     "ificant differences (p",
+     "< 0.05), p value of"
+    ],
+    [
+     "",
+     "",
+     "indices of two groups baijiu was assessed",
+     "by one",
+     "-wa",
+     "y ANOVA.",
+     "",
+     ""
+    ]
+   ],
+   "pages": [
+    5
+   ],
+   "frags": 1,
+   "n_row": 49,
+   "n_col": 8,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "2025, 14, 1097",
+    "",
+    "by 24.74%. Simil 2707 mg/L (CK) demonstrated th the ester concentr In all the baijiu s",
+    "arly, the es to 3897 m at electric ation was amples, est",
+    "ter concentrat g/L (500 Hz field treatme not significan ers constitute",
+    "ion in , F3). nt sign tly aff d the",
+    "baijiu fo Furthe ificantly ected by majority",
+    "llowed this rmore, recen enhances e variations in of the volati",
+    "trend t inv ster [ elec le co",
+    ", incre estiga 12,32] tric fie mpone",
+    "7 of 19 asing from tions have . However, ld strength. nts, which"
+   ],
+   "sig": "2025,14,1097||by24.74%.Simil2707mg/L(CK)demonstratedththeesterconcentrInallthebaijius|arly,theesto3897matelectricationwasamples,est|terconcentratg/L(500Hzfieldtreatmenotsignificanersconstitute|ionin,F3).ntsigntlyaffdthe|baijiufoFurtheificantlyectedbymajority|llowedthisrmore,recenenhancesevariationsinofthevolati|trendtinvster[elecleco|,increestiga12,32]tricfiempone|7of19asingfromtionshave.However,ldstrength.nts,which",
+   "rows": [
+    [
+     "2025, 14, 1097",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "7 of 19"
+    ],
+    [
+     "",
+     "",
+     "by 24.74%. Simil",
+     "arly, the es",
+     "ter concentrat",
+     "ion in",
+     "baijiu fo",
+     "llowed this",
+     "trend",
+     ", incre",
+     "asing from"
+    ],
+    [
+     "",
+     "",
+     "2707 mg/L (CK)",
+     "to 3897 m",
+     "g/L (500 Hz",
+     ", F3).",
+     "Furthe",
+     "rmore, recen",
+     "t inv",
+     "estiga",
+     "tions have"
+    ],
+    [
+     "",
+     "",
+     "demonstrated th",
+     "at electric",
+     "field treatme",
+     "nt sign",
+     "ificantly",
+     "enhances e",
+     "ster [",
+     "12,32]",
+     ". However,"
+    ],
+    [
+     "",
+     "",
+     "the ester concentr",
+     "ation was",
+     "not significan",
+     "tly aff",
+     "ected by",
+     "variations in",
+     "elec",
+     "tric fie",
+     "ld strength."
+    ],
+    [
+     "",
+     "",
+     "In all the baijiu s",
+     "amples, est",
+     "ers constitute",
+     "d the",
+     "majority",
+     "of the volati",
+     "le co",
+     "mpone",
+     "nts, which"
+    ],
+    [
+     "",
+     "",
+     "are primarily for",
+     "med durin",
+     "g fermentatio",
+     "n and",
+     "aging pr",
+     "ocesses, con",
+     "tribu",
+     "ting st",
+     "rong fruity"
+    ],
+    [
+     "",
+     "",
+     "and floral aroma",
+     "s. The incr",
+     "eased ester co",
+     "ntent",
+     "enhance",
+     "s the potenti",
+     "al for",
+     "a stro",
+     "nger fruity"
+    ],
+    [
+     "",
+     "",
+     "aroma in baijiu.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "Table 2. Strong-fla",
+     "vor baijiu sa",
+     "mple content o",
+     "f vario",
+     "us volatil",
+     "e substance c",
+     "ategor",
+     "ies.",
+     ""
+    ],
+    [
+     "Categories",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "A",
+     "ldehy",
+     "des and"
+    ],
+    [
+     "",
+     "Es",
+     "ters",
+     "Alcohols",
+     "Ac",
+     "ids",
+     "",
+     "Aromatics",
+     "",
+     "",
+     ""
+    ],
+    [
+     "(mg/L)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "Ket",
+     "ones"
+    ],
+    [
+     "CK",
+     "2707.3",
+     "± 238.92 a 124",
+     ".92 ± 14.8",
+     "a 96.11",
+     "± 3.69",
+     "a 1",
+     "7.7 ± 9.47 a",
+     "",
+     "10.65",
+     "± 1.26 a"
+    ],
+    [
+     "S1",
+     "3167.31",
+     "± 363.68 a 200",
+     ".39 ± 11.57",
+     "b 181.32",
+     "± 27.5",
+     "7 d 2",
+     "1.76 ± 0.35 b",
+     "",
+     "12.86",
+     "± 0.19 a"
+    ],
+    [
+     "S2 (F2)",
+     "2901.81",
+     "± 208.24 a 271",
+     ".73 ± 44.61",
+     "c 132.36",
+     "± 16.3",
+     "6 b 2",
+     "4.37 ± 9.9 a",
+     "",
+     "15.99",
+     "± 0.52 b"
+    ],
+    [
+     "S3",
+     "2883.73",
+     "± 629.44 a 168",
+     ".45 ± 6.75",
+     "b 155.75",
+     "± 1.81",
+     "c 2",
+     "6.7 ± 0.68 c",
+     "",
+     "13.52",
+     "± 1.71 a"
+    ],
+    [
+     "F1",
+     "3028.13",
+     "± 152.9 a 267",
+     ".93 ± 23.4",
+     "c 137.14",
+     "± 10.3",
+     "b 2",
+     "6.02 ± 1.67 c",
+     "",
+     "13.57",
+     "± 1.75 a"
+    ],
+    [
+     "F3",
+     "3897.49",
+     "± 281.74 b 201",
+     ".8 ± 22.02",
+     "b 181.9",
+     "± 19.2",
+     "d 3",
+     "4.09 ± 0.89 d",
+     "",
+     "16.66",
+     "± 1.54 b"
+    ],
+    [
+     "",
+     "",
+     "a,b,c,d different supers",
+     "cript letters i",
+     "n a list denote si",
+     "gnifican",
+     "t differenc",
+     "es (p < 0.05); p",
+     "value o",
+     "f volati",
+     "le compound"
+    ],
+    [
+     "",
+     "",
+     "categories of seven g",
+     "roups baijiu",
+     "was assessed by",
+     "one-wa",
+     "y ANOV",
+     "A. S1–S3 and F1",
+     "–F3 w",
+     "ere the",
+     "experimental"
+    ],
+    [
+     "",
+     "",
+     "groups, and the elect",
+     "ric field stren",
+     "gth from S1 to S3",
+     "was 15",
+     "kV, 25 kV,",
+     "and 35 kV. The",
+     "pulse",
+     "frequen",
+     "cy from F1 to"
+    ],
+    [
+     "",
+     "",
+     "F3 was 200 Hz, 350 H",
+     "z, and 500 H",
+     "z.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "To facilitate",
+     "analysis, s",
+     "amples with t",
+     "he sa",
+     "me para",
+     "meters at diff",
+     "erent",
+     "treat",
+     "ment levels"
+    ],
+    [
+     "",
+     "",
+     "were considered",
+     "as intra-g",
+     "roup sample",
+     "s. Par",
+     "tial Lea",
+     "st Squares D",
+     "iscri",
+     "minan",
+     "t Analysis"
+    ],
+    [
+     "",
+     "",
+     "(PLS-DA) was pe",
+     "rformed t",
+     "o examine int",
+     "er-gro",
+     "up and",
+     "intra-group",
+     "varia",
+     "bility.",
+     "Following"
+    ],
+    [
+     "",
+     "",
+     "dimensionality r",
+     "eduction, r",
+     "elative coord",
+     "inate",
+     "points f",
+     "or each princ",
+     "ipal",
+     "compo",
+     "nent were"
+    ],
+    [
+     "",
+     "",
+     "established, resu",
+     "lting in a s",
+     "core chart (F",
+     "igure 2",
+     "). The",
+     "CK group an",
+     "d PE",
+     "F-trea",
+     "ted groups"
+    ],
+    [
+     "",
+     "",
+     "were clearly disti",
+     "nguishable",
+     ", with the gro",
+     "up trea",
+     "ted at 2",
+     "5 kV or a pul",
+     "se fre",
+     "quenc",
+     "y of 500 Hz"
+    ],
+    [
+     "",
+     "",
+     "showing greater",
+     "inter-grou",
+     "p distinction",
+     "than o",
+     "ther exp",
+     "erimental g",
+     "roup",
+     "s. To i",
+     "dentify the"
+    ],
+    [
+     "",
+     "",
+     "main compound",
+     "s affected",
+     "by electric f",
+     "ield str",
+     "ength a",
+     "nd pulse fre",
+     "quen",
+     "cy, PL",
+     "S-DA and"
+    ],
+    [
+     "",
+     "",
+     "ANOVA were e",
+     "mployed, a",
+     "nd the numb",
+     "er of",
+     "differen",
+     "tial compou",
+     "nds w",
+     "ith V",
+     "IP > 1 and"
+    ],
+    [
+     "",
+     "",
+     "p < 0.05 among g",
+     "roups is pr",
+     "esented in Fi",
+     "gure 3",
+     "a.",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "(a)",
+     "",
+     "",
+     "",
+     "",
+     "(b)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "Figure 2. (a) The s",
+     "core plot of",
+     "Strong-flavor b",
+     "aijiu s",
+     "amples w",
+     "ith different",
+     "pulse",
+     "freque",
+     "ncies of PEF"
+    ],
+    [
+     "",
+     "",
+     "based on all compo",
+     "unds; (b) th",
+     "e score plot of",
+     "baijiu s",
+     "amples",
+     "with different",
+     "electri",
+     "c field",
+     "strengths of"
+    ],
+    [
+     "",
+     "",
+     "PEF. S1~S3 and F1~",
+     "F3 were the",
+     "experimental",
+     "groups,",
+     "and the",
+     "electric field st",
+     "rengt",
+     "h from",
+     "S1 to S3 was"
+    ],
+    [
+     "",
+     "",
+     "15 kV, 25 kV, and 3",
+     "5 kV. The pu",
+     "lse frequency",
+     "from F1",
+     "to F3 w",
+     "as 200 Hz, 350",
+     "Hz, a",
+     "nd 500",
+     "Hz."
+    ]
+   ],
+   "pages": [
+    7
+   ],
+   "frags": 1,
+   "n_row": 38,
+   "n_col": 11,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "correlated with flavor compoun PEF treatment. across the varyi field strength of",
+    "increasing ele d in baijiu, th Notably, no sig ng electric field 25 kV, the hexy",
+    "ctric field stren e hexyl hexano nificant differe intensities. Ho l hexanoate con",
+    "gth (p < 0.0 ate content nces in hex wever, wh tent exhibi",
+    "5). Hexyl hex decreased si yl hexanoate l en maintainin ted a declinin",
+    "anoate is gnificantl evels wer g a const g trend w",
+    "9 of 19 a primary y after the e detected ant electric ith increas-"
+   ],
+   "sig": "correlatedwithflavorcompounPEFtreatment.acrossthevaryifieldstrengthof|increasingeledinbaijiu,thNotably,nosigngelectricfield25kV,thehexy|ctricfieldstrenehexylhexanonificantdiffereintensities.Holhexanoatecon|gth(p<0.0atecontentncesinhexwever,whtentexhibi|5).Hexylhexdecreasedsiylhexanoatelenmaintainintedadeclinin|anoateisgnificantlevelswergaconstgtrendw|9of19aprimaryyaftertheedetectedantelectricithincreas-",
+   "rows": [
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "9 of 19"
+    ],
+    [
+     "correlated with",
+     "increasing ele",
+     "ctric field stren",
+     "gth (p < 0.0",
+     "5). Hexyl hex",
+     "anoate is",
+     "a primary"
+    ],
+    [
+     "flavor compoun",
+     "d in baijiu, th",
+     "e hexyl hexano",
+     "ate content",
+     "decreased si",
+     "gnificantl",
+     "y after the"
+    ],
+    [
+     "PEF treatment.",
+     "Notably, no sig",
+     "nificant differe",
+     "nces in hex",
+     "yl hexanoate l",
+     "evels wer",
+     "e detected"
+    ],
+    [
+     "across the varyi",
+     "ng electric field",
+     "intensities. Ho",
+     "wever, wh",
+     "en maintainin",
+     "g a const",
+     "ant electric"
+    ],
+    [
+     "field strength of",
+     "25 kV, the hexy",
+     "l hexanoate con",
+     "tent exhibi",
+     "ted a declinin",
+     "g trend w",
+     "ith increas-"
+    ],
+    [
+     "ing pulse freque",
+     "ncy. These res",
+     "ults may indica",
+     "te that hexy",
+     "l hexanoate d",
+     "emonstr",
+     "ates higher"
+    ],
+    [
+     "sensitivity to el",
+     "ectric field str",
+     "ength modifica",
+     "tions com",
+     "pared to puls",
+     "e freque",
+     "ncy adjust-"
+    ],
+    [
+     "ments. Addition",
+     "ally, the conte",
+     "nts of 1,1-dieth",
+     "oxynonane",
+     "and 1,1-dieth",
+     "oxydeca",
+     "ne showed"
+    ],
+    [
+     "a negative corre",
+     "lation with ele",
+     "ctric field stren",
+     "gth. Acetals",
+     "in baijiu are",
+     "formed t",
+     "hrough the"
+    ],
+    [
+     "condensation of",
+     "alcohol and a",
+     "ldehydes and g",
+     "enerally po",
+     "ssess a pleasa",
+     "nt aroma",
+     "[40]."
+    ],
+    [
+     "Figure 4. Correla",
+     "tion analysis be",
+     "tween flavor sub",
+     "stances and",
+     "electric strengt",
+     "h, pulse f",
+     "requency in"
+    ],
+    [
+     "strong-flavor baij",
+     "iu treated in var",
+     "ious PEFs (red i",
+     "ndicates a po",
+     "sitive correlati",
+     "on and bl",
+     "ue indicates"
+    ],
+    [
+     "a negative correla",
+     "tion; solid line in",
+     "dicates p < 0.05).",
+     "The correlat",
+     "ions were deter",
+     "mined by",
+     "the Pearson"
+    ],
+    [
+     "correlation analy",
+     "sis and Mante t",
+     "est (For interpre",
+     "tation of the",
+     "details in thi",
+     "s figure, t",
+     "he reader is"
+    ],
+    [
+     "referred to Table",
+     "A2 of Appendix",
+     "B).",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Octanoic ac",
+     "id, propyl n-o",
+     "ctanoate, 2-(12-",
+     "pentadecyn",
+     "yloxy) tetrah",
+     "ydro-2H-",
+     "pyran, ben-"
+    ],
+    [
+     "zene acetaldehy",
+     "de diethyl acet",
+     "al, trans-13-oct",
+     "adecenoic a",
+     "cid, hexan-1-",
+     "ol (1-hexa",
+     "nol), ethyl"
+    ],
+    [
+     "myristate, hexa",
+     "noic acid, anhy",
+     "dride, p-cresol,",
+     "and other",
+     "compounds e",
+     "xhibited",
+     "significant"
+    ],
+    [
+     "positive correlat",
+     "ions with puls",
+     "e frequency. In",
+     "contrast, 15",
+     "-methylhepta",
+     "decanoic",
+     "acid ethyl"
+    ],
+    [
+     "ester showed a",
+     "significant ne",
+     "gative correlati",
+     "on with pu",
+     "lse frequency",
+     ". Among",
+     "these, the"
+    ],
+    [
+     "correlation coef",
+     "ficients of oct",
+     "anoic acid, 1,1-",
+     "diethoxyno",
+     "nane, hexyl",
+     "hexanoat",
+     "e, benzene"
+    ],
+    [
+     "acetaldehyde di",
+     "ethyl acetal, 1",
+     ",1-diethoxydec",
+     "ane, and 1-",
+     "hexanol were",
+     "all great",
+     "er than 0.6"
+    ],
+    [
+     "Propyl caprylat",
+     "e and ethyl m",
+     "yristate are ass",
+     "ociated wi",
+     "th an iris-like",
+     "aroma [",
+     "32]. These"
+    ],
+    [
+     "compounds exh",
+     "ibited positive",
+     "correlations wit",
+     "h pulse freq",
+     "uency. This o",
+     "bservatio",
+     "n supports"
+    ],
+    [
+     "the conclusion t",
+     "hat variations",
+     "in electric field",
+     "strength str",
+     "ongly influen",
+     "ce baijiu",
+     "flavor [40]"
+    ]
+   ],
+   "pages": [
+    9
+   ],
+   "frags": 1,
+   "n_row": 26,
+   "n_col": 7,
+   "roles": [
+    null,
+    null,
+    "no",
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "PEF su the equilibri Under the i to form SCF field strengt",
+    "pplies the um betwe nfluence o AEEs follo h does not",
+    "energy required t en electronic trans f the field energy, wing electric fiel significantly enh",
+    "o drive che ition, electro LCFAEEs u d treatment. ance the oxi",
+    "mical reactions esterification, ndergo hydro Consequently, dation reaction",
+    ", facilita and hyd lysis, ma an incre s in baiji",
+    "10 of 19 ting a shift in rolysis [14,41] king it easier ase in electric u. Instead, an"
+   ],
+   "sig": "PEFsutheequilibriUndertheitoformSCFfieldstrengt|ppliestheumbetwenfluenceoAEEsfollohdoesnot|energyrequiredtenelectronictransfthefieldenergy,wingelectricfielsignificantlyenh|odrivecheition,electroLCFAEEsudtreatment.ancetheoxi|micalreactionsesterification,ndergohydroConsequently,dationreaction|,facilitaandhydlysis,maanincresinbaiji|10of19tingashiftinrolysis[14,41]kingiteasieraseinelectricu.Instead,an",
+   "rows": [
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "10 of 19"
+    ],
+    [
+     "PEF su",
+     "pplies the",
+     "energy required t",
+     "o drive che",
+     "mical reactions",
+     ", facilita",
+     "ting a shift in"
+    ],
+    [
+     "the equilibri",
+     "um betwe",
+     "en electronic trans",
+     "ition, electro",
+     "esterification,",
+     "and hyd",
+     "rolysis [14,41]"
+    ],
+    [
+     "Under the i",
+     "nfluence o",
+     "f the field energy,",
+     "LCFAEEs u",
+     "ndergo hydro",
+     "lysis, ma",
+     "king it easier"
+    ],
+    [
+     "to form SCF",
+     "AEEs follo",
+     "wing electric fiel",
+     "d treatment.",
+     "Consequently,",
+     "an incre",
+     "ase in electric"
+    ],
+    [
+     "field strengt",
+     "h does not",
+     "significantly enh",
+     "ance the oxi",
+     "dation reaction",
+     "s in baiji",
+     "u. Instead, an"
+    ],
+    [
+     "increased nu",
+     "mber of un",
+     "it discharges is m",
+     "ore likely to",
+     "promote oxidat",
+     "ion react",
+     "ions, resulting"
+    ],
+    [
+     "in the produ",
+     "ction of al",
+     "donic acids. Variat",
+     "ions in puls",
+     "e frequency an",
+     "d electric",
+     "field strength"
+    ],
+    [
+     "influence th",
+     "e degree of",
+     "oxidation and es",
+     "ter hydrolys",
+     "is in baijiu to d",
+     "ifferent e",
+     "xtents. These"
+    ],
+    [
+     "changes also",
+     "affect the",
+     "generation of agin",
+     "g markers a",
+     "ssociated with",
+     "fruity ar",
+     "omas in baijiu"
+    ],
+    [
+     "The approp",
+     "riate adjus",
+     "tment of electric",
+     "field parame",
+     "ters offers a st",
+     "rategy f",
+     "or optimizing"
+    ],
+    [
+     "baijiu flavor",
+     ".",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3.4. Effect of",
+     "Oxidant Co",
+     "mbined with PEF o",
+     "n the Strong-",
+     "Flavor Baijiu",
+     "",
+     ""
+    ],
+    [
+     "Oxyge",
+     "n and meta",
+     "ls play important",
+     "roles in the",
+     "storage proces",
+     "s of baiji",
+     "u [42]. In this"
+    ],
+    [
+     "study, the ar",
+     "oma and v",
+     "olatile flavor com",
+     "pounds wer",
+     "e analyzed befo",
+     "re and a",
+     "fter the action"
+    ],
+    [
+     "of dissolved",
+     "oxygen an",
+     "d ferrous ion-assi",
+     "sted PEF. As",
+     "shown in Figu",
+     "re 5, afte",
+     "r various PEF"
+    ],
+    [
+     "treatments,",
+     "only the fr",
+     "uity and mellow a",
+     "romas have",
+     "significant diffe",
+     "rences. I",
+     "ncreasing dis-"
+    ],
+    [
+     "solved oxyg",
+     "en significa",
+     "ntly improves frui",
+     "ty aroma, an",
+     "d a previous st",
+     "udy also",
+     "demonstrated"
+    ],
+    [
+     "that the con",
+     "trolled oxi",
+     "dative treatment",
+     "of baijiu sign",
+     "ificantly weak",
+     "ens the r",
+     "aw aroma. In"
+    ],
+    [
+     "addition, the",
+     "existence",
+     "of Fe2+ weakens t",
+     "he mellow ar",
+     "oma of strong-",
+     "flavor ba",
+     "ijiu, and there"
+    ],
+    [
+     "is no signific",
+     "ant differe",
+     "nce in other arom",
+     "as.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Figure 5. Aro",
+     "ma profiles",
+     "of strong-flavor bai",
+     "jiu under vari",
+     "ous treatments.",
+     "(* indicate",
+     "s p < 0.05)."
+    ],
+    [
+     "Using",
+     "HS-SPME c",
+     "ombined with GC",
+     "-MS to anal",
+     "yze volatile fla",
+     "vor comp",
+     "ounds before"
+    ],
+    [
+     "and after tre",
+     "atment, th",
+     "e principal compo",
+     "nent analysis",
+     "(PCA) results",
+     "(Figure 6",
+     "a,b) indicated"
+    ],
+    [
+     "a clear separ",
+     "ation and",
+     "significant differe",
+     "nces among",
+     "G-PEF+DO, G",
+     "-PEF+Fe",
+     "2+, and G-PEF"
+    ],
+    [
+     "groups. The",
+     "PLS-DA m",
+     "odel was utilized",
+     "to select cla",
+     "ssification and",
+     "discrimi",
+     "nant variables"
+    ],
+    [
+     "Differential",
+     "compound",
+     "s with VIP > 1 we",
+     "re identified",
+     "(Figure 6c,d).",
+     "",
+     ""
+    ],
+    [
+     "As sho",
+     "wn in Figu",
+     "re 6c, a total of 24",
+     "differential c",
+     "ompounds we",
+     "re identi",
+     "fied in the dis-"
+    ],
+    [
+     "solved oxyg",
+     "en treatme",
+     "nt group, includi",
+     "ng 12 esters,",
+     "5 organic acids",
+     ", 2 acetal",
+     "s, 1 aldehyde,"
+    ],
+    [
+     "2 alcohols, 1",
+     "sulfur co",
+     "mpound, and 1 ar",
+     "omatic comp",
+     "ound. Among",
+     "them, 1",
+     "7 compounds"
+    ],
+    [
+     "such as octa",
+     "noic acid,",
+     "heptanoic acid, he",
+     "xanoic acid,",
+     "pentanoic acid",
+     ", and et",
+     "hyl hexanoate"
+    ],
+    [
+     "showed a si",
+     "gnificant u",
+     "pward trend. The",
+     "increased di",
+     "ssolved oxygen",
+     "in raw b",
+     "aijiu elevated"
+    ],
+    [
+     "the contents",
+     "of isoam",
+     "yl alcohol, likely",
+     "due to the h",
+     "ydrolysis prom",
+     "oted by",
+     "the PEF. The"
+    ],
+    [
+     "increase in",
+     "dissolved",
+     "oxygen likely pro",
+     "motes oxida",
+     "tion, converti",
+     "ng alcoh",
+     "ols into corre-"
+    ]
+   ],
+   "pages": [
+    10
+   ],
+   "frags": 1,
+   "n_row": 34,
+   "n_col": 7,
+   "roles": [
+    "ri",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "In the ferrous ion treat ing 18 esters, 4 aldehyde/ including elaidic acid ethyl 15-methylheptadecanoic ac nificantly decreased. This",
+    "men keto este id et migh",
+    "t group, 25 differen nes, 2 acids, and 1 r, 2,4-Di-t-butylphe hyl ester showed a t be because addin",
+    "tial compounds aromatic comp nol, ethyl 9,12-h n increasing tren g Fe2+ boosts es",
+    "were de ound. T exadeca d, while ter hydr",
+    "12 of 19 tected, includ- he substances dienoate, and 21 others sig- olysis, cutting"
+   ],
+   "sig": "Intheferrousiontreating18esters,4aldehyde/includingelaidicacidethyl15-methylheptadecanoicacnificantlydecreased.This|menketoesteidetmigh|tgroup,25differennes,2acids,and1r,2,4-Di-t-butylphehylestershowedatbebecauseaddin|tialcompoundsaromaticcompnol,ethyl9,12-hnincreasingtrengFe2+boostses|weredeound.Texadecad,whileterhydr|12of19tected,includ-hesubstancesdienoate,and21otherssig-olysis,cutting",
+   "rows": [
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "12 of 19"
+    ],
+    [
+     "In the ferrous ion treat",
+     "men",
+     "t group, 25 differen",
+     "tial compounds",
+     "were de",
+     "tected, includ-"
+    ],
+    [
+     "ing 18 esters, 4 aldehyde/",
+     "keto",
+     "nes, 2 acids, and 1",
+     "aromatic comp",
+     "ound. T",
+     "he substances"
+    ],
+    [
+     "including elaidic acid ethyl",
+     "este",
+     "r, 2,4-Di-t-butylphe",
+     "nol, ethyl 9,12-h",
+     "exadeca",
+     "dienoate, and"
+    ],
+    [
+     "15-methylheptadecanoic ac",
+     "id et",
+     "hyl ester showed a",
+     "n increasing tren",
+     "d, while",
+     "21 others sig-"
+    ],
+    [
+     "nificantly decreased. This",
+     "migh",
+     "t be because addin",
+     "g Fe2+ boosts es",
+     "ter hydr",
+     "olysis, cutting"
+    ],
+    [
+     "ester levels. Also, metal ion",
+     "s co",
+     "uld bind with acids",
+     "and other arom",
+     "a compo",
+     "unds to form"
+    ],
+    [
+     "metal–aroma compound co",
+     "mple",
+     "xes or colloidal par",
+     "ticles [47]. Unde",
+     "r pulsed",
+     "electric fields,"
+    ],
+    [
+     "reactant collisions are incr",
+     "ease",
+     "d, possibly disrupt",
+     "ing the original",
+     "reaction",
+     "equilibrium."
+    ],
+    [
+     "Additionally, the hexanol c",
+     "onten",
+     "t decreased with in",
+     "creased dissolv",
+     "ed oxyge",
+     "n and ferrous"
+    ],
+    [
+     "ions. This may occur beca",
+     "use h",
+     "exanol, with lower",
+     "steric hindranc",
+     "e, is mo",
+     "re susceptible"
+    ],
+    [
+     "to oxidation by ferrous io",
+     "ns. B",
+     "oth oxygen and fe",
+     "rrous ions sign",
+     "ificantly",
+     "influence the"
+    ],
+    [
+     "oxidation system under PE",
+     "F [2].",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Notably, hexanoic and",
+     "oct",
+     "anoic acids exhibite",
+     "d divergent res",
+     "ponses t",
+     "o oxygen and"
+    ],
+    [
+     "ferrous ions. While oxyge",
+     "n an",
+     "d ferrous ions gen",
+     "erally promote",
+     "oxidatio",
+     "n (converting"
+    ],
+    [
+     "alcohols to aldehydes and",
+     "subs",
+     "equently to acids),",
+     "increased disso",
+     "lved oxy",
+     "gen elevated"
+    ],
+    [
+     "these acids’ contents throu",
+     "gh e",
+     "nhanced oxidation.",
+     "Conversely, hi",
+     "gher ferr",
+     "ous ion levels"
+    ],
+    [
+     "reduced acid concentration",
+     "s, lik",
+     "ely through two m",
+     "echanisms: (1) t",
+     "he forma",
+     "tion of stable"
+    ],
+    [
+     "complexes with organic ac",
+     "ids",
+     "[43,47], and (2) the",
+     "catalytic prom",
+     "otion of",
+     "condensation"
+    ],
+    [
+     "reactions to form lactones",
+     "and",
+     "anhydrides [2]. He",
+     "xanoic and oct",
+     "anoic aci",
+     "ds contribute"
+    ],
+    [
+     "to cellar aroma and mellow",
+     "mo",
+     "uthfeel. Oxygen-as",
+     "sisted electric f",
+     "ield treat",
+     "ment reduced"
+    ],
+    [
+     "alcohol content, increased",
+     "alde",
+     "hydes and acids, an",
+     "d stabilized the",
+     "se comp",
+     "ounds during"
+    ],
+    [
+     "storage. As crucial precurso",
+     "rs of",
+     "esters, acids play a",
+     "vital role in baij",
+     "iu falvor",
+     "development."
+    ],
+    [
+     "Because of production-",
+     "relat",
+     "ed factors, raw baiji",
+     "u contains certai",
+     "n amoun",
+     "ts of iron. The"
+    ],
+    [
+     "determination of iron conte",
+     "nt in",
+     "raw baijiu after th",
+     "e PEF treatment",
+     "reveale",
+     "d a significant"
+    ],
+    [
+     "reduction in Fe levels (Figur",
+     "e 7a)",
+     ". This phenomenon",
+     "could be attribu",
+     "ted to th",
+     "e precipitation"
+    ],
+    [
+     "of iron ions formed through",
+     "the r",
+     "eaction between Fe2",
+     "+ and hydroxide",
+     "ions (O",
+     "H−) generated"
+    ],
+    [
+     "during Fenton-type process",
+     "es. T",
+     "he formed iron hyd",
+     "roxide precipita",
+     "tes were",
+     "subsequently"
+    ],
+    [
+     "removed during filtration [",
+     "47–4",
+     "9].",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Furthermore, the hyd",
+     "roxy",
+     "l radicals in baijiu,",
+     "both prior to a",
+     "nd follo",
+     "wing the PEF"
+    ],
+    [
+     "treatment, were assessed us",
+     "ing t",
+     "he electron spin res",
+     "onance (ESR) tec",
+     "hnique.",
+     "The formation"
+    ],
+    [
+     "of hydroxyl radicals was",
+     "conf",
+     "irmed in the baijiu",
+     "treated with P",
+     "EF (Figu",
+     "re 7b). These"
+    ],
+    [
+     "radicals are suffciiently sta",
+     "ble t",
+     "o be captured by ni",
+     "trone spin traps",
+     "(such a",
+     "s DMPO) and"
+    ],
+    [
+     "quantified by measuring th",
+     "e inte",
+     "nsity of the ESR spe",
+     "ctrum associate",
+     "d with th",
+     "e spin adduct"
+    ],
+    [
+     "(Figure 7c). The presence",
+     "of th",
+     "ese radicals is evid",
+     "ent in the samp",
+     "les show",
+     "n in Figure 6,"
+    ],
+    [
+     "indicating that pulsed elec",
+     "tric",
+     "field treatment ind",
+     "uces free radical",
+     "s in the",
+     "baijiu system."
+    ],
+    [
+     "As illustrated in Figure 7b",
+     ", the",
+     "intensity of hydro",
+     "xyl radicals inc",
+     "reased in",
+     "the samples"
+    ],
+    [
+     "after PEF treatment compa",
+     "red t",
+     "o the G-PEF group,",
+     "suggesting that",
+     "dissolve",
+     "d oxygen and"
+    ],
+    [
+     "transition metals contribut",
+     "e, ei",
+     "ther directly or ind",
+     "irectly, to the f",
+     "ormatio",
+     "n of hydroxyl"
+    ],
+    [
+     "radicals [19]. In addition, th",
+     "e res",
+     "ults showed that th",
+     "e content of hyd",
+     "roxyl rad",
+     "ical produced"
+    ],
+    [
+     "by increasing the DO in the",
+     "raw",
+     "baijiu was higher t",
+     "han that of Fe2+,",
+     "which m",
+     "ay be caused"
+    ],
+    [
+     "by the precipitation of iron",
+     "ions",
+     "generated by the re",
+     "action with hyd",
+     "roxyl rad",
+     "ical, resulting"
+    ],
+    [
+     "in the decrease in the cont",
+     "ent",
+     "of Fe in the solutio",
+     "n (Figure 7d).",
+     "When P",
+     "EF is applied,"
+    ],
+    [
+     "ionization of the solution g",
+     "enera",
+     "tes O , which posse 3",
+     "sses a strong ox",
+     "idizing e",
+     "ffect and may"
+    ],
+    [
+     "cause molecular oxygen in",
+     "the",
+     "solution to partially",
+     "convert into re",
+     "active o",
+     "xygen species."
+    ],
+    [
+     "At higher pH levels, the co",
+     "njug",
+     "ate base HO – of H 2",
+     "2O accelerates 2",
+     "the dec",
+     "omposition of"
+    ],
+    [
+     "O and H 2O [7,50]. Since 3 2",
+     "•OH",
+     "is the primary sp",
+     "ecies responsib",
+     "le for the",
+     "degradation"
+    ],
+    [
+     "of organic matter in these r",
+     "eacti",
+     "ons, it is likely tha",
+     "t the electric fiel",
+     "d action",
+     "promotes the"
+    ],
+    [
+     "formation of hydroxyl radic",
+     "als.",
+     "During the oxidatio",
+     "n process of raw",
+     "baijiu, re",
+     "active oxygen"
+    ],
+    [
+     "species assist in acceleratin",
+     "g the",
+     "oxidation rate of al",
+     "cohols.",
+     "",
+     ""
+    ]
+   ],
+   "pages": [
+    12
+   ],
+   "frags": 1,
+   "n_row": 50,
+   "n_col": 6,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "Comp",
+    "ound Name",
+    "Appendix B Table A1. Relat with GC-MS.",
+    "ive content res Blank (mg/L)",
+    "ults of volatile S1 (mg/L)",
+    "flavor compo S2 (F2) (mg/L)",
+    "unds determin S3 (mg/L)",
+    "ed by HS-SPM F1 (mg/L)",
+    "E combin F3 (mg/L)"
+   ],
+   "sig": "Comp|oundName|AppendixBTableA1.RelatwithGC-MS.|ivecontentresBlank(mg/L)|ultsofvolatileS1(mg/L)|flavorcompoS2(F2)(mg/L)|undsdeterminS3(mg/L)|edbyHS-SPMF1(mg/L)|EcombinF3(mg/L)",
+   "rows": [
+    [
+     "",
+     "",
+     "Appendix B",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "Table A1. Relat",
+     "ive content res",
+     "ults of volatile",
+     "flavor compo",
+     "unds determin",
+     "ed by HS-SPM",
+     "E combin"
+    ],
+    [
+     "",
+     "",
+     "with GC-MS.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "Blank",
+     "S1",
+     "S2 (F2)",
+     "S3",
+     "F1",
+     "F3"
+    ],
+    [
+     "Comp",
+     "ound Name",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)"
+    ],
+    [
+     "ethylb",
+     "utyl pentan",
+     "oate",
+     "1.688",
+     "2.007",
+     "2.239",
+     "2.124",
+     "2.474",
+     "2.316"
+    ],
+    [
+     "Ethyl",
+     "heptanoate",
+     "",
+     "348.671",
+     "234.362",
+     "263.123",
+     "242.753",
+     "297.115",
+     "264.634"
+    ],
+    [
+     "Pentyl",
+     "Hexanoate",
+     "",
+     "40.843",
+     "24.228",
+     "24.708",
+     "23.626",
+     "35.625",
+     "29.245"
+    ],
+    [
+     "Propyl",
+     "n-Octanoat",
+     "e",
+     "4.186",
+     "2.377",
+     "2.477",
+     "2.725",
+     "3.085",
+     "2.983"
+    ],
+    [
+     "Hexy",
+     "l hexanoate",
+     "",
+     "193.759",
+     "118.620",
+     "133.816",
+     "130.156",
+     "170.265",
+     "155.251"
+    ],
+    [
+     "Ethy",
+     "l myristate",
+     "",
+     "23.994",
+     "14.210",
+     "15.430",
+     "13.204",
+     "19.178",
+     "17.115"
+    ],
+    [
+     "Ethy",
+     "l valerate",
+     "",
+     "69.105",
+     "124.348",
+     "106.662",
+     "127.159",
+     "109.528",
+     "115.971"
+    ],
+    [
+     "Ethy",
+     "l formate",
+     "",
+     "0.372",
+     "0.471",
+     "0.507",
+     "0.209",
+     "0.172",
+     "0.619"
+    ],
+    [
+     "Eth",
+     "yl acetate",
+     "",
+     "59.371",
+     "112.534",
+     "112.723",
+     "95.301",
+     "90.590",
+     "92.946"
+    ],
+    [
+     "Ethyl",
+     "propionate",
+     "",
+     "1.162",
+     "1.162",
+     "1.162",
+     "1.162",
+     "-",
+     "-"
+    ],
+    [
+     "Ethyl",
+     "isobutyrate",
+     "",
+     "0.423",
+     "1.629",
+     "1.263",
+     "1.996",
+     "2.609",
+     "2.399"
+    ],
+    [
+     "Ethy",
+     "l butyrate",
+     "",
+     "57.685",
+     "103.360",
+     "95.648",
+     "105.311",
+     "94.441",
+     "106.623"
+    ],
+    [
+     "hyl 2-m",
+     "ethylbutyr",
+     "ate",
+     "0.809",
+     "0.997",
+     "0.201",
+     "1.611",
+     "1.369",
+     "0.621"
+    ],
+    [
+     "Ethyl",
+     "isovalerate",
+     "",
+     "1.148",
+     "4.184",
+     "4.307",
+     "3.259",
+     "2.138",
+     "1.352"
+    ],
+    [
+     "Isoa",
+     "myl acetate",
+     "",
+     "3.519",
+     "5.322",
+     "5.084",
+     "6.516",
+     "5.488",
+     "6.410"
+    ],
+    [
+     "Ethy",
+     "l pyruvate",
+     "",
+     "2.555",
+     "2.468",
+     "2.201",
+     "4.034",
+     "2.571",
+     "2.518"
+    ],
+    [
+     "Ethyl",
+     "hexanoate",
+     "",
+     "1170.524",
+     "1206.133",
+     "1251.237",
+     "1217.046",
+     "1264.031",
+     "1261.510"
+    ],
+    [
+     "Isoam",
+     "yl butyrate",
+     "",
+     "4.105",
+     "3.635",
+     "3.371",
+     "3.579",
+     "3.424",
+     "3.828"
+    ],
+    [
+     "Hex",
+     "yl acetate",
+     "",
+     "7.506",
+     "6.819",
+     "7.589",
+     "8.093",
+     "7.306",
+     "7.197"
+    ],
+    [
+     "cyclop",
+     "ropaneprop",
+     "ionate",
+     "0.830",
+     "0.287",
+     "0.419",
+     "0.626",
+     "0.135",
+     "-"
+    ],
+    [
+     "hyl 5-m",
+     "ethylhexan",
+     "oate",
+     "4.005",
+     "1.536",
+     "5.301",
+     "5.090",
+     "4.654",
+     "5.446"
+    ],
+    [
+     "Ethyl",
+     "3-hexenoate",
+     "",
+     "0.479",
+     "1.128",
+     "0.991",
+     "-",
+     "1.055",
+     "0.987"
+    ],
+    [
+     "Buty",
+     "l valerate",
+     "",
+     "3.118",
+     "1.652",
+     "1.795",
+     "3.381",
+     "0.108",
+     "0.360"
+    ],
+    [
+     "Propy",
+     "l hexanoate",
+     "",
+     "35.818",
+     "27.427",
+     "30.692",
+     "27.106",
+     "26.679",
+     "34.411"
+    ],
+    [
+     "Ethyl h",
+     "exadienoat",
+     "e",
+     "1.498",
+     "0.666",
+     "0.554",
+     "1.117",
+     "1.663",
+     "1.070"
+    ],
+    [
+     "Isobut",
+     "yl hexanoat",
+     "e",
+     "9.020",
+     "1.268",
+     "-",
+     "-",
+     "8.555",
+     "-"
+    ],
+    [
+     "Eth",
+     "yl lactate",
+     "",
+     "9.536",
+     "14.838",
+     "13.251",
+     "10.544",
+     "11.834",
+     "12.452"
+    ],
+    [
+     "Hep",
+     "tyl acetate",
+     "",
+     "0.333",
+     "0.189",
+     "-",
+     "-",
+     "-",
+     "-"
+    ],
+    [
+     "Butyl",
+     "hexanoate",
+     "",
+     "86.300",
+     "69.305",
+     "32.877",
+     "59.224",
+     "67.344",
+     "72.534"
+    ],
+    [
+     "Ethy",
+     "l octanoate",
+     "",
+     "539.066",
+     "383.160",
+     "431.965",
+     "445.513",
+     "492.647",
+     "545.636"
+    ],
+    [
+     "Isoam",
+     "yl hexanoat",
+     "e",
+     "60.389",
+     "51.464",
+     "52.187",
+     "49.559",
+     "57.250",
+     "64.045"
+    ],
+    [
+     "Ethyl",
+     "7-octenoate",
+     "",
+     "0.353",
+     "0.252",
+     "0.294",
+     "0.091",
+     "0.280",
+     "0.323"
+    ],
+    [
+     "Ethyl",
+     "nonanoate",
+     "",
+     "28.989",
+     "19.477",
+     "25.425",
+     "21.802",
+     "25.755",
+     "27.996"
+    ],
+    [
+     "ydroxy",
+     "-4-methylp",
+     "entanoate",
+     "2.439",
+     "3.925",
+     "3.430",
+     "3.353",
+     "3.288",
+     "3.646"
+    ],
+    [
+     "Isobuty",
+     "l heptanoat",
+     "e",
+     "0.465",
+     "0.770",
+     "0.473",
+     "0.279",
+     "0.912",
+     "0.365"
+    ],
+    [
+     "Isobut",
+     "yl octanoate",
+     "",
+     "1.066",
+     "0.947",
+     "0.953",
+     "1.117",
+     "1.164",
+     "1.225"
+    ],
+    [
+     "Ethyl",
+     "3-nonenoate",
+     "",
+     "0.677",
+     "1.223",
+     "1.396",
+     "1.647",
+     "1.466",
+     "1.691"
+    ],
+    [
+     "Octy",
+     "l butyrate",
+     "",
+     "0.373",
+     "0.357",
+     "0.373",
+     "0.367",
+     "0.458",
+     "0.457"
+    ],
+    [
+     "Ethyl",
+     "decanoate",
+     "",
+     "56.115",
+     "33.791",
+     "42.831",
+     "45.291",
+     "47.867",
+     "44.538"
+    ],
+    [
+     "Isoam",
+     "yl octanoate",
+     "",
+     "5.173",
+     "3.660",
+     "4.377",
+     "4.622",
+     "4.324",
+     "5.168"
+    ],
+    [
+     "Dieth",
+     "yl succinate",
+     "",
+     "1.593",
+     "2.684",
+     "2.316",
+     "2.126",
+     "2.337",
+     "2.677"
+    ],
+    [
+     "Ethyl",
+     "4-decenoate",
+     "",
+     "0.287",
+     "0.097",
+     "0.095",
+     "0.119",
+     "-",
+     "-"
+    ],
+    [
+     "Butyl",
+     "heptanoate",
+     "",
+     "15.740",
+     "4.652",
+     "5.758",
+     "5.205",
+     "5.481",
+     "5.481"
+    ],
+    [
+     "Ethyl",
+     "undecanoate",
+     "",
+     "2.149",
+     "0.785",
+     "1.142",
+     "1.349",
+     "1.046",
+     "1.373"
+    ],
+    [
+     "Ethyl",
+     "2-decenoate",
+     "",
+     "0.496",
+     "0.353",
+     "0.370",
+     "0.413",
+     "0.385",
+     "0.458"
+    ],
+    [
+     "Ethyl p",
+     "henylacetat",
+     "e",
+     "6.967",
+     "9.960",
+     "10.421",
+     "10.783",
+     "11.475",
+     "12.405"
+    ],
+    [
+     "Hexy",
+     "l octanoate",
+     "",
+     "18.397",
+     "16.506",
+     "18.701",
+     "14.839",
+     "19.805",
+     "21.311"
+    ],
+    [
+     "Eth",
+     "yl laurate",
+     "",
+     "24.536",
+     "3.556",
+     "12.572",
+     "21.615",
+     "17.119",
+     "6.766"
+    ]
+   ],
+   "pages": [
+    15
+   ],
+   "frags": 1,
+   "n_row": 54,
+   "n_col": 9,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "mg/L",
+    "mg/L",
+    "mg/L",
+    "mg/L",
+    "mg/L",
+    "mg/L"
+   ]
+  },
+  {
+   "header": [
+    "ompound Name 3-phenylpropionate thyl tridecanoate yl 4-phenylbutyrate",
+    "Blank (mg/L) 7.525 1.067 -",
+    "S1 (mg/L) 9.245 0.737 0.727",
+    "S2 (F2) (mg/L) 11.140 0.739",
+    "S3 (mg/L) 10.896 0.723 0.757",
+    "F1 (mg/L) 11.533 0.869 0.845",
+    "F3 (mg/L) 11.648 0.915 0.829"
+   ],
+   "sig": "ompoundName3-phenylpropionatethyltridecanoateyl4-phenylbutyrate|Blank(mg/L)7.5251.067-|S1(mg/L)9.2450.7370.727|S2(F2)(mg/L)11.1400.739|S3(mg/L)10.8960.7230.757|F1(mg/L)11.5330.8690.845|F3(mg/L)11.6480.9150.829",
+   "rows": [
+    [
+     "",
+     "Blank",
+     "S1",
+     "S2 (F2)",
+     "S3",
+     "F1",
+     "F3"
+    ],
+    [
+     "ompound Name",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)",
+     "(mg/L)"
+    ],
+    [
+     "3-phenylpropionate",
+     "7.525",
+     "9.245",
+     "11.140",
+     "10.896",
+     "11.533",
+     "11.648"
+    ],
+    [
+     "thyl tridecanoate",
+     "1.067",
+     "0.737",
+     "0.739",
+     "0.723",
+     "0.869",
+     "0.915"
+    ],
+    [
+     "yl 4-phenylbutyrate",
+     "-",
+     "0.727",
+     "0.739",
+     "0.757",
+     "0.845",
+     "0.829"
+    ],
+    [
+     "Octyl octanoate",
+     "0.654",
+     "0.497",
+     "0.502",
+     "0.477",
+     "0.576",
+     "0.667"
+    ],
+    [
+     "yl pentadecanoate",
+     "3.340",
+     "2.067",
+     "2.177",
+     "2.298",
+     "1.987",
+     "2.599"
+    ],
+    [
+     "Methyl palmitate",
+     "0.079",
+     "0.246",
+     "0.232",
+     "0.281",
+     "0.270",
+     "0.315"
+    ],
+    [
+     "Ethyl palmitate",
+     "156.714",
+     "98.682",
+     "99.126",
+     "114.452",
+     "106.419",
+     "115.440"
+    ],
+    [
+     "yl 9-hexadecenoate",
+     "9.645",
+     "5.471",
+     "6.320",
+     "6.188",
+     "5.866",
+     "6.968"
+    ],
+    [
+     "-methylheptadecanoate",
+     "0.629",
+     "0.286",
+     "0.296",
+     "0.223",
+     "0.244",
+     "0.096"
+    ],
+    [
+     "Ethyl oleate",
+     "28.083",
+     "13.952",
+     "15.010",
+     "14.786",
+     "13.586",
+     "14.314"
+    ],
+    [
+     "Ethyl linoleate",
+     "31.557",
+     "15.490",
+     "16.625",
+     "15.487",
+     "14.238",
+     "15.593"
+    ],
+    [
+     "ibutyl phthalate",
+     "0.224",
+     "0.873",
+     "1.130",
+     "1.568",
+     "1.061",
+     "1.455"
+    ],
+    [
+     "Propyl octanoate",
+     "4.186",
+     "2.377",
+     "2.477",
+     "2.725",
+     "2.650",
+     "3.236"
+    ],
+    [
+     "thyl undecanoate",
+     "2.149",
+     "0.785",
+     "1.142",
+     "1.349",
+     "1.046",
+     "1.373"
+    ],
+    [
+     "thyl 2-decenoate",
+     "0.496",
+     "0.353",
+     "0.370",
+     "0.413",
+     "0.385",
+     "0.458"
+    ],
+    [
+     "hyl phenylacetate",
+     "6.967",
+     "9.960",
+     "10.421",
+     "10.783",
+     "11.475",
+     "12.405"
+    ],
+    [
+     "Hexyl octanoate",
+     "18.397",
+     "16.506",
+     "18.701",
+     "14.839",
+     "19.805",
+     "21.311"
+    ],
+    [
+     "Ethyl palmitate",
+     "156.714",
+     "98.682",
+     "99.126",
+     "114.452",
+     "106.419",
+     "115.440"
+    ],
+    [
+     "yl 9-hexadecenoate",
+     "9.645",
+     "5.471",
+     "6.320",
+     "6.188",
+     "5.866",
+     "6.968"
+    ],
+    [
+     "Ethyl oleate",
+     "28.083",
+     "13.952",
+     "15.010",
+     "14.786",
+     "13.586",
+     "14.314"
+    ],
+    [
+     "Ethyl linoleate",
+     "31.557",
+     "15.490",
+     "16.625",
+     "15.487",
+     "14.238",
+     "15.593"
+    ],
+    [
+     "Butyl valerate",
+     "3.118",
+     "1.652",
+     "1.795",
+     "3.381",
+     "0.108",
+     "0.360"
+    ],
+    [
+     "Acetaldehyde",
+     "0.327",
+     "0.477",
+     "0.600",
+     "0.714",
+     "0.469",
+     "0.675"
+    ],
+    [
+     "sovaleraldehyde",
+     "3.576",
+     "5.371",
+     "5.545",
+     "6.509",
+     "5.626",
+     "6.706"
+    ],
+    [
+     "sobutyraldehyde",
+     "0.225",
+     "0.446",
+     "0.447",
+     "0.402",
+     "0.394",
+     "0.470"
+    ],
+    [
+     "Nonanal",
+     "1.301",
+     "0.466",
+     "0.266",
+     "1.075",
+     "1.075",
+     "1.075"
+    ],
+    [
+     "Butyraldehyde",
+     "-",
+     "0.157",
+     "0.324",
+     "0.363",
+     "-",
+     "-"
+    ],
+    [
+     "2-Nonanone",
+     "1.324",
+     "1.233",
+     "1.224",
+     "1.559",
+     "1.544",
+     "1.108"
+    ],
+    [
+     "2-Undecanone",
+     "0.828",
+     "0.512",
+     "0.587",
+     "0.649",
+     "0.682",
+     "0.723"
+    ],
+    [
+     "-Pentadecanone",
+     "0.720",
+     "0.511",
+     "0.511",
+     "0.477",
+     "0.574",
+     "0.717"
+    ],
+    [
+     "Fitone",
+     "0.508",
+     "0.314",
+     "0.277",
+     "0.449",
+     "0.221",
+     "0.384"
+    ],
+    [
+     "2-Nonen-4-one",
+     "0.185",
+     "-",
+     "0.158",
+     "-",
+     "-",
+     "-"
+    ],
+    [
+     "etaldehyde, diethyl acetal",
+     "0.634",
+     "1.556",
+     "1.597",
+     "1.342",
+     "1.446",
+     "1.925"
+    ],
+    [
+     "cane, 1,1-diethoxy-",
+     "0.005",
+     "0.639",
+     "0.728",
+     "0.648",
+     "0.777",
+     "0.837"
+    ],
+    [
+     "1-diethoxynonane",
+     "1.933",
+     "2.781",
+     "3.118",
+     "2.759",
+     "2.782",
+     "3.626"
+    ],
+    [
+     "Nonanoic acid",
+     "7.760",
+     "15.258",
+     "21.191",
+     "11.021",
+     "12.849",
+     "25.987"
+    ],
+    [
+     "Acetic acid",
+     "1.933",
+     "2.781",
+     "3.118",
+     "2.759",
+     "3.158",
+     "3.980"
+    ],
+    [
+     "Isobutyric acid",
+     "4.761",
+     "3.808",
+     "3.681",
+     "4.290",
+     "4.222",
+     "4.638"
+    ],
+    [
+     "Butyric acid",
+     "1.048",
+     "4.010",
+     "2.852",
+     "-",
+     "0.650",
+     "3.162"
+    ],
+    [
+     "Valeric acid",
+     "1.858",
+     "2.831",
+     "2.417",
+     "2.380",
+     "2.419",
+     "2.566"
+    ],
+    [
+     "Hexanoic acid",
+     "72.065",
+     "141.949",
+     "111.350",
+     "103.087",
+     "102.015",
+     "120.088"
+    ],
+    [
+     "Heptanoic acid",
+     "5.540",
+     "8.184",
+     "7.818",
+     "5.644",
+     "6.423",
+     "9.758"
+    ],
+    [
+     "Octanoic acid",
+     "7.760",
+     "15.258",
+     "21.191",
+     "12.086",
+     "14.749",
+     "27.998"
+    ],
+    [
+     "Nonanoic acid",
+     "-",
+     "0.145",
+     "-",
+     "0.176",
+     "0.239",
+     "0.059"
+    ],
+    [
+     "ydroxylauric acid",
+     "0.036",
+     "0.072",
+     "0.189",
+     "0.134",
+     "-",
+     "-"
+    ],
+    [
+     "α-Linolenic acid",
+     "0.479",
+     "0.442",
+     "0.124",
+     "0.478",
+     "0.444",
+     "0.445"
+    ],
+    [
+     "-Dodecenoic acid",
+     "0.474",
+     "1.148",
+     "1.262",
+     "1.555",
+     "1.323",
+     "1.497"
+    ],
+    [
+     "-Dodecenoic acid",
+     "-",
+     "0.524",
+     "0.534",
+     "1.504",
+     "1.504",
+     "1.504"
+    ],
+    [
+     "Hexadecenoic acid",
+     "-",
+     "0.070",
+     "0.232",
+     "0.263",
+     "0.074",
+     "0.110"
+    ],
+    [
+     "Octadecenoic acid",
+     "-",
+     "0.090",
+     "0.174",
+     "0.158",
+     "0.238",
+     "0.363"
+    ],
+    [
+     "Octadecynoic acid",
+     "-",
+     "0.393",
+     "-",
+     "-",
+     "-",
+     "-"
+    ],
+    [
+     "Eicosenoic acid",
+     "0.605",
+     "0.432",
+     "0.333",
+     "0.364",
+     "0.263",
+     "1.144"
+    ],
+    [
+     "xanoic anhydride",
+     "5.516",
+     "6.436",
+     "7.460",
+     "6.499",
+     "8.178",
+     "7.740"
+    ]
+   ],
+   "pages": [
+    16
+   ],
+   "frags": 1,
+   "n_row": 56,
+   "n_col": 7,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "mg/L",
+    "mg/L",
+    "mg/L",
+    "mg/L",
+    "mg/L",
+    "mg/L"
+   ]
+  },
+  {
+   "header": [
+    "Compound Name 14-Pentadecanoic acid Ethanol Hexanol",
+    "Blank (mg/L) - 103.724 19.775",
+    "S1 (mg/L) 0.188 160.902 36.768",
+    "S2 (m 0.4 130 36.",
+    "(F2) g/L) 48 .184 902",
+    "S3 (mg/L) 0.397 234.262 36.275",
+    "F1 (mg/L 0.452 232.22 34.207",
+    ") 8",
+    "F3 (mg/L) 0.166 155.995 43.713"
+   ],
+   "sig": "CompoundName14-PentadecanoicacidEthanolHexanol|Blank(mg/L)-103.72419.775|S1(mg/L)0.188160.90236.768|S2(m0.413036.|(F2)g/L)48.184902|S3(mg/L)0.397234.26236.275|F1(mg/L0.452232.2234.207|)8|F3(mg/L)0.166155.99543.713",
+   "rows": [
+    [
+     "",
+     "Blank",
+     "S1",
+     "S2",
+     "(F2)",
+     "S3",
+     "F1",
+     "",
+     "F3"
+    ],
+    [
+     "Compound Name",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "(mg/L)",
+     "(mg/L)",
+     "(m",
+     "g/L)",
+     "(mg/L)",
+     "(mg/L",
+     ")",
+     "(mg/L)"
+    ],
+    [
+     "14-Pentadecanoic acid",
+     "-",
+     "0.188",
+     "0.4",
+     "48",
+     "0.397",
+     "0.452",
+     "",
+     "0.166"
+    ],
+    [
+     "Ethanol",
+     "103.724",
+     "160.902",
+     "130",
+     ".184",
+     "234.262",
+     "232.22",
+     "8",
+     "155.995"
+    ],
+    [
+     "Hexanol",
+     "19.775",
+     "36.768",
+     "36.",
+     "902",
+     "36.275",
+     "34.207",
+     "",
+     "43.713"
+    ],
+    [
+     "Isobutanol",
+     "1.103",
+     "2.400",
+     "1.0",
+     "50",
+     "1.197",
+     "1.390",
+     "",
+     "1.699"
+    ],
+    [
+     "2-Propyl-1-pentanol",
+     "-",
+     "0.298",
+     "0.3",
+     "28",
+     "0.211",
+     "0.526",
+     "",
+     "0.238"
+    ],
+    [
+     "3-Methyl-1-heptanol",
+     "-",
+     "1.372",
+     "3.3",
+     "18",
+     "2.759",
+     "1.376",
+     "",
+     "-"
+    ],
+    [
+     "2-Ethylhexanol",
+     "-",
+     "-",
+     "0.1",
+     "71",
+     "0.589",
+     "0.302",
+     "",
+     "0.574"
+    ],
+    [
+     "Isoamyl alcohol",
+     "-",
+     "10.298",
+     "21.",
+     "137",
+     "6.880",
+     "-",
+     "",
+     "-"
+    ],
+    [
+     "2-Heptanol",
+     "-",
+     "0.278",
+     "",
+     "-",
+     "-",
+     "0.316",
+     "",
+     "-"
+    ],
+    [
+     "2-[(Z)-9-Octadecenyloxy]ethanol",
+     "0.324",
+     "0.089",
+     "0.0",
+     "75",
+     "0.058",
+     "-",
+     "",
+     "0.200"
+    ],
+    [
+     "2-Methyl-1-propanol",
+     "-",
+     "0.204",
+     "0.2",
+     "18",
+     "-",
+     "-",
+     "",
+     "-"
+    ],
+    [
+     "Methanol",
+     "0.320",
+     "0.129",
+     "0.3",
+     "17",
+     "0.683",
+     "0.126",
+     "",
+     "0.696"
+    ],
+    [
+     "Propanol",
+     "-",
+     "0.108",
+     "0.3",
+     "55",
+     "0.209",
+     "0.314",
+     "",
+     "0.154"
+    ],
+    [
+     "Butanol",
+     "0.167",
+     "1.887",
+     "0.4",
+     "28",
+     "0.988",
+     "0.380",
+     "",
+     "1.527"
+    ],
+    [
+     "Pentanol",
+     "0.431",
+     "0.431",
+     "0.4",
+     "31",
+     "0.431",
+     "0.431",
+     "",
+     "0.431"
+    ],
+    [
+     "sec-Butanol",
+     "-",
+     "0.555",
+     "0.6",
+     "36",
+     "-",
+     "0.454",
+     "",
+     "0.645"
+    ],
+    [
+     "2-Heptanol",
+     "-",
+     "0.278",
+     "",
+     "-",
+     "-",
+     "0.316",
+     "",
+     "-"
+    ],
+    [
+     "p-Cresol",
+     "0.280",
+     "0.290",
+     "",
+     "-",
+     "0.210",
+     "0.089",
+     "",
+     "0.322"
+    ],
+    [
+     "2,4-Di-t-butylphenol",
+     "6.512",
+     "5.731",
+     "16.",
+     "466",
+     "5.701",
+     "19.059",
+     "",
+     "19.406"
+    ],
+    [
+     "2-(12-Pentadecynyloxy)tetrahydro-",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "-",
+     "0.242",
+     "0.7",
+     "83",
+     "0.740",
+     "0.661",
+     "",
+     "0.958"
+    ],
+    [
+     "2H-pyran",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2-Methylphenol",
+     "-",
+     "-",
+     "",
+     "-",
+     "-",
+     "4.428",
+     "",
+     "10.754"
+    ],
+    [
+     "2,6-Di-tert-butyl-p-cresol",
+     "-",
+     "0.122",
+     "0.3",
+     "11",
+     "0.094",
+     "0.097",
+     "",
+     "0.491"
+    ],
+    [
+     "Guaiacol",
+     "-",
+     "0.264",
+     "",
+     "-",
+     "0.591",
+     "0.212",
+     "",
+     "0.667"
+    ],
+    [
+     "Table A2. Major",
+     "relative comp",
+     "ounds in stron",
+     "g-f",
+     "lavor baijiu",
+     "treated with",
+     "differen",
+     "t electr",
+     "ic streng"
+    ],
+    [
+     "and pulse frequ",
+     "encies of PEF.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Name",
+     "",
+     "",
+     "Pe",
+     "arson’s r",
+     "",
+     "p",
+     "Value",
+     ""
+    ],
+    [
+     "Octanoic acid",
+     "",
+     "",
+     "",
+     "0.2288",
+     "",
+     "",
+     "0.012",
+     ""
+    ],
+    [
+     "Hexanoic acid",
+     "",
+     "",
+     "",
+     "0.1040",
+     "",
+     "",
+     "0.018",
+     ""
+    ],
+    [
+     "1,1-diethoxynonane",
+     "",
+     "",
+     "",
+     "0.2706",
+     "",
+     "",
+     "0.007",
+     ""
+    ],
+    [
+     "2-(12-Pentadecynyloxy) tetrahydro-",
+     "2H-pyran",
+     "",
+     "",
+     "0.1336",
+     "",
+     "",
+     "0.018",
+     ""
+    ],
+    [
+     "Ethyl caprate",
+     "",
+     "",
+     "",
+     "0.1758",
+     "",
+     "",
+     "0.011",
+     ""
+    ],
+    [
+     "Hexyl hexanoate",
+     "",
+     "",
+     "",
+     "0.3733",
+     "",
+     "",
+     "0.001",
+     ""
+    ],
+    [
+     "Decane, 1,1-diethoxy-",
+     "",
+     "",
+     "",
+     "0.2290",
+     "",
+     "",
+     "0.010",
+     ""
+    ],
+    [
+     "Hexan-1-ol",
+     "",
+     "",
+     "",
+     "0.1239",
+     "",
+     "",
+     "0.038",
+     ""
+    ],
+    [
+     "Hexanoic acid, anhydride",
+     "",
+     "",
+     "",
+     "0.2752",
+     "",
+     "",
+     "0.003",
+     ""
+    ],
+    [
+     "Hexanoic acid,5-methyl-, ethyl",
+     "ester",
+     "",
+     "",
+     "0.1240",
+     "",
+     "",
+     "0.009",
+     ""
+    ],
+    [
+     "1,1-diethoxynonane",
+     "",
+     "",
+     "",
+     "0.2484",
+     "",
+     "",
+     "0.010",
+     ""
+    ],
+    [
+     "Ethyl caprate",
+     "",
+     "",
+     "",
+     "0.1332",
+     "",
+     "",
+     "0.012",
+     ""
+    ],
+    [
+     "Hexyl hexanoate",
+     "",
+     "",
+     "",
+     "0.3357",
+     "",
+     "",
+     "0.003",
+     ""
+    ],
+    [
+     "Decane, 1,1-diethoxy-",
+     "",
+     "",
+     "",
+     "0.2026",
+     "",
+     "",
+     "0.015",
+     ""
+    ],
+    [
+     "Butyl valerate",
+     "",
+     "",
+     "",
+     "0.0846",
+     "",
+     "",
+     "0.048",
+     ""
+    ],
+    [
+     "Hexanoic acid, anhydride",
+     "",
+     "",
+     "",
+     "0.2961",
+     "",
+     "",
+     "0.002",
+     ""
+    ],
+    [
+     "ferences",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Qiao, L.; Wang, J.; Wang, R. A review on",
+     "flavor of Baiji",
+     "u and other w",
+     "orld",
+     "-renowne",
+     "d distilled liq",
+     "uors. F",
+     "ood Che",
+     "m. X 20"
+    ],
+    [
+     "20, 100870. [CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jia, W.; Ma, R.; Hu, L.B.; Mo, H. Synergy of",
+     "physicochemi",
+     "cal reactions o",
+     "ccur",
+     "red durin",
+     "g aging for har",
+     "monizi",
+     "ng and",
+     "improv"
+    ]
+   ],
+   "pages": [
+    17
+   ],
+   "frags": 1,
+   "n_row": 51,
+   "n_col": 9,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "mg/L",
+    "mg/L",
+    "",
+    "",
+    "mg/L",
+    "",
+    "",
+    "mg/L"
+   ]
+  },
+  {
+   "header": [
+    "Foods 3. 4. 5.",
+    "2025, 14, 1097 Shui, Z.; Zhao, J. 2025, 137, 10686 Sun, Q.; Yang, Sci. Technol. Foo Jia, W.; Fan, Z.;",
+    "; Li, Y. Fas 2. [CrossR R.; Wu, L. d Ind. 2015 Du, A. Un",
+    "t identification of Ba ef] High-voltage puls , 12, 133–137. targeted foodomics",
+    "ijius based on orga ed electric field ha reveals molecular",
+    "nic acid response s sterilization an mechanism of ma",
+    "colorimetric sen d aging effects gnetic field effe",
+    "sor array. J. F on fermente ct on Feng-fla",
+    "18 of 19 ood Compos. Anal. d orange vinegar. vor Baijiu ageing."
+   ],
+   "sig": "Foods3.4.5.|2025,14,1097Shui,Z.;Zhao,J.2025,137,10686Sun,Q.;Yang,Sci.Technol.FooJia,W.;Fan,Z.;|;Li,Y.Fas2.[CrossRR.;Wu,L.dInd.2015Du,A.Un|tidentificationofBaef]High-voltagepuls,12,133–137.targetedfoodomics|ijiusbasedonorgaedelectricfieldharevealsmolecular|nicacidresponsessterilizationanmechanismofma|colorimetricsendagingeffectsgneticfieldeffe|sorarray.J.FonfermentectonFeng-fla|18of19oodCompos.Anal.dorangevinegar.vorBaijiuageing.",
+   "rows": [
+    [
+     "Foods",
+     "2025, 14, 1097",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "18 of 19"
+    ],
+    [
+     "3.",
+     "Shui, Z.; Zhao, J.",
+     "; Li, Y. Fas",
+     "t identification of Ba",
+     "ijius based on orga",
+     "nic acid response",
+     "colorimetric sen",
+     "sor array. J. F",
+     "ood Compos. Anal."
+    ],
+    [
+     "",
+     "2025, 137, 10686",
+     "2. [CrossR",
+     "ef]",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4.",
+     "Sun, Q.; Yang,",
+     "R.; Wu, L.",
+     "High-voltage puls",
+     "ed electric field ha",
+     "s sterilization an",
+     "d aging effects",
+     "on fermente",
+     "d orange vinegar."
+    ],
+    [
+     "",
+     "Sci. Technol. Foo",
+     "d Ind. 2015",
+     ", 12, 133–137.",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5.",
+     "Jia, W.; Fan, Z.;",
+     "Du, A. Un",
+     "targeted foodomics",
+     "reveals molecular",
+     "mechanism of ma",
+     "gnetic field effe",
+     "ct on Feng-fla",
+     "vor Baijiu ageing."
+    ],
+    [
+     "",
+     "Food Res. Int. 20",
+     "21, 149, 11",
+     "0681. [CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "6.",
+     "Rosellini, T.K.; A",
+     "line, A.; A",
+     "lessandro, N. Curre",
+     "nt Technologies to",
+     "Accelerate the Ag",
+     "ing Process of",
+     "Alcoholic Bev",
+     "erages: A Review."
+    ],
+    [
+     "",
+     "Beverages 2022, 8",
+     ", 65. [Cro",
+     "ssRef]",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "7.",
+     "Parisa, M.G.; Sh",
+     "ima, J.; Jia",
+     ", G. Ozone in winer",
+     "ies and wine proc",
+     "essing: A review",
+     "of the benefits,",
+     "application,",
+     "and perspectives."
+    ],
+    [
+     "",
+     "Compr. Rev. Food",
+     "Sci. Food",
+     "Saf. 2022, 21, 3129–3",
+     "152.",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "8.",
+     "Andreou, V.; Gi",
+     "annoglou,",
+     "M.; Xanthou, M.Z.;",
+     "Metafa, M.; Katsa",
+     "ros, G. Aging acc",
+     "eleration of bal",
+     "samic vinega",
+     "r applying micro-"
+    ],
+    [
+     "",
+     "oxygenation tec",
+     "hnique. F",
+     "ood Chem. 2023, 419,",
+     "136077. [CrossRef]",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "9.",
+     "Puértolas, E.; Ló",
+     "pez, N.; C",
+     "ondón, S. Potential",
+     "applications of PE",
+     "F to improve red",
+     "wine quality. Tr",
+     "ends Food Sci.",
+     "Technol. 2010, 21,"
+    ],
+    [
+     "",
+     "247–255. [Cross",
+     "Ref]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "10.",
+     "Bai, C.X.; Yang,",
+     "Y. Pulsed",
+     "electric fields as an a",
+     "lternative to therm",
+     "al processing for",
+     "preservation of",
+     "nutritive and",
+     "physicochemical"
+    ],
+    [
+     "",
+     "properties of be",
+     "verages: A",
+     "review. J. Food Proc",
+     "ess Eng. 2018, 41, 1",
+     "2638.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "11.",
+     "Zi, L.; Pang, Z.;",
+     "Wen, M.",
+     "Pulsed electric field",
+     "processing of gre",
+     "en tea-infused c",
+     "hardonnay win",
+     "e: Effects on",
+     "physicochemical"
+    ],
+    [
+     "",
+     "properties, antio",
+     "xidant ac",
+     "tivities, phenolic an",
+     "d volatile compoun",
+     "ds. Food Biosci. 2",
+     "023, 54, 102884.",
+     "",
+     ""
+    ],
+    [
+     "12.",
+     "Toulaki, A.K.; B",
+     "ozinou, E.",
+     "; Athanasiadis, V. A",
+     "ccelerating Xinom",
+     "avro Red Wine Fl",
+     "avor Aging Usi",
+     "ng a Pulsed",
+     "Electric Field and"
+    ],
+    [
+     "",
+     "Various Wood C",
+     "hips. App",
+     "l. Sci. 2023, 13, 1284",
+     "4. [CrossRef]",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "13.",
+     "Zhang, C.; Zhao",
+     ", W.; Yan,",
+     "W. Effect of pulsed",
+     "electric field pretr",
+     "eatment on oil co",
+     "ntent of potato",
+     "chips. LWT",
+     "2021, 135, 110198."
+    ],
+    [
+     "",
+     "[CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "14.",
+     "Lin, Z.; Zeng, X.;",
+     "Yu, S. En",
+     "hancement of Ethano",
+     "l–Acetic Acid Ester",
+     "ification Under R",
+     "oom Temperatu",
+     "re and Non-ca",
+     "talytic Condition"
+    ],
+    [
+     "",
+     "via Pulsed Elect",
+     "ric Field A",
+     "pplication. Food Bio",
+     "process Technol. 201",
+     "1, 5, 2637–2645.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "15.",
+     "Yu, Q.; Zeng, X.",
+     "Effect of P",
+     "EF treatments on enh",
+     "ancing the chelatio",
+     "n reaction betwee",
+     "n glycine and co",
+     "pper sulfate.",
+     "Food Ferment. Ind."
+    ],
+    [
+     "",
+     "2013, 10, 69–72.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "16.",
+     "Del, A.S.; Pand",
+     "o, M.; Nev",
+     "ares, V. Investigatio",
+     "n and correction",
+     "of the interferenc",
+     "e of ethanol, su",
+     "gar and phen",
+     "ols on dissolved"
+    ],
+    [
+     "",
+     "oxygen measure",
+     "ment in w",
+     "ine. Anal. Chim. Ac",
+     "ta 2014, 809, 162–1",
+     "73.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "17.",
+     "Zhang, Q.; Wha",
+     "ng, Z.; Xi",
+     "ong, A. Elucidating",
+     "oxidation-based",
+     "flavour formation",
+     "mechanism in",
+     "the aging pr",
+     "ocess of Chinese"
+    ],
+    [
+     "",
+     "distilled spirits",
+     "by electro",
+     "chemistry and UPLC",
+     "-Q-Orbitrap-MS/",
+     "MS. Food Chem. 2",
+     "021, 355, 129596",
+     ".",
+     ""
+    ],
+    [
+     "18.",
+     "Elias, R.J.; Moge",
+     "ns, L.A.;",
+     "Leif, H.S. Identificat",
+     "ion of Free Radical",
+     "Intermediates in",
+     "Oxidized Wine",
+     "Using Electr",
+     "on Paramagnetic"
+    ],
+    [
+     "",
+     "Resonance Spin",
+     "Trapping",
+     ". J. Agric. Food Chem",
+     ". 2009, 57, 4359–43",
+     "65. [CrossRef]",
+     "",
+     "",
+     ""
+    ],
+    [
+     "19.",
+     "Qing, Z.; Yuan,",
+     "S.; Xue, F.",
+     "Free radical genera",
+     "tion induced by ul",
+     "trasound in red",
+     "wine and mode",
+     "l wine: An E",
+     "PR spin-trapping"
+    ],
+    [
+     "",
+     "study. Ultrason.",
+     "Sonochem.",
+     "2015, 27, 96–101.",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "20.",
+     "Xie, F.; Mao, H.",
+     "; Lin, C.;",
+     "Feng, Y.; Stoddart,",
+     "J.F.; Young, R.M.;",
+     "Wasielewski, M.",
+     "R. Quantum Se",
+     "nsing of Elec",
+     "tric Fields Using"
+    ],
+    [
+     "",
+     "Spin-Correlated",
+     "Radical I",
+     "on Pairs. J. Am. Che",
+     "m. Soc. 2023, 145, 1",
+     "4922–14931.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "21.",
+     "Deng, Y.; Xiong,",
+     "A.; Zhao,",
+     "K. Mechanisms of t",
+     "he regulation of es",
+     "ter balance betw",
+     "een oxidation a",
+     "nd esterificati",
+     "on in aged Baijiu."
+    ],
+    [
+     "",
+     "Sci. Rep. 2020, 1",
+     "0, 17169. [",
+     "CrossRef] [PubMed]",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "22.",
+     "Pérez, M.S.; Mar",
+     "tínez, G.A",
+     ".; Bueno, H.M. Kinet",
+     "ics of oxygen consu",
+     "mption, a key fac",
+     "tor in the chang",
+     "es of young w",
+     "ines composition."
+    ],
+    [
+     "",
+     "LWT 2023, 182, 1",
+     "14786.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "23.",
+     "Zhao, W.; Yang",
+     ", R.; Gu,",
+     "Y.; Tang, Y.; Li, C. A",
+     "ssessment of pul",
+     "sed electric fields",
+     "induced cellul",
+     "ar damage i",
+     "n Saccharomyces"
+    ],
+    [
+     "",
+     "cerevisiae: Chan",
+     "ge in perf",
+     "ormance of mitocho",
+     "ndria and cellular",
+     "enzymes. LWT—",
+     "Food Sci. Techno",
+     "l. 2014, 58, 55",
+     "–62. [CrossRef]"
+    ],
+    [
+     "24.",
+     "He, Y.; Tang, K.",
+     "; Yu, X. Id",
+     "entification of Com",
+     "pounds Contribu",
+     "ting to Trigemin",
+     "al Pungency of",
+     "Baijiu by Sen",
+     "sory Evaluation,"
+    ],
+    [
+     "",
+     "Quantitative M",
+     "easureme",
+     "nts, Correlation An",
+     "alysis, and Sensor",
+     "y Verification Te",
+     "sting. J. Agric.",
+     "food Chem. 2",
+     "022, 70, 598–606."
+    ],
+    [
+     "",
+     "[CrossRef] [Pub",
+     "Med]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "25.",
+     "ISO 8586:2012; S",
+     "ensory an",
+     "alysis-General guid",
+     "elines for the sele",
+     "ction, training an",
+     "d monitoring of",
+     "selected asse",
+     "ssors and expert"
+    ],
+    [
+     "",
+     "sensory assessor",
+     "s. Interna",
+     "tional Organization",
+     "for Standardizatio",
+     "n: Geneva, Switz",
+     "erland, 2012.",
+     "",
+     ""
+    ],
+    [
+     "26.",
+     "Sun, X.; Qian,",
+     "Q.; Xiong,",
+     "Y. Characterization",
+     "of the key aroma",
+     "compounds in",
+     "aged Chinese X",
+     "iaoqu Baijiu",
+     "by means of the"
+    ],
+    [
+     "",
+     "sensomics appr",
+     "oach. Food",
+     "Chem. 2022, 384, 13",
+     "2452.",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "27.",
+     "Liu, Q.; Zhang,",
+     "X.; Zheng,",
+     "L. Machine learning",
+     "based age-authen",
+     "tication assisted",
+     "by chemo-kineti",
+     "cs: Case stud",
+     "y of strong-flavor"
+    ],
+    [
+     "",
+     "Chinese Baijiu.",
+     "Food Res. I",
+     "nt. 2023, 167, 112594",
+     ".",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "28.",
+     "GB 10345–2022;",
+     "Baijiu An",
+     "alyticl Methods. Chi",
+     "na Standard Press:",
+     "Beijing, China, 2",
+     "018.",
+     "",
+     ""
+    ],
+    [
+     "29.",
+     "Zhong, P.; Lin, Z",
+     ".; Liu, Z.;",
+     "Kong, L. Source, sp",
+     "ecies and determin",
+     "ation method of",
+     "reactive oxygen",
+     "species in w",
+     "ater environment."
+    ],
+    [
+     "",
+     "Ecol. Sci. 2005, 4",
+     ", 364–367.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "pages": [
+    18
+   ],
+   "frags": 1,
+   "n_row": 55,
+   "n_col": 9,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "Foods 30. 31. 32.",
+    "2025, 14, 1097 Wang, M.S.; Wang, S.N. Study on the Variable- Chem. Eng. 2021, 7, 22. Everendilek, G.A. Pulsed Electric Field Processin 8, 78. Wei, Z.; Yang, X.; Ru, D. An electric-field instrume",
+    "Frequency Elec g of Red Wine: nt for accelerat",
+    "tric Field Effect on ed aging to",
+    "Assisted Aging M Wine Quality and improve flavor of",
+    "echanism o Microbial In Chinese Baij",
+    "f Li acti iu.",
+    "19 of 19 quor. Nucl. Ind. Inst. vation. Bverages 2022, LWT-Food Sci. Technol."
+   ],
+   "sig": "Foods30.31.32.|2025,14,1097Wang,M.S.;Wang,S.N.StudyontheVariable-Chem.Eng.2021,7,22.Everendilek,G.A.PulsedElectricFieldProcessin8,78.Wei,Z.;Yang,X.;Ru,D.Anelectric-fieldinstrume|FrequencyElecgofRedWine:ntforaccelerat|tricFieldEffectonedagingto|AssistedAgingMWineQualityandimproveflavorof|echanismoMicrobialInChineseBaij|fLiactiiu.|19of19quor.Nucl.Ind.Inst.vation.Bverages2022,LWT-FoodSci.Technol.",
+   "rows": [
+    [
+     "Foods",
+     "2025, 14, 1097",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "19 of 19"
+    ],
+    [
+     "30.",
+     "Wang, M.S.; Wang, S.N. Study on the Variable-",
+     "Frequency Elec",
+     "tric Field",
+     "Assisted Aging M",
+     "echanism o",
+     "f Li",
+     "quor. Nucl. Ind. Inst."
+    ],
+    [
+     "",
+     "Chem. Eng. 2021, 7, 22.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "31.",
+     "Everendilek, G.A. Pulsed Electric Field Processin",
+     "g of Red Wine:",
+     "Effect on",
+     "Wine Quality and",
+     "Microbial In",
+     "acti",
+     "vation. Bverages 2022,"
+    ],
+    [
+     "",
+     "8, 78.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "32.",
+     "Wei, Z.; Yang, X.; Ru, D. An electric-field instrume",
+     "nt for accelerat",
+     "ed aging to",
+     "improve flavor of",
+     "Chinese Baij",
+     "iu.",
+     "LWT-Food Sci. Technol."
+    ],
+    [
+     "",
+     "2023, 174, 114446.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "33.",
+     "Qing, R.; Liu, X.L. Influence on the volatilization",
+     "of ethyl esters",
+     ": Nonnegli",
+     "gible role of long-",
+     "chain fatty a",
+     "cid",
+     "s on Baijiu flavor via"
+    ],
+    [
+     "",
+     "intermolecular interaction. Food Chem. 2024, 436",
+     ", 137731.",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "34.",
+     "Feng, Y.; Yang, T.; Zhang, Y.; Zhang, A.; Gai, L",
+     ".; Niu, D. Pote",
+     "ntial applic",
+     "ations of pulsed",
+     "electric field",
+     "in",
+     "the fermented wine"
+    ],
+    [
+     "",
+     "industry. Front. Nutr. 2022, 9, 1048632. [CrossRe",
+     "f]",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "35.",
+     "Zhang, Q.A.; Zheng, H.; Lin, J. The state-of-the-",
+     "art research of",
+     "the applic",
+     "ation of ultrasoun",
+     "d to winem",
+     "aki",
+     "ng: A critical review."
+    ],
+    [
+     "",
+     "Ultrason. Sonochem. 2023, 95, 106384. [CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "36.",
+     "Martin, J.F.G.; Sun, D.W. Ultrasound and electric",
+     "fields as novel",
+     "techniques",
+     "for assisting the",
+     "wine ageing",
+     "pro",
+     "cess: The state of the"
+    ],
+    [
+     "",
+     "art research. Trends in Food Sci. Technol. 2013, 33,",
+     "40–53. [CrossR",
+     "ef]",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "37.",
+     "Zhu, L.; Wang, X.; Song, X. Evolution of the key",
+     "odorants and a",
+     "roma profil",
+     "es in traditional L",
+     "aowuzeng b",
+     "aiji",
+     "u during its one-year"
+    ],
+    [
+     "",
+     "ageing. Food Chem. 2020, 310, 125898. [CrossRef]",
+     "[PubMed]",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "38.",
+     "Qu, J.; Chen, X.; Wang, X. Esters and higher al",
+     "cohols regulati",
+     "on to enha",
+     "nce wine fruity ar",
+     "oma based",
+     "on",
+     "oxidation-reduction"
+    ],
+    [
+     "",
+     "potential. LWT 2024, 200, 116165. [CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "39.",
+     "Comuzzo, P.; Marconi, M.; Zanella, G. Pulsed",
+     "electric field",
+     "processing",
+     "of white grapes",
+     "(cv. Garga",
+     "neg",
+     "a): Effects on wine"
+    ],
+    [
+     "",
+     "composition and volatile compounds. Food Chem",
+     ". 2018, 264, 16",
+     "–23. [Cross",
+     "Ref]",
+     "",
+     "",
+     ""
+    ],
+    [
+     "40.",
+     "He, J.; Chen, Q.; Jia, X. The effects of gamma",
+     "irradiation an",
+     "d natural",
+     "aging on the com",
+     "position of",
+     "N",
+     "ongxiangxing baijiu."
+    ],
+    [
+     "",
+     "J. Food Process. Preserv. 2022, 46, 1. [CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "41.",
+     "Cheng, Z.; Xiao, L.; Arshad, R.N. Pulsed electric",
+     "field as a prom",
+     "ising techn",
+     "ology for solid foo",
+     "ds processi",
+     "ng:",
+     "A review. Food Chem."
+    ],
+    [
+     "",
+     "2023, 403, 134367.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "42.",
+     "Zheng, Q.; Hu, Y.; Xiong, A.; Su, Y.; Wang, Z.; Zha",
+     "o, K.; Yu, Y. El",
+     "ucidating m",
+     "etal ion-regulated",
+     "flavour for",
+     "mati",
+     "on mechanism in the"
+    ],
+    [
+     "",
+     "aging process of Chinese distilled spirits (Baijiu)",
+     "by electroche",
+     "mistry, ICP-",
+     "MS/OES, and UP",
+     "LC-Q-Orbit",
+     "rap",
+     "-MS/MS. Food Funct."
+    ],
+    [
+     "",
+     "2021, 12, 8899–8906. [CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "43.",
+     "Jang, M.L.; Hu, X.J.; Lei, Y. Research progress of",
+     "liquor aging. C",
+     "hin. Brew.",
+     "2022, 41, 13–17.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "44.",
+     "Wei, L.; Hu, J.; Pan, C. Effects of different storag",
+     "e containers on",
+     "the flavor",
+     "characteristics of",
+     "Jiangxiangx",
+     "ing",
+     "baijiu. Food Res. Int."
+    ],
+    [
+     "",
+     "2023, 172, 113196. [CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "45.",
+     "Sha, S.; Chen, S.; Qian, M. Characterization of t",
+     "he typical pote",
+     "nt odorants",
+     "in Chinese roast",
+     "ed sesame-li",
+     "ke",
+     "flavor type liquor by"
+    ],
+    [
+     "",
+     "headspace solid phase microextraction-aroma e",
+     "xtract dilution",
+     "analysis,",
+     "with special emph",
+     "asis on sulf",
+     "ur-",
+     "containing odorants."
+    ],
+    [
+     "",
+     "J. Agric. Food Chem. 2017, 65, 123–131.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "46.",
+     "Yan, Y.; Chen, S.; Nie, Y. Characterization of v",
+     "olatile sulfur c",
+     "ompounds",
+     "in soy sauce aro",
+     "ma type Bai",
+     "jiu",
+     "and changes during"
+    ],
+    [
+     "",
+     "fermentation by GC × GC-TOFMS, organolept",
+     "ic impact eval",
+     "uation, and",
+     "multivariate dat",
+     "a analysis.",
+     "Foo",
+     "d Res. Int. 2020, 130,"
+    ],
+    [
+     "",
+     "109043. [CrossRef] [PubMed]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "47.",
+     "Huang, Z.J.; Zeng, Y.H.; Liu, W.H.; Wang, S.T",
+     ". Effects of me",
+     "tals releas",
+     "ed in strong-flavo",
+     "r baijiu on",
+     "the",
+     "evolution of aroma"
+    ],
+    [
+     "",
+     "compounds during storage. Food Sci. Nutr. 2020",
+     ", 8, 1904–1913.",
+     "[CrossRef]",
+     "[PubMed]",
+     "",
+     "",
+     ""
+    ],
+    [
+     "48.",
+     "Liu, X.; Millero, F.J. The solubility of iron hydrox",
+     "ide in sodium",
+     "chloride so",
+     "lutions. Geochim.",
+     "Cosmochim.",
+     "Acta",
+     "1999, 63, 3487–3497."
+    ],
+    [
+     "",
+     "[CrossRef]",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "49.",
+     "Thomas, B.N. Chemistry of Iron in Natural Wa",
+     "ter. United St",
+     "ates Gover",
+     "nment Printing O",
+     "ffcie. 1963.",
+     "Av",
+     "ailable online: https:"
+    ],
+    [
+     "",
+     "//pubs.usgs.gov/wsp/1459a/report.pdf (acces",
+     "sed on 19 Marc",
+     "h 2025).",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "50.",
+     "Modesti, M.; Macaluso, M.; Taglieri, I. Ozone an",
+     "d Bioactive Co",
+     "mpounds i",
+     "n Grapes and Win",
+     "e. Foods 202",
+     "1, 1",
+     "0, 2934. [CrossRef]"
+    ],
+    [
+     "Discl",
+     "aimer/Publisher’s Note: The statements, opin",
+     "ions and data",
+     "contained",
+     "in all publication",
+     "s are solely",
+     "tho",
+     "se of the individual"
+    ],
+    [
+     "autho",
+     "r(s) and contributor(s) and not of MDPI and/or",
+     "the editor(s). M",
+     "DPI and/o",
+     "r the editor(s) dis",
+     "claim respon",
+     "sib",
+     "ility for any injury to"
+    ],
+    [
+     "peop",
+     "le or property resulting from any ideas, methods",
+     ", instructions o",
+     "r products",
+     "referred to in the",
+     "content.",
+     "",
+     ""
+    ]
+   ],
+   "pages": [
+    19
+   ],
+   "frags": 1,
+   "n_row": 47,
+   "n_col": 8,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  }
+ ],
+ "note": ""
+}

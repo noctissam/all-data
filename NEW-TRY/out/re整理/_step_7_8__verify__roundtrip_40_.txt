@@ -1,0 +1,11 @@
+﻿selfcheck_zh2en    name translation              0.1s  clean
+selfcheck_cas      record selection            144.8s  clean
+audit_zh2en        name coverage                12.6s  clean
+verify_cas         CAS column                   77.1s  clean
+verify_names       name column                   2.2s  clean
+verify_values      concentration columns         2.1s  clean
+
+reports written:
+   out\re整理\verify_cas.txt
+   out\re整理\verify_names.txt
+   out\re整理\verify_values.txt

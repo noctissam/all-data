@@ -1,0 +1,41 @@
+# data总库.xlsx — sheet tab block extraction
+
+sheet tab                                  blocks  value cells
+all data                                        0            0
+2  Characterization of key odor                 1          245
+5  Key Aroma Compounds and Arom                 1          625
+2  Decoding the Molecular Mecha                 1          140
+2  Volatilomics and Lipidomics                  1           78
+5  Impact of Pulsed Electric Fi                 1          606
+8 Flavoromic Exploration of Reg                 1          297
+3  Characterization of the diff                 1          190
+3  Unraveling variation on the                  2          359
+10  Aroma characterization and                  1          528
+8  Exploration of key aroma act                 2          760
+3  Investigation on the key fac                 1          346
+Sheet9                                          0            0
+
+TOTAL logical tables (blocks): 13
+TOTAL parsed value cells     : 4174
+
+## flag frequency
+  <parsed clean>             3062
+  missing_code               493
+  signif_letter              348
+  lt                         255
+  range                      16
+
+## blocks detected per sheet
+  10  Aroma characterization and           block 1:  44 compounds,  12 value columns,  528 cells
+  2  Characterization of key odor          block 1:  49 compounds,   5 value columns,  245 cells
+  2  Decoding the Molecular Mecha          block 1:  28 compounds,   5 value columns,  140 cells
+  2  Volatilomics and Lipidomics           block 1:  26 compounds,   3 value columns,   78 cells
+  3  Characterization of the diff          block 1:  38 compounds,   5 value columns,  190 cells
+  3  Investigation on the key fac          block 1:  47 compounds,   5 value columns,  346 cells
+  3  Unraveling variation on the           block 1:  60 compounds,   3 value columns,  180 cells
+  3  Unraveling variation on the           block 2:  45 compounds,   4 value columns,  179 cells
+  5  Impact of Pulsed Electric Fi          block 1:  91 compounds,   6 value columns,  606 cells
+  5  Key Aroma Compounds and Arom          block 1: 119 compounds,   5 value columns,  625 cells
+  8  Exploration of key aroma act          block 1:  40 compounds,   9 value columns,  360 cells
+  8  Exploration of key aroma act          block 2:  50 compounds,   8 value columns,  400 cells
+  8 Flavoromic Exploration of Reg          block 1:  33 compounds,   9 value columns,  297 cells

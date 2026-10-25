@@ -1,0 +1,24 @@
+STEP 2 - Umi-OCR multi pass
+engine: C:\UMI-OCR\Umi-OCR_Rapid_v2.1.3\Umi-OCR.exe
+pass A/B: lang=English   pass C: lang=简体中文 (symbol donor)
+options: maxSideLen=999999 parser=none format=dict
+engine already running on port 1224
+  T01 pass A    4.5s  boxes=132  score_avg=0.972  -> T01_p02_A.json
+  T01 pass B    4.8s  boxes=128  score_avg=0.966  -> T01_p02_B.json
+  T01 pass C    5.0s  boxes=124  score_avg=0.976  -> T01_p02_C.json
+  T02 pass A    2.9s  boxes=67  score_avg=0.983  -> T02_p04_A.json
+  T02 pass B    3.4s  boxes=68  score_avg=0.987  -> T02_p04_B.json
+  T02 pass C    3.4s  boxes=67  score_avg=0.972  -> T02_p04_C.json
+  T03 pass A   13.6s  boxes=432  score_avg=0.985  -> T03_p05_A.json
+  T03 pass B   20.6s  boxes=552  score_avg=0.955  -> T03_p05_B.json
+  T03 pass C   14.8s  boxes=429  score_avg=0.962  -> T03_p05_C.json
+  T04 pass A    3.5s  boxes=120  score_avg=0.982  -> T04_p10_A.json
+  T04 pass B    4.2s  boxes=124  score_avg=0.975  -> T04_p10_B.json
+  T04 pass C    4.0s  boxes=119  score_avg=0.987  -> T04_p10_C.json
+  T05 pass A    2.0s  boxes=70  score_avg=0.996  -> T05_p11_A.json
+  T05 pass B    2.2s  boxes=73  score_avg=0.990  -> T05_p11_B.json
+  T05 pass C    2.3s  boxes=70  score_avg=0.973  -> T05_p11_C.json
+  T06 pass A    2.5s  boxes=43  score_avg=0.965  -> T06_p12_A.json
+  T06 pass B    2.8s  boxes=44  score_avg=0.990  -> T06_p12_B.json
+  T06 pass C    2.8s  boxes=43  score_avg=0.963  -> T06_p12_C.json
+done: 18 images, 0 failed, 99.5s total

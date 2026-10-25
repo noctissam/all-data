@@ -1,0 +1,151 @@
+﻿col_index,header,unit,unit_confidence,marker_ugL,marker_in_window,n_reference,n_plausible,frac_plausible
+0,LZ-2016 base SAB (Mean ± SD),ug/l,inferred_study,7606936.0,True,5,4,0.8
+1,GJ-1573 (Mean ± SD),ug/l,inferred_study,1487026.0,True,5,5,1.0
+2,Y1（μg/L）,mg/l,corrected_declared,5320560.0,True,6,4,0.6666666666666666
+3,Y3（μg/L）,mg/l,corrected_declared,972620.0,True,6,4,0.6666666666666666
+4,Y5（μg/L）,mg/l,corrected_declared,1104580.0,True,6,6,1.0
+5,Y8（μg/L）,mg/l,corrected_declared,6009120.0,True,6,3,0.5
+6,Y11（μg/L）,mg/l,corrected_declared,918620.0,True,6,4,0.6666666666666666
+7,3  LZLJ-M7,ug/l,declared_cell,873258.0,True,4,3,0.75
+8,3  LZLJ-T7,ug/l,inferred_study,738302.0,True,4,4,1.0
+9,4  LS,ug/l,inferred_study,211566.4276,True,5,2,0.4
+10,4  LS,ug/l,inferred_study,22255.1686,True,5,2,0.4
+11,5  S1 (mg/L),mg/l,declared,1206133.0,True,6,4,0.6666666666666666
+12,5  S2 (F3) (mg/L),mg/l,declared,1251237.0,True,6,4,0.6666666666666666
+13,5  S3 (mg/L),mg/l,declared,1217046.0,True,6,3,0.5
+14,5  F1 (mg/L),mg/l,declared,1264031.0,True,6,3,0.5
+15,5  F3 (mg/L),mg/l,declared,1261510.0,True,6,3,0.5
+16,6  JH1(μg/L),mg/l,corrected_declared,2491482.0,True,6,6,1.0
+17,6  JH2,mg/l,corrected_declared,1739439.9000000001,True,6,6,1.0
+18,6  SC1,mg/l,corrected_declared,2872980.0,True,6,6,1.0
+19,6  SC2,mg/l,corrected_declared,2191329.8,True,6,6,1.0
+20,6  SC3,mg/l,corrected_declared,237651.5,True,6,6,1.0
+21,6  SC4,mg/l,corrected_declared,2938581.5,True,6,6,1.0
+22,6  SC5,mg/l,corrected_declared,271799.85,True,6,6,1.0
+23,6  SC6,mg/l,corrected_declared,3315689.8499999996,True,6,6,1.0
+24,7  CB(μg/L),ug/l,declared,4647665.0,True,6,2,0.3333333333333333
+25,7  FB,ug/l,inferred_study,4647665.0,True,6,2,0.3333333333333333
+26,7  SB,ug/l,inferred_study,613426.0,True,6,2,0.3333333333333333
+27,9  B1-H(μg/L),ug/l,declared,1616363.7,True,5,3,0.6
+28,9  B1-L,ug/l,inferred_study,1275273.3,True,5,3,0.6
+29,9  B3-H,ug/l,inferred_study,154934.1,True,5,4,0.8
+30,9  B3-L,ug/l,inferred_study,1261393.0,True,5,3,0.6
+31,9  B2-H,ug/l,inferred_study,1573616.7999999998,True,5,3,0.6
+32,9  B2-L,ug/l,inferred_study,1266867.7,True,5,3,0.6
+33,9  B4-H,ug/l,inferred_study,157478.0,True,5,4,0.8
+34,9  B4-L,ug/l,inferred_study,1244968.9,True,5,4,0.8
+35,9  B5-H,ug/l,inferred_study,1689525.5999999999,True,5,4,0.8
+36,9  B5-L,ug/l,inferred_study,141236.19999999998,True,4,3,0.75
+37,10  1mg/L,mg/l,declared,2559000.0,True,4,4,1.0
+38,10  2,ug/l,inferred_study,1157.0,False,4,0,0.0
+39,10  3,ug/l,inferred_study,1092.0,False,4,0,0.0
+40,10  4,ug/l,inferred_study,879.0,False,4,0,0.0
+41,10  5,ug/l,inferred_study,861.0,False,4,0,0.0
+42,10  6,ug/l,inferred_study,679.0,False,4,0,0.0
+43,10  7,ug/l,inferred_study,714.0,False,4,0,0.0
+44,10  8,ug/l,inferred_study,421.0,False,4,0,0.0
+45,11 优级 mg/L,mg/l,declared,1422271.4000000001,True,5,5,1.0
+46,11 一级,mg/l,inferred_study,7889.0,False,5,3,0.6
+47,11 二级,mg/l,inferred_study,231855.80000000002,True,5,5,1.0
+48,11 丢糟,mg/l,inferred_study,245398.5,True,5,5,1.0
+49,12 JZG-1 μg/L,ug/l,declared,284756.95160000003,True,6,3,0.5
+50,JZ12-1,ug/l,declared,443766.51879999996,True,6,3,0.5
+51,CZ5-1,ug/l,declared,267626.233,True,6,5,0.8333333333333334
+52,JZB-1,ug/l,declared,295115.289,True,6,3,0.5
+53,LZ1-1,ug/l,declared,3741.4751,False,6,2,0.3333333333333333
+54,LZ1-1,ug/l,declared,453777.37570000003,True,6,4,0.6666666666666666
+55,JZ19-1,ug/l,declared,359747.365,True,6,5,0.8333333333333334
+56,LZ2-1,ug/l,declared,32694.5479,True,6,4,0.6666666666666666
+57,13 g/L,g/l,declared,175850000.0,False,6,0,0.0
+58,g/L,g/l,declared,139920000.0,False,6,0,0.0
+59,g/L,g/l,declared,145130000.0,False,6,0,0.0
+60,g/L,g/l,declared,159550000.0,False,6,0,0.0
+61,14 含量 Amg/L,mg/l,declared,3116480.0,True,5,5,1.0
+62,含量 Bmg/L,mg/l,declared,17730.0,True,5,4,0.8
+63,含量 Cmg/L,mg/l,declared,1223340.0,True,5,4,0.8
+64,15 L1 含量 / (mg/L),mg/l,declared,1141870.0,True,6,6,1.0
+65,L2 含量 / (mg/L),mg/l,declared,881650.0,True,6,6,1.0
+66,16 古井贡酒mg/L,mg/l,declared,21000.0,True,6,1,0.16666666666666666
+67,红星二锅头mg/L,mg/l,declared,217810.0,True,6,1,0.16666666666666666
+68,牛栏山mg/L,mg/l,declared,248870.0,True,6,2,0.3333333333333333
+69,银装青酒mg/L,mg/l,declared,215340.0,True,6,2,0.3333333333333333
+70,洋河大曲mg/L,mg/l,declared,237410.0,True,6,2,0.3333333333333333
+71,17 质量浓度 A (μg/L),ug/l,declared,342984.44,True,6,4,0.6666666666666666
+72,质量浓度 B (μg/L),ug/l,declared,53312.51,True,6,4,0.6666666666666666
+73,质量浓度 C (μg/L),ug/l,declared,5439.55,False,2,0,0.0
+74,18 X,mg/l,inferred_study,4782470.0,True,6,6,1.0
+75,X1,mg/l,inferred_study,4429180.0,True,6,6,1.0
+76,X3,mg/l,inferred_study,2674130.0,True,6,6,1.0
+77,X5,mg/l,inferred_study,2841300.0,True,6,5,0.8333333333333334
+78,X8,mg/l,inferred_study,344750.0,True,6,6,1.0
+79,19 LZ / (mg/L),mg/l,declared,1716590.0,True,6,5,0.8333333333333334
+80,2 NX 平均含量 (mg/L),mg/l,declared,2795500.0,True,6,6,1.0
+81,21 NX 平均含量 (mg/L),mg/l,declared,2154610.0,True,6,6,1.0
+82,22 SC1  μg/L,ug/l,declared,12996.0,True,6,0,0.0
+83,SC2,ug/l,declared,1344.0,False,6,0,0.0
+84,SC3,ug/l,declared,428.0,False,6,0,0.0
+85,JS,ug/l,declared,69.0,False,6,0,0.0
+86,23  2 年陈,mg/l,inferred_study,729.0,False,5,1,0.2
+87,3 年陈,mg/l,inferred_study,22570.0,True,4,1,0.25
+88,5 年陈,mg/l,inferred_study,24350.0,True,4,2,0.5
+90,25 沂蒙老区6成品酒μg/L GRD-1,ug/l,declared,182.78,False,6,0,0.0
+91,GRD-JC,ug/l,declared,288.87,False,6,0,0.0
+92,GRD-PD,ug/l,declared,1888.12,False,6,0,0.0
+93,GRD-2,ug/l,declared,1227.0,False,6,0,0.0
+94,JPLG,ug/l,declared,833.64,False,6,0,0.0
+95,LGTQ,ug/l,declared,932.76,False,6,0,0.0
+96,典型5浓香型μg/L JNC,ug/l,declared,1248.0,False,6,0,0.0
+97,LZLJ,ug/l,inferred_study,1387.89,False,6,0,0.0
+98,WLY,ug/l,inferred_study,1591.0,False,6,0,0.0
+99,GJG,ug/l,inferred_study,882.91,False,6,0,0.0
+100,JSY,ug/l,inferred_study,1242.0,False,6,0,0.0
+101,沂蒙老区新老原酒μg/L 新酒浓度,ug/l,declared,3152.22,False,6,0,0.0
+102,老酒浓度,ug/l,inferred_study,446.3,False,6,0,0.0
+108,27 NX1  mg/L,mg/l,declared,334500.0,True,6,6,1.0
+109,NX2,mg/l,declared,332600.0,True,6,6,1.0
+110,NX3,mg/l,declared,3283100.0,True,6,6,1.0
+111,NX4,mg/l,declared,2421500.0,True,6,6,1.0
+112,NX5,mg/l,declared,248100.0,True,6,6,1.0
+113,NX6,mg/l,declared,2484100.0,True,6,6,1.0
+114,NX7,mg/l,declared,2432200.0,True,6,6,1.0
+115,NX8,mg/l,declared,2639300.0,True,6,5,0.8333333333333334
+116,NX9,mg/l,declared,277100.0,True,6,6,1.0
+117,NX1,mg/l,declared,2658700.0,True,6,4,0.6666666666666666
+118,28  n-c-1,ug/l,inferred_study,63433.0,True,6,1,0.16666666666666666
+119,n-c-2,ug/l,inferred_study,5569.0,False,6,0,0.0
+120,n-g-1,ug/l,inferred_study,4982.0,False,6,0,0.0
+121,n-g-2,ug/l,inferred_study,493.0,False,6,0,0.0
+122,29  G1 (mg/mL),mg/ml,declared,5851800.0,True,6,5,0.8333333333333334
+123,G2 (mg/mL),mg/ml,declared,4172600.0,True,6,6,1.0
+124,3  41.6% HZL,mg/l,inferred_study,2212733.0,True,6,6,1.0
+125,41% TZL,mg/l,inferred_study,1994140.0,True,6,6,1.0
+126,46% TZL,mg/l,inferred_study,1522349.0,True,6,5,0.8333333333333334
+127,52% TZL,mg/l,inferred_study,165259.0,True,6,6,1.0
+128,42.6% MZL,mg/l,inferred_study,2247632.0,True,6,6,1.0
+129,31  46% 浓度,ug/l,inferred_study,2155.0,False,4,2,0.5
+130,52% 浓度,ug/l,inferred_study,1983448.0,True,4,3,0.75
+131,32  均衡组（g/L）,g/l,declared,97397650000.0,False,2,0,0.0
+132,微涩组（g/L）,g/l,declared,38457740000.0,False,2,0,0.0
+133,较涩组（g/L）,g/l,declared,3569610000.0,False,2,0,0.0
+134,涩味组（g/L）,g/l,declared,24672420000.0,False,2,0,0.0
+135,苦味组（g/L）,g/l,declared,3868710000.0,False,2,0,0.0
+136,33  S-Y1-H(μg/L),ug/l,declared,1536.6,False,5,3,0.6
+137,S-Y2 H,ug/l,declared,1554592.3,True,5,5,1.0
+138,S-Y3 H,ug/l,declared,152365.6,True,5,5,1.0
+139,S-Y4 H,ug/l,declared,1533231.7,True,5,4,0.8
+140,S-Y5 H,ug/l,declared,169431.0,True,5,5,1.0
+141,S-Y6 H,ug/l,declared,1415239.9,True,6,5,0.8333333333333334
+142,S-L1 H,ug/l,declared,1617237.3,True,6,5,0.8333333333333334
+143,A-GJG H,ug/l,declared,1574451.4,True,6,5,0.8333333333333334
+144,G-J1 H,ug/l,declared,155172.1,True,6,4,0.6666666666666666
+145,J-Y1 H,ug/l,declared,158633.2,True,6,5,0.8333333333333334
+146,S-Y1,ug/l,declared,1324332.4,True,6,4,0.6666666666666666
+147,S-Y2,ug/l,declared,15146.3,True,6,3,0.5
+148,S-Y3,ug/l,declared,1345945.1,True,6,5,0.8333333333333334
+149,S-Y4,ug/l,declared,131639.9,True,6,4,0.6666666666666666
+150,S-Y5,ug/l,declared,1413435.6,True,6,4,0.6666666666666666
+151,S-Y6,ug/l,declared,1278175.6,True,6,5,0.8333333333333334
+152,S-L1,ug/l,declared,1275952.7,True,6,5,0.8333333333333334
+153,A-G1,ug/l,declared,1267568.0,True,6,4,0.6666666666666666
+154,G-J1,ug/l,declared,126254.7,True,6,5,0.8333333333333334
+155,J-Y1,ug/l,declared,1245618.6,True,6,4,0.6666666666666666

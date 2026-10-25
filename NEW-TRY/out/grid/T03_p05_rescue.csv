@@ -1,0 +1,8 @@
+﻿table_id,name,pdf_page,section,row,col,suspicion,status,before,after,readings
+T03,T03_p05,5,body,23,4,flagged,rescued_symbol,1311 218,1311 ± 218,1311 ± 218(0.98) | 1311 + 218(0.95)
+T03,T03_p05,5,body,25,4,missing_sep,rescued_score,1903207,1903 ± 207,1903 ± 207(0.99) | 1903  207(0.98)
+T03,T03_p05,5,body,31,4,flagged,rescued_symbol,130 8,130 ± 8,130 ± 8(0.93) | 130 * 8(0.88)
+T03,T03_p05,5,body,32,4,flagged,rescued_symbol,425 23,425 ± 23,425 ± 23(0.96) | 425  23(0.99)
+T03,T03_p05,5,body,33,4,flagged,rescued_symbol,129 14,129 ± 14,129 ± 14(0.98) | 129  14(0.99)
+T03,T03_p05,5,body,34,4,flagged,rescued_symbol,374+ 38,374 ± 38,374 ± 38(0.98) | 374  38(0.93)
+T03,T03_p05,5,body,51,4,flagged,rescued_symbol,205 +12,205 ± 12,205 ± 12(0.97) | 205  12(0.93)

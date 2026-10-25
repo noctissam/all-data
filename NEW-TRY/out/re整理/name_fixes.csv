@@ -1,0 +1,29 @@
+ocr_name,suggested_name,action,ocr_rows,why
+"1,1-二乙氧基","1,1-二乙氧基异",REVIEW,2,one hanzi differs - could be a mis-read or a real isomer
+1-Heptanol,2-Heptanol,REVIEW,2,one hanzi differs - could be a mis-read or a real isomer
+2-ethylphenol,2-Methylphenol,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+2-乙基-5-甲基呋喃,2-乙酰基-5-甲基呋喃,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+2-十—酮,2-十一酮,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+2-呋喃甲酸乙酯,2-呋喃羧酸乙酯,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+3-甲基-2-丁醇,3-甲基-2-己醇,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+3-甲基」醇,3-甲基丁醇,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+4-Methylphenol,2-Methylphenol,REVIEW,3,one hanzi differs - could be a mis-read or a real isomer
+4-乙基愈创木,4-乙基愈创木酚,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+Y-壬内酯,γ-壬内酯,REVIEW,2,one hanzi differs - could be a mis-read or a real isomer
+y-己内酯,γ-己内酯,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+—一酸乙酯,十一酸乙酯,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+乙酸-2-甲基丙酯,己酸-2-甲基丙酯,REVIEW,2,one hanzi differs - could be a mis-read or a real isomer
+乙酸-3-甲基厂酯,乙酸-3-甲基丁酯,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+异丁酸异戊酯,异戊酸异戊酯,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+肉桂酸乙酯,月桂酸乙酯,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+辛酸-3-甲基丁,辛酸-3-甲基丁酯,REVIEW,1,one hanzi differs - could be a mis-read or a real isomer
+1-」醇,,AMBIGUOUS,1,1-丁醇 | 1-丙醇 | 1-壬醇 | 1-己醇 | 1-庚醇 | 1-戊醇 | 1-癸醇 | 1-辛醇
+2-丁酮,,AMBIGUOUS,1,2-丁醇 | 2-丙酮 | 2-壬酮 | 2-庚酮 | 2-戊酮 | 2-癸酮 | 2-辛酮
+2-了醇,,AMBIGUOUS,1,2-丁醇 | 2-壬醇 | 2-己醇 | 2-庚醇 | 2-戊醇 | 2-糠醇 | 2-辛醇
+2-甲基「酸乙酯,,AMBIGUOUS,1,2-甲基丁酸乙酯 | 2-甲基丙酸乙酯
+2-羟基丙酸乙酯,,AMBIGUOUS,1,2-甲基丙酸乙酯 | 2-羟基丁酸乙酯 | 2-羟基己酸乙酯
+2-羟基已酸乙酯,,AMBIGUOUS,3,2-羟基丁酸乙酯 | 2-羟基己酸乙酯
+』酸乙酯,,AMBIGUOUS,1,丁酸乙酯 | 丙酸乙酯 | 乙酸乙酯 | 乳酸乙酯 | 壬酸乙酯 | 己酸乙酯 | 庚酸乙酯 | 戊酸乙酯 | 油酸乙酯 | 甲酸乙酯 | 癸酸乙酯 | 辛酸乙酯
+乙酸已酯,,AMBIGUOUS,1,乙酸丁酯 | 乙酸丙酯 | 乙酸乙酯 | 乙酸己酯 | 乙酸庚酯 | 乙酸戊酯 | 乙酸糠酯 | 乙酸辛酯
+已酸异戊酯,,AMBIGUOUS,1,丁酸异戊酯 | 乙酸异戊酯 | 乳酸异戊酯 | 己酸异戊酯 | 辛酸异戊酯
+庚酸-3-甲基丁酯,,AMBIGUOUS,1,丁酸-3-甲基丁酯 | 乙酸-3-甲基丁酯 | 己酸-3-甲基丁酯 | 庚酸-3-甲丁酯 | 戊酸-3-甲基丁酯 | 辛酸-3-甲基丁酯

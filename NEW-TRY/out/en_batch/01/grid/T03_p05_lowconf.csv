@@ -1,0 +1,53 @@
+﻿table_id,name,pdf_page,section,row,col,text,score,status
+T03,T03_p05,5,body,2,4,"622,200 ± 1786",0.734,conflict_a
+T03,T03_p05,5,body,3,4,"143,889 ± 1500",0.4906,conflict_a
+T03,T03_p05,5,body,3,5,"44,849 ± 2636",0.6114,conflict_a
+T03,T03_p05,5,body,4,4,"43,878 ± 1045",0.642,conflict_a
+T03,T03_p05,5,body,4,5,2382 ± 17,0.7141,conflict_a
+T03,T03_p05,5,body,7,5,"78,618 ± 8931",0.3775,conflict_a
+T03,T03_p05,5,body,8,5,2783 ± 60,0.4646,conflict_a
+T03,T03_p05,5,body,9,4,9437 ± 1292,0.6288,conflict_a
+T03,T03_p05,5,body,9,5,8766 ± 304,0.4069,conflict_a
+T03,T03_p05,5,body,10,4,932 ± 20,0.5204,conflict_a
+T03,T03_p05,5,body,11,4,"56,841 ± 8653",0.4434,conflict_a
+T03,T03_p05,5,body,13,4,"147,160 ± 8188",0.581,conflict_a
+T03,T03_p05,5,body,15,5,819 ± 30,0.7959,conflict_a
+T03,T03_p05,5,body,16,4,3271 ± 201,0.711,conflict_a
+T03,T03_p05,5,body,16,5,571 ± 19,0.5041,conflict_a
+T03,T03_p05,5,body,18,5,146 ± 4,0.7006,conflict_a
+T03,T03_p05,5,body,19,4,1646 ± 88,0.5283,conflict_a
+T03,T03_p05,5,body,20,4,"13,702 ± 2649",0.4413,conflict_a
+T03,T03_p05,5,body,20,5,3885 ± 497,0.5696,conflict_a
+T03,T03_p05,5,body,21,4,1130 ± 167,0.7535,match
+T03,T03_p05,5,body,23,5,300 ±62,0.3961,conflict_a
+T03,T03_p05,5,body,25,5,1498 ± 84,0.6256,conflict_a
+T03,T03_p05,5,body,25,7,6,0.5332,match
+T03,T03_p05,5,body,27,5,992 ± 45,0.6873,conflict_a
+T03,T03_p05,5,body,28,4,"44,450 ± 1143",0.4026,conflict_a
+T03,T03_p05,5,body,29,4,2101 ± 101,0.7382,conflict_a
+T03,T03_p05,5,body,29,5,439 ± 28,0.7669,conflict_a
+T03,T03_p05,5,body,31,4,130 8,0.4101,conflict_b
+T03,T03_p05,5,body,32,4,425 23,0.4063,conflict_b
+T03,T03_p05,5,body,33,4,129 14,0.7039,conflict_b
+T03,T03_p05,5,body,33,5,59 ±3,0.483,conflict_a
+T03,T03_p05,5,body,34,4,374+ 38,0.5002,conflict_a
+T03,T03_p05,5,body,34,5,473 ± 16,0.5801,conflict_a
+T03,T03_p05,5,body,36,4,839 ± 22,0.4584,conflict_a
+T03,T03_p05,5,body,37,5,146 ± 4,0.6083,conflict_a
+T03,T03_p05,5,body,39,5,62 ±2,0.3895,conflict_a
+T03,T03_p05,5,body,40,5,61 ±4,0.5008,conflict_a
+T03,T03_p05,5,body,42,4,461±2,0.5449,conflict_a
+T03,T03_p05,5,body,42,5,81 ±1,0.5807,conflict_a
+T03,T03_p05,5,body,43,5,232±4,0.7884,conflict_a
+T03,T03_p05,5,body,44,4,114 ± 9,0.6377,conflict_a
+T03,T03_p05,5,body,44,5,13 ± 1,0.7551,conflict_a
+T03,T03_p05,5,body,47,4,1808 ± 92,0.5583,conflict_a
+T03,T03_p05,5,body,47,5,1342 ± 49,0.5284,conflict_a
+T03,T03_p05,5,body,49,4,58 ±3,0.7746,conflict_a
+T03,T03_p05,5,body,51,4,205 +12,0.511,conflict_a
+T03,T03_p05,5,body,52,4,12 ± 0.2,0.5362,conflict_a
+T03,T03_p05,5,body,54,4,141 ± 1,0.5335,conflict_a
+T03,T03_p05,5,body,57,4,1575 ± 17,0.5214,conflict_a
+T03,T03_p05,5,body,58,6,-,0,conflict_b
+T03,T03_p05,5,body,59,6,-,0,conflict_b
+T03,T03_p05,5,body,59,7,-,0,conflict_b

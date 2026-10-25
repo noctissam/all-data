@@ -1,0 +1,4752 @@
+{
+ "Ethyl lactate": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "2-Butanol": [
+  "78-92-2",
+  6568,
+  "ok-eutils"
+ ],
+ "2-Pentanol": [
+  "6032-29-7",
+  22386,
+  "ok-eutils"
+ ],
+ "2-Hexanol": [
+  "626-93-7",
+  12297,
+  "ok-eutils"
+ ],
+ "2-Heptanol": [
+  "543-49-7",
+  10976,
+  "ok-eutils"
+ ],
+ "2-Methyl-1-butanol": [
+  "137-32-6",
+  8723,
+  "ok-eutils"
+ ],
+ "(-)-Linalool": [
+  "126-91-0",
+  443158,
+  "ok-eutils"
+ ],
+ "(+)-Linalool": [
+  "126-90-9",
+  67179,
+  "ok-eutils"
+ ],
+ "linalool": [
+  "78-70-6",
+  6549,
+  "ok-eutils"
+ ],
+ "benzyl alcohol": [
+  "100-51-6",
+  244,
+  "ok-eutils"
+ ],
+ "nonanal": [
+  "124-19-6",
+  31289,
+  "ok-eutils"
+ ],
+ "2-butanol": [
+  "78-92-2",
+  6568,
+  "ok-eutils"
+ ],
+ "Ethyl hexanoate": [
+  "123-66-0",
+  31265,
+  "ok-eutils"
+ ],
+ "ethyl acetate": [
+  "141-78-6",
+  8857,
+  "ok-eutils"
+ ],
+ "Cyclohexanone": [
+  "108-94-1",
+  7967,
+  "ok-eutils"
+ ],
+ "3-Methylbutanal": [
+  "590-86-3",
+  11552,
+  "ok-eutils"
+ ],
+ "Trichloroethylene": [
+  "79-01-6",
+  6575,
+  "ok-eutils"
+ ],
+ "己酸乙酯": [
+  "123-66-0",
+  31265,
+  "ok-eutils"
+ ],
+ "乙酸乙酯": [
+  "141-78-6",
+  8857,
+  "ok-eutils"
+ ],
+ "苯乙醇": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "乙酸异戊酯": [
+  "123-92-2",
+  31276,
+  "ok-eutils"
+ ],
+ "壬醛": [
+  "124-19-6",
+  31289,
+  "ok-eutils"
+ ],
+ "柠檬烯": [
+  "138-86-3",
+  22311,
+  "ok-eutils"
+ ],
+ "FEMA": [
+  "",
+  177897096,
+  "name-not-a-synonym(177897096=?; 167713268=?; 167430728=?; 167430712=?; 166451419=?)"
+ ],
+ "Table": [
+  "",
+  176850826,
+  "name-not-a-synonym(176850826=?; 176825574=?; 176825564=?; 175683030=?; 175683029=?)"
+ ],
+ "3-propanal + butyric acid": [
+  "",
+  null,
+  "no-cid(3-propanal + butyric acid)"
+ ],
+ "(-)--terpineol": [
+  "98-55-5",
+  17100,
+  "ok-eutils"
+ ],
+ "(E)-2-undecen-1-ol": [
+  "75039-84-8",
+  5365004,
+  "ok-eutils"
+ ],
+ "(S)--2-methylbutanol": [
+  "1565-80-6",
+  2723602,
+  "ok-eutils"
+ ],
+ "(Z)- 3-Hexen-1-ol": [
+  "928-96-1",
+  5281167,
+  "ok-eutils"
+ ],
+ "nonalactone": [
+  "6008-27-1",
+  138644,
+  "ok-eutils"
+ ],
+ "Ethyl acetate": [
+  "141-78-6",
+  8857,
+  "ok-eutils"
+ ],
+ "1,1,3-三乙氧基丙烷": [
+  "7789-92-6",
+  24624,
+  "ok-eutils"
+ ],
+ "1,1-diethoxy-Hexane": [
+  "3658-93-3",
+  77224,
+  "ok-eutils"
+ ],
+ "1,1-diethoxynonane": [
+  "54815-13-3",
+  108625,
+  "ok-eutils"
+ ],
+ "1,1-二乙氧基 -2-甲基丁烷": [
+  "3658-94-4",
+  568501,
+  "ok-eutils"
+ ],
+ "1,1-二乙氧基 -3-甲基丁烷": [
+  "3842-03-3",
+  19695,
+  "ok-eutils"
+ ],
+ "1,1-二乙氧基-2-苯乙烷": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "1,1-二乙氧基-3-甲基丁烷": [
+  "3842-03-3",
+  19695,
+  "ok-eutils"
+ ],
+ "1,2-Propanediol": [
+  "57-55-6",
+  1030,
+  "ok-eutils"
+ ],
+ "1,2-hexanediol": [
+  "6920-22-5",
+  94335,
+  "ok-eutils"
+ ],
+ "1,8-Cineole": [
+  "470-82-6",
+  2758,
+  "ok-eutils"
+ ],
+ "1- 辛醇": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "1-Butanol": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "1-Hexanol": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "1-Nonanal": [
+  "124-19-6",
+  31289,
+  "ok-eutils"
+ ],
+ "1-Octanol": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "1-Octen-3-ol": [
+  "3391-86-4",
+  18827,
+  "ok-eutils"
+ ],
+ "1-Pentanol": [
+  "71-41-0",
+  6276,
+  "ok-eutils"
+ ],
+ "1-Propanol": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "1-butanol": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "1-dodecanol": [
+  "112-53-8",
+  8193,
+  "ok-eutils"
+ ],
+ "1-hexanol": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "1-nonanol": [
+  "143-08-8",
+  8914,
+  "ok-eutils"
+ ],
+ "1-octanol": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "1-octen-3-ol": [
+  "3391-86-4",
+  18827,
+  "ok-eutils"
+ ],
+ "1-phenylethanone": [
+  "98-86-2",
+  7410,
+  "ok-eutils"
+ ],
+ "1-丁醇": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "1-丙醇": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "1-壬醇": [
+  "143-08-8",
+  8914,
+  "ok-eutils"
+ ],
+ "1-己醇": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "1-庚醇": [
+  "111-70-6",
+  8129,
+  "ok-eutils"
+ ],
+ "1-戊醇": [
+  "71-41-0",
+  6276,
+  "ok-eutils"
+ ],
+ "1-癸醇": [
+  "112-30-1",
+  8174,
+  "ok-eutils"
+ ],
+ "1-辛烯-3-酮": [
+  "4312-99-6",
+  61346,
+  "ok-eutils"
+ ],
+ "1-辛烯-3-醇": [
+  "3391-86-4",
+  18827,
+  "ok-eutils"
+ ],
+ "1-辛醇": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "1--丁烷": [
+  "",
+  null,
+  "no-cid(1-butane)"
+ ],
+ "2-丁酮": [
+  "78-93-3",
+  6569,
+  "ok-eutils"
+ ],
+ "Isoamyl acetate": [
+  "123-92-2",
+  31276,
+  "ok-eutils"
+ ],
+ "Ethyl pentanoate": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "2-戊醇": [
+  "6032-29-7",
+  22386,
+  "ok-eutils"
+ ],
+ "3-甲基丁醇": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "2-戊酮": [
+  "107-87-9",
+  7895,
+  "ok-eutils"
+ ],
+ "Ethyl 4-methylpentanoate": [
+  "25415-67-2",
+  117477,
+  "ok-eutils"
+ ],
+ "13-Octadecenoic acid": [
+  "7378-89-4",
+  151734,
+  "ok-eutils"
+ ],
+ "2-庚醇": [
+  "543-49-7",
+  10976,
+  "ok-eutils"
+ ],
+ "3-Methyl-1-butanol": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "Hexyl acetate": [
+  "142-92-7",
+  8908,
+  "ok-eutils"
+ ],
+ "Propyl hexanoate": [
+  "626-77-7",
+  12293,
+  "ok-eutils"
+ ],
+ "17-Octadecynoic acid": [
+  "34450-18-5",
+  1449,
+  "ok-eutils"
+ ],
+ "Ethyl heptanoate": [
+  "106-30-9",
+  7797,
+  "ok-eutils"
+ ],
+ "1,1-二乙氧基-2-甲基丁烷": [
+  "3658-94-4",
+  568501,
+  "ok-eutils"
+ ],
+ "1,1-二乙氧基乙烷": [
+  "105-57-7",
+  7765,
+  "ok-eutils"
+ ],
+ "1,2-丙二醇": [
+  "57-55-6",
+  1030,
+  "ok-eutils"
+ ],
+ "2, 4-二甲基苯酚": [
+  "105-67-9",
+  7771,
+  "ok-eutils"
+ ],
+ "2, 5-二甲基-3-丁基吡嗪": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2,3,5,6-四甲基吡嗪": [
+  "1124-11-4",
+  14296,
+  "ok-eutils"
+ ],
+ "2,3,5-三甲基-6-乙基吡嗪": [
+  "17398-16-2",
+  28518,
+  "ok-eutils"
+ ],
+ "2,3,5-三甲基吡嗪": [
+  "14667-55-1",
+  26808,
+  "ok-eutils"
+ ],
+ "2,3-Butanediol": [
+  "19132-06-0",
+  439888,
+  "ok-eutils"
+ ],
+ "2,3-Diethyl-5-methylpyrazine": [
+  "18138-04-0",
+  28905,
+  "ok-eutils"
+ ],
+ "2,3-Pentanedione": [
+  "600-14-6",
+  11747,
+  "ok-eutils"
+ ],
+ "2,3-丁二醇": [
+  "19132-06-0",
+  439888,
+  "ok-eutils"
+ ],
+ "2,4-Di-t-butylphenol": [
+  "96-76-4",
+  7311,
+  "ok-eutils"
+ ],
+ "2,4-二叔丁基 苯酚": [
+  "96-76-4",
+  7311,
+  "ok-eutils"
+ ],
+ "2,5-二甲": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2,5-二甲基-3-乙基吡嗪": [
+  "13360-65-1",
+  25916,
+  "ok-eutils"
+ ],
+ "2,6-Di-tert-butyl-p-cresol": [
+  "128-37-0",
+  31404,
+  "ok-eutils"
+ ],
+ "2,6-二甲基-4-庚醇": [
+  "108-82-7",
+  7957,
+  "ok-eutils"
+ ],
+ "2,6-二甲基吡嗪": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2- 戊酮": [
+  "107-87-9",
+  7895,
+  "ok-eutils"
+ ],
+ "2- 甲基丁醇": [
+  "137-32-6",
+  8723,
+  "ok-eutils"
+ ],
+ "2- 苯乙醇": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "2- tetrahydro-2H-pyran": [
+  "",
+  null,
+  "no-cid(2- tetrahydro-2H-pyran)"
+ ],
+ "2-Acetylfuran": [
+  "1192-62-7",
+  14505,
+  "ok-eutils"
+ ],
+ "2-Butanone": [
+  "78-93-3",
+  6569,
+  "ok-eutils"
+ ],
+ "2-Butylfuran": [
+  "4466-24-4",
+  20534,
+  "ok-eutils"
+ ],
+ "2-Dodecenoic acid": [
+  "4412-16-2",
+  96204,
+  "ok-eutils"
+ ],
+ "2-Ethyl-3,5-dimethylpyrazine": [
+  "13925-07-0",
+  26334,
+  "ok-eutils"
+ ],
+ "2-Ethylhexanol": [
+  "104-76-7",
+  7720,
+  "ok-eutils"
+ ],
+ "2-Furanmethanol": [
+  "98-00-0",
+  7361,
+  "ok-eutils"
+ ],
+ "2-Heptanone": [
+  "110-43-0",
+  8051,
+  "ok-eutils"
+ ],
+ "2-Methoxy-p-cresol": [
+  "93-51-6",
+  7144,
+  "ok-eutils"
+ ],
+ "2-Methyl-1-propanol": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "2-Methylbutanal": [
+  "96-17-3",
+  7284,
+  "ok-eutils"
+ ],
+ "2-Methylphenol": [
+  "95-48-7",
+  335,
+  "ok-eutils"
+ ],
+ "2-Methylpropanal": [
+  "78-84-2",
+  6561,
+  "ok-eutils"
+ ],
+ "2-Methylpropanoic acid": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "2-Methylpropanol": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "2-Methylpropionic acid": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "2-Nonanone": [
+  "821-55-6",
+  13187,
+  "ok-eutils"
+ ],
+ "2-Nonen-4-one": [
+  "27743-70-0",
+  448996,
+  "ok-eutils"
+ ],
+ "2-Octanone": [
+  "111-13-7",
+  8093,
+  "ok-eutils"
+ ],
+ "2-Pentadecanone": [
+  "2345-28-0",
+  61303,
+  "ok-eutils"
+ ],
+ "2-Pentanone": [
+  "107-87-9",
+  7895,
+  "ok-eutils"
+ ],
+ "2-Phenylethanol": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "2-Propyl-1-pentanol": [
+  "58175-57-8",
+  123543,
+  "ok-eutils"
+ ],
+ "2-Undecanone": [
+  "112-12-9",
+  8163,
+  "ok-eutils"
+ ],
+ "2--9-Octadecenyloxy]ethanol": [
+  "",
+  21452,
+  "name-not-a-synonym(no candidates)"
+ ],
+ "2-heptanol": [
+  "543-49-7",
+  10976,
+  "ok-eutils"
+ ],
+ "2-hexanol": [
+  "626-93-7",
+  12297,
+  "ok-eutils"
+ ],
+ "2-hexyl-1-decanol": [
+  "2425-77-6",
+  95337,
+  "ok-eutils"
+ ],
+ "2-methoxy-4-methylphenol": [
+  "93-51-6",
+  7144,
+  "ok-eutils"
+ ],
+ "2-methoxy-4-vinylphenol": [
+  "7786-61-0",
+  332,
+  "ok-eutils"
+ ],
+ "2-methylpropionic acid": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "2-nonanol": [
+  "628-99-9",
+  12367,
+  "ok-eutils"
+ ],
+ "2-nonenoic acid": [
+  "3760-11-0",
+  97730,
+  "ok-eutils"
+ ],
+ "2-octanone": [
+  "111-13-7",
+  8093,
+  "ok-eutils"
+ ],
+ "2-phenylethanol": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "2-phenylethyl acetate": [
+  "103-45-7",
+  7654,
+  "ok-eutils"
+ ],
+ "2-thenaldehyde": [
+  "98-03-3",
+  7364,
+  "ok-eutils"
+ ],
+ "2-丁醇": [
+  "78-92-2",
+  6568,
+  "ok-eutils"
+ ],
+ "2-丙烯-1-醇": [
+  "107-18-6",
+  7858,
+  "ok-eutils"
+ ],
+ "2-丙酮": [
+  "67-64-1",
+  180,
+  "ok-eutils"
+ ],
+ "2-乙基-5-甲基吡嗪": [
+  "13360-64-0",
+  25915,
+  "ok-eutils"
+ ],
+ "2-乙基-5-甲基呋喃": [
+  "1703-52-2",
+  74346,
+  "ok-eutils"
+ ],
+ "2-乙基-6-甲基吡嗪": [
+  "13925-03-6",
+  26332,
+  "ok-eutils"
+ ],
+ "2-乙基苯酚": [
+  "90-00-6",
+  6997,
+  "ok-eutils"
+ ],
+ "2-乙酰基-4-甲基吡啶": [
+  "59576-26-0",
+  564760,
+  "ok-eutils"
+ ],
+ "2-乙酰基-5-甲基呋喃": [
+  "1193-79-9",
+  14514,
+  "ok-eutils"
+ ],
+ "2-乙酰基呋喃": [
+  "1192-62-7",
+  14505,
+  "ok-eutils"
+ ],
+ "2-十一烯醛": [
+  "2463-77-6",
+  62447,
+  "ok-eutils"
+ ],
+ "2-十一酮": [
+  "112-12-9",
+  8163,
+  "ok-eutils"
+ ],
+ "2-十一醇": [
+  "1653-30-1",
+  15448,
+  "ok-eutils"
+ ],
+ "2-呋喃基乙基酮": [
+  "1192-62-7",
+  14505,
+  "ok-eutils"
+ ],
+ "2-呋喃甲酸乙酯": [
+  "614-99-3",
+  11980,
+  "ok-eutils"
+ ],
+ "2-呋喃羧酸乙酯": [
+  "614-99-3",
+  11980,
+  "ok-eutils"
+ ],
+ "2-壬基醇": [
+  "628-99-9",
+  12367,
+  "ok-eutils"
+ ],
+ "2-壬烯-4-酮": [
+  "27743-70-0",
+  448996,
+  "ok-eutils"
+ ],
+ "2-壬酮": [
+  "821-55-6",
+  13187,
+  "ok-eutils"
+ ],
+ "2-壬醇": [
+  "628-99-9",
+  12367,
+  "ok-eutils"
+ ],
+ "2-己酸乙酯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2-己醇": [
+  "626-93-7",
+  12297,
+  "ok-eutils"
+ ],
+ "2-庚酮": [
+  "110-43-0",
+  8051,
+  "ok-eutils"
+ ],
+ "2-戊基呋喃": [
+  "3777-69-3",
+  19602,
+  "ok-eutils"
+ ],
+ "2-戊醇 /": [
+  "6032-29-7",
+  22386,
+  "ok-eutils"
+ ],
+ "2-正丁基呋喃": [
+  "4466-24-4",
+  20534,
+  "ok-eutils"
+ ],
+ "2-甲基": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2-甲基-1-丁醇": [
+  "137-32-6",
+  8723,
+  "ok-eutils"
+ ],
+ "2-甲基-1-丙醇": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "2-甲基-3-辛酮": [
+  "923-28-4",
+  70209,
+  "ok-eutils"
+ ],
+ "2-甲基丁": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2-甲基丁酸丁酯": [
+  "15706-73-7",
+  61812,
+  "ok-eutils"
+ ],
+ "2-甲基丁酸乙酯": [
+  "7452-79-1",
+  24020,
+  "ok-eutils"
+ ],
+ "2-甲基丁酸乙酯ethyl 2-methylbutanoate": [
+  "7452-79-1",
+  24020,
+  "ok-eutils"
+ ],
+ "2-甲基丁酸异戊酯": [
+  "27625-35-0",
+  520326,
+  "ok-eutils"
+ ],
+ "2-甲基丁酸甲酯": [
+  "868-57-5",
+  13357,
+  "ok-eutils"
+ ],
+ "2-甲基丁醇": [
+  "137-32-6",
+  8723,
+  "ok-eutils"
+ ],
+ "2-甲基丁醛": [
+  "96-17-3",
+  7284,
+  "ok-eutils"
+ ],
+ "2-甲基丙酸": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "2-甲基丙酸乙酯": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "2-甲基丙醛": [
+  "78-84-2",
+  6561,
+  "ok-eutils"
+ ],
+ "2-甲基吡嗪": [
+  "109-08-0",
+  7976,
+  "ok-eutils"
+ ],
+ "2-甲基呋喃": [
+  "534-22-5",
+  10797,
+  "ok-eutils"
+ ],
+ "2-甲氧基-4-甲基苯酚": [
+  "93-51-6",
+  7144,
+  "ok-eutils"
+ ],
+ "2-癸酮": [
+  "693-54-9",
+  12741,
+  "ok-eutils"
+ ],
+ "2-糠醇": [
+  "98-00-0",
+  7361,
+  "ok-eutils"
+ ],
+ "2-羟基-3-甲基丁酸乙酯": [
+  "2441-06-7",
+  520125,
+  "ok-eutils"
+ ],
+ "2-羟基丁酸乙酯": [
+  "52089-54-0",
+  521365,
+  "ok-eutils"
+ ],
+ "2-羟基丙酸-2-甲基丙酯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2-羟基己酸乙酯": [
+  "52089-55-1",
+  103589,
+  "ok-eutils"
+ ],
+ "2-苯乙醇": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "2-辛酮": [
+  "111-13-7",
+  8093,
+  "ok-eutils"
+ ],
+ "2-辛醇": [
+  "123-96-6",
+  20083,
+  "ok-eutils"
+ ],
+ "Dimethyl trisulfide": [
+  "3658-80-8",
+  19310,
+  "ok-eutils"
+ ],
+ "Butyl hexanoate": [
+  "626-82-4",
+  12294,
+  "ok-eutils"
+ ],
+ "Ethyl octanoate": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "Acetic acid": [
+  "64-19-7",
+  176,
+  "ok-eutils"
+ ],
+ "Isopentyl hexanoate": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "Pentyl hexanoate": [
+  "540-07-8",
+  10886,
+  "ok-eutils"
+ ],
+ "Benzaldehyde": [
+  "100-52-7",
+  240,
+  "ok-eutils"
+ ],
+ "Ethyl nonanoate": [
+  "123-29-5",
+  31251,
+  "ok-eutils"
+ ],
+ "Ethyl 2-hydroxy-4-methylvalerate": [
+  "10348-47-7",
+  112030,
+  "ok-eutils"
+ ],
+ "2,3-丁二酮": [
+  "431-03-8",
+  650,
+  "ok-eutils"
+ ],
+ "2,4-二甲基-3-戊醇": [
+  "600-36-2",
+  11752,
+  "ok-eutils"
+ ],
+ "Ethyl propanoate": [
+  "105-37-3",
+  7749,
+  "ok-eutils"
+ ],
+ "3,3-二乙氧基-1-丙醇": [
+  "16777-87-0",
+  140135,
+  "ok-eutils"
+ ],
+ "3,5-二甲基-2-戊基吡嗪": [
+  "50888-62-5",
+  17861463,
+  "ok-eutils"
+ ],
+ "3- 羟基-2- 丁酮": [
+  "513-86-0",
+  179,
+  "ok-eutils"
+ ],
+ "3--propanoic acid ethyl ester": [
+  "",
+  null,
+  "no-cid(3--propanoic acid ethyl ester)"
+ ],
+ "3-propanal": [
+  "",
+  null,
+  "no-cid(3-propanal)"
+ ],
+ "3-propanal + 3-methylindole": [
+  "",
+  null,
+  "no-cid(3-propanal + 3-methylindole)"
+ ],
+ "3-propanal + hexanoic acid": [
+  "",
+  null,
+  "no-cid(3-propanal + hexanoic acid)"
+ ],
+ "3-propanal + p-cresol": [
+  "",
+  null,
+  "no-cid(3-propanal + p-cresol)"
+ ],
+ "3-propanol": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "3-Furaldehyde": [
+  "498-60-2",
+  10351,
+  "ok-eutils"
+ ],
+ "3-Hydroxylauric acid": [
+  "1883-13-2",
+  94216,
+  "ok-eutils"
+ ],
+ "3-Methyl-1-butanal": [
+  "590-86-3",
+  11552,
+  "ok-eutils"
+ ],
+ "3-Methyl-1-heptanol": [
+  "1070-32-2",
+  517883,
+  "ok-eutils"
+ ],
+ "3-Methyl-3-buten-1-ol": [
+  "763-32-6",
+  12988,
+  "ok-eutils"
+ ],
+ "3-Methylbutanoic acid": [
+  "503-74-2",
+  10430,
+  "ok-eutils"
+ ],
+ "3-Methylbutanol": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "3-Methylthiopropanol": [
+  "505-10-2",
+  10448,
+  "ok-eutils"
+ ],
+ "3-methyl-1-butanol": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "3-methyl-2-butanol": [
+  "598-75-4",
+  11732,
+  "ok-eutils"
+ ],
+ "3-methylbutanoic acid": [
+  "503-74-2",
+  10430,
+  "ok-eutils"
+ ],
+ "3-methylbutyl hexanoate": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "3-methylbutyl octanoate": [
+  "2035-99-6",
+  16255,
+  "ok-eutils"
+ ],
+ "3-methylbutyl pentanoate": [
+  "2050-09-1",
+  74901,
+  "ok-eutils"
+ ],
+ "3-methylindole": [
+  "83-34-1",
+  6736,
+  "ok-eutils"
+ ],
+ "3-methylthiopropanol": [
+  "505-10-2",
+  10448,
+  "ok-eutils"
+ ],
+ "3-methylvaleric acid": [
+  "105-43-1",
+  7755,
+  "ok-eutils"
+ ],
+ "3-phenyl propionic acid": [
+  "501-52-0",
+  107,
+  "ok-eutils"
+ ],
+ "3-乙基": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "3-乙氧基丙醇": [
+  "111-35-3",
+  8109,
+  "ok-eutils"
+ ],
+ "3-庚醇": [
+  "589-82-2",
+  11520,
+  "ok-eutils"
+ ],
+ "3-甲基-1-丁醇": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "3-甲基-2-丁醇": [
+  "598-75-4",
+  11732,
+  "ok-eutils"
+ ],
+ "3-甲基-2-己醇": [
+  "2313-65-7",
+  16835,
+  "ok-eutils"
+ ],
+ "3-甲基-3-丁烯-1-醇": [
+  "763-32-6",
+  12988,
+  "ok-eutils"
+ ],
+ "3-甲基丁酸": [
+  "503-74-2",
+  10430,
+  "ok-eutils"
+ ],
+ "3-甲基丁酸丁酯": [
+  "109-19-3",
+  7981,
+  "ok-eutils"
+ ],
+ "3-甲基丁酸乙酯": [
+  "108-64-5",
+  7945,
+  "ok-eutils"
+ ],
+ "3-甲基丁醛": [
+  "590-86-3",
+  11552,
+  "ok-eutils"
+ ],
+ "3-甲基乙酯戊酸": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "3-甲基戊酸乙酯": [
+  "5870-68-8",
+  560255,
+  "ok-eutils"
+ ],
+ "3-甲基戊酸甲酯": [
+  "2177-78-8",
+  519891,
+  "ok-eutils"
+ ],
+ "3-甲硫基丙酸乙酯": [
+  "13327-56-5",
+  61592,
+  "ok-eutils"
+ ],
+ "3-糠醛": [
+  "498-60-2",
+  10351,
+  "ok-eutils"
+ ],
+ "3-羟基-2-丁酮": [
+  "513-86-0",
+  179,
+  "ok-eutils"
+ ],
+ "3-辛烯-2-酮": [
+  "1669-44-9",
+  5363229,
+  "ok-eutils"
+ ],
+ "3-辛醇": [
+  "589-98-0",
+  11527,
+  "ok-eutils"
+ ],
+ "3-丙酸乙酯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "Hexyl hexanoate": [
+  "6378-65-0",
+  22873,
+  "ok-eutils"
+ ],
+ "Butanoic acid": [
+  "107-92-6",
+  264,
+  "ok-eutils"
+ ],
+ "Ethyl decanoate": [
+  "110-38-3",
+  8048,
+  "ok-eutils"
+ ],
+ "Isoamyl octanoate": [
+  "2035-99-6",
+  16255,
+  "ok-eutils"
+ ],
+ "Ethyl trans-4-decenoate": [
+  "76649-16-6",
+  5362583,
+  "ok-eutils"
+ ],
+ "Ethyl benzoate": [
+  "93-89-0",
+  7165,
+  "ok-eutils"
+ ],
+ "Diethyl butanedioate": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "Heptyl hexanoate": [
+  "6976-72-3",
+  81464,
+  "ok-eutils"
+ ],
+ "benzene": [
+  "71-43-2",
+  241,
+  "ok-eutils"
+ ],
+ "3-羟基": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "Ethyl 2-methylpropanoate": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "4-Ethyl-2-methoxy-phenol": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-Ethyl-2-methoxyphenol": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-Ethylguaiacol": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-Ethylphenol": [
+  "123-07-9",
+  31242,
+  "ok-eutils"
+ ],
+ "4-Methylpentanoic acid": [
+  "646-07-1",
+  12587,
+  "ok-eutils"
+ ],
+ "4-ethenyl--2-methoxyphenol": [
+  "7786-61-0",
+  332,
+  "ok-eutils"
+ ],
+ "4-ethyl--2-methoxyphenol": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-ethyl-2-methoxyphenol": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-ethylguaiacol": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-ethylphenol": [
+  "123-07-9",
+  31242,
+  "ok-eutils"
+ ],
+ "4-hydroxy--3-methoxybenzaldehyde": [
+  "121-33-5",
+  1183,
+  "ok-eutils"
+ ],
+ "4-hydroxy-3- methoxystyrene": [
+  "7786-61-0",
+  332,
+  "ok-eutils"
+ ],
+ "4-hydroxy-3-methoxystyrene": [
+  "7786-61-0",
+  332,
+  "ok-eutils"
+ ],
+ "4-methyl guaiacol": [
+  "93-51-6",
+  7144,
+  "ok-eutils"
+ ],
+ "4-methylphenol": [
+  "106-44-5",
+  2879,
+  "ok-eutils"
+ ],
+ "4-methylvaleric acid": [
+  "646-07-1",
+  12587,
+  "ok-eutils"
+ ],
+ "4-undecanolide": [
+  "104-67-6",
+  7714,
+  "ok-eutils"
+ ],
+ "4-乙基-2-甲氧基苯酚": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-乙基愈创木 酚": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-乙基愈创木酚": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-乙基愈创木酚 丁香,调味品香": [
+  "2785-89-9",
+  62465,
+  "ok-eutils"
+ ],
+ "4-乙基苯酚 烟熏味": [
+  "123-07-9",
+  31242,
+  "ok-eutils"
+ ],
+ "4-甲基-2-戊酮": [
+  "108-10-1",
+  7909,
+  "ok-eutils"
+ ],
+ "4-甲基-戊酸乙酯": [
+  "25415-67-2",
+  117477,
+  "ok-eutils"
+ ],
+ "4-甲基愈创木酚": [
+  "93-51-6",
+  7144,
+  "ok-eutils"
+ ],
+ "4-甲基戊酸": [
+  "646-07-1",
+  12587,
+  "ok-eutils"
+ ],
+ "4-甲基戊酸甲酯": [
+  "2412-80-8",
+  17008,
+  "ok-eutils"
+ ],
+ "4-甲基苯酚 酚臭,动物臭": [
+  "106-44-5",
+  2879,
+  "ok-eutils"
+ ],
+ "Ethyl phenylacetate": [
+  "101-97-3",
+  7590,
+  "ok-eutils"
+ ],
+ "Hexyl octanoate": [
+  "1117-55-1",
+  14228,
+  "ok-eutils"
+ ],
+ "1-Azido-2-methylbenzene": [
+  "31656-92-5",
+  141652,
+  "ok-eutils"
+ ],
+ "Hexanoic acid": [
+  "142-62-1",
+  8892,
+  "ok-eutils"
+ ],
+ "Furfuryl hexanoate": [
+  "39252-02-3",
+  557222,
+  "ok-eutils"
+ ],
+ "Ethyl 3-phenylpropanoate": [
+  "2021-28-5",
+  16237,
+  "ok-eutils"
+ ],
+ "Phenethyl alcohol": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "4-Methylphenol": [
+  "106-44-5",
+  2879,
+  "ok-eutils"
+ ],
+ "Ethyl hexadecanoate": [
+  "628-97-7",
+  12366,
+  "ok-eutils"
+ ],
+ "Ethyl butanoate": [
+  "105-54-4",
+  7762,
+  "ok-eutils"
+ ],
+ "5-Dodecenoic acid": [
+  "2761-84-4",
+  151007,
+  "ok-eutils"
+ ],
+ "5-butyloxolan--2-one": [
+  "104-50-7",
+  7704,
+  "ok-eutils"
+ ],
+ "5-ethyloxolan--2-one": [
+  "695-06-7",
+  12756,
+  "ok-eutils"
+ ],
+ "5-pentyloxolan--2-one": [
+  "104-61-0",
+  7710,
+  "ok-eutils"
+ ],
+ "5-propyloxolan-2-one": [
+  "105-21-5",
+  7742,
+  "ok-eutils"
+ ],
+ "5-甲基-2-糠醛": [
+  "620-02-0",
+  12097,
+  "ok-eutils"
+ ],
+ "5-甲基己酸乙酯": [
+  "10236-10-9",
+  234290,
+  "ok-eutils"
+ ],
+ "2-丙醇": [
+  "67-63-0",
+  3776,
+  "ok-eutils"
+ ],
+ "Ethyl 2-methylbutanoate": [
+  "7452-79-1",
+  24020,
+  "ok-eutils"
+ ],
+ "Ethyl 3-methylbutanoate": [
+  "108-64-5",
+  7945,
+  "ok-eutils"
+ ],
+ "1,1-Diethoxy-3-methylbutane": [
+  "3842-03-3",
+  19695,
+  "ok-eutils"
+ ],
+ "9-Hexadecenoic acid": [
+  "2091-29-4",
+  4668,
+  "ok-eutils"
+ ],
+ "Acetal": [
+  "105-57-7",
+  7765,
+  "ok-eutils"
+ ],
+ "Acetaldehyde": [
+  "75-07-0",
+  177,
+  "ok-eutils"
+ ],
+ "Acetone": [
+  "67-64-1",
+  180,
+  "ok-eutils"
+ ],
+ "Benzeneacetaldehyde, diethyl acetal": [
+  "6314-97-2",
+  80584,
+  "ok-eutils"
+ ],
+ "Butanal": [
+  "123-72-8",
+  261,
+  "ok-eutils"
+ ],
+ "Butanol": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "Butyl acetate": [
+  "123-86-4",
+  31272,
+  "ok-eutils"
+ ],
+ "Butyl butanoate": [
+  "109-21-7",
+  7983,
+  "ok-eutils"
+ ],
+ "Butyl formate": [
+  "592-84-7",
+  11614,
+  "ok-eutils"
+ ],
+ "Butyl heptanoate": [
+  "5454-28-4",
+  21596,
+  "ok-eutils"
+ ],
+ "Butyl lactate": [
+  "138-22-7",
+  8738,
+  "ok-eutils"
+ ],
+ "Butyl valerate": [
+  "591-68-4",
+  61137,
+  "ok-eutils"
+ ],
+ "Butyraldehyde": [
+  "123-72-8",
+  261,
+  "ok-eutils"
+ ],
+ "Butyric acid": [
+  "107-92-6",
+  264,
+  "ok-eutils"
+ ],
+ "Caproic acid propyl ester": [
+  "626-77-7",
+  12293,
+  "ok-eutils"
+ ],
+ "Cyclopentanol": [
+  "96-41-3",
+  7298,
+  "ok-eutils"
+ ],
+ "DL-2-羟基-4-甲基戊酸乙酯": [
+  "10348-47-7",
+  112030,
+  "ok-eutils"
+ ],
+ "DL-Limonene": [
+  "138-86-3",
+  22311,
+  "ok-eutils"
+ ],
+ "DMST": [
+  "66840-71-9",
+  738302,
+  "ok-eutils"
+ ],
+ "Decane, 1,1-diethoxy": [
+  "34764-02-8",
+  101363,
+  "ok-eutils"
+ ],
+ "Dibutyl phthalate": [
+  "84-74-2",
+  3026,
+  "ok-eutils"
+ ],
+ "Diethyl succinate": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "E-橙花叔醇": [
+  "142-50-7",
+  5356544,
+  "ok-eutils"
+ ],
+ "Ethanol": [
+  "64-17-5",
+  702,
+  "ok-eutils"
+ ],
+ "Ethyl hex-3-enoate": [
+  "2396-83-0",
+  5362622,
+  "ok-eutils"
+ ],
+ "Ethyl 15-methylheptadecanoate": [
+  "57274-46-1",
+  42257,
+  "ok-eutils"
+ ],
+ "Ethyl 2-decenoate": [
+  "7367-88-6",
+  5463904,
+  "ok-eutils"
+ ],
+ "Ethyl 2-hydroxy-4-methylpentanoate": [
+  "10348-47-7",
+  112030,
+  "ok-eutils"
+ ],
+ "Ethyl 2-methylbutyrate": [
+  "7452-79-1",
+  24020,
+  "ok-eutils"
+ ],
+ "Ethyl 2-methylproanoate": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "Ethyl 3-hexenoate": [
+  "2396-83-0",
+  5362622,
+  "ok-eutils"
+ ],
+ "Ethyl 3-nonenoate": [
+  "91213-30-8",
+  533721,
+  "ok-eutils"
+ ],
+ "Ethyl 3-phenylpropionate": [
+  "2021-28-5",
+  16237,
+  "ok-eutils"
+ ],
+ "Ethyl 4-decenoate": [
+  "76649-16-6",
+  5362583,
+  "ok-eutils"
+ ],
+ "Ethyl 4-phenylbutyrate": [
+  "10031-93-3",
+  61452,
+  "ok-eutils"
+ ],
+ "Ethyl 5-methylhexanoate": [
+  "10236-10-9",
+  234290,
+  "ok-eutils"
+ ],
+ "Ethyl 7-octenoate": [
+  "35194-38-8",
+  544127,
+  "ok-eutils"
+ ],
+ "Ethyl Hexanoate": [
+  "123-66-0",
+  31265,
+  "ok-eutils"
+ ],
+ "Ethyl L-lactate": [
+  "687-47-8",
+  92831,
+  "ok-eutils"
+ ],
+ "Ethyl butyrate": [
+  "105-54-4",
+  7762,
+  "ok-eutils"
+ ],
+ "Ethyl caprate": [
+  "110-38-3",
+  8048,
+  "ok-eutils"
+ ],
+ "Ethyl caprylate": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "Ethyl dodecanoate": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "Ethyl formate": [
+  "109-94-4",
+  8025,
+  "ok-eutils"
+ ],
+ "Ethyl heptadecanoate": [
+  "14010-23-2",
+  26397,
+  "ok-eutils"
+ ],
+ "Ethyl hexadienoate": [
+  "5941-48-0",
+  16970,
+  "ok-eutils"
+ ],
+ "Ethyl isobutyrate": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "Ethyl isovalerate": [
+  "108-64-5",
+  7945,
+  "ok-eutils"
+ ],
+ "Ethyl laurate": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "Ethyl linoleate": [
+  "544-35-4",
+  5282184,
+  "ok-eutils"
+ ],
+ "Ethyl myristate": [
+  "124-06-1",
+  31283,
+  "ok-eutils"
+ ],
+ "Ethyl oleate": [
+  "111-62-6",
+  5363269,
+  "ok-eutils"
+ ],
+ "Ethyl palmitate": [
+  "628-97-7",
+  12366,
+  "ok-eutils"
+ ],
+ "Ethyl pentadecanoate": [
+  "41114-00-5",
+  38762,
+  "ok-eutils"
+ ],
+ "Ethyl propionate": [
+  "105-37-3",
+  7749,
+  "ok-eutils"
+ ],
+ "Ethyl pyruvate": [
+  "617-35-6",
+  12041,
+  "ok-eutils"
+ ],
+ "Ethyl tetradecanoate": [
+  "124-06-1",
+  31283,
+  "ok-eutils"
+ ],
+ "Ethyl tridecanoate": [
+  "28267-29-0",
+  119908,
+  "ok-eutils"
+ ],
+ "Ethyl undecanoate": [
+  "627-90-7",
+  12327,
+  "ok-eutils"
+ ],
+ "Ethyl valerate": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "Fema": [
+  "",
+  177897096,
+  "name-not-a-synonym(177897096=?; 167713268=?; 167430728=?; 167430712=?; 166451419=?)"
+ ],
+ "Fitone": [
+  "502-69-2",
+  10408,
+  "ok-eutils"
+ ],
+ "Furfural": [
+  "98-01-1",
+  7362,
+  "ok-eutils"
+ ],
+ "Guaiacol": [
+  "90-05-1",
+  460,
+  "ok-eutils"
+ ],
+ "Heptanoic acid": [
+  "111-14-8",
+  8094,
+  "ok-eutils"
+ ],
+ "Heptyl acetate": [
+  "112-06-1",
+  8159,
+  "ok-eutils"
+ ],
+ "Hexan-1-ol": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "Hexanoic acid, anhydride": [
+  "2051-49-2",
+  74918,
+  "ok-eutils"
+ ],
+ "Hexanoic acid,5-methyl-, ethyl ester": [
+  "10236-10-9",
+  234290,
+  "ok-eutils"
+ ],
+ "Hexanoic anhydride": [
+  "2051-49-2",
+  74918,
+  "ok-eutils"
+ ],
+ "Hexanol": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "Hexyl butanoate": [
+  "2639-63-6",
+  17525,
+  "ok-eutils"
+ ],
+ "Hexyl butyrate": [
+  "2639-63-6",
+  17525,
+  "ok-eutils"
+ ],
+ "Isoamyl alcohol": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "Isoamyl butyrate": [
+  "106-27-4",
+  7795,
+  "ok-eutils"
+ ],
+ "Isoamyl hexanoate": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "Isoamyl lactate": [
+  "19329-89-6",
+  86851,
+  "ok-eutils"
+ ],
+ "Isobutanol": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "Isobutyl heptanoate": [
+  "7779-80-8",
+  24516,
+  "ok-eutils"
+ ],
+ "Isobutyl hexanoate": [
+  "105-79-3",
+  7775,
+  "ok-eutils"
+ ],
+ "Isobutyl octanoate": [
+  "5461-06-3",
+  79582,
+  "ok-eutils"
+ ],
+ "Isobutyraldehyde": [
+  "78-84-2",
+  6561,
+  "ok-eutils"
+ ],
+ "Isobutyric acid": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "Isopentyl acetate": [
+  "123-92-2",
+  31276,
+  "ok-eutils"
+ ],
+ "Isovaleraldehyde": [
+  "590-86-3",
+  11552,
+  "ok-eutils"
+ ],
+ "JS 乳酸乙酯": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "JS 正丁醇": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "J酸": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "Linalool": [
+  "78-70-6",
+  6549,
+  "ok-eutils"
+ ],
+ "Methanol": [
+  "67-56-1",
+  887,
+  "ok-eutils"
+ ],
+ "Methyl hexanoate": [
+  "106-70-7",
+  7824,
+  "ok-eutils"
+ ],
+ "Methyl palmitate": [
+  "112-39-0",
+  8181,
+  "ok-eutils"
+ ],
+ "Name": [
+  "33-23-5",
+  16397424,
+  "ok-eutils"
+ ],
+ "Nonanal": [
+  "124-19-6",
+  31289,
+  "ok-eutils"
+ ],
+ "Nonanoic acid": [
+  "112-05-0",
+  8158,
+  "ok-eutils"
+ ],
+ "Octanal": [
+  "124-13-0",
+  454,
+  "ok-eutils"
+ ],
+ "Octanoic acid": [
+  "124-07-2",
+  379,
+  "ok-eutils"
+ ],
+ "Octyl butyrate": [
+  "110-39-4",
+  61030,
+  "ok-eutils"
+ ],
+ "Octyl octanoate": [
+  "2306-88-9",
+  61294,
+  "ok-eutils"
+ ],
+ "Pentanal": [
+  "110-62-3",
+  8063,
+  "ok-eutils"
+ ],
+ "Pentanoic acid": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "Pentanoic acid, 2-hydroxy-4-methyl-, ethyl ester": [
+  "10348-47-7",
+  112030,
+  "ok-eutils"
+ ],
+ "Pentanol": [
+  "71-41-0",
+  6276,
+  "ok-eutils"
+ ],
+ "Phenethyl acetate": [
+  "103-45-7",
+  7654,
+  "ok-eutils"
+ ],
+ "Phenylacetaldehyde": [
+  "122-78-1",
+  998,
+  "ok-eutils"
+ ],
+ "Phenylethyl Alcohol": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "Propanoic acid": [
+  "79-09-4",
+  1032,
+  "ok-eutils"
+ ],
+ "Propanol": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "Propyl n-Octanoate": [
+  "624-13-5",
+  69351,
+  "ok-eutils"
+ ],
+ "Propyl octanoate": [
+  "624-13-5",
+  69351,
+  "ok-eutils"
+ ],
+ "SC1 戊酸": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "SC1 正丁醇": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "SC2 正丁醇": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "SC3 乳酸乙酯": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "SC3 正丁醇": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "Tetramethylpyrazine": [
+  "1124-11-4",
+  14296,
+  "ok-eutils"
+ ],
+ "Valeric acid": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "acetal": [
+  "105-57-7",
+  7765,
+  "ok-eutils"
+ ],
+ "acetaldehyde": [
+  "75-07-0",
+  177,
+  "ok-eutils"
+ ],
+ "acetic acid": [
+  "64-19-7",
+  176,
+  "ok-eutils"
+ ],
+ "benzaldehyde": [
+  "100-52-7",
+  240,
+  "ok-eutils"
+ ],
+ "benzene, -ethyl nicotinoate": [
+  "",
+  null,
+  "no-cid(benzene, -ethyl nicotinoate)"
+ ],
+ "benzeneacetic acid": [
+  "103-82-2",
+  999,
+  "ok-eutils"
+ ],
+ "butane-2,3-diol": [
+  "513-85-9",
+  262,
+  "ok-eutils"
+ ],
+ "butanol": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "butyl butanoate": [
+  "109-21-7",
+  7983,
+  "ok-eutils"
+ ],
+ "butyric acid": [
+  "107-92-6",
+  264,
+  "ok-eutils"
+ ],
+ "cedrol": [
+  "16230-29-8",
+  522667,
+  "ok-eutils"
+ ],
+ "decanoic acid": [
+  "334-48-5",
+  2969,
+  "ok-eutils"
+ ],
+ "diethyl butanedioate": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "diethyl succinate": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "dimethyl trisulfide": [
+  "3658-80-8",
+  19310,
+  "ok-eutils"
+ ],
+ "dodecanal": [
+  "112-54-9",
+  8194,
+  "ok-eutils"
+ ],
+ "ethyl 2-furoate": [
+  "614-99-3",
+  11980,
+  "ok-eutils"
+ ],
+ "ethyl 2-hydroxy-4- methyl valerate": [
+  "10348-47-7",
+  112030,
+  "ok-eutils"
+ ],
+ "ethyl 2-hydroxy-4-methyl pentanoate": [
+  "10348-47-7",
+  112030,
+  "ok-eutils"
+ ],
+ "ethyl 2-methylbutanoate": [
+  "7452-79-1",
+  24020,
+  "ok-eutils"
+ ],
+ "ethyl 2-phenylacetate": [
+  "101-97-3",
+  7590,
+  "ok-eutils"
+ ],
+ "ethyl 3- phenylpropanoate": [
+  "2021-28-5",
+  16237,
+  "ok-eutils"
+ ],
+ "ethyl 3-hexenoate": [
+  "2396-83-0",
+  5362622,
+  "ok-eutils"
+ ],
+ "ethyl 3-phenylpropanoate": [
+  "2021-28-5",
+  16237,
+  "ok-eutils"
+ ],
+ "ethyl 3-phenylpropionate": [
+  "2021-28-5",
+  16237,
+  "ok-eutils"
+ ],
+ "ethyl 4-methyl valerate": [
+  "25415-67-2",
+  117477,
+  "ok-eutils"
+ ],
+ "ethyl 4-methylpentanoate": [
+  "25415-67-2",
+  117477,
+  "ok-eutils"
+ ],
+ "ethyl benzoate": [
+  "93-89-0",
+  7165,
+  "ok-eutils"
+ ],
+ "ethyl butanoate": [
+  "105-54-4",
+  7762,
+  "ok-eutils"
+ ],
+ "ethyl caprate": [
+  "110-38-3",
+  8048,
+  "ok-eutils"
+ ],
+ "ethyl caprylate": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "ethyl dodecanoate": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "ethyl heptanoate": [
+  "106-30-9",
+  7797,
+  "ok-eutils"
+ ],
+ "ethyl hexadecanoate": [
+  "628-97-7",
+  12366,
+  "ok-eutils"
+ ],
+ "ethyl hexanoate": [
+  "123-66-0",
+  31265,
+  "ok-eutils"
+ ],
+ "ethyl isobutyrate": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "ethyl isovalerate": [
+  "108-64-5",
+  7945,
+  "ok-eutils"
+ ],
+ "ethyl laurate": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "ethyl linoleate": [
+  "544-35-4",
+  5282184,
+  "ok-eutils"
+ ],
+ "ethyl nonanoate": [
+  "123-29-5",
+  31251,
+  "ok-eutils"
+ ],
+ "ethyl octanoate": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "ethyl palmitate": [
+  "628-97-7",
+  12366,
+  "ok-eutils"
+ ],
+ "ethyl pentanoate": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "ethyl phenylacetate": [
+  "101-97-3",
+  7590,
+  "ok-eutils"
+ ],
+ "ethyl tetradecanoate": [
+  "124-06-1",
+  31283,
+  "ok-eutils"
+ ],
+ "ethyl undecanoate": [
+  "627-90-7",
+  12327,
+  "ok-eutils"
+ ],
+ "ethyl valerate": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "eugenol": [
+  "97-53-0",
+  3314,
+  "ok-eutils"
+ ],
+ "formic acid": [
+  "64-18-6",
+  284,
+  "ok-eutils"
+ ],
+ "furfural": [
+  "98-01-1",
+  7362,
+  "ok-eutils"
+ ],
+ "furfuryl acetate": [
+  "623-17-6",
+  12170,
+  "ok-eutils"
+ ],
+ "guaiacol": [
+  "90-05-1",
+  460,
+  "ok-eutils"
+ ],
+ "heptanal": [
+  "111-71-7",
+  8130,
+  "ok-eutils"
+ ],
+ "heptanoic acid": [
+  "111-14-8",
+  8094,
+  "ok-eutils"
+ ],
+ "hexanoic acid": [
+  "142-62-1",
+  8892,
+  "ok-eutils"
+ ],
+ "hexyl butanoate": [
+  "2639-63-6",
+  17525,
+  "ok-eutils"
+ ],
+ "hexyl hexanoate": [
+  "6378-65-0",
+  22873,
+  "ok-eutils"
+ ],
+ "isoamyl acetate": [
+  "123-92-2",
+  31276,
+  "ok-eutils"
+ ],
+ "isobutanol": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "isobutyl hexanoate": [
+  "105-79-3",
+  7775,
+  "ok-eutils"
+ ],
+ "isobutyric acid": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "isocaproic acid": [
+  "646-07-1",
+  12587,
+  "ok-eutils"
+ ],
+ "isovaleric acid": [
+  "503-74-2",
+  10430,
+  "ok-eutils"
+ ],
+ "m-cresol": [
+  "108-39-4",
+  342,
+  "ok-eutils"
+ ],
+ "methyl hexanoate": [
+  "106-70-7",
+  7824,
+  "ok-eutils"
+ ],
+ "nonan-1-ol": [
+  "143-08-8",
+  8914,
+  "ok-eutils"
+ ],
+ "nonanoic acid": [
+  "112-05-0",
+  8158,
+  "ok-eutils"
+ ],
+ "octanoic acid": [
+  "124-07-2",
+  379,
+  "ok-eutils"
+ ],
+ "p-Cresol": [
+  "106-44-5",
+  2879,
+  "ok-eutils"
+ ],
+ "p-cresol": [
+  "106-44-5",
+  2879,
+  "ok-eutils"
+ ],
+ "pentanoic acid": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "phenethyl acetate": [
+  "103-45-7",
+  7654,
+  "ok-eutils"
+ ],
+ "phenethyl alcohol": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "phenylacetaldehyde": [
+  "122-78-1",
+  998,
+  "ok-eutils"
+ ],
+ "phenylmethanol": [
+  "100-51-6",
+  244,
+  "ok-eutils"
+ ],
+ "propionic acid": [
+  "79-09-4",
+  1032,
+  "ok-eutils"
+ ],
+ "propyl hexanoate": [
+  "626-77-7",
+  12293,
+  "ok-eutils"
+ ],
+ "propylene glycol": [
+  "57-55-6",
+  1030,
+  "ok-eutils"
+ ],
+ "sec-Butanol": [
+  "78-92-2",
+  6568,
+  "ok-eutils"
+ ],
+ "undecan-2-one": [
+  "112-12-9",
+  8163,
+  "ok-eutils"
+ ],
+ "undecanoic acid": [
+  "112-37-8",
+  8180,
+  "ok-eutils"
+ ],
+ "vanillin": [
+  "121-33-5",
+  1183,
+  "ok-eutils"
+ ],
+ "α-Linolenic acid": [
+  "463-40-1",
+  5280934,
+  "ok-eutils"
+ ],
+ "β-damascenone": [
+  "23726-93-4",
+  5366074,
+  "ok-eutils"
+ ],
+ "β-大马士酮": [
+  "23726-93-4",
+  5366074,
+  "ok-eutils"
+ ],
+ "β-大马酮": [
+  "23726-93-4",
+  5366074,
+  "ok-eutils"
+ ],
+ "β-苯乙醇": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "γ-丁内酯": [
+  "96-48-0",
+  7302,
+  "ok-eutils"
+ ],
+ "γ-壬内酯": [
+  "104-61-0",
+  7710,
+  "ok-eutils"
+ ],
+ "γ-己内酯": [
+  "695-06-7",
+  12756,
+  "ok-eutils"
+ ],
+ "γ-庚内酯": [
+  "105-21-5",
+  7742,
+  "ok-eutils"
+ ],
+ "γ-戊内酯": [
+  "108-29-2",
+  7921,
+  "ok-eutils"
+ ],
+ "γ-辛内酯": [
+  "104-50-7",
+  7704,
+  "ok-eutils"
+ ],
+ "丁二酸二乙酯": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "丁二酸二乙酯diethyl butanedioate": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "丁酸": [
+  "107-92-6",
+  264,
+  "ok-eutils"
+ ],
+ "丁酸-3-甲基丁酯": [
+  "106-27-4",
+  7795,
+  "ok-eutils"
+ ],
+ "丁酸丁酯": [
+  "109-21-7",
+  7983,
+  "ok-eutils"
+ ],
+ "丁酸丙酯": [
+  "105-66-8",
+  7770,
+  "ok-eutils"
+ ],
+ "丁酸丙酯propyl butanoate": [
+  "105-66-8",
+  7770,
+  "ok-eutils"
+ ],
+ "丁酸乙酯": [
+  "105-54-4",
+  7762,
+  "ok-eutils"
+ ],
+ "丁酸乙酯 0.19 0.13 0.18 0.08 丁酸": [
+  "105-54-4",
+  7762,
+  "ok-eutils"
+ ],
+ "丁酸乙酯ethyl butyrate*": [
+  "105-54-4",
+  7762,
+  "ok-eutils"
+ ],
+ "丁酸己酯": [
+  "2639-63-6",
+  17525,
+  "ok-eutils"
+ ],
+ "丁酸庚酯": [
+  "5870-93-9",
+  62592,
+  "ok-eutils"
+ ],
+ "丁酸异丁酯": [
+  "539-90-2",
+  10885,
+  "ok-eutils"
+ ],
+ "丁酸异丁酯3-methylbutyl butanoate": [
+  "539-90-2",
+  10885,
+  "ok-eutils"
+ ],
+ "丁酸异戊酯": [
+  "106-27-4",
+  7795,
+  "ok-eutils"
+ ],
+ "丁酸糠酯": [
+  "623-21-2",
+  61167,
+  "ok-eutils"
+ ],
+ "丁酸苯乙酯": [
+  "103-52-6",
+  7658,
+  "ok-eutils"
+ ],
+ "丁醛": [
+  "123-72-8",
+  261,
+  "ok-eutils"
+ ],
+ "三甲基": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "三甲基吡": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "三甲基吡嗪": [
+  "14667-55-1",
+  26808,
+  "ok-eutils"
+ ],
+ "丙二酸二乙酯": [
+  "105-53-3",
+  7761,
+  "ok-eutils"
+ ],
+ "丙酮": [
+  "67-64-1",
+  180,
+  "ok-eutils"
+ ],
+ "丙酸": [
+  "79-09-4",
+  1032,
+  "ok-eutils"
+ ],
+ "丙酸丙酯": [
+  "106-36-5",
+  7803,
+  "ok-eutils"
+ ],
+ "丙酸乙酯": [
+  "105-37-3",
+  7749,
+  "ok-eutils"
+ ],
+ "丙酸乙酯ethyl propanoate": [
+  "105-37-3",
+  7749,
+  "ok-eutils"
+ ],
+ "丙酸正丙酯": [
+  "106-36-5",
+  7803,
+  "ok-eutils"
+ ],
+ "丙醇": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "丙醛": [
+  "123-38-6",
+  527,
+  "ok-eutils"
+ ],
+ "乙烷": [
+  "74-84-0",
+  6324,
+  "ok-eutils"
+ ],
+ "乙缩醛 670.09 700.39 2l": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "乙酸": [
+  "64-19-7",
+  176,
+  "ok-eutils"
+ ],
+ "乙酸-2-甲基丙酯": [
+  "110-19-0",
+  8038,
+  "ok-eutils"
+ ],
+ "乙酸-3-甲基丁酯": [
+  "123-92-2",
+  31276,
+  "ok-eutils"
+ ],
+ "乙酸丁酯": [
+  "123-86-4",
+  31272,
+  "ok-eutils"
+ ],
+ "乙酸丙酯": [
+  "109-60-4",
+  7997,
+  "ok-eutils"
+ ],
+ "乙酸乙酯 0.50 0.32 0.51 0.44 乙酸": [
+  "141-78-6",
+  8857,
+  "ok-eutils"
+ ],
+ "乙酸乙酯ethyl acetate*": [
+  "141-78-6",
+  8857,
+  "ok-eutils"
+ ],
+ "乙酸仲丁酯": [
+  "105-46-4",
+  7758,
+  "ok-eutils"
+ ],
+ "乙酸叔戊酯": [
+  "625-16-1",
+  12238,
+  "ok-eutils"
+ ],
+ "乙酸己酯": [
+  "142-92-7",
+  8908,
+  "ok-eutils"
+ ],
+ "乙酸己酯hexyl acetate": [
+  "142-92-7",
+  8908,
+  "ok-eutils"
+ ],
+ "乙酸庚酯": [
+  "112-06-1",
+  8159,
+  "ok-eutils"
+ ],
+ "乙酸异丁酯": [
+  "110-19-0",
+  8038,
+  "ok-eutils"
+ ],
+ "乙酸异戊": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "乙酸戊酯": [
+  "628-63-7",
+  12348,
+  "ok-eutils"
+ ],
+ "乙酸糠酯": [
+  "623-17-6",
+  12170,
+  "ok-eutils"
+ ],
+ "乙酸苯乙酯": [
+  "103-45-7",
+  7654,
+  "ok-eutils"
+ ],
+ "乙酸辛酯": [
+  "112-14-1",
+  8164,
+  "ok-eutils"
+ ],
+ "乙醛": [
+  "75-07-0",
+  177,
+  "ok-eutils"
+ ],
+ "乙醛 641.65 537.93 l8": [
+  "75-07-0",
+  177,
+  "ok-eutils"
+ ],
+ "乙醛缩二乙醇": [
+  "105-57-7",
+  7765,
+  "ok-eutils"
+ ],
+ "乳酸": [
+  "50-21-5",
+  612,
+  "ok-eutils"
+ ],
+ "乳酸丁酯": [
+  "138-22-7",
+  8738,
+  "ok-eutils"
+ ],
+ "乳酸丙酯": [
+  "616-09-1",
+  92821,
+  "ok-eutils"
+ ],
+ "乳酸乙酯": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "乳酸乙酯 0.62 0.28 0.66 0.36 戊酸": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "乳酸乙酯ethyl lactate*": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "乳酸异丁酯": [
+  "585-24-0",
+  92814,
+  "ok-eutils"
+ ],
+ "乳酸异戊酯": [
+  "19329-89-6",
+  86851,
+  "ok-eutils"
+ ],
+ "二乙氧基甲烷": [
+  "462-95-3",
+  10024,
+  "ok-eutils"
+ ],
+ "二异丁基甲酮": [
+  "108-83-8",
+  7958,
+  "ok-eutils"
+ ],
+ "亚油酸": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "亚油酸乙": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "亚油酸乙酯": [
+  "544-35-4",
+  5282184,
+  "ok-eutils"
+ ],
+ "亚麻酸乙酯": [
+  "1191-41-9",
+  5367460,
+  "ok-eutils"
+ ],
+ "仲戊醇": [
+  "6032-29-7",
+  22386,
+  "ok-eutils"
+ ],
+ "其他": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "其他类物质总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "化合物": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "十一烷酸乙酯ethyl undecanoate": [
+  "627-90-7",
+  12327,
+  "ok-eutils"
+ ],
+ "十一酸乙酯": [
+  "627-90-7",
+  12327,
+  "ok-eutils"
+ ],
+ "十七烷酸乙酯": [
+  "14010-23-2",
+  26397,
+  "ok-eutils"
+ ],
+ "十二烷酸乙酯ethyl dodecanoate": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "十二酸乙酯": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "十六酸乙酯": [
+  "628-97-7",
+  12366,
+  "ok-eutils"
+ ],
+ "十六酸甲酯": [
+  "112-39-0",
+  8181,
+  "ok-eutils"
+ ],
+ "十四酸乙酯": [
+  "124-06-1",
+  31283,
+  "ok-eutils"
+ ],
+ "十四酸异丙酯": [
+  "110-27-0",
+  8042,
+  "ok-eutils"
+ ],
+ "反式-3-己烯-1-醇": [
+  "928-97-2",
+  5284503,
+  "ok-eutils"
+ ],
+ "合计": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "吡嗪类Σ": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "呋喃": [
+  "110-00-9",
+  8029,
+  "ok-eutils"
+ ],
+ "呋喃类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "四氢呋喃": [
+  "109-99-9",
+  8028,
+  "ok-eutils"
+ ],
+ "四甲基吡": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "四甲基吡嗪": [
+  "1124-11-4",
+  14296,
+  "ok-eutils"
+ ],
+ "土味素": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "基乙基)-苯 (2,2-二乙氧": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "壬酸": [
+  "112-05-0",
+  8158,
+  "ok-eutils"
+ ],
+ "壬酸乙": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "壬酸乙酯": [
+  "123-29-5",
+  31251,
+  "ok-eutils"
+ ],
+ "壬酸乙酯ethyl nonanoate": [
+  "123-29-5",
+  31251,
+  "ok-eutils"
+ ],
+ "壬醇": [
+  "143-08-8",
+  8914,
+  "ok-eutils"
+ ],
+ "大马士酮": [
+  "23726-91-2",
+  5374527,
+  "ok-eutils"
+ ],
+ "对二甲苯": [
+  "106-42-3",
+  7809,
+  "ok-eutils"
+ ],
+ "己酸": [
+  "142-62-1",
+  8892,
+  "ok-eutils"
+ ],
+ "己酸-2-甲基丙酯": [
+  "105-79-3",
+  7775,
+  "ok-eutils"
+ ],
+ "己酸-2-苯乙 基酯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "己酸-3-甲基丁酯": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "己酸3-甲基丁酯": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "己酸丁酯": [
+  "626-82-4",
+  12294,
+  "ok-eutils"
+ ],
+ "己酸丁酯eutyl hexanoate": [
+  "626-82-4",
+  12294,
+  "ok-eutils"
+ ],
+ "己酸丙酯": [
+  "626-77-7",
+  12293,
+  "ok-eutils"
+ ],
+ "己酸丙酯propyl hexanoate": [
+  "626-77-7",
+  12293,
+  "ok-eutils"
+ ],
+ "己酸乙酯 1.00 1.00 1.00 1.00 2-甲基丙酸乙酯": [
+  "123-66-0",
+  31265,
+  "ok-eutils"
+ ],
+ "己酸乙酯ethyl caproate*": [
+  "123-66-0",
+  31265,
+  "ok-eutils"
+ ],
+ "己酸己酯": [
+  "6378-65-0",
+  22873,
+  "ok-eutils"
+ ],
+ "己酸己酯hexyl hexanoate": [
+  "6378-65-0",
+  22873,
+  "ok-eutils"
+ ],
+ "己酸异丁酯": [
+  "105-79-3",
+  7775,
+  "ok-eutils"
+ ],
+ "己酸异戊酯": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "己酸异戊酯isopentyl hexanoate": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "己酸戊酯": [
+  "540-07-8",
+  10886,
+  "ok-eutils"
+ ],
+ "己酸烯丙酯": [
+  "123-68-2",
+  31266,
+  "ok-eutils"
+ ],
+ "己酸甲酯": [
+  "106-70-7",
+  7824,
+  "ok-eutils"
+ ],
+ "己酸糠酯": [
+  "39252-02-3",
+  557222,
+  "ok-eutils"
+ ],
+ "己醇": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "己醛": [
+  "66-25-1",
+  6184,
+  "ok-eutils"
+ ],
+ "已醛": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "庚酸": [
+  "111-14-8",
+  8094,
+  "ok-eutils"
+ ],
+ "庚酸-3-甲基丁酯": [
+  "109-25-1",
+  66955,
+  "ok-eutils"
+ ],
+ "庚酸丁酯": [
+  "5454-28-4",
+  21596,
+  "ok-eutils"
+ ],
+ "庚酸乙酯": [
+  "106-30-9",
+  7797,
+  "ok-eutils"
+ ],
+ "庚酸乙酯ethyl heptanoate": [
+  "106-30-9",
+  7797,
+  "ok-eutils"
+ ],
+ "庚酸异丁酯": [
+  "7779-80-8",
+  24516,
+  "ok-eutils"
+ ],
+ "庚醇": [
+  "111-70-6",
+  8129,
+  "ok-eutils"
+ ],
+ "异丁酸乙酯": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "异丁酸乙酯ethyl 2-methylpropanoate": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "异丁酸乙酯ethyl 3-methylbutanoate": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "异丁酸异戊酯": [
+  "2050-01-3",
+  519786,
+  "ok-eutils"
+ ],
+ "异丁酸苯乙酯": [
+  "103-48-0",
+  7655,
+  "ok-eutils"
+ ],
+ "异丁醇": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "异丁醛": [
+  "78-84-2",
+  6561,
+  "ok-eutils"
+ ],
+ "异丁醛二乙缩醛": [
+  "3842-03-3",
+  19695,
+  "ok-eutils"
+ ],
+ "异己酸乙酯": [
+  "25415-67-2",
+  117477,
+  "ok-eutils"
+ ],
+ "异戊酸丁酯": [
+  "109-19-3",
+  7981,
+  "ok-eutils"
+ ],
+ "异戊酸乙酯": [
+  "108-64-5",
+  7945,
+  "ok-eutils"
+ ],
+ "异戊酸异丁酯": [
+  "589-59-3",
+  11514,
+  "ok-eutils"
+ ],
+ "异戊酸异戊酯": [
+  "659-70-1",
+  12613,
+  "ok-eutils"
+ ],
+ "异戊醇": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "异戊醛": [
+  "590-86-3",
+  11552,
+  "ok-eutils"
+ ],
+ "总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "总量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "愈创木酚": [
+  "90-05-1",
+  460,
+  "ok-eutils"
+ ],
+ "戊缩醛": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "戊酮-2": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "戊酸": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "戊酸-2-甲基丁酯": [
+  "55590-83-5",
+  521666,
+  "ok-eutils"
+ ],
+ "戊酸-3-甲基丁酯": [
+  "2050-09-1",
+  74901,
+  "ok-eutils"
+ ],
+ "戊酸丁酯": [
+  "591-68-4",
+  61137,
+  "ok-eutils"
+ ],
+ "戊酸乙酯": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "戊酸乙酯 0.04 0.05 0.02 0.03 己酸": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "戊酸乙酯 14.43 51.0l": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "戊酸乙酯ethyl pentanoate*": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "戊酸辛酯": [
+  "5451-85-4",
+  79545,
+  "ok-eutils"
+ ],
+ "戊醇": [
+  "71-41-0",
+  6276,
+  "ok-eutils"
+ ],
+ "戊醛": [
+  "110-62-3",
+  8063,
+  "ok-eutils"
+ ],
+ "月桂酸乙酯": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "未知化合物1": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "未知化合物2": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "未知化合物3": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "未知化合物4": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "未知化合物5": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "未知物": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "棕榈酸": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "棕榈酸乙": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "棕榈酸乙酯": [
+  "628-97-7",
+  12366,
+  "ok-eutils"
+ ],
+ "橙花叔醇": [
+  "142-50-7",
+  5356544,
+  "ok-eutils"
+ ],
+ "正丁醇": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "正丁醇 63.28 l31.44": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "正丙醇": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "正己醇": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "正庚醇": [
+  "111-70-6",
+  8129,
+  "ok-eutils"
+ ],
+ "正戊酸": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "正戊酸异戊酯": [
+  "2050-09-1",
+  74901,
+  "ok-eutils"
+ ],
+ "正戊醇": [
+  "71-41-0",
+  6276,
+  "ok-eutils"
+ ],
+ "正辛醇": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "油酸乙": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "油酸乙酯": [
+  "111-62-6",
+  5363269,
+  "ok-eutils"
+ ],
+ "活性异戊醇": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "活戊醇": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "环戊酮": [
+  "120-92-3",
+  8452,
+  "ok-eutils"
+ ],
+ "琥珀酸乙酯": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "甲基吡嗪": [
+  "109-08-0",
+  7976,
+  "ok-eutils"
+ ],
+ "甲基壬基甲酮": [
+  "693-54-9",
+  12741,
+  "ok-eutils"
+ ],
+ "甲基硫醇": [
+  "74-93-1",
+  878,
+  "ok-eutils"
+ ],
+ "甲氧基乙酸-3-甲基丁酯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "甲酸乙酯": [
+  "109-94-4",
+  8025,
+  "ok-eutils"
+ ],
+ "甲醇": [
+  "67-56-1",
+  887,
+  "ok-eutils"
+ ],
+ "癸酸": [
+  "334-48-5",
+  2969,
+  "ok-eutils"
+ ],
+ "癸酸乙酯": [
+  "110-38-3",
+  8048,
+  "ok-eutils"
+ ],
+ "癸酸乙酯ethyl decanoate": [
+  "110-38-3",
+  8048,
+  "ok-eutils"
+ ],
+ "癸醛": [
+  "112-31-2",
+  8175,
+  "ok-eutils"
+ ],
+ "硬脂酸乙酯": [
+  "111-61-5",
+  8122,
+  "ok-eutils"
+ ],
+ "稳定。": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "糠醇": [
+  "98-00-0",
+  7361,
+  "ok-eutils"
+ ],
+ "糠醛": [
+  "98-01-1",
+  7362,
+  "ok-eutils"
+ ],
+ "缩醛类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "缩醛类 0.03 0.02 0.02 0.03 萜烯类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "缩醛类物质总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "羰基类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "肉桂酸乙酯": [
+  "103-36-6",
+  637758,
+  "ok-eutils"
+ ],
+ "胡椒环": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "脂肪酸": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "脂肪酸 0.17 0.14 0.14 0.10 硫化物": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "芳香族": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "苯丙酸乙酯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "苯乙酮": [
+  "98-86-2",
+  7410,
+  "ok-eutils"
+ ],
+ "苯乙酸乙酯": [
+  "101-97-3",
+  7590,
+  "ok-eutils"
+ ],
+ "苯甲酸乙酯": [
+  "93-89-0",
+  7165,
+  "ok-eutils"
+ ],
+ "苯甲酸异丁酯": [
+  "120-50-3",
+  61048,
+  "ok-eutils"
+ ],
+ "苯甲酸正戊酯": [
+  "2049-96-9",
+  16296,
+  "ok-eutils"
+ ],
+ "苯甲酸甲酯": [
+  "93-58-3",
+  7150,
+  "ok-eutils"
+ ],
+ "苯甲醇": [
+  "100-51-6",
+  244,
+  "ok-eutils"
+ ],
+ "苯甲醛": [
+  "100-52-7",
+  240,
+  "ok-eutils"
+ ],
+ "见表4~表5。": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "辛酸": [
+  "124-07-2",
+  379,
+  "ok-eutils"
+ ],
+ "辛酸-3-甲基丁酯": [
+  "2035-99-6",
+  16255,
+  "ok-eutils"
+ ],
+ "辛酸丁酯": [
+  "589-75-3",
+  11517,
+  "ok-eutils"
+ ],
+ "辛酸丙酯": [
+  "624-13-5",
+  69351,
+  "ok-eutils"
+ ],
+ "辛酸乙酯": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "辛酸乙酯 0.03 0.02 0.02 0.01 乙醛": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "辛酸乙酯ethyl octanoate": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "辛酸己酯": [
+  "1117-55-1",
+  14228,
+  "ok-eutils"
+ ],
+ "辛酸异丁酯": [
+  "5461-06-3",
+  79582,
+  "ok-eutils"
+ ],
+ "辛酸异戊酯": [
+  "2035-99-6",
+  16255,
+  "ok-eutils"
+ ],
+ "辛酸正丁酯": [
+  "589-75-3",
+  11517,
+  "ok-eutils"
+ ],
+ "辛酸甲酯": [
+  "111-11-5",
+  8091,
+  "ok-eutils"
+ ],
+ "辛酸辛酯": [
+  "2306-88-9",
+  61294,
+  "ok-eutils"
+ ],
+ "辛醇": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "辛醛": [
+  "124-13-0",
+  454,
+  "ok-eutils"
+ ],
+ "酚类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酮类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酯类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酯类 1.00 1.00 1.00 1.00 呋喃类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酯类Σ": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酯类总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酯类物质总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酸类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酸类Σ": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "酸类物质总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醇类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醇类 0.09 0.06 0.08 0.11 酚类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醇类Σ": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醇类物质总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醋嗡": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醋酸": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醛类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醛酮类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醛酮类 0.04 0.04 0.04 0.07 吡嗪类": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醛酮类Σ": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "醛酮类物质总含量": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "顺-4-癸烯-1-醇": [
+  "57074-37-0",
+  5362798,
+  "ok-eutils"
+ ],
+ "风味": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "香兰素": [
+  "121-33-5",
+  1183,
+  "ok-eutils"
+ ],
+ "乙基苯": [
+  "",
+  null,
+  "no-cid(2-ethylbenzene)"
+ ],
+ "苯": [
+  "71-43-2",
+  241,
+  "ok-eutils"
+ ],
+ "phenol": [
+  "108-95-2",
+  996,
+  "ok-eutils"
+ ],
+ "Phenol": [
+  "108-95-2",
+  996,
+  "ok-eutils"
+ ],
+ "苯酚": [
+  "108-95-2",
+  996,
+  "ok-eutils"
+ ],
+ "1-丁醇a": [
+  "71-36-3",
+  263,
+  "ok-eutils"
+ ],
+ "1-丙醇a": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "1-丙醇b": [
+  "71-23-8",
+  1031,
+  "ok-eutils"
+ ],
+ "1-己醇a": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "1-戊醇a": [
+  "71-41-0",
+  6276,
+  "ok-eutils"
+ ],
+ "1-辛醇a": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "2-丁醇a": [
+  "78-92-2",
+  6568,
+  "ok-eutils"
+ ],
+ "2-丁醇b": [
+  "78-92-2",
+  6568,
+  "ok-eutils"
+ ],
+ "2-戊酮a": [
+  "107-87-9",
+  7895,
+  "ok-eutils"
+ ],
+ "2-戊醇a": [
+  "6032-29-7",
+  22386,
+  "ok-eutils"
+ ],
+ "2-戊醇b": [
+  "6032-29-7",
+  22386,
+  "ok-eutils"
+ ],
+ "2-甲基丙酸a": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "2-甲基丙酸b": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "2-甲基丙酸乙酯a": [
+  "97-62-1",
+  7342,
+  "ok-eutils"
+ ],
+ "2-糠醇a": [
+  "98-00-0",
+  7361,
+  "ok-eutils"
+ ],
+ "2-羟基丙酸-2-甲基丙酯a": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2-羟基己酸乙酯a": [
+  "52089-55-1",
+  103589,
+  "ok-eutils"
+ ],
+ "2-苯乙醇a": [
+  "60-12-8",
+  6054,
+  "ok-eutils"
+ ],
+ "3-甲基丁酸a": [
+  "503-74-2",
+  10430,
+  "ok-eutils"
+ ],
+ "3-甲基丁酸b": [
+  "503-74-2",
+  10430,
+  "ok-eutils"
+ ],
+ "3-甲基丁酸乙酯a": [
+  "108-64-5",
+  7945,
+  "ok-eutils"
+ ],
+ "3-甲基丁醇a": [
+  "123-51-3",
+  31260,
+  "ok-eutils"
+ ],
+ "3-甲基丁醛a": [
+  "590-86-3",
+  11552,
+  "ok-eutils"
+ ],
+ "4-甲基戊酸b": [
+  "646-07-1",
+  12587,
+  "ok-eutils"
+ ],
+ "FEMA 2575": [
+  "1117-55-1",
+  14228,
+  "ok-eutils"
+ ],
+ "FEMA 2721": [
+  "2412-80-8",
+  17008,
+  "ok-eutils"
+ ],
+ "Fema 2575": [
+  "1117-55-1",
+  14228,
+  "ok-eutils"
+ ],
+ "丁二酸二乙酯a": [
+  "123-25-1",
+  31249,
+  "ok-eutils"
+ ],
+ "丁酸a": [
+  "107-92-6",
+  264,
+  "ok-eutils"
+ ],
+ "丁酸b": [
+  "107-92-6",
+  264,
+  "ok-eutils"
+ ],
+ "丁酸乙酯a": [
+  "105-54-4",
+  7762,
+  "ok-eutils"
+ ],
+ "丁酸异丁酯3": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "丁醇)": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "丙酸a": [
+  "79-09-4",
+  1032,
+  "ok-eutils"
+ ],
+ "丙酸b": [
+  "79-09-4",
+  1032,
+  "ok-eutils"
+ ],
+ "丙酸乙酯a": [
+  "105-37-3",
+  7749,
+  "ok-eutils"
+ ],
+ "乙酸a": [
+  "64-19-7",
+  176,
+  "ok-eutils"
+ ],
+ "乙酸b": [
+  "64-19-7",
+  176,
+  "ok-eutils"
+ ],
+ "乙酸乙酯a": [
+  "141-78-6",
+  8857,
+  "ok-eutils"
+ ],
+ "乙酸己酯a": [
+  "142-92-7",
+  8908,
+  "ok-eutils"
+ ],
+ "乙酸异戊酯a": [
+  "123-92-2",
+  31276,
+  "ok-eutils"
+ ],
+ "乙醛a": [
+  "75-07-0",
+  177,
+  "ok-eutils"
+ ],
+ "乳酸a": [
+  "50-21-5",
+  612,
+  "ok-eutils"
+ ],
+ "乳酸乙酯a": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "十一烷酸乙酯": [
+  "627-90-7",
+  12327,
+  "ok-eutils"
+ ],
+ "十二烷酸乙酯": [
+  "106-33-2",
+  7800,
+  "ok-eutils"
+ ],
+ "己酸-2-甲基丙酯a": [
+  "105-79-3",
+  7775,
+  "ok-eutils"
+ ],
+ "己酸-3-甲基丁酯a": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "己酸3-甲基丁酯a": [
+  "2198-61-0",
+  16617,
+  "ok-eutils"
+ ],
+ "己酸a": [
+  "142-62-1",
+  8892,
+  "ok-eutils"
+ ],
+ "己酸b": [
+  "142-62-1",
+  8892,
+  "ok-eutils"
+ ],
+ "己酸丁酯a": [
+  "626-82-4",
+  12294,
+  "ok-eutils"
+ ],
+ "己酸丙酯a": [
+  "626-77-7",
+  12293,
+  "ok-eutils"
+ ],
+ "己酸乙酯a": [
+  "123-66-0",
+  31265,
+  "ok-eutils"
+ ],
+ "己酸己酯a": [
+  "6378-65-0",
+  22873,
+  "ok-eutils"
+ ],
+ "庚酸a": [
+  "111-14-8",
+  8094,
+  "ok-eutils"
+ ],
+ "庚酸b": [
+  "111-14-8",
+  8094,
+  "ok-eutils"
+ ],
+ "庚酸乙酯a": [
+  "106-30-9",
+  7797,
+  "ok-eutils"
+ ],
+ "异戊醇(3-甲基": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "戊酸a": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "戊酸b": [
+  "109-52-4",
+  7991,
+  "ok-eutils"
+ ],
+ "戊酸乙酯a": [
+  "539-82-2",
+  10882,
+  "ok-eutils"
+ ],
+ "甲氧基乙酸-3-甲基丁酯a": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "糠醛a": [
+  "98-01-1",
+  7362,
+  "ok-eutils"
+ ],
+ "辛酸a": [
+  "124-07-2",
+  379,
+  "ok-eutils"
+ ],
+ "辛酸b": [
+  "124-07-2",
+  379,
+  "ok-eutils"
+ ],
+ "辛酸乙酯a": [
+  "106-32-1",
+  7799,
+  "ok-eutils"
+ ],
+ "乙基苯a": [
+  "",
+  null,
+  "no-cid(2-ethylbenzene)"
+ ],
+ "2-己烯酸乙酯": [
+  "1552-67-6",
+  519129,
+  "ok-eutils"
+ ],
+ "2-甲基丁酸-2-苯乙酯": [
+  "24817-51-4",
+  520148,
+  "ok-eutils"
+ ],
+ "2-甲基丙醇": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "2-糠酸乙酯": [
+  "614-99-3",
+  11980,
+  "ok-eutils"
+ ],
+ "2-糠醛乙酯": [
+  "614-99-3",
+  11980,
+  "ok-eutils"
+ ],
+ "2-糠醛缩二乙醇": [
+  "13529-27-6",
+  83553,
+  "ok-eutils"
+ ],
+ "2-羟基已酸乙酯": [
+  "52089-55-1",
+  103589,
+  "ok-eutils"
+ ],
+ "2-苯乙酸乙酯": [
+  "101-97-3",
+  7590,
+  "ok-eutils"
+ ],
+ "3-壬烯酸乙酯": [
+  "91213-30-8",
+  533721,
+  "ok-eutils"
+ ],
+ "3-己烯酸乙酯": [
+  "2396-83-0",
+  5362622,
+  "ok-eutils"
+ ],
+ "3-苯丙酸乙酯": [
+  "2021-28-5",
+  16237,
+  "ok-eutils"
+ ],
+ "4-乙基苯酚": [
+  "123-07-9",
+  31242,
+  "ok-eutils"
+ ],
+ "4-乙烯基愈创木酚": [
+  "7786-61-0",
+  332,
+  "ok-eutils"
+ ],
+ "4-甲基苯酚": [
+  "106-44-5",
+  2879,
+  "ok-eutils"
+ ],
+ "丁酸-2-苯乙酯": [
+  "103-52-6",
+  7658,
+  "ok-eutils"
+ ],
+ "丁酸-3 甲基丁酯": [
+  "106-27-4",
+  7795,
+  "ok-eutils"
+ ],
+ "丙二醇": [
+  "57-55-6",
+  1030,
+  "ok-eutils"
+ ],
+ "乙偶姻": [
+  "513-86-0",
+  179,
+  "ok-eutils"
+ ],
+ "乙偶昵": [
+  "513-86-0",
+  179,
+  "ok-eutils"
+ ],
+ "乙缩醛": [
+  "105-57-7",
+  7765,
+  "ok-eutils"
+ ],
+ "乙酸-2-苯乙酯": [
+  "103-45-7",
+  7654,
+  "ok-eutils"
+ ],
+ "二甲基三硫": [
+  "3658-80-8",
+  19310,
+  "ok-eutils"
+ ],
+ "二甲基二硫": [
+  "624-92-0",
+  12232,
+  "ok-eutils"
+ ],
+ "仲丁醇": [
+  "78-92-2",
+  6568,
+  "ok-eutils"
+ ],
+ "反,顺-2,6-壬二烯醛": [
+  "557-48-2",
+  643731,
+  "ok-eutils"
+ ],
+ "反-2-壬醛": [
+  "2463-53-8",
+  5283335,
+  "ok-eutils"
+ ],
+ "反-4-癸烯酸乙酯": [
+  "76649-16-6",
+  5362583,
+  "ok-eutils"
+ ],
+ "叔戊醇": [
+  "75-85-4",
+  6405,
+  "ok-eutils"
+ ],
+ "己酸-2 甲基丙酯": [
+  "105-79-3",
+  7775,
+  "ok-eutils"
+ ],
+ "己酸-2-苯乙酯": [
+  "6290-37-5",
+  61384,
+  "ok-eutils"
+ ],
+ "庚酸-3-甲丁酯": [
+  "109-25-1",
+  66955,
+  "ok-eutils"
+ ],
+ "异丁酸": [
+  "79-31-2",
+  6590,
+  "ok-eutils"
+ ],
+ "异丙基3-苯基丙酸酯": [
+  "22767-95-9",
+  347496,
+  "ok-eutils"
+ ],
+ "异戊酸": [
+  "503-74-2",
+  10430,
+  "ok-eutils"
+ ],
+ "异戊酸-2-苯乙酯": [
+  "140-26-1",
+  8792,
+  "ok-eutils"
+ ],
+ "活性戊醇": [
+  "137-32-6",
+  8723,
+  "ok-eutils"
+ ],
+ "百里酚": [
+  "89-83-8",
+  6989,
+  "ok-eutils"
+ ],
+ "苯乙醛": [
+  "122-78-1",
+  998,
+  "ok-eutils"
+ ],
+ "香叶基丙酮": [
+  "3796-70-1",
+  1549778,
+  "ok-eutils"
+ ],
+ "(2,2-Diethoxyethyl) benzene": [
+  "6314-97-2",
+  80584,
+  "ok-eutils"
+ ],
+ "(S)-(-)-2-methylbutanol": [
+  "1565-80-6",
+  2723602,
+  "ok-eutils"
+ ],
+ "2-(12-Pentadecynyloxy) tetrahydro-2H-pyran": [
+  "56666-38-7",
+  41961,
+  "ok-eutils"
+ ],
+ "2-[(Z)-9-Octadecenyloxy]ethanol": [
+  "5353-25-3",
+  5364713,
+  "ok-eutils"
+ ],
+ "3-(methylthio)-propanoic acid ethyl ester": [
+  "13327-56-5",
+  61592,
+  "ok-eutils"
+ ],
+ "3-(methylthio)propanal": [
+  "3268-49-3",
+  18635,
+  "ok-eutils"
+ ],
+ "3-(methylthio)propanol": [
+  "505-10-2",
+  10448,
+  "ok-eutils"
+ ],
+ "Ethyl (Z)hex-3-enoate": [
+  "64187-83-3",
+  5362623,
+  "ok-eutils"
+ ],
+ "Ethyl L(--)-lactate": [
+  "97-64-3",
+  7344,
+  "ok-eutils"
+ ],
+ "(2,2-二甲氧基)乙基苯a": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "(2,2-二乙氧基乙基)-苯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2,3-二乙基吡嗪": [
+  "15707-24-1",
+  27458,
+  "ok-eutils"
+ ],
+ "2,6-二乙基吡嗪": [
+  "13067-27-1",
+  83101,
+  "ok-eutils"
+ ],
+ "2,5-二甲基吡嗪": [
+  "123-32-0",
+  31252,
+  "ok-eutils"
+ ],
+ "己醛二乙缩醛": [
+  "3658-93-3",
+  77224,
+  "ok-eutils"
+ ],
+ "7-辛烯酸乙酯": [
+  "35194-38-8",
+  544127,
+  "ok-eutils"
+ ],
+ "仲辛酮": [
+  "106-68-3",
+  246728,
+  "ok-eutils"
+ ],
+ "1-(1-乙氧基乙氧基)-丁烷": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "2- 丙二醇": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "14-Pentadecanoic acid": [
+  "",
+  null,
+  "no-cid(14-Pentadecanoic acid)"
+ ],
+ "2-Furan methanol": [
+  "",
+  null,
+  "no-cid(2-Furan methanol)"
+ ],
+ "2-hydroxy-4-methylvalerate": [
+  "",
+  21918177,
+  "name-not-a-synonym(no candidates)"
+ ],
+ "2-甲基丙醇a": [
+  "78-83-1",
+  6560,
+  "ok-eutils"
+ ],
+ "2-苯乙酸乙酯a": [
+  "101-97-3",
+  7590,
+  "ok-eutils"
+ ],
+ "3- 丁二醇": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "3-(methylthio)propanal + 3-methylindole": [
+  "",
+  null,
+  "no-cid(3-(methylthio)propanal + 3-methylindole)"
+ ],
+ "3-(methylthio)propanal + butyric acid": [
+  "",
+  null,
+  "no-cid(3-(methylthio)propanal + butyric acid)"
+ ],
+ "3-(methylthio)propanal + hexanoic acid": [
+  "",
+  null,
+  "no-cid(3-(methylthio)propanal + hexanoic acid)"
+ ],
+ "3-(methylthio)propanal + p-cresol": [
+  "",
+  null,
+  "no-cid(3-(methylthio)propanal + p-cresol)"
+ ],
+ "3-Methyl pentatonic acid": [
+  "",
+  null,
+  "no-cid(3-Methyl pentatonic acid)"
+ ],
+ "3-甲基丁醛二乙基缩醛": [
+  "",
+  null,
+  "no-cid(3-methylbutanal diethyl acetal)"
+ ],
+ "3-苯丙酸乙酯a": [
+  "2021-28-5",
+  16237,
+  "ok-eutils"
+ ],
+ "3-(环戊基)丙酸乙酯": [
+  "",
+  null,
+  "untranslatable"
+ ],
+ "Cyclohexanecarboxylic": [
+  "",
+  178862978,
+  "name-not-a-synonym(178862978=?; 178253161=?; 178184131=?; 155891388=?; 177927236=?)"
+ ],
+ "Eicosenoic acid": [
+  "",
+  null,
+  "no-cid(Eicosenoic acid)"
+ ],
+ "Ethyl 9-hexadecenoate": [
+  "",
+  5364759,
+  "name-not-a-synonym(no candidates)"
+ ],
+ "Ethyl cyclopropanepropionate": [
+  "",
+  null,
+  "no-cid(Ethyl cyclopropanepropionate)"
+ ],
+ "Ethyl linolenate milky sweet": [
+  "",
+  null,
+  "no-cid(Ethyl linolenate milky sweet)"
+ ],
+ "Obviousness": [
+  "",
+  null,
+  "no-cid(Obviousness)"
+ ],
+ "Pentatonic acid": [
+  "",
+  null,
+  "no-cid(Pentatonic acid)"
+ ],
+ "Table 3": [
+  "",
+  null,
+  "no-cid(Table 3)"
+ ],
+ "Table 4": [
+  "",
+  null,
+  "no-cid(Table 4)"
+ ],
+ "Typicality": [
+  "",
+  null,
+  "no-cid(Typicality)"
+ ],
+ "Unknown": [
+  "",
+  176489272,
+  "name-not-a-synonym(176489272=?; 175675711=?; 172643432=?; 172643431=?; 172643423=?)"
+ ],
+ "benzene, (2,2-diethoxyethyl)-ethyl nicotinoate": [
+  "",
+  null,
+  "no-cid(benzene, (2,2-diethoxyethyl)-ethyl nicot)"
+ ],
+ "roasty": [
+  "",
+  null,
+  "no-cid(roasty)"
+ ],
+ "style": [
+  "",
+  6999957,
+  "name-not-a-synonym(6999957=?; 148184=?; 71653=?; 71001=?; 23964=?)"
+ ],
+ "unknown": [
+  "",
+  176489272,
+  "name-not-a-synonym(176489272=?; 175675711=?; 172643432=?; 172643431=?; 172643423=?)"
+ ],
+ "丁醛二乙缩醛": [
+  "",
+  null,
+  "no-cid(butanal diethyl acetal)"
+ ],
+ "乙缩醛a": [
+  "105-57-7",
+  7765,
+  "ok-eutils"
+ ],
+ "反-2,4-癸二烯醛": [
+  "",
+  86736649,
+  "name-not-a-synonym(no candidates)"
+ ],
+ "己酸-2-糠酯": [
+  "",
+  null,
+  "no-cid(2-furfuryl hexanoate)"
+ ],
+ "己醇b": [
+  "111-27-3",
+  8103,
+  "ok-eutils"
+ ],
+ "戊醇b": [
+  "71-41-0",
+  6276,
+  "ok-eutils"
+ ],
+ "苯乙醛a": [
+  "122-78-1",
+  998,
+  "ok-eutils"
+ ],
+ "辛醇b": [
+  "111-87-5",
+  957,
+  "ok-eutils"
+ ],
+ "顺-3-壬烯-1-醇": [
+  "",
+  null,
+  "no-cid(cis-non-3-en-1-ol)"
+ ]
+}

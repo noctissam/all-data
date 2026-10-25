@@ -1,0 +1,65 @@
+[
+ {
+  "sheet": "02 5  Key Aroma Compounds and A",
+  "name": "cedrol",
+  "printed": "77-53-2",
+  "printed_is": null,
+  "resolved": "16230-29-8",
+  "resolved_is": "Cedran-8-ol",
+  "verdict": "印刷值指向别的化合物 -> 疑似整列错位"
+ },
+ {
+  "sheet": "02 5  Key Aroma Compounds and A",
+  "name": "(-)--terpineol",
+  "printed": "10482-56-1",
+  "printed_is": "(-)-alpha-Terpineol",
+  "resolved": "98-55-5",
+  "resolved_is": "alpha-TERPINEOL",
+  "verdict": "印刷值指向同一化合物"
+ },
+ {
+  "sheet": "02 5  Key Aroma Compounds and A",
+  "name": "phenol",
+  "printed": "108-95-2",
+  "printed_is": "phenol",
+  "resolved": "13127-88-3",
+  "resolved_is": "Phenol-d6",
+  "verdict": "印刷值指向同一化合物"
+ },
+ {
+  "sheet": "07 3  Characterization of the d",
+  "name": "Ethyl lactate",
+  "printed": "687-47-8",
+  "printed_is": "Ethyl L-lactate",
+  "resolved": "97-64-3",
+  "resolved_is": "ETHYL LACTATE",
+  "verdict": "印刷值指向别的化合物 -> 疑似整列错位"
+ },
+ {
+  "sheet": "16 15 基于全二维气相色谱-飞行时间质谱结合多元统计",
+  "name": "活性戊醇",
+  "printed": "137-32-6",
+  "printed_is": "2-METHYL-1-BUTANOL",
+  "resolved": "123-51-3",
+  "resolved_is": "Isoamyl alcohol",
+  "verdict": "印刷值指向别的化合物 -> 疑似整列错位"
+ },
+ {
+  "sheet": "20 19  浓香、酱香、清香型白酒挥发性风味的 ",
+  "name": "3-甲基丁酸丁酯",
+  "printed": "106-27-4",
+  "printed_is": "Isoamyl butyrate",
+  "resolved": "109-19-3",
+  "resolved_is": "BUTYL ISOVALERATE",
+  "verdict": "印刷值指向别的化合物 -> 疑似整列错位"
+ },
+ {
+  "sheet": "20 19  浓香、酱香、清香型白酒挥发性风味的 ",
+  "name": "乙酸叔戊酯",
+  "printed": "624-41-9",
+  "printed_is": "2-METHYLBUTYL ACETATE",
+  "resolved": "625-16-1",
+  "resolved_is": "tert-Amyl acetate",
+  "verdict": "印刷值指向别的化合物 -> 疑似整列错位"
+ }
+]

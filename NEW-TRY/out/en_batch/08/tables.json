@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\3  Unraveling variation on the profile aroma.pdf",
+    "n_pages": 11,
+    "dpi_main": 300,
+    "dpi_check": 400,
+    "cfg": {
+      "min_rule_w": 60.0,
+      "max_rule_h": 4.0,
+      "flat_tol": 0.8,
+      "rule_dy_tol": 1.2,
+      "rule_ox": 0.5,
+      "min_x_overlap": 0.6,
+      "min_table_h": 18.0,
+      "max_table_h": 760.0,
+      "max_mid_frac": 0.45,
+      "pad_x": 5.0,
+      "pad_top": 5.0,
+      "pad_bot": 6.0,
+      "long_h_pt": 150.0,
+      "long_rows": 8,
+      "min_body_rows": 3,
+      "min_med_runs": 3.0,
+      "min_frac_3plus": 0.35,
+      "dpi_main": 300,
+      "dpi_check": 400
+    },
+    "rules_per_page": {
+      "1": 4,
+      "2": 2,
+      "3": 0,
+      "4": 1,
+      "5": 7,
+      "6": 6,
+      "7": 1,
+      "8": 7,
+      "9": 2,
+      "10": 0,
+      "11": 0
+    },
+    "n_candidates": 3,
+    "n_rejected": 2,
+    "rejected": [
+      {
+        "page": 1,
+        "box": [
+          42.69,
+          167.32,
+          553.46,
+          682.67
+        ],
+        "why": "median runs/row 2.0 < 3"
+      },
+      {
+        "page": 5,
+        "box": [
+          42.72,
+          93.72,
+          553.56,
+          546.9
+        ],
+        "why": "median runs/row 2.0 < 3"
+      }
+    ],
+    "n_tables": 1,
+    "n_long": 1
+  },
+  "tables": [
+    {
+      "page": 8,
+      "box": [
+        42.72,
+        93.72,
+        553.56,
+        616.74
+      ],
+      "crop": [
+        37.72,
+        75.8,
+        558.56,
+        622.74
+      ],
+      "rules": {
+        "top": [
+          93.72,
+          42.72,
+          553.56,
+          0.48000335693359375
+        ],
+        "mid": [
+          130.14,
+          344.16,
+          435.84,
+          0.600006103515625
+        ],
+        "bottom": [
+          616.74,
+          42.72,
+          553.56,
+          1.55999755859375
+        ]
+      },
+      "h_pt": 523.02,
+      "w_pt": 510.84,
+      "mid_frac": 0.07,
+      "extra_rules": 2,
+      "n_text_rows": 95,
+      "tab": {
+        "n_body_rows": 88,
+        "n_head_rows": 7,
+        "med_runs_body": 8,
+        "frac_rows_3plus": 0.511,
+        "body_col_runs": 8
+      },
+      "id": "T01",
+      "name": "T01_p08",
+      "long_table": true,
+      "img_a": "img/T01_p08_A.png",
+      "img_b": "img/T01_p08_B.png",
+      "px_a": [
+        2171,
+        2280
+      ],
+      "px_b": [
+        2895,
+        3039
+      ]
+    }
+  ]
+}

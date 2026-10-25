@@ -1,0 +1,29 @@
+== 全部分表名 ==
+  'all data'
+  '2  Characterization of key odor'
+  '5  Key Aroma Compounds and Arom'
+  '2  Decoding the Molecular Mecha'
+  '2  Volatilomics and Lipidomics '
+  '5  Impact of Pulsed Electric Fi'
+  '8 Flavoromic Exploration of Reg'
+  '3  Characterization of the diff'
+  '3  Unraveling variation on the '
+  '10  Aroma characterization and '
+  '8  Exploration of key aroma act'
+  '3  Investigation on the key fac'
+  'Sheet9'
+
+== D12 命中: [] ==
+
+== D24 命中: [] ==
+
+== D11 命中: [] ==
+
+== D3 命中: ['2  Decoding the Molecular Mecha'] ==
+  [2  Decoding the Molecular Mecha] 列: ['NO.', 'Compounds', 'Threshold(μg/L)', 'Concentration LZLJ-M7 (Mean ± SD)', 'Concentration LZLJ-T7 (Mean ± SD)', 'LZLJ-M7 (OAV)', 'LZLJ-T7 (OAV)']
+    Ethyl Hexanoate -> {'NO.': 1, 'Threshold(μg/L)': '55.33a', 'Concentration LZLJ-M7 (Mean ± SD)': '873,258 ± 9159', 'Concentration LZLJ-T7 (Mean ± SD)': '738,302 ± 3649', 'LZLJ-M7 (OAV)': 15783, 'LZLJ-T7 (OAV)': 13344}
+    Ethyl acetate -> {'NO.': 9, 'Threshold(μg/L)': '32600.00b', 'Concentration LZLJ-M7 (Mean ± SD)': '4,021,850 ± 43,275', 'Concentration LZLJ-T7 (Mean ± SD)': '2,926,064 ± 56,016', 'LZLJ-M7 (OAV)': 123, 'LZLJ-T7 (OAV)': 90}
+    Isoamyl acetate -> {'NO.': 14, 'Threshold(μg/L)': '93.93b', 'Concentration LZLJ-M7 (Mean ± SD)': '2885 ± 81', 'Concentration LZLJ-T7 (Mean ± SD)': '2236 ± 78', 'LZLJ-M7 (OAV)': 31, 'LZLJ-T7 (OAV)': 24}
+    Methyl hexanoate -> {'NO.': 16, 'Threshold(μg/L)': '41.00b', 'Concentration LZLJ-M7 (Mean ± SD)': '336 ± 7', 'Concentration LZLJ-T7 (Mean ± SD)': '357 ± 7', 'LZLJ-M7 (OAV)': 8, 'LZLJ-T7 (OAV)': 9}
+    Ethyl phenylacetate -> {'NO.': 25, 'Threshold(μg/L)': '407.00b', 'Concentration LZLJ-M7 (Mean ± SD)': '515 ± 5', 'Concentration LZLJ-T7 (Mean ± SD)': '457 ± 2', 'LZLJ-M7 (OAV)': 1, 'LZLJ-T7 (OAV)': 1}
+    Butyl hexanoate -> {'NO.': 27, 'Threshold(μg/L)': '678.00b', 'Concentration LZLJ-M7 (Mean ± SD)': '675 ± 16', 'Concentration LZLJ-T7 (Mean ± SD)': '848 ± 30', 'LZLJ-M7 (OAV)': 1, 'LZLJ-T7 (OAV)': 1}

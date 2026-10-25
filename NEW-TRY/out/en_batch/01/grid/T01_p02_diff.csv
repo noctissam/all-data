@@ -1,0 +1,23 @@
+﻿table_id,name,pdf_page,section,row,col,status,pass_A_text,pass_B_text,min_score
+T01,T01_p02,2,head,2,4,repaired_C,(g/L),(μg/L),0.9966
+T01,T01_p02,2,body,1,4,repaired_C,496.2  40.0,496.2 ± 40.0,0.9991
+T01,T01_p02,2,body,2,2,conflict_tie,LZ21(14),LZ-21(14),0.9906
+T01,T01_p02,2,body,3,4,conflict_b,717.6 + 38.8,717.6 38.8,0.7499
+T01,T01_p02,2,body,4,2,conflict_tie,LZ21(16),LZ-21(16),0.9926
+T01,T01_p02,2,body,6,4,conflict_a,659.1 2.7,659.1 * 2.7,0.4666
+T01,T01_p02,2,body,7,4,repaired_C,183.6 + 6.7,183.6 ± 6.7,0.3436
+T01,T01_p02,2,body,8,2,conflict_a,LZ21(20),LZ-21(20),0.9638
+T01,T01_p02,2,body,8,4,conflict_b,922.3 + 10.7,922.3 10.7,0.8539
+T01,T01_p02,2,body,9,2,conflict_b,GJG-(D9),GJG-(D-9),0.9529
+T01,T01_p02,2,body,9,4,conflict_b,626.4 + 31.8,626.4 31.8,0.8942
+T01,T01_p02,2,body,10,4,conflict_a,861.5 * 15.8,861.5 + 15.8,0.4495
+T01,T01_p02,2,body,11,2,conflict_a,GJG(D22),GJG-(D22),0.9013
+T01,T01_p02,2,body,12,2,conflict_a,GJG-(D24),GJG-(D-24),0.8924
+T01,T01_p02,2,body,12,4,conflict_b,700.2 + 19.7,700.2 19.7,0.9325
+T01,T01_p02,2,body,13,2,conflict_tie,GJG-(D-26),GJG-(D--26),0.9289
+T01,T01_p02,2,body,13,4,conflict_b,373.3 + 23.2,373.3 23.2,0.8833
+T01,T01_p02,2,body,14,2,conflict_tie,GJG-(D-28),GJG(D28),0.949
+T01,T01_p02,2,body,14,4,conflict_b,941.1 +12.9,941.1 12.9,0.5782
+T01,T01_p02,2,body,15,4,conflict_b,780.8 +11.2,780.8 11.2,0.7942
+T01,T01_p02,2,body,16,4,conflict_a,1552.0 91.2,1552.0 +91.2,0.7864
+T01,T01_p02,2,body,16,4,repaired_C,1552.0 91.2,1552.0 ± 91.2,0.7864

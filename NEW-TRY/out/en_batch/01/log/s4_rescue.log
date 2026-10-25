@@ -1,0 +1,8 @@
+STEP 4 - targeted cell rescue at 600 dpi
+  T01 p02  examined=62  changed=18  -> T01_p02_rescue.csv
+  T02 p04  examined=30  changed=3  -> T02_p04_rescue.csv
+  T03 p05  examined=146  changed=7  -> T03_p05_rescue.csv
+  T04 p10  examined=69  changed=0  -> T04_p10_rescue.csv
+  T05 p11  examined=0  changed=0  -> T05_p11_rescue.csv
+  T06 p12  examined=8  changed=0  -> T06_p12_rescue.csv
+rescued: symbol=19 score=9 kept=287 no_reading=0

@@ -1,0 +1,52 @@
+raster table detection (dpi=150)
+  p11  rules=1   frags=1   y58-738 g1
+  p16  rules=1   frags=1   y332-406 g2
+  p25  rules=1   frags=1   y91-213 g7
+  p26  rules=10  frags=1   y508-756 g4
+  p27  rules=4   frags=1   y508-676 g5
+  p30  rules=4   frags=1   y138-216 g10
+  p33  rules=1   frags=1   y565-645 g1
+  p34  rules=1   frags=1   y187-221 g1
+  p37  rules=7   frags=3   y58-122 g1 | y480-515 g1 | y520-646 g4
+  p38  rules=4   frags=2   y322-359 g1 | y365-502 g5
+  p39  rules=4   frags=1   y409-476 g5
+  p40  rules=4   frags=2   y555-593 g1 | y599-742 g5
+  p41  rules=7   frags=1   y454-506 g5
+  p44  rules=3   frags=1   y485-696 g7
+  p46  rules=4   frags=2   y58-219 g9 | y664-733 g4
+  p47  rules=3   frags=1   y93-749 g8
+  p48  rules=6   frags=2   y373-417 g3 | y420-606 g8
+  p49  rules=3   frags=1   y135-345 g8
+  p50  rules=3   frags=1   y130-391 g8
+  p51  rules=7   frags=4   y130-171 g4 | y174-360 g8 | y616-657 g4 | y661-711 g8
+  p52  rules=3   frags=1   y205-387 g7
+  p54  rules=1   frags=2   y88-134 g1 | y689-745 g1
+  p55  rules=1   frags=1   y147-180 g1
+  p58  rules=1   frags=1   y58-777 g1
+  p62  rules=5   frags=2   y572-688 g1 | y695-761 g1
+  p63  rules=2   frags=1   y577-623 g1
+  p65  rules=1   frags=1   y58-742 g1
+  p66  rules=1   frags=1   y58-753 g5
+  p67  rules=1   frags=1   y334-754 g1
+  p82  rules=3   frags=2   y58-161 g1 | y171-756 g7
+  p83  rules=3   frags=1   y73-757 g7
+  p84  rules=3   frags=1   y73-768 g7
+  p85  rules=3   frags=1   y73-757 g7
+  p86  rules=3   frags=1   y73-764 g7
+  p87  rules=3   frags=1   y73-751 g7
+  p88  rules=3   frags=1   y73-762 g10
+  p89  rules=3   frags=1   y73-756 g9
+  p90  rules=3   frags=1   y73-758 g8
+  p91  rules=3   frags=1   y73-751 g7
+  p92  rules=3   frags=1   y73-768 g7
+  p93  rules=3   frags=1   y73-705 g7
+  p94  rules=4   frags=1   y131-754 g10
+  p95  rules=3   frags=1   y73-758 g6
+  p96  rules=3   frags=1   y73-758 g6
+  p97  rules=3   frags=1   y73-747 g7
+  p98  rules=3   frags=1   y73-762 g7
+  p99  rules=3   frags=1   y73-747 g5
+  p100 rules=3   frags=1   y73-434 g6
+  p101 rules=3   frags=1   y118-740 g7
+  p102 rules=3   frags=1   y73-614 g7
+candidates: 62 -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\cn27\candidates.json

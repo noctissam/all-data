@@ -1,0 +1,8 @@
+STEP 3 - rebuild grid + verify A/B
+  T01 p02  cols=6 (B:6)  head=2 body=16  match=90 conflict=18 one-sided=0 repaired=4 lowconf=10  agree=83.3%
+  T02 p04  cols=11 (B:11)  head=3 body=6  match=93 conflict=6 one-sided=0 repaired=1 lowconf=4  agree=93.9%
+  T03 p05  cols=7 (B:7)  head=3 body=60  match=383 conflict=58 one-sided=0 repaired=108 lowconf=52  agree=86.8%
+  T04 p10  cols=7 (B:7)  head=2 body=18  match=139 conflict=1 one-sided=0 repaired=1 lowconf=6  agree=99.3%
+  T05 p11  cols=5 (B:5)  head=2 body=14  match=80 conflict=0 one-sided=0 repaired=0 lowconf=0  agree=100.0%
+  T06 p12  cols=7 (B:7)  head=2 body=4  match=42 conflict=0 one-sided=0 repaired=1 lowconf=0  agree=100.0%
+tables rebuilt: 6

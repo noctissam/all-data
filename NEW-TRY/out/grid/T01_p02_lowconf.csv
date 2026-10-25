@@ -1,0 +1,11 @@
+﻿table_id,name,pdf_page,section,row,col,text,score,status
+T01,T01_p02,2,body,2,4,301.5 + 4.6,0.5606,match
+T01,T01_p02,2,body,3,4,717.6 38.8,0.7499,conflict_b
+T01,T01_p02,2,body,4,4,786.3* 49.8,0.5354,match_norm
+T01,T01_p02,2,body,5,4,734.2 + 11.9,0.4088,match
+T01,T01_p02,2,body,6,4,659.1 2.7,0.4666,conflict_a
+T01,T01_p02,2,body,7,4,183.6 ± 6.7,0.3436,match
+T01,T01_p02,2,body,10,4,861.5 * 15.8,0.4495,conflict_a
+T01,T01_p02,2,body,14,4,941.1 12.9,0.5782,conflict_b
+T01,T01_p02,2,body,15,4,780.8 11.2,0.7942,conflict_b
+T01,T01_p02,2,body,16,4,1552.0 ± 91.2,0.7864,conflict_a

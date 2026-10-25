@@ -1,0 +1,27 @@
+﻿usable CAS entries: 731
+cross-check: agree 285, nist-only 6, disagree 5
+printed kept: 760   filled from lookup: 2763   conflicts: 5
+   unresolved                         121
+   反查标记·双库一致                          351
+   反查标记·仅NIST有                        9
+   反查标记·仅PubChem有                     2396
+
+两库不一致，未写入 CAS（需要人工判断哪个库把名字读错了）: 7
+   03 2  Decoding the Molecular M Ethyl L(--)-lactate      pubchem 97-64-3      nist 687-47-8
+   03 2  Decoding the Molecular M Ethyl L(--)-lactate      pubchem 97-64-3      nist 687-47-8
+   03 2  Decoding the Molecular M Ethyl L(--)-lactate      pubchem 97-64-3      nist 687-47-8
+   05 5  Impact of Pulsed Electri Ethyl 4-decenoate        pubchem 76649-16-6   nist 10-11-1
+   05 5  Impact of Pulsed Electri Ethyl 2-decenoate        pubchem 7367-88-6    nist 37486-72-9
+   05 5  Impact of Pulsed Electri Ethyl 2-decenoate        pubchem 7367-88-6    nist 37486-72-9
+   05 5  Impact of Pulsed Electri 2-Nonen-4-one            pubchem 27743-70-0   nist 32064-72-5
+
+conflicts (printed vs resolved) - kept the printed value:
+   02 5  Key Aroma Compounds and A        cedrol                 printed 77-53-2       resolved 16230-29-8
+   02 5  Key Aroma Compounds and A        (-)--terpineol         printed 10482-56-1    resolved 98-55-5
+   07 3  Characterization of the d        Ethyl lactate          printed 687-47-8      resolved 97-64-3
+   20 19  浓香、酱香、清香型白酒挥发性风味的               3-甲基丁酸丁酯               printed 106-27-4      resolved 109-19-3
+   20 19  浓香、酱香、清香型白酒挥发性风味的               乙酸叔戊酯                  printed 624-41-9      resolved 625-16-1
+
+conflicts -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\conflicts.json
+
+-> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\re整理.xlsx

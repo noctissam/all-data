@@ -1,0 +1,4 @@
+﻿cached CAS usable: 817
+names in workbook: 887
+names with a resolved CAS: 719  (81% of names, 3406 of 3623 rows)
+-> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\cas_by_name.json

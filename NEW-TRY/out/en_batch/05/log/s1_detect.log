@@ -1,0 +1,31 @@
+STEP 1 - detect three-line tables
+pdf: C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\5  Impact of Pulsed Electric Fields Combined with Dissolved.pdf
+pages: 19
+  page  1: rules=   3  candidates=0  tables=0
+  page  2: rules=   1  candidates=0  tables=0
+  page  3: rules=   1  candidates=0  tables=0
+  page  4: rules=   1  candidates=0  tables=0
+  page  5: rules=   4  candidates=1  tables=0
+        rejected p05 y=635..745 h=111  body rows 0 < 3
+  page  6: rules=  16  candidates=21  tables=0
+        rejected p06 y=-142..52 h=194  body rows 0 < 3
+  page  7: rules=   5  candidates=4  tables=0
+        rejected p07 y=52..504 h=452  body rows 0 < 3
+  page  8: rules=   2  candidates=0  tables=0
+  page  9: rules=   2  candidates=0  tables=0
+  page 10: rules=   2  candidates=0  tables=0
+  page 11: rules=   3  candidates=1  tables=0
+        rejected p11 y=-213..440 h=652  body rows 0 < 3
+  page 12: rules=   1  candidates=0  tables=0
+  page 13: rules=   2  candidates=0  tables=0
+  page 14: rules=  14  candidates=0  tables=0
+  page 15: rules=   4  candidates=2  tables=0
+        rejected p15 y=52..744 h=692  body rows 0 < 3
+  page 16: rules=   4  candidates=2  tables=0
+        rejected p16 y=52..761 h=709  body rows 0 < 3
+  page 17: rules=   7  candidates=10  tables=0
+        rejected p17 y=52..683 h=631  body rows 0 < 3
+  page 18: rules=   1  candidates=0  tables=0
+  page 19: rules=   1  candidates=0  tables=0
+candidates=7  tables kept=0  (long: 0)  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\05\tables.json
+images -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\05\img   previews -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\05\page_preview

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\2  Volatilomics and Lipidomics revealed flavoring mechanism in baijiu.pdf",
+    "n_pages": 13,
+    "dpi_main": 300,
+    "dpi_check": 400,
+    "cfg": {
+      "min_rule_w": 60.0,
+      "max_rule_h": 4.0,
+      "flat_tol": 0.8,
+      "rule_dy_tol": 1.2,
+      "rule_ox": 0.5,
+      "min_x_overlap": 0.6,
+      "min_table_h": 18.0,
+      "max_table_h": 760.0,
+      "max_mid_frac": 0.45,
+      "pad_x": 5.0,
+      "pad_top": 5.0,
+      "pad_bot": 6.0,
+      "long_h_pt": 150.0,
+      "long_rows": 8,
+      "min_body_rows": 3,
+      "min_med_runs": 3.0,
+      "min_frac_3plus": 0.35,
+      "dpi_main": 300,
+      "dpi_check": 400
+    },
+    "rules_per_page": {
+      "1": 6,
+      "2": 0,
+      "3": 2,
+      "4": 0,
+      "5": 5,
+      "6": 0,
+      "7": 4,
+      "8": 2,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0
+    },
+    "n_candidates": 2,
+    "n_rejected": 1,
+    "rejected": [
+      {
+        "page": 1,
+        "box": [
+          37.68,
+          80.1,
+          558.48,
+          479.46
+        ],
+        "why": "median runs/row 2.0 < 3"
+      }
+    ],
+    "n_tables": 1,
+    "n_long": 1
+  },
+  "tables": [
+    {
+      "page": 5,
+      "box": [
+        306.96,
+        89.58,
+        558.48,
+        141.9
+      ],
+      "crop": [
+        301.96,
+        75.08,
+        563.48,
+        172.36
+      ],
+      "rules": {
+        "top": [
+          89.58,
+          306.96,
+          558.48,
+          0.5999984741210938
+        ],
+        "mid": [
+          102.9,
+          306.96,
+          558.48,
+          0.5999984741210938
+        ],
+        "bottom": [
+          141.9,
+          306.96,
+          558.48,
+          0.600006103515625
+        ]
+      },
+      "h_pt": 52.32,
+      "w_pt": 251.52,
+      "mid_frac": 0.255,
+      "extra_rules": 2,
+      "n_text_rows": 9,
+      "tab": {
+        "n_body_rows": 7,
+        "n_head_rows": 2,
+        "med_runs_body": 4,
+        "frac_rows_3plus": 0.571,
+        "body_col_runs": 8
+      },
+      "id": "T01",
+      "name": "T01_p05",
+      "long_table": true,
+      "img_a": "img/T01_p05_A.png",
+      "img_b": "img/T01_p05_B.png",
+      "px_a": [
+        1090,
+        407
+      ],
+      "px_b": [
+        1454,
+        541
+      ]
+    }
+  ]
+}

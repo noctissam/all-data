@@ -1,0 +1,143 @@
+{
+  "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\3  Characterization of the differences in aroma-active compounds in.pdf",
+  "dpi": 150,
+  "n_candidates": 5,
+  "candidates": [
+    {
+      "page": 1,
+      "kind": "above_first",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          198,
+          405
+        ]
+      ],
+      "y_top_px": 129,
+      "y_bot_px": 315,
+      "y_top_pt": 61.9,
+      "y_bot_pt": 151.2,
+      "height_pt": 89.3
+    },
+    {
+      "page": 5,
+      "kind": "above_first",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          602,
+          640
+        ]
+      ],
+      "y_top_px": 128,
+      "y_bot_px": 530,
+      "y_top_pt": 61.4,
+      "y_bot_pt": 254.4,
+      "height_pt": 193.0
+    },
+    {
+      "page": 5,
+      "kind": "between",
+      "n_gutters": 8,
+      "gutters": [
+        [
+          332,
+          407
+        ],
+        [
+          505,
+          555
+        ],
+        [
+          622,
+          671
+        ],
+        [
+          699,
+          760
+        ],
+        [
+          789,
+          844
+        ],
+        [
+          942,
+          990
+        ],
+        [
+          1011,
+          1060
+        ],
+        [
+          1081,
+          1129
+        ]
+      ],
+      "y_top_px": 591,
+      "y_bot_px": 1468,
+      "y_top_pt": 283.7,
+      "y_bot_pt": 704.6,
+      "height_pt": 421.0
+    },
+    {
+      "page": 8,
+      "kind": "above_first",
+      "n_gutters": 8,
+      "gutters": [
+        [
+          156,
+          183
+        ],
+        [
+          408,
+          424
+        ],
+        [
+          483,
+          498
+        ],
+        [
+          597,
+          691
+        ],
+        [
+          730,
+          822
+        ],
+        [
+          869,
+          961
+        ],
+        [
+          1036,
+          1054
+        ],
+        [
+          1055,
+          1069
+        ]
+      ],
+      "y_top_px": 128,
+      "y_bot_px": 940,
+      "y_top_pt": 61.4,
+      "y_bot_pt": 451.2,
+      "height_pt": 389.8
+    },
+    {
+      "page": 8,
+      "kind": "below_last",
+      "n_gutters": 1,
+      "gutters": [
+        [
+          602,
+          640
+        ]
+      ],
+      "y_top_px": 950,
+      "y_bot_px": 1595,
+      "y_top_pt": 456.0,
+      "y_bot_pt": 765.6,
+      "height_pt": 309.6
+    }
+  ]
+}

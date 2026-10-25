@@ -1,0 +1,63 @@
+﻿name_short,cluster,name_en,name_zh,chem_class
+4-methylvaleric acid,1,4-methylvaleric acid,4-甲基戊酸,酸类 Acid
+Et-2-methylbutanoate,1,Ethyl 2-methylbutanoate,2-甲基丁酸乙酯,酯类 Ester
+Et-4-methyl valerate,1,Ethyl 4-methyl valerate,4-甲基戊酸乙酯/异己酸乙酯,酯类 Ester
+Et-caprylate,1,Ethyl caprylate,辛酸乙酯,酯类 Ester
+Et-isobutyrate,1,Ethyl isobutyrate,异丁酸乙酯,酯类 Ester
+Et-valerate,1,Ethyl valerate,戊酸乙酯,酯类 Ester
+iAm-acetate,1,Isoamyl acetate,乙酸异戊酯,酯类 Ester
+iAm-butyrate,1,Isoamyl butyrate,丁酸异戊酯,酯类 Ester
+Me-hexanoate,1,Methyl hexanoate,己酸甲酯,酯类 Ester
+Propionic acid,1,Propionic acid,丙酸,酸类 Acid
+1-Butanol,2,1-Butanol,1-丁醇,醇类 Alcohol
+1-Hexanol,2,1-Hexanol,1-己醇,醇类 Alcohol
+1-octanol,2,1-octanol,1-辛醇,醇类 Alcohol
+1-propanol,2,1-propanol,1-丙醇,醇类 Alcohol
+2-(ethoxymethyl)furan,2,2-(ethoxymethyl)furan,2-（乙氧基甲基）呋喃,呋喃 Furan
+2-Methoxy-4-methylphenol,2,2-Methoxy-4-methylphenol,2-甲氧基-4-甲基苯酚（2-甲氧基对甲酚）,酚类 Phenol
+2-methylpropionic acid,2,2-methylpropionic acid,异丁酸,酸类 Acid
+3-Methyl-1-butanol,2,3-Methyl-1-butanol,3-甲基-1-丁醇（异戊醇）,醇类 Alcohol
+3-methylbutyl hexanoate,2,3-methylbutyl hexanoate,己酸异戊酯,酯类 Ester
+Acetal,2,Acetal,乙醛二乙缩醛,醛类 Aldehyde
+Acetic acid,2,Acetic acid,乙酸,酸类 Acid
+Acetoin,2,Acetoin,3-羟基-2-丁酮,酮类 Ketone
+Butyl acetate,2,Butyl acetate,乙酸丁酯,酯类 Ester
+Butyl hexanoate,2,Butyl hexanoate,己酸丁酯,酯类 Ester
+Butyric Acid,2,Butyric Acid,丁酸,酸类 Acid
+Et-Hexanoate,2,Ethyl Hexanoate,己酸乙酯,酯类 Ester
+Et-acetate,2,Ethyl acetate,乙酸乙酯,酯类 Ester
+Et-butyrate,2,Ethyl butyrate,丁酸乙酯,酯类 Ester
+Et-decanoate,2,Ethyl decanoate,癸酸乙酯,酯类 Ester
+Et-heptanoate,2,Ethyl heptanoate,庚酸乙酯,酯类 Ester
+Et-isovalerate,2,Ethyl isovalerate,异戊酸乙酯（3-甲基丁酸乙酯）,酯类 Ester
+Et-nonanoate,2,Ethyl nonanoate,壬酸乙酯,酯类 Ester
+Et-palmitate,2,Ethyl palmitate,棕榈酸乙酯,酯类 Ester
+Et-phenylacetate,2,Ethyl phenylacetate,苯乙酸乙酯,酯类 Ester
+Furfural,2,Furfural,糠醛,醛类 Aldehyde
+Heptanoic acid,2,Heptanoic acid,庚酸,酸类 Acid
+Hexanal,2,Hexanal,己醛,醛类 Aldehyde
+Hexanoic acid,2,Hexanoic acid,己酸,酸类 Acid
+Hexyl acetate,2,Hexyl acetate,乙酸己酯,酯类 Ester
+Hexyl hexanoate,2,Hexyl hexanoate,己酸己酯,酯类 Ester
+Isobutanol,2,Isobutanol,异丁醇,醇类 Alcohol
+Isovaleraldehyde,2,Isovaleraldehyde,异戊醛,醛类 Aldehyde
+Isovaleric acid,2,Isovaleric acid,异戊酸,酸类 Acid
+Octanoic acid,2,Octanoic acid,辛酸,酸类 Acid
+Valeric acid,2,Valeric acid,戊酸,酸类 Acid
+4-Ethyl-2-methoxyphenol,3,4-Ethyl-2-methoxyphenol,4-乙基-2-甲氧基苯酚,酚类 Phenol
+Acetaldehyde,3,Acetaldehyde,乙醛,醛类 Aldehyde
+Et-2-hydroxy-4-methylvalerate,3,Ethyl 2-hydroxy-4-methylvalerate,2-羟基-4-甲基戊酸乙酯,酯类 Ester
+Et-3-phenylpropionate,3,Ethyl 3-phenylpropionate,3-苯基丙酸乙酯,酯类 Ester
+Furfuryl alcohol,3,Furfuryl alcohol,糠醇,呋喃 Furan
+Hexyl butanoate,3,Hexyl butanoate,丁酸己酯,酯类 Ester
+Phenethyl acetate,3,Phenethyl acetate,乙酸苯乙酯,酯类 Ester
+Phenylacetaldehyde,3,Phenylacetaldehyde,苯乙醛,醛类 Aldehyde
+Trimethyl-pyrazine,3,Trimethyl-pyrazine,三甲基吡嗪,吡嗪 Pyrazine
+p-cresol,3,p-cresol,对甲酚,酚类 Phenol
+1-Octen-3-ol,4,1-Octen-3-ol,1-辛烯-3-醇,醇类 Alcohol
+2-Heptanone,4,2-Heptanone,2-庚酮,酮类 Ketone
+Dimethyl Trisulfide,4,Dimethyl Trisulfide,二甲基三硫醚,硫化物 Sulfur
+Et-lactate,4,Ethyl lactate,乳酸乙酯,酯类 Ester
+Gamma-Nonanolactone,4,Gamma-Nonanolactone,γ-壬内酯,内酯 Lactone
+(E)-2-Octenal,5,(E)-2-Octenal,(E)-2-辛烯醛,醛类 Aldehyde
+3-phenyl propionic acid,5,3-phenyl propionic acid,3-苯基丙酸,酸类 Acid

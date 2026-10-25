@@ -1,0 +1,67 @@
+{
+ "idx": 4,
+ "route": "ocr",
+ "note": "A/B agree 33.3% min, 33.3% avg",
+ "tables": [
+  {
+   "caption": "Table 2 (continued)",
+   "note": "Baijiu can be assessed using OAV analysis based on the threshold value nf anoh flnuAr cu1hctnnoa A tntnl nf 76 nhnrnntArictio INCc 1Ara idanti",
+   "header_rows": [
+    [
+     "Class1 Class2",
+     "LS",
+     "FS"
+    ]
+   ],
+   "rows": [
+    [
+     "",
+     "7.59 ±",
+     "7.55 ±"
+    ],
+    [
+     "Typicality",
+     "0.33",
+     "0.22"
+    ],
+    [
+     "style",
+     "0.33",
+     "0.22"
+    ],
+    [
+     "style",
+     "7.59 ±",
+     "7.55 ±"
+    ],
+    [
+     "Obviousness",
+     "0.33",
+     "0.22"
+    ]
+   ],
+   "n_row": 5,
+   "n_col": 3,
+   "pages": [
+    5
+   ],
+   "src_id": "T01",
+   "long_table": true,
+   "verify": {
+    "n_cells": 21,
+    "n_match": 7,
+    "n_conflict": 11,
+    "n_one_sided": 0,
+    "n_lowconf": 9,
+    "n_repaired": 0,
+    "agree_pct": 33.33,
+    "n_rescued": 4,
+    "rescue_dpi": 600
+   },
+   "n_suspect": 0
+  }
+ ],
+ "suspects": [],
+ "sheet": "2  Volatilomics and Lipidomics ",
+ "pdf": "2  Volatilomics and Lipidomics revealed flavoring mechanism in baijiu.pdf"
+}

@@ -1,0 +1,7 @@
+﻿table_id,name,pdf_page,section,row,col,text,score,status
+T04,T04_p10,10,body,1,6,<1,0.3721,match_norm
+T04,T04_p10,10,body,2,6,<1,0.5736,match_norm
+T04,T04_p10,10,body,3,6,< 1,0.5507,match
+T04,T04_p10,10,body,5,6,<1,0.6654,match_norm
+T04,T04_p10,10,body,6,6,< 1,0.2744,match
+T04,T04_p10,10,body,9,6,<1,0.5182,match

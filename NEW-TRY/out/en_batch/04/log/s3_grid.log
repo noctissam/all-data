@@ -1,0 +1,3 @@
+STEP 3 - rebuild grid + verify A/B
+  T01 p05  cols=3 (B:2)  head=1 body=5  match=7 conflict=11 one-sided=0 repaired=0 lowconf=9  agree=33.3%
+tables rebuilt: 1

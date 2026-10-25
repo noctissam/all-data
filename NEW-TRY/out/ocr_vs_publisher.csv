@@ -1,0 +1,151 @@
+﻿table,row,col,kind,publisher,ocr
+T02_p04,63,3,digits_differ,VSLLME-HP-5MS-CCl4,VSLLME-HP-5MS-CC14
+T02_p04,63,7,text_differ,-0.0005,- 0.0005
+T02_p04,64,2,text_differ,γ-nonalactone,-nonalactone
+T02_p04,1,-1,row_not_detected,1 | ethyl acetate | DI-FID-DB-WAX | 1.637c | IS1 | 0.6371 | ,
+T02_p04,2,-1,row_not_detected,2 | ethyl isobutyrate | DI-FID-DB-WAX | 1.043c | IS1 | 0.953,
+T02_p04,3,-1,row_not_detected,3 | ethyl butanoate | DI-FID-DB-WAX | 1.125c | IS1 | 0.8911 ,
+T02_p04,6,-1,row_not_detected,6 | ethyl pentanoate | DI-FID-DB-WAX | 1.027c | IS1 | 0.9805,
+T02_p04,8,-1,row_not_detected,8 | ethyl hexanoate | DI-FID-DB-WAX | 0.974c | IS1 | 1.0249 ,
+T02_p04,4,-1,row_not_detected,4 | ethyl 2-methylbutanoate | VSLLME-HP-5MS-CCl4 | 57 | IS1 ,
+T02_p04,5,-1,row_not_detected,5 | ethyl isovalerate | VSLLME-HP-5MS-CCl4 | 88 | IS1 | 0.21,
+T02_p04,7,-1,row_not_detected,7 | ethyl 4-methylpentanoate | VSLLME-HP-5MS-CCl4 | 89 | IS1,
+T02_p04,9,-1,row_not_detected,9 | ethyl 3-hexenoate | VSLLME-HP-5MS-CCl4 | 69 | IS1 | 0.03,
+T02_p04,10,-1,row_not_detected,10 | propyl hexanoate | VSLLME-HP-5MS-CCl4 | 99 | IS1 | 0.50,
+T02_p04,11,-1,row_not_detected,11 | ethyl heptanoate | VSLLME-HP-5MS-CCl4 | 88 | IS1 | 0.60,
+T02_p04,12,-1,row_not_detected,12 | isobutyl hexanoate | VSLLME-HP-5MS-CCl4 | 99 | IS1 | 2.,
+T02_p04,13,-1,row_not_detected,13 | hexyl butanoate | VSLLME-HP-5MS-CCl4 | 71 | IS1 | 0.698,
+T02_p04,14,-1,row_not_detected,14 | ethyl octanoate | VSLLME-HP-5MS-CCl4 | 88 | IS1 | 1.565,
+T02_p04,15,-1,row_not_detected,15 | ethyl 2-hydroxy-4-methyl pentanoate | VSLLME-HP-5MS-CCl,
+T02_p04,16,-1,row_not_detected,16 | hexyl hexanoate | VSLLME-HP-5MS-CCl4 | 117 | IS1 | 0.92,
+T02_p04,17,-1,row_not_detected,17 | ethyl caprate | VSLLME-HP-5MS-CCl4 | 88 | IS3 | 0.8427 ,
+T02_p04,18,-1,row_not_detected,18 | 3-methylbutyl octanoate | VSLLME-HP-5MS-CCl4 | 70 | IS1,
+T02_p04,19,-1,row_not_detected,19 | diethyl succinate | VSLLME-HP-5MS-CCl4 | 101 | IS3 | 3.,
+T02_p04,20,-1,row_not_detected,20 | ethyl tetradecanoate | VSLLME-HP-5MS-CCl4 | 88 | IS3 | ,
+T02_p04,21,-1,row_not_detected,21 | ethyl palmitate | VSLLME-HP-5MS-CCl4 | 88 | IS3 | 1.41 ,
+T02_p04,23,-1,row_not_detected,23 | 3-methyl-1-butanol | DI-FID-DB-WAX | 0.764c | IS1 | 1.2,
+T02_p04,24,-1,row_not_detected,24 | 1-butanol | VSLLME-DB-WAX-CH2Cl2 | 56 | IS1 | 0.5754 | ,
+T02_p04,25,-1,row_not_detected,25 | 1-hexanol | VSLLME-DB-WAX-CH2Cl2 | 56 | IS1 | 1.0356 | ,
+T02_p04,26,-1,row_not_detected,26 | 1-octanol | VSLLME-DB-WAX-CH2Cl2 | 56 | IS1 | 0.812 | -,
+T02_p04,27,-1,row_not_detected,27 | phenylacetaldehyde | VSLLME-DB-WAX-CH2Cl2 | 91 | IS1 | ,
+T02_p04,28,-1,row_not_detected,28 | ethyl benzoate | VSLLME-DB-WAX-CH2Cl2 | 105 | IS3 | 1.0,
+T02_p04,29,-1,row_not_detected,"29 | benzene, (2,2-diethoxyethyl)- | VSLLME-DB-WAX-CH2Cl2 | ",
+T02_p04,30,-1,row_not_detected,30 | ethyl phenylacetate | VSLLME-DB-WAX-CH2Cl2 | 104 | IS3 ,
+T02_p04,31,-1,row_not_detected,31 | phenethyl acetate | VSLLME-DB-WAX-CH2Cl2 | 91 | IS3 | 1,
+T02_p04,33,-1,row_not_detected,33 | ethyl 3-phenylpropionate | VSLLME-DB-WAX-CH2Cl2 | 104 |,
+T02_p04,34,-1,row_not_detected,34 | phenethyl alcohol | VSLLME-DB-WAX-CH2Cl2 | 91 | IS3 | 2,
+T02_p04,35,-1,row_not_detected,35 | 4-methyl guaiacol | VSLLME-DB-WAX-CH2Cl2 | 123 | IS3 | ,
+T02_p04,36,-1,row_not_detected,36 | 4-ethylguaiacol | VSLLME-DB-WAX-CH2Cl2 | 137 | IS3 | 0.,
+T02_p04,37,-1,row_not_detected,37 | p-cresol | VSLLME-DB-WAX-CH2Cl2 | 107 | IS3 | 1.6352 | ,
+T02_p04,38,-1,row_not_detected,38 | 4-ethylphenol | VSLLME-DB-WAX-CH2Cl2 | 107 | IS3 | 1.50,
+T02_p04,39,-1,row_not_detected,39 | 2-methoxy-4-vinylphenol | VSLLME-DB-WAX-CH2Cl2 | 150 | ,
+T02_p04,41,-1,row_not_detected,41 | vanillin | VSLLME-DB-WAX-CH2Cl2 | 151 | IS3 | 0.5837 | ,
+T02_p04,42,-1,row_not_detected,42 | acetic acid | DI-FID-DB-WAX | 1.152c | IS2 | 0.3646 | -,
+T02_p04,44,-1,row_not_detected,44 | 2-methylpropionic acid | DI-FID-DB-WAX | 1.493c | IS2 |,
+T02_p04,48,-1,row_not_detected,48 | hexanoic acid | DI-FID-DB-WAX | 1.187c | IS2 | 0.9005 |,
+T02_p04,43,-1,row_not_detected,43 | propionic acid | VSLLME-DB-WAX-Ether | 74 | IS2 | 0.397,
+T02_p04,45,-1,row_not_detected,45 | butyric acid | VSLLME-DB-WAX-Ether | 60 | IS2 | 1.1294 ,
+T02_p04,46,-1,row_not_detected,46 | isovaleric acid | VSLLME-DB-WAX-Ether | 74 | IS2 | 1.88,
+T02_p04,47,-1,row_not_detected,47 | pentanoic acid | VSLLME-DB-WAX-Ether | 60 | IS2 | 1.493,
+T02_p04,50,-1,row_not_detected,50 | 4-methylvaleric acid | VSLLME-DB-WAX-Ether | 57 | IS2 |,
+T02_p04,51,-1,row_not_detected,51 | heptanoic acid | VSLLME-DB-WAX-Ether | 60 | IS2 | 1.403,
+T02_p04,52,-1,row_not_detected,52 | octanoic acid | VSLLME-DB-WAX-Ether | 60 | IS2 | 1.285 ,
+T02_p04,54,-1,row_not_detected,54 | benzeneacetic acid | VSLLME-DB-WAX-Ether | 91 | IS2 | 0,
+T02_p04,55,-1,row_not_detected,55 | 3-phenyl propionic acid | VSLLME-DB-WAX-Ether | 91 | IS,
+T02_p04,56,-1,row_not_detected,56 | dimethyl trisulfide | VSLLME-DB-WAX-CH2Cl2 | 126 | IS1 ,
+T02_p04,57,-1,row_not_detected,57 | 3-(methylthio)propanal | Derivatization -VSLLME-DB-WAX-,
+T02_p04,58,-1,row_not_detected,58 | 3-(methylthio)-propanoic acid ethyl ester | VSLLME-DB-W,
+T02_p04,59,-1,row_not_detected,59 | 2-thenaldehyde | VSLLME-DB-WAX-CH2Cl2 | 111 | IS3 | 1.1,
+T02_p04,60,-1,row_not_detected,60 | 3-methylthiopropanol | VSLLME-DB-WAX-CH2Cl2 | 106 | IS3,
+T02_p04,62,-1,row_not_detected,62 | ethyl nicotinoate | VSLLME-HP-5MS-CCl4 | 106 | IS3 | 1.,
+T03_p05,56,5,text_differ,26 ± 2,26 ±2
+T03_p05,57,5,missed,-,
+T03_p05,57,7,missed,-,
+T03_p05,33,5,text_differ,635 ± 20,635±20
+T03_p05,44,7,missed,-,
+T03_p05,50,5,text_differ,300 ± 62,300 ±62
+T03_p05,63,4,text_differ,46 ± 3,46 ±3
+T03_p05,63,5,missed,-,
+T03_p05,63,7,missed,-,
+T03_p05,51,4,text_differ,"23,926 ± 3848","23,926±3848"
+T03_p05,36,5,missed,-,
+T03_p05,36,7,missed,-,
+T03_p05,35,5,missed,-,
+T03_p05,35,7,missed,-,
+T03_p05,64,2,text_differ,γ-nonalactone,-nonalactone
+T03_p05,64,5,text_differ,59 ± 3,59 ±3
+T03_p05,43,4,text_differ,"13,666 ± 156","13,666 ±156"
+T03_p05,17,5,text_differ,13 ± 2,13 ±2
+T03_p05,28,4,text_differ,174 ± 9,174 ±9
+T03_p05,28,5,text_differ,62 ± 2,62 ±2
+T03_p05,30,5,text_differ,61 ± 4,61 ±4
+T03_p05,38,4,text_differ,11 ± 1,11±1
+T03_p05,38,5,text_differ,49 ± 1,49 ±1
+T03_p05,12,4,text_differ,461 ± 2,461±2
+T03_p05,12,5,text_differ,81 ± 1,81 ±1
+T03_p05,13,5,text_differ,232 ± 4,232±4
+T03_p05,41,4,text_differ,58 ± 3,58 ±3
+T03_p05,58,5,missed,-,
+T03_p05,58,7,missed,-,
+T03_p05,60,5,missed,-,
+T03_p05,60,7,missed,-,
+T03_p05,39,5,missed,-,
+T03_p05,39,7,missed,-,
+T03_p05,9,3,missed,-,
+T03_p05,9,6,missed,-,
+T03_p05,9,7,missed,-,
+T03_p05,18,3,missed,-,
+T03_p05,18,5,missed,-,
+T03_p05,18,6,missed,-,
+T03_p05,18,7,missed,-,
+T03_p05,15,3,missed,-,
+T03_p05,15,4,text_differ,4268 ± 32,4268 ±32
+T03_p05,15,6,missed,-,
+T03_p05,15,7,missed,-,
+T03_p05,59,3,missed,-,
+T03_p05,59,6,missed,-,
+T03_p05,59,7,missed,-,
+T03_p05,29,3,missed,-,
+T03_p05,29,6,missed,-,
+T03_p05,29,7,missed,-,
+T03_p05,62,3,missed,-,
+T03_p05,62,5,text_differ,9 ± 1,9±1
+T03_p05,62,7,missed,-,
+T03_p05,20,3,missed,-,
+T03_p05,21,3,missed,-,
+T03_p05,21,5,text_differ,601 ± 9,601 ±9
+T03_p05,21,6,missed,-,
+T03_p05,21,7,missed,-,
+T04_p10,16,6,text_differ,< 1,<1
+T04_p10,10,6,text_differ,< 1,<1
+T04_p10,44,6,text_differ,< 1,<1
+T04_p10,26,6,text_differ,< 1,<1
+T04_p10,63,4,missed,-,
+T04_p10,63,6,missed,-,
+T04_p10,63,7,missed,-,
+T04_p10,57,4,missed,-,
+T04_p10,57,6,missed,-,
+T04_p10,57,7,missed,-,
+T04_p10,36,4,missed,-,
+T04_p10,36,6,missed,-,
+T04_p10,36,7,missed,-,
+T04_p10,35,4,missed,-,
+T04_p10,35,6,missed,-,
+T04_p10,35,7,missed,-,
+T04_p10,58,4,missed,-,
+T04_p10,58,6,missed,-,
+T04_p10,58,7,missed,-,
+T04_p10,60,4,missed,-,
+T04_p10,60,6,missed,-,
+T04_p10,60,7,missed,-,
+T04_p10,39,4,missed,-,
+T04_p10,39,6,missed,-,
+T04_p10,39,7,missed,-,
+T05_p11,6,2,text_differ,Roasted/onion-like,Roasted/onion-
+T05_p11,8,3,text_differ,γ-Nonalactone,-Nonalactone
+T05_p11,3-1,-1,row_not_in_publisher,,3-1 |  | Butyric acid | 4/10 | **
+T05_p11,3-2,-1,row_not_in_publisher,,3-2 |  | Hexanoic acid | 5/10 | *
+T05_p11,4-1,-1,row_not_in_publisher,,4-1 |  | p-Cresol | 7/10 | *
+T05_p11,6-1,-1,row_not_in_publisher,,6-1 | like | 3-(Methylthio) | 5/10 | *
+T05_p11,6-2,-1,row_not_in_publisher,,6-2 |  | Dimethyl trisulfide | 8/10 | **
+T06_p12,3,2,text_differ,3-(methylthio)propanal +3-methylindole,3-(methylthio)propanal + 3-methylindole

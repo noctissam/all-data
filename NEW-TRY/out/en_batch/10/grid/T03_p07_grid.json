@@ -1,0 +1,119 @@
+{
+  "id": "T03",
+  "name": "T03_p07",
+  "page": 7,
+  "long_table": false,
+  "src_pdf_rect": [
+    301.96,
+    75.08,
+    563.48,
+    147.9
+  ],
+  "img_a": "img/T03_p07_A.png",
+  "img_b": "img/T03_p07_B.png",
+  "caption": [
+    "Table 3 (continued)"
+  ],
+  "caption_text": "Table 3 (continued)",
+  "note": [
+    "a"
+  ],
+  "note_text": "a",
+  "cols": [
+    421.96,
+    520.46
+  ],
+  "bands": [
+    [
+      421.96,
+      440.96
+    ],
+    [
+      520.46,
+      532.96
+    ]
+  ],
+  "n_col": 2,
+  "n_head_row": 2,
+  "n_body_row": 3,
+  "header": [
+    [
+      {
+        "text": "No. Aroma compoundsa Descriptorb",
+        "score": 0.9115625023841858,
+        "span": 0
+      },
+      {
+        "text": "LRI ( DB- Basis of",
+        "score": 0.9665151768260531,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "WAXC ) IDd",
+        "score": 0.7902285754680634,
+        "span": 0
+      }
+    ]
+  ],
+  "body": [
+    [
+      {
+        "text": "50 Ethyl linolenate milky sweet",
+        "score": 0.9995932579040527,
+        "span": 0
+      },
+      {
+        "text": "2613 MS,",
+        "score": 0.9662480155626932,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "roasty",
+        "score": 0.9998037616411845,
+        "span": 0
+      },
+      {
+        "text": "aroma, RI,",
+        "score": 0.9494763612747192,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "s",
+        "score": 0.6687564849853516,
+        "span": 0
+      }
+    ]
+  ],
+  "pass_b": {
+    "n_col": 2,
+    "n_head_row": 2,
+    "n_body_row": 3
+  },
+  "verify": {
+    "n_cells": 10,
+    "n_match": 10,
+    "n_conflict": 0,
+    "n_one_sided": 0,
+    "n_lowconf": 2,
+    "n_repaired": 0,
+    "agree_pct": 100.0,
+    "n_rescued": 0,
+    "rescue_dpi": 600
+  }
+}

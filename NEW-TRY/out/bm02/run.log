@@ -1,0 +1,33 @@
+
+===== cn_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\5  Key Aroma Compounds and Aroma Characteristics in.pdf --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm02 =====
+raster table detection (dpi=150)
+  p1   rules=1   frags=2   y56-326 g1 | y328-791 g1
+  p2   rules=1   frags=1   y78-790 g1
+  p3   rules=1   frags=1   y78-790 g1
+  p5   rules=1   frags=1   y78-790 g4
+  p6   rules=1   frags=1   y78-790 g6
+  p7   rules=1   frags=1   y78-790 g5
+  p9   rules=2   frags=1   y114-790 g6
+  p10  rules=2   frags=1   y114-790 g7
+  p12  rules=1   frags=1   y78-790 g1
+  p13  rules=1   frags=1   y78-790 g1
+  p14  rules=1   frags=1   y78-790 g10
+  p16  rules=1   frags=1   y78-790 g1
+  p17  rules=1   frags=1   y78-790 g1
+  p18  rules=1   frags=1   y78-790 g1
+  p19  rules=1   frags=1   y78-790 g1
+  p20  rules=1   frags=1   y78-790 g1
+candidates: 17 -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\bm02\candidates.json
+
+===== cn_crop_ocr.py --pdf C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\5  Key Aroma Compounds and Aroma Characteristics in.pdf --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm02\candidates_sel.json --dpi 300 --lang English --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm02\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm02\ocr_raw.json --no-pass-b =====
+  T01_p05   p5   2114x3008 gutters=4  boxes=475  avg=0.473 16.6s
+  T02_p06   p6   2118x3008 gutters=6  boxes=448  avg=0.475 16.4s
+  T03_p07   p7   1184x3008 gutters=5  boxes=202  avg=0.470 7.3s
+  T04_p09   p9   2080x2858 gutters=6  boxes=463  avg=0.994 16.1s
+  T05_p10   p10  2094x2858 gutters=7  boxes=465  avg=0.992 16.5s
+  T06_p14   p14  2122x3008 gutters=10 boxes=405  avg=0.989 14.8s
+done: 6 crops -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm02\ocr_raw.json
+
+===== bitmap_grid.py --paper 2 --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm02\candidates_sel.json --ocr C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm02\ocr_raw.json --dpi 300 --tag bm =====
+  #2   tables=6   rows=163    skipped=0   
+  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\bm_02.json

@@ -1,0 +1,4 @@
+﻿table_id,name,pdf_page,section,row,col,suspicion,status,before,after,readings
+T02,T02_p04,4,body,1,8,flagged,rescued_score,0.0090.09,0.009-0.09,0.009-0.09(1.00) | 0.009-0.09(1.00)
+T02,T02_p04,4,body,3,7,flagged,rescued_score,0.0032,-0.0032,-0.0032(0.99) |  0.0032(0.97)
+T02,T02_p04,4,body,6,8,flagged,rescued_score,0.0250.5,0.025-0.5,0.025-0.5(1.00) | 0.025-0.5(1.00)

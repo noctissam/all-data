@@ -1,0 +1,17 @@
+STEP 1 - detect three-line tables
+pdf: C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\3  Characterization of the differences in aroma-active compounds in.pdf
+pages: 11
+  page  1: rules=   6  candidates=6  tables=0
+        rejected p01 y=80..455 h=375  median runs/row 2.0 < 3
+  page  2: rules=   0  candidates=0  tables=0
+  page  3: rules=   0  candidates=0  tables=0
+  page  4: rules=   0  candidates=0  tables=0
+  page  5: rules=   3  candidates=0  tables=0
+  page  6: rules=   0  candidates=0  tables=0
+  page  7: rules=   0  candidates=0  tables=0
+  page  8: rules=   3  candidates=0  tables=0
+  page  9: rules=   0  candidates=0  tables=0
+  page 10: rules=   0  candidates=0  tables=0
+  page 11: rules=   0  candidates=0  tables=0
+candidates=1  tables kept=0  (long: 0)  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\07\tables.json
+images -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\07\img   previews -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\07\page_preview

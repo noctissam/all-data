@@ -1,0 +1,242 @@
+{
+ "1-(1-乙氧基乙氧基)-丁烷": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "2- 丙二醇": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "14-Pentadecanoic acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(14-Pentadecanoic acid)",
+  "query": "14-Pentadecanoic acid"
+ },
+ "2-Furan methanol": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(2-Furan methanol)",
+  "query": "2-Furan methanol"
+ },
+ "2-hydroxy-4-methylvalerate": {
+  "cas": "",
+  "cid": 21918177,
+  "status": "name-not-a-synonym(no candidates)",
+  "query": "2-hydroxy-4-methylvalerate"
+ },
+ "2-甲基丙醇a": {
+  "cas": "78-83-1",
+  "cid": 6560,
+  "status": "ok-eutils",
+  "query": "2-methyl-1-propanol"
+ },
+ "2-苯乙酸乙酯a": {
+  "cas": "101-97-3",
+  "cid": 7590,
+  "status": "ok-eutils",
+  "query": "ethyl 2-phenylacetate"
+ },
+ "3- 丁二醇": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "3-(methylthio)propanal + 3-methylindole": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + 3-methylindole)",
+  "query": "3-(methylthio)propanal + 3-methylindole"
+ },
+ "3-(methylthio)propanal + butyric acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + butyric acid)",
+  "query": "3-(methylthio)propanal + butyric acid"
+ },
+ "3-(methylthio)propanal + hexanoic acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + hexanoic acid)",
+  "query": "3-(methylthio)propanal + hexanoic acid"
+ },
+ "3-(methylthio)propanal + p-cresol": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-(methylthio)propanal + p-cresol)",
+  "query": "3-(methylthio)propanal + p-cresol"
+ },
+ "3-Methyl pentatonic acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-Methyl pentatonic acid)",
+  "query": "3-Methyl pentatonic acid"
+ },
+ "3-甲基丁醛二乙基缩醛": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-methylbutanal diethyl acetal)",
+  "query": "3-methylbutanal diethyl acetal"
+ },
+ "3-苯丙酸乙酯a": {
+  "cas": "2021-28-5",
+  "cid": 16237,
+  "status": "ok-eutils",
+  "query": "ethyl 3-phenylpropionate"
+ },
+ "3-(环戊基)丙酸乙酯": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "Cyclohexanecarboxylic": {
+  "cas": "",
+  "cid": 178862978,
+  "status": "name-not-a-synonym(178862978=?; 178253161=?; 178184131=?; 155891388=?; 177927236=?)",
+  "query": "Cyclohexanecarboxylic"
+ },
+ "Eicosenoic acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Eicosenoic acid)",
+  "query": "Eicosenoic acid"
+ },
+ "Ethyl 9-hexadecenoate": {
+  "cas": "",
+  "cid": 5364759,
+  "status": "name-not-a-synonym(no candidates)",
+  "query": "Ethyl 9-hexadecenoate"
+ },
+ "Ethyl cyclopropanepropionate": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Ethyl cyclopropanepropionate)",
+  "query": "Ethyl cyclopropanepropionate"
+ },
+ "Ethyl linolenate milky sweet": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Ethyl linolenate milky sweet)",
+  "query": "Ethyl linolenate milky sweet"
+ },
+ "Obviousness": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Obviousness)",
+  "query": "Obviousness"
+ },
+ "Pentatonic acid": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Pentatonic acid)",
+  "query": "Pentatonic acid"
+ },
+ "Table 3": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Table 3)",
+  "query": "Table 3"
+ },
+ "Table 4": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Table 4)",
+  "query": "Table 4"
+ },
+ "Typicality": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(Typicality)",
+  "query": "Typicality"
+ },
+ "Unknown": {
+  "cas": "",
+  "cid": 176489272,
+  "status": "name-not-a-synonym(176489272=?; 175675711=?; 172643432=?; 172643431=?; 172643423=?)",
+  "query": "Unknown"
+ },
+ "benzene, (2,2-diethoxyethyl)-ethyl nicotinoate": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(benzene, (2,2-diethoxyethyl)-ethyl nicot)",
+  "query": "benzene, (2,2-diethoxyethyl)-ethyl nicotinoate"
+ },
+ "roasty": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(roasty)",
+  "query": "roasty"
+ },
+ "style": {
+  "cas": "",
+  "cid": 6999957,
+  "status": "name-not-a-synonym(6999957=?; 148184=?; 71653=?; 71001=?; 23964=?)",
+  "query": "style"
+ },
+ "unknown": {
+  "cas": "",
+  "cid": 176489272,
+  "status": "name-not-a-synonym(176489272=?; 175675711=?; 172643432=?; 172643431=?; 172643423=?)",
+  "query": "unknown"
+ },
+ "丁醛二乙缩醛": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(butanal diethyl acetal)",
+  "query": "butanal diethyl acetal"
+ },
+ "乙缩醛a": {
+  "cas": "105-57-7",
+  "cid": 7765,
+  "status": "ok-eutils",
+  "query": "acetal"
+ },
+ "反-2,4-癸二烯醛": {
+  "cas": "",
+  "cid": 86736649,
+  "status": "name-not-a-synonym(no candidates)",
+  "query": "trans-2,4-decadienal"
+ },
+ "己酸-2-糠酯": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(2-furfuryl hexanoate)",
+  "query": "2-furfuryl hexanoate"
+ },
+ "己醇b": {
+  "cas": "111-27-3",
+  "cid": 8103,
+  "status": "ok-eutils",
+  "query": "hexanol"
+ },
+ "戊醇b": {
+  "cas": "71-41-0",
+  "cid": 6276,
+  "status": "ok-eutils",
+  "query": "pentanol"
+ },
+ "苯乙醛a": {
+  "cas": "122-78-1",
+  "cid": 998,
+  "status": "ok-eutils",
+  "query": "phenylacetaldehyde"
+ },
+ "辛醇b": {
+  "cas": "111-87-5",
+  "cid": 957,
+  "status": "ok-eutils",
+  "query": "octanol"
+ },
+ "顺-3-壬烯-1-醇": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(cis-non-3-en-1-ol)",
+  "query": "cis-non-3-en-1-ol"
+ }
+}

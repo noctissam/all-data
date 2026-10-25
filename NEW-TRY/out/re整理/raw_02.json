@@ -1,0 +1,10 @@
+{
+ "idx": 2,
+ "sheet": "5  Key Aroma Compounds and Arom",
+ "pdf": "5  Key Aroma Compounds and Aroma Characteristics in.pdf",
+ "route": "needs-ocr",
+ "n_tables": 0,
+ "fragments": 0,
+ "tables": [],
+ "note": "text layer looks OCR-derived - needs the image pipeline"
+}

@@ -1,0 +1,19 @@
+
+===== cn_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\5  Impact of Pulsed Electric Fields Combined with Dissolved.pdf --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm05 =====
+raster table detection (dpi=150)
+  p5   rules=1   frags=1   y36-740 g1
+  p15  rules=1   frags=2   y36-123 g1 | y136-738 g7
+  p16  rules=2   frags=1   y93-755 g6
+  p17  rules=3   frags=2   y93-459 g7 | y469-676 g2
+candidates: 6 -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\bm05\candidates.json
+
+===== cn_crop_ocr.py --pdf C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\5  Impact of Pulsed Electric Fields Combined with Dissolved.pdf --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm05\candidates_sel.json --dpi 300 --lang English --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm05\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm05\ocr_raw.json --no-pass-b =====
+  T01_p15   p15  2090x2550 gutters=7  boxes=349  avg=0.996 12.9s
+  T02_p16   p16  2050x2798 gutters=6  boxes=384  avg=0.991 12.6s
+  T03_p17   p17  2126x1566 gutters=7  boxes=151  avg=0.965 5.3s
+  T04_p17   p17  1904x904  gutters=2  boxes=51   avg=0.998 3.3s
+done: 4 crops -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm05\ocr_raw.json
+
+===== bitmap_grid.py --paper 5 --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm05\candidates_sel.json --ocr C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm05\ocr_raw.json --dpi 300 --tag bm =====
+  #5   tables=4   rows=140    skipped=0   
+  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\bm_05.json

@@ -1,0 +1,11 @@
+raster table detection (dpi=150)
+  p1   rules=1   frags=1   y271-791 g1
+  p2   rules=1   frags=1   y78-790 g1
+  p4   rules=1   frags=1   y78-790 g1
+  p5   rules=2   frags=1   y117-790 g1
+  p6   rules=2   frags=1   y114-790 g10
+  p9   rules=1   frags=1   y78-790 g2
+  p11  rules=1   frags=1   y78-790 g1
+  p12  rules=1   frags=1   y78-790 g1
+  p13  rules=1   frags=1   y78-790 g1
+candidates: 9 -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm06\candidates.json

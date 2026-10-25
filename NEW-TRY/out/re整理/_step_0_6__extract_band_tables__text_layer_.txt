@@ -1,0 +1,37 @@
+﻿  #1   2  Characterization of key odorants causing  -> needs-ocr no text layer
+  #2   5  Key Aroma Compounds and Aroma Characteris -> needs-ocr no text layer
+  #3   2  Decoding the Molecular Mechanism of Cella -> needs-ocr no text layer
+  #4   2  Volatilomics and Lipidomics revealed flav -> needs-ocr no text layer
+  #5   5  Impact of Pulsed Electric Fields Combined tables=2   named=1  rows=145   4x2; 141x8
+  #6   8 Flavoromic Exploration of Regional Variati -> needs-ocr no text layer
+  #7   3  Characterization of the differences in ar -> needs-ocr no text layer
+  #8   3  Unraveling variation on the profile aroma -> needs-ocr no text layer
+  #9   10  Aroma characterization and reconstitutio -> needs-ocr no text layer
+  #10  8  Exploration of key aroma active compounds -> needs-ocr no text layer
+  #11  3   Investigation on the key factors associa -> needs-ocr no text layer
+  #12  不同等级浓香型白酒基酒挥发性风味物质差异分析_岳小淋.pdf               tables=1   named=1  rows=45    45x9
+  #13  高粱营养品质对浓香型白酒酿造品质的影响_李静心.pdf                  tables=2   named=1  rows=37    8x5; 29x13
+  #14  四川不同产区浓香型白酒风味物质差异化分析_关宝义.pdf                 tables=3   named=2  rows=72    13x2; 50x8; 9x8
+  #15  基于GC×GC-MS分析不同等级浓香型白酒的关键风味化合物_陈乙源.pdf        tables=2   named=2  rows=56    54x12; 2x2
+  #16  基于全二维气相色谱-飞行时间质谱结合多元统计方法解析芝麻香型白酒的风味组分研究_江伟.p tables=2   named=2  rows=109   65x13; 44x13
+  #17  5种品牌浓香型白酒香气成分分析_杨斌.pdf                       tables=7   named=1  rows=73    21x3; 2x11; 34x11; 6x11
+  #18  北派浓香型白酒年份标记物的非靶向鉴定_黄河.pdf                    tables=3   named=0  rows=33    8x3; 5x2; 20x7
+  #19  不同贮存年份的五粮浓香型白酒挥发性风味物质对比分析_胥佳.pdf             tables=3   named=3  rows=98    12x2; 35x7; 51x7
+  #20  浓香、酱香、清香型白酒挥发性风味的特征与差异研究_张卜升.pdf             tables=4   named=3  rows=106   10x4; 41x8; 16x8; 39x9
+  #21  三种香型白酒的ICP-OES和GC-QTOF_MS分析及判别研究_卓俊纳.pdf     tables=24  named=6  rows=470   17x4; 7x13; 16x4; 10x10
+  #22  基于GC-MS的浓香型白酒等级评判模型研究_陈明举.pdf                tables=4   named=1  rows=33    16x9; 10x5; 3x14; 4x11
+  #23  浓香型白酒及其风味成分对乙醇代谢关键酶酶活性的影响_曾礼兰.pdf            tables=14  named=0  rows=217   12x4; 20x7; 14x7; 30x8
+  #24  3个年份浓香型白酒香气成分比较研究_曹玉发.pdf                    tables=5   named=1  rows=124   2x4; 35x7; 33x7; 32x7
+  #25  基于GC-MS结合化学计量学的浓香型白酒分类方法_胡雪.pdf              tables=2   named=1  rows=45    6x6; 39x7
+  #26  山东沂蒙老区浓香型白酒特征风味研究_张伟建.pdf                    tables=23  named=14 rows=475   19x5; 6x3; 23x10; 22x5
+  #27  浓香型白酒基酒挥发性成分分析及等级识别研究_周轩.pdf                 -> needs-ocr fullwidth digits/latin soup (0.0096)
+  #28  基于GC-QTOF_MS技术的浓香型白酒原酒质量等级评价_栗新峰.pdf         tables=5   named=2  rows=131   27x3; 48x11; 42x12; 5x5
+  #29  酱香型和浓香型白酒中香气物质及其差异研究_王晓欣.pdf                 tables=31  named=26 rows=1184  20x6; 14x10; 8x10; 17x7
+  #30  应用GC-MS对两种原粮酿造的浓香型白酒挥发性化合物的分析_袁瀚.pdf         tables=1   named=0  rows=23    23x8
+  #31  洋河绵柔型白酒关键风味成分_范文来.pdf                        tables=2   named=2  rows=90    24x6; 66x8
+  #32  浓香型洋河天之蓝和清香型二锅头大曲白酒特征香气成分研究_张恩.pdf           -> needs-ocr no 酯 anywhere but plenty of 醇/酸
+  #33  浓香型白酒基酒味觉特征与挥发性风味成分相关性研究_路瑞.pdf              tables=1   named=1  rows=58    58x7
+  #34  宜宾产区浓香型白酒风味特征及香气活性物质鼻后释放规律的研究_相里冉.pdf        tables=20  named=12 rows=845   16x6; 35x6; 12x4; 27x13
+
+processed 34
+wrap rejoin: 48 occurrences, 23 distinct -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\wrap_report.txt

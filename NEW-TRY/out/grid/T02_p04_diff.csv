@@ -1,0 +1,8 @@
+﻿table_id,name,pdf_page,section,row,col,status,pass_A_text,pass_B_text,min_score
+T02,T02_p04,4,head,1,1,conflict_tie,No.,No.Compounds,0.9969
+T02,T02_p04,4,head,1,2,conflict_a,Compounds,,0
+T02,T02_p04,4,head,3,10,repaired_C,(g/L),(μg/L),0.9934
+T02,T02_p04,4,body,1,7,conflict_tie,- 0.0005,0.0005,0.9269
+T02,T02_p04,4,body,1,8,conflict_tie,0.0090.09,0.009-0.09,0.9979
+T02,T02_p04,4,body,3,7,conflict_tie,0.0032,- 0.0032,0.973
+T02,T02_p04,4,body,6,8,conflict_a,0.0250.5,0.025-0.5,0.9747

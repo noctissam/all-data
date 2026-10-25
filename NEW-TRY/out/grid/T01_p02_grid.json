@@ -1,0 +1,653 @@
+{
+  "id": "T01",
+  "name": "T01_p02",
+  "page": 2,
+  "long_table": true,
+  "src_pdf_rect": [
+    32.68,
+    88.76,
+    563.48,
+    288.66
+  ],
+  "img_a": "img/T01_p02_A.png",
+  "img_b": "img/T01_p02_B.png",
+  "caption": [
+    "Concentration of 3-(methylthio)propanal in the other 16 base SAB samples determined using derivatization combined with VSLLME-GC-MS (n = 3)."
+  ],
+  "caption_text": "Concentration of 3-(methylthio)propanal in the other 16 base SAB samples determined using derivatization combined with VSLLME-GC-MS (n = 3).",
+  "note": [],
+  "note_text": "",
+  "cols": [
+    42.18,
+    105.68,
+    217.68,
+    363.18,
+    472.68,
+    537.68
+  ],
+  "bands": [
+    [
+      42.18,
+      52.18
+    ],
+    [
+      105.68,
+      141.68
+    ],
+    [
+      217.68,
+      311.68
+    ],
+    [
+      363.18,
+      405.18
+    ],
+    [
+      472.68,
+      484.18
+    ],
+    [
+      537.68,
+      551.18
+    ]
+  ],
+  "n_col": 6,
+  "n_head_row": 2,
+  "n_body_row": 16,
+  "header": [
+    [
+      {
+        "text": "No.",
+        "score": 0.9999785820643107,
+        "span": 0
+      },
+      {
+        "text": "Sample abbreviation",
+        "score": 0.9844502022391871,
+        "span": 0
+      },
+      {
+        "text": "Cooperant distilleries",
+        "score": 0.9773754531686957,
+        "span": 0
+      },
+      {
+        "text": "Mean concentration",
+        "score": 0.9890041351318359,
+        "span": 0
+      },
+      {
+        "text": "RSD",
+        "score": 0.9997095266977946,
+        "span": 0
+      },
+      {
+        "text": "OAV",
+        "score": 0.9665690859158834,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "(μg/L)",
+        "score": 0.9965803980827331,
+        "span": 0
+      },
+      {
+        "text": "(%)",
+        "score": 0.9974968433380127,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ]
+  ],
+  "body": [
+    [
+      {
+        "text": "1",
+        "score": 0.9988792538642883,
+        "span": 0
+      },
+      {
+        "text": "LZ-2015",
+        "score": 0.9992813042231968,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.9864969398036147,
+        "span": 0
+      },
+      {
+        "text": "496.2 ± 40.0",
+        "score": 0.999085009098053,
+        "span": 0
+      },
+      {
+        "text": "8.1",
+        "score": 0.9999001224835714,
+        "span": 0
+      },
+      {
+        "text": "70",
+        "score": 0.9999751448631287,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "2",
+        "score": 0.9999865293502808,
+        "span": 0
+      },
+      {
+        "text": "LZ-21(14)",
+        "score": 0.9905695981449552,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.978974517547723,
+        "span": 0
+      },
+      {
+        "text": "301.5 ± 4.6",
+        "score": 0.5606229901313782,
+        "span": 0
+      },
+      {
+        "text": "1.5",
+        "score": 0.9995014667510986,
+        "span": 0
+      },
+      {
+        "text": "42",
+        "score": 0.9999979138374329,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "3",
+        "score": 0.9999839067459106,
+        "span": 0
+      },
+      {
+        "text": "LZ-21(15)",
+        "score": 0.9710304803318448,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.9793880383173624,
+        "span": 0
+      },
+      {
+        "text": "717.6 ± 38.8",
+        "score": 0.749931812286377,
+        "span": 0
+      },
+      {
+        "text": "5.4",
+        "score": 0.9999134341875712,
+        "span": 0
+      },
+      {
+        "text": "101",
+        "score": 0.9999514818191528,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "4",
+        "score": 0.9999939203262329,
+        "span": 0
+      },
+      {
+        "text": "LZ-21(16)",
+        "score": 0.9925790694024827,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.979651619087566,
+        "span": 0
+      },
+      {
+        "text": "786.3 ± 49.8",
+        "score": 0.5353800058364868,
+        "span": 0
+      },
+      {
+        "text": "6.3",
+        "score": 0.9999574025472006,
+        "span": 0
+      },
+      {
+        "text": "110",
+        "score": 0.9999808470408121,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "5",
+        "score": 0.9999915361404419,
+        "span": 0
+      },
+      {
+        "text": "LZ-21(17)",
+        "score": 0.9967475136121114,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.9907086888949076,
+        "span": 0
+      },
+      {
+        "text": "734.2 ± 11.9",
+        "score": 0.4088154137134552,
+        "span": 0
+      },
+      {
+        "text": "1.6",
+        "score": 0.9999639193216959,
+        "span": 0
+      },
+      {
+        "text": "103",
+        "score": 0.9999989668528239,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "6",
+        "score": 0.9998414516448975,
+        "span": 0
+      },
+      {
+        "text": "LZ-21(18)",
+        "score": 0.961031350824568,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.9802503965117715,
+        "span": 0
+      },
+      {
+        "text": "659.1 ± 2.7",
+        "score": 0.46656379103660583,
+        "span": 0
+      },
+      {
+        "text": "0.4",
+        "score": 0.9998976985613505,
+        "span": 0
+      },
+      {
+        "text": "93",
+        "score": 0.9999987483024597,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "7",
+        "score": 0.9997555613517761,
+        "span": 0
+      },
+      {
+        "text": "LZ-21(19)",
+        "score": 0.9942602382765876,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.9892400774088773,
+        "span": 0
+      },
+      {
+        "text": "183.6 ± 6.7",
+        "score": 0.3435835540294647,
+        "span": 0
+      },
+      {
+        "text": "3.6",
+        "score": 0.9999661445617676,
+        "span": 0
+      },
+      {
+        "text": "26",
+        "score": 0.9999985694885254,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "8",
+        "score": 0.999848484992981,
+        "span": 0
+      },
+      {
+        "text": "LZ-21(20)",
+        "score": 0.963794019487169,
+        "span": 0
+      },
+      {
+        "text": "Luzhoulaojiao Distillery Co., Ltd",
+        "score": 0.9797304940946174,
+        "span": 0
+      },
+      {
+        "text": "922.3 ± 10.7",
+        "score": 0.8539130091667175,
+        "span": 0
+      },
+      {
+        "text": "1.2",
+        "score": 0.9999380509058634,
+        "span": 0
+      },
+      {
+        "text": "130",
+        "score": 0.9999985694885254,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "9",
+        "score": 0.9999251365661621,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-9)",
+        "score": 0.9528511017560959,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.9807088832060497,
+        "span": 0
+      },
+      {
+        "text": "626.4 ± 31.8",
+        "score": 0.8942277431488037,
+        "span": 0
+      },
+      {
+        "text": "5.1",
+        "score": 0.9348993897438049,
+        "span": 0
+      },
+      {
+        "text": "88",
+        "score": 0.9999942183494568,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "10",
+        "score": 0.9999735355377197,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-20)",
+        "score": 0.9760534644126893,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.9704583764076233,
+        "span": 0
+      },
+      {
+        "text": "861.5 ± 15.8",
+        "score": 0.4495047330856323,
+        "span": 0
+      },
+      {
+        "text": "1.8",
+        "score": 0.9999788602193197,
+        "span": 0
+      },
+      {
+        "text": "121",
+        "score": 0.9998717705408732,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "11",
+        "score": 0.9929981231689453,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-22)",
+        "score": 0.9013481272591485,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.9769790987173717,
+        "span": 0
+      },
+      {
+        "text": "505.3 ± 11.9",
+        "score": 0.9999254792928696,
+        "span": 0
+      },
+      {
+        "text": "2.4",
+        "score": 0.9999364018440247,
+        "span": 0
+      },
+      {
+        "text": "71",
+        "score": 0.9999113380908966,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "12",
+        "score": 0.9999321103096008,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-24)",
+        "score": 0.89239342212677,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.979572222630183,
+        "span": 0
+      },
+      {
+        "text": "700.2 ± 19.7",
+        "score": 0.9324657320976257,
+        "span": 0
+      },
+      {
+        "text": "2.8",
+        "score": 0.9999594688415527,
+        "span": 0
+      },
+      {
+        "text": "98",
+        "score": 0.9999794960021973,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "13",
+        "score": 0.9999880790710449,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-26)",
+        "score": 0.9288931543176825,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.9697713275750478,
+        "span": 0
+      },
+      {
+        "text": "373.3 ± 23.2",
+        "score": 0.8832786083221436,
+        "span": 0
+      },
+      {
+        "text": "6.2",
+        "score": 0.9999768336613973,
+        "span": 0
+      },
+      {
+        "text": "52",
+        "score": 0.9999949932098389,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "14",
+        "score": 0.9999936819076538,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-28)",
+        "score": 0.9489949569106102,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.9854311466217041,
+        "span": 0
+      },
+      {
+        "text": "941.1 ± 12.9",
+        "score": 0.5782366991043091,
+        "span": 0
+      },
+      {
+        "text": "1.4",
+        "score": 0.9999488194783529,
+        "span": 0
+      },
+      {
+        "text": "132",
+        "score": 0.9999967813491821,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "15",
+        "score": 0.9999041259288788,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-30)",
+        "score": 0.9280209720134736,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.9845132211844126,
+        "span": 0
+      },
+      {
+        "text": "780.8 ± 11.2",
+        "score": 0.7941834330558777,
+        "span": 0
+      },
+      {
+        "text": "1.4",
+        "score": 0.9999062816301981,
+        "span": 0
+      },
+      {
+        "text": "110",
+        "score": 0.9999278585116068,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "16",
+        "score": 0.9993998408317566,
+        "span": 0
+      },
+      {
+        "text": "GJG-(D-33)",
+        "score": 0.938983577489853,
+        "span": 0
+      },
+      {
+        "text": "Gujinggong Distillery Co., Ltd",
+        "score": 0.9956493635972341,
+        "span": 0
+      },
+      {
+        "text": "1552.0 ± 91.2",
+        "score": 0.7863837480545044,
+        "span": 0
+      },
+      {
+        "text": "5.9",
+        "score": 0.9999829530715942,
+        "span": 0
+      },
+      {
+        "text": "218",
+        "score": 0.9999959071477255,
+        "span": 0
+      }
+    ]
+  ],
+  "pass_b": {
+    "n_col": 6,
+    "n_head_row": 2,
+    "n_body_row": 16
+  },
+  "verify": {
+    "n_cells": 108,
+    "n_match": 90,
+    "n_conflict": 18,
+    "n_one_sided": 0,
+    "n_lowconf": 10,
+    "n_repaired": 4,
+    "agree_pct": 83.33,
+    "n_rescued": 18,
+    "rescue_dpi": 600
+  }
+}

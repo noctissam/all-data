@@ -1,0 +1,24 @@
+STEP 1 - detect three-line tables
+pdf: C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\8  Exploration of key aroma active compounds in strong flavor Baijiu during.pdf
+pages: 14
+  page  1: rules=   6  candidates=6  tables=0
+        rejected p01 y=80..474 h=394  median runs/row 2.0 < 3
+  page  2: rules=   4  candidates=2  tables=1
+  page  3: rules=   0  candidates=0  tables=0
+  page  4: rules=   0  candidates=0  tables=0
+  page  5: rules=   3  candidates=1  tables=1
+  page  6: rules=   2  candidates=0  tables=0
+  page  7: rules=   5  candidates=1  tables=1
+  page  8: rules=   4  candidates=0  tables=0
+  page  9: rules=  11  candidates=22  tables=1
+  page 10: rules=   0  candidates=0  tables=0
+  page 11: rules=   0  candidates=0  tables=0
+  page 12: rules=   0  candidates=0  tables=0
+  page 13: rules=   0  candidates=0  tables=0
+  page 14: rules=   0  candidates=0  tables=0
+  T01 p02  251.5 x  86.5 pt  rows~13  long=True  A=1090x448 B=1454x596
+  T02 p05  251.5 x 652.4 pt  rows~102  long=True  A=1090x2919 B=1454x3891
+  T03 p07  251.5 x  52.3 pt  rows~ 5  long=False  A=1090x305 B=1454x405
+  T04 p09  522.8 x 640.1 pt  rows~71  long=True  A=2221x2919 B=2961x3891
+candidates=5  tables kept=4  (long: 3)  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\10\tables.json
+images -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\10\img   previews -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\en_batch\10\page_preview

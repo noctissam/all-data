@@ -1,0 +1,248 @@
+{
+ "2-己烯酸乙酯": {
+  "cas": "1552-67-6",
+  "cid": 519129,
+  "status": "ok-eutils",
+  "query": "ethyl 2-hexenoate"
+ },
+ "2-甲基丁酸-2-苯乙酯": {
+  "cas": "24817-51-4",
+  "cid": 520148,
+  "status": "ok-eutils",
+  "query": "2-phenylethyl 2-methylbutyrate"
+ },
+ "2-甲基丙醇": {
+  "cas": "78-83-1",
+  "cid": 6560,
+  "status": "ok-eutils",
+  "query": "2-methyl-1-propanol"
+ },
+ "2-糠酸乙酯": {
+  "cas": "614-99-3",
+  "cid": 11980,
+  "status": "ok-eutils",
+  "query": "ethyl 2-furoate"
+ },
+ "2-糠醛乙酯": {
+  "cas": "614-99-3",
+  "cid": 11980,
+  "status": "ok-eutils",
+  "query": "ethyl 2-furoate"
+ },
+ "2-糠醛缩二乙醇": {
+  "cas": "13529-27-6",
+  "cid": 83553,
+  "status": "ok-eutils",
+  "query": "2-furaldehyde diethyl acetal"
+ },
+ "2-羟基已酸乙酯": {
+  "cas": "52089-55-1",
+  "cid": 103589,
+  "status": "ok-eutils",
+  "query": "ethyl 2-hydroxyhexanoate"
+ },
+ "2-苯乙酸乙酯": {
+  "cas": "101-97-3",
+  "cid": 7590,
+  "status": "ok-eutils",
+  "query": "ethyl 2-phenylacetate"
+ },
+ "3-壬烯酸乙酯": {
+  "cas": "91213-30-8",
+  "cid": 533721,
+  "status": "ok-eutils",
+  "query": "ethyl 3-nonenoate"
+ },
+ "3-己烯酸乙酯": {
+  "cas": "2396-83-0",
+  "cid": 5362622,
+  "status": "ok-eutils",
+  "query": "ethyl 3-hexenoate"
+ },
+ "3-甲基丁醛二乙基缩醛": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-methylbutanal diethyl acetal)",
+  "query": "3-methylbutanal diethyl acetal"
+ },
+ "3-苯丙酸乙酯": {
+  "cas": "2021-28-5",
+  "cid": 16237,
+  "status": "ok-eutils",
+  "query": "ethyl 3-phenylpropionate"
+ },
+ "4-乙基苯酚": {
+  "cas": "123-07-9",
+  "cid": 31242,
+  "status": "ok-eutils",
+  "query": "4-ethylphenol"
+ },
+ "4-乙烯基愈创木酚": {
+  "cas": "7786-61-0",
+  "cid": 332,
+  "status": "ok-eutils",
+  "query": "4-vinylguaiacol"
+ },
+ "4-甲基苯酚": {
+  "cas": "106-44-5",
+  "cid": 2879,
+  "status": "ok-eutils",
+  "query": "4-methylphenol"
+ },
+ "丁酸-2-苯乙酯": {
+  "cas": "103-52-6",
+  "cid": 7658,
+  "status": "ok-eutils",
+  "query": "2-phenylethyl butyrate"
+ },
+ "丁酸-3 甲基丁酯": {
+  "cas": "106-27-4",
+  "cid": 7795,
+  "status": "ok-eutils",
+  "query": "3-methylbutyl butyrate"
+ },
+ "丙二醇": {
+  "cas": "57-55-6",
+  "cid": 1030,
+  "status": "ok-eutils",
+  "query": "1,2-propanediol"
+ },
+ "乙偶姻": {
+  "cas": "513-86-0",
+  "cid": 179,
+  "status": "ok-eutils",
+  "query": "acetoin"
+ },
+ "乙偶昵": {
+  "cas": "513-86-0",
+  "cid": 179,
+  "status": "ok-eutils",
+  "query": "acetoin"
+ },
+ "乙缩醛": {
+  "cas": "105-57-7",
+  "cid": 7765,
+  "status": "ok-eutils",
+  "query": "acetal"
+ },
+ "乙酸-2-苯乙酯": {
+  "cas": "103-45-7",
+  "cid": 7654,
+  "status": "ok-eutils",
+  "query": "2-phenylethyl acetate"
+ },
+ "二甲基三硫": {
+  "cas": "3658-80-8",
+  "cid": 19310,
+  "status": "ok-eutils",
+  "query": "dimethyl trisulfide"
+ },
+ "二甲基二硫": {
+  "cas": "624-92-0",
+  "cid": 12232,
+  "status": "ok-eutils",
+  "query": "dimethyl disulfide"
+ },
+ "仲丁醇": {
+  "cas": "78-92-2",
+  "cid": 6568,
+  "status": "ok-eutils",
+  "query": "2-butanol"
+ },
+ "反,顺-2,6-壬二烯醛": {
+  "cas": "557-48-2",
+  "cid": 643731,
+  "status": "ok-eutils",
+  "query": "(2E,6Z)-2,6-nonadienal"
+ },
+ "反-2-壬醛": {
+  "cas": "2463-53-8",
+  "cid": 5283335,
+  "status": "ok-eutils",
+  "query": "(E)-2-nonenal"
+ },
+ "反-4-癸烯酸乙酯": {
+  "cas": "76649-16-6",
+  "cid": 5362583,
+  "status": "ok-eutils",
+  "query": "ethyl trans-4-decenoate"
+ },
+ "叔戊醇": {
+  "cas": "75-85-4",
+  "cid": 6405,
+  "status": "ok-eutils",
+  "query": "2-methyl-2-butanol"
+ },
+ "己酸-2 甲基丙酯": {
+  "cas": "105-79-3",
+  "cid": 7775,
+  "status": "ok-eutils",
+  "query": "isobutyl hexanoate"
+ },
+ "己酸-2-糠酯": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(2-furfuryl hexanoate)",
+  "query": "2-furfuryl hexanoate"
+ },
+ "己酸-2-苯乙酯": {
+  "cas": "6290-37-5",
+  "cid": 61384,
+  "status": "ok-eutils",
+  "query": "2-phenylethyl hexanoate"
+ },
+ "庚酸-3-甲丁酯": {
+  "cas": "109-25-1",
+  "cid": 66955,
+  "status": "ok-eutils",
+  "query": "3-methylbutyl heptanoate"
+ },
+ "异丁酸": {
+  "cas": "79-31-2",
+  "cid": 6590,
+  "status": "ok-eutils",
+  "query": "isobutyric acid"
+ },
+ "异丙基3-苯基丙酸酯": {
+  "cas": "22767-95-9",
+  "cid": 347496,
+  "status": "ok-eutils",
+  "query": "isopropyl 3-phenylpropionate"
+ },
+ "异戊酸": {
+  "cas": "503-74-2",
+  "cid": 10430,
+  "status": "ok-eutils",
+  "query": "isovaleric acid"
+ },
+ "异戊酸-2-苯乙酯": {
+  "cas": "140-26-1",
+  "cid": 8792,
+  "status": "ok-eutils",
+  "query": "2-phenylethyl isovalerate"
+ },
+ "活性戊醇": {
+  "cas": "137-32-6",
+  "cid": 8723,
+  "status": "ok-eutils",
+  "query": "2-methyl-1-butanol"
+ },
+ "百里酚": {
+  "cas": "89-83-8",
+  "cid": 6989,
+  "status": "ok-eutils",
+  "query": "thymol"
+ },
+ "苯乙醛": {
+  "cas": "122-78-1",
+  "cid": 998,
+  "status": "ok-eutils",
+  "query": "phenylacetaldehyde"
+ },
+ "香叶基丙酮": {
+  "cas": "3796-70-1",
+  "cid": 1549778,
+  "status": "ok-eutils",
+  "query": "geranylacetone"
+ }
+}

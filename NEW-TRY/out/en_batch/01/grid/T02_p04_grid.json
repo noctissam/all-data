@@ -1,0 +1,620 @@
+{
+  "id": "T02",
+  "name": "T02_p04",
+  "page": 4,
+  "long_table": true,
+  "src_pdf_rect": [
+    32.68,
+    79.02,
+    563.48,
+    245.64
+  ],
+  "img_a": "img/T02_p04_A.png",
+  "img_b": "img/T02_p04_B.png",
+  "caption": [
+    "Table 2 (continued)"
+  ],
+  "caption_text": "Table 2 (continued)",
+  "note": [
+    "The quantitative methods detailed in the \"Multi-Quantitative Analysis of Aroma Compounds\" section.",
+    "D The internal standards used to quantitate the compounds were amyl acetate (IS1), 2-ethylbutyric acid (IS2), ethyl heptadecanoate (IS3), 2,3-dimethylindole (IS4)",
+    "and 3-(methylthio)butanal-PFBHA (IS5).",
+    "Calibration factors of aroma compounds, detected by GC-FID."
+  ],
+  "note_text": "The quantitative methods detailed in the \"Multi-Quantitative Analysis of Aroma Compounds\" section. D The internal standards used to quantitate the compounds were amyl acetate (IS1), 2-ethylbutyric acid (IS2), ethyl heptadecanoate (IS3), 2,3-dimethylindole (IS4) and 3-(methylthio)butanal-PFBHA (IS5). Calibration factors of aroma compounds, detected by GC-FID.",
+  "cols": [
+    42.68,
+    59.68,
+    174.18,
+    276.68,
+    338.68,
+    355.18,
+    383.18,
+    415.68,
+    467.18,
+    493.68,
+    519.18
+  ],
+  "bands": [
+    [
+      42.68,
+      52.18
+    ],
+    [
+      59.68,
+      103.68
+    ],
+    [
+      174.18,
+      247.18
+    ],
+    [
+      276.68,
+      286.18
+    ],
+    [
+      338.68,
+      350.18
+    ],
+    [
+      355.18,
+      376.68
+    ],
+    [
+      383.18,
+      410.68
+    ],
+    [
+      415.68,
+      445.68
+    ],
+    [
+      467.18,
+      489.18
+    ],
+    [
+      493.68,
+      505.18
+    ],
+    [
+      519.18,
+      537.68
+    ]
+  ],
+  "n_col": 11,
+  "n_head_row": 3,
+  "n_body_row": 6,
+  "header": [
+    [
+      {
+        "text": "No.",
+        "score": 0.9968925913174947,
+        "span": 0
+      },
+      {
+        "text": "Compounds",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "Methodsa",
+        "score": 0.988159291446209,
+        "span": 0
+      },
+      {
+        "text": "Quantified ion (m/",
+        "score": 0.9965613583723704,
+        "span": 0
+      },
+      {
+        "text": "ISb",
+        "score": 0.9090489149093628,
+        "span": 0
+      },
+      {
+        "text": "Linearity",
+        "score": 0.9785949256685045,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "LOD",
+        "score": 0.9995730519294739,
+        "span": 0
+      },
+      {
+        "text": "Recovery",
+        "score": 0.9999406635761261,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "z)",
+        "score": 0.9714076817035675,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "slope",
+        "score": 0.973495731751124,
+        "span": 0
+      },
+      {
+        "text": "intercept",
+        "score": 0.9996209210819669,
+        "span": 0
+      },
+      {
+        "text": "Range (mg/L)",
+        "score": 0.9997417281071345,
+        "span": 0
+      },
+      {
+        "text": "R2",
+        "score": 0.9974372982978821,
+        "span": 0
+      },
+      {
+        "text": "(μg/L)",
+        "score": 0.9934295773506164,
+        "span": 0
+      },
+      {
+        "text": "(%)",
+        "score": 0.9922072092692057,
+        "span": 0
+      }
+    ]
+  ],
+  "body": [
+    [
+      {
+        "text": "63",
+        "score": 0.9999986886978149,
+        "span": 0
+      },
+      {
+        "text": "3-methylindole",
+        "score": 0.9951542232717786,
+        "span": 0
+      },
+      {
+        "text": "VSLLME-HP-5MS-CC14",
+        "score": 0.973257862859302,
+        "span": 0
+      },
+      {
+        "text": "130",
+        "score": 0.9999980131785074,
+        "span": 0
+      },
+      {
+        "text": "IS4",
+        "score": 0.7986098031202952,
+        "span": 0
+      },
+      {
+        "text": "0.1236",
+        "score": 0.9999924699465433,
+        "span": 0
+      },
+      {
+        "text": "- 0.0005",
+        "score": 0.9268796890974045,
+        "span": 0
+      },
+      {
+        "text": "0.009-0.09",
+        "score": 0.9978982031345367,
+        "span": 0
+      },
+      {
+        "text": "0.9976",
+        "score": 0.991907517115275,
+        "span": 0
+      },
+      {
+        "text": "0.1",
+        "score": 0.9995632767677307,
+        "span": 0
+      },
+      {
+        "text": "116.6",
+        "score": 0.9999869346618653,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "Lactones",
+        "score": 0.999725803732872,
+        "span": 2
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "64",
+        "score": 0.9999979734420776,
+        "span": 0
+      },
+      {
+        "text": "-nonalactone",
+        "score": 0.9992831895748774,
+        "span": 0
+      },
+      {
+        "text": "VSLLME-DB-WAX-CH2Cl2",
+        "score": 0.9966066539287567,
+        "span": 0
+      },
+      {
+        "text": "85",
+        "score": 0.7621914148330688,
+        "span": 0
+      },
+      {
+        "text": "IS3",
+        "score": 0.9412697950998942,
+        "span": 0
+      },
+      {
+        "text": "1.2423",
+        "score": 0.9999934236208597,
+        "span": 0
+      },
+      {
+        "text": "-0.0032",
+        "score": 0.9730140396526882,
+        "span": 0
+      },
+      {
+        "text": "0.045-0.9",
+        "score": 0.9854775998327467,
+        "span": 0
+      },
+      {
+        "text": "0.9986",
+        "score": 0.9999941190083822,
+        "span": 0
+      },
+      {
+        "text": "1.8",
+        "score": 0.9999551773071289,
+        "span": 0
+      },
+      {
+        "text": "119.4",
+        "score": 0.9999272584915161,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "Furans",
+        "score": 0.9999333818753561,
+        "span": 2
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "67",
+        "score": 0.999997079372406,
+        "span": 0
+      },
+      {
+        "text": "furfuryl acetate",
+        "score": 0.9751185700297356,
+        "span": 0
+      },
+      {
+        "text": "VSLLME-DB-WAX-CH2Cl2",
+        "score": 0.996696138381958,
+        "span": 0
+      },
+      {
+        "text": "81",
+        "score": 0.9999505877494812,
+        "span": 0
+      },
+      {
+        "text": "IS1",
+        "score": 0.9895786643028259,
+        "span": 0
+      },
+      {
+        "text": "0.1476",
+        "score": 0.9999924898147583,
+        "span": 0
+      },
+      {
+        "text": "0.0001",
+        "score": 0.9999879797299703,
+        "span": 0
+      },
+      {
+        "text": "0.009-0.9",
+        "score": 0.9903167088826498,
+        "span": 0
+      },
+      {
+        "text": "0.9962",
+        "score": 0.9999978939692179,
+        "span": 0
+      },
+      {
+        "text": "4.2",
+        "score": 0.9999908208847046,
+        "span": 0
+      },
+      {
+        "text": "84.1",
+        "score": 0.9999501258134842,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "68",
+        "score": 0.76163050532341,
+        "span": 0
+      },
+      {
+        "text": "ethyl 2-furoate",
+        "score": 0.9671911597251892,
+        "span": 0
+      },
+      {
+        "text": "VSLLME-DB-WAX-CH2Cl2",
+        "score": 0.9975553214550018,
+        "span": 0
+      },
+      {
+        "text": "95",
+        "score": 0.9999980330467224,
+        "span": 0
+      },
+      {
+        "text": "IS1",
+        "score": 0.9919649958610535,
+        "span": 0
+      },
+      {
+        "text": "1.2426",
+        "score": 0.999993085861206,
+        "span": 0
+      },
+      {
+        "text": "-0.0035",
+        "score": 0.9688340350985527,
+        "span": 0
+      },
+      {
+        "text": "0.025-0.5",
+        "score": 0.9746691717041863,
+        "span": 0
+      },
+      {
+        "text": "0.9982",
+        "score": 0.9999974370002747,
+        "span": 0
+      },
+      {
+        "text": "0.9",
+        "score": 0.9999626874923706,
+        "span": 0
+      },
+      {
+        "text": "115.7",
+        "score": 0.9999645233154297,
+        "span": 0
+      }
+    ]
+  ],
+  "pass_b": {
+    "n_col": 11,
+    "n_head_row": 3,
+    "n_body_row": 6
+  },
+  "verify": {
+    "n_cells": 99,
+    "n_match": 93,
+    "n_conflict": 6,
+    "n_one_sided": 0,
+    "n_lowconf": 4,
+    "n_repaired": 1,
+    "agree_pct": 93.94,
+    "n_rescued": 3,
+    "rescue_dpi": 600
+  }
+}

@@ -1,0 +1,903 @@
+(-)--terpineol
+(E)-2-undecen-1-ol
+(S)-(-)-2-methylbutanol
+(Z)- 3-Hexen-1-ol
+-nonalactone
+1 Ethyl acetate
+1,1,3-三乙氧基丙烷
+1,1-diethoxy-Hexane
+1,1-diethoxynonane
+1,1-二乙氧基 -2-甲基丁烷
+1,1-二乙氧基 -3-甲基丁烷
+1,1-二乙氧基-2-苯乙烷
+1,1-二乙氧基-3-甲基丁烷
+1,2-Propanediol
+1,2-hexanediol
+1,8-Cineole
+1- 辛醇
+1-Butanol
+1-Hexanol
+1-Nonanal
+1-Octanol
+1-Octen-3-ol
+1-Pentanol
+1-Propanol
+1-butanol
+1-dodecanol
+1-hexanol
+1-nonanol
+1-octanol
+1-octen-3-ol
+1-phenylethanone
+1-丁醇
+1-丙醇
+1-壬醇
+1-己醇
+1-庚醇
+1-戊醇
+1-癸醇
+1-辛烯-3-酮
+1-辛烯-3-醇
+1-辛醇
+1-（1-乙氧基乙氧基）-丁烷
+1.2- 丙二醇
+10 2-丁酮
+10 Isoamyl acetate
+11 Ethyl pentanoate
+1130 2-戊醇
+1156 1-丁醇
+12 1-Butanol
+1210 3-甲基丁醇
+13 2-戊酮
+13 Ethyl 4-methylpentanoate
+13-Octadecenoic acid
+1310 2-庚醇
+1362 1-己醇
+14 3-Methyl-1-butanol
+14-Pentadecanoic acid
+1457 1-庚醇
+15 Ethyl hexanoate
+1557 1-辛醇
+16 Hexyl acetate
+17 Propyl hexanoate
+17-Octadecynoic acid
+18 Ethyl heptanoate
+19 Ethyl lactate
+1，1-二乙氧基-2-甲基丁烷
+1，1-二乙氧基-3-甲基丁烷
+1，1-二乙氧基乙烷
+1，1，3-三乙氧基丙烷
+1，2-丙二醇
+1，2－丙二醇
+2 3-Methylbutanal
+2, 4-二甲基苯酚
+2, 5-二甲基-3-丁基吡嗪
+2,3,5,6-四甲基吡嗪
+2,3,5-三甲基-6-乙基吡嗪
+2,3,5-三甲基吡嗪
+2,3-Butanediol
+2,3-Diethyl-5-methylpyrazine
+2,3-Pentanedione
+2,3-丁二醇
+2,3-二乙基吡嗪
+2,4-Di-t-butylphenol
+2,4-二叔丁基 苯酚
+2,5-二甲
+2,5-二甲基-3-乙基吡嗪
+2,5-二甲基吡嗪
+2,6-Di-tert-butyl-p-cresol
+2,6-二乙基吡嗪
+2,6-二甲基-4-庚醇
+2,6-二甲基吡嗪
+2- 戊酮
+2- 甲基丁醇
+2- 苯乙醇
+2-(12-Pentadecynyloxy) tetrahydro-2H-pyran
+2-Acetylfuran
+2-Butanol
+2-Butanone
+2-Butylfuran
+2-Dodecenoic acid
+2-Ethyl-3,5-dimethylpyrazine
+2-Ethylhexanol
+2-Furan methanol
+2-Furanmethanol
+2-Heptanol
+2-Heptanone
+2-Hexanol
+2-Methoxy-p-cresol
+2-Methyl-1-butanol
+2-Methyl-1-propanol
+2-Methylbutanal
+2-Methylphenol
+2-Methylpropanal
+2-Methylpropanoic acid
+2-Methylpropanol
+2-Methylpropionic acid
+2-Nonanone
+2-Nonen-4-one
+2-Octanone
+2-Pentadecanone
+2-Pentanol
+2-Pentanone
+2-Phenylethanol
+2-Propyl-1-pentanol
+2-Undecanone
+2-[(Z)-9-Octadecenyloxy]ethanol
+2-butanol
+2-heptanol
+2-hexanol
+2-hexyl-1-decanol
+2-hydroxy-4-methylvalerate
+2-methoxy-4-methylphenol
+2-methoxy-4-vinylphenol
+2-methylpropionic acid
+2-nonanol
+2-nonenoic acid
+2-octanone
+2-phenylethanol
+2-phenylethyl acetate
+2-thenaldehyde
+2-丁酮
+2-丁醇
+2-丙烯-1-醇
+2-丙酮
+2-乙基-5-甲基吡嗪
+2-乙基-5-甲基呋喃
+2-乙基-6-甲基吡嗪
+2-乙基苯酚
+2-乙酰基-4-甲基吡啶
+2-乙酰基-5-甲基呋喃
+2-乙酰基呋喃
+2-十一烯醛
+2-十一酮
+2-十一醇
+2-呋喃基乙基酮
+2-呋喃甲酸乙酯
+2-呋喃羧酸乙酯
+2-壬基醇
+2-壬烯-4-酮
+2-壬酮
+2-壬醇
+2-己烯酸乙酯
+2-己酸乙酯
+2-己醇
+2-庚酮
+2-庚醇
+2-戊基呋喃
+2-戊酮
+2-戊醇
+2-戊醇 /
+2-正丁基呋喃
+2-甲基
+2-甲基-1-丁醇
+2-甲基-1-丙醇
+2-甲基-3-辛酮
+2-甲基丁
+2-甲基丁酸-2-苯乙酯
+2-甲基丁酸丁酯
+2-甲基丁酸乙酯
+2-甲基丁酸乙酯ethyl 2-methylbutanoate
+2-甲基丁酸异戊酯
+2-甲基丁酸甲酯
+2-甲基丁醇
+2-甲基丁醛
+2-甲基丙酸
+2-甲基丙酸乙酯
+2-甲基丙醇
+2-甲基丙醛
+2-甲基吡嗪
+2-甲基呋喃
+2-甲氧基-4-甲基苯酚
+2-癸酮
+2-糠酸乙酯
+2-糠醇
+2-糠醛乙酯
+2-糠醛缩二乙醇
+2-羟基-3-甲基丁酸乙酯
+2-羟基丁酸乙酯
+2-羟基丙酸-2-甲基丙酯
+2-羟基己酸乙酯
+2-羟基已酸乙酯
+2-苯乙酸乙酯
+2-苯乙醇
+2-辛酮
+2-辛醇
+2.3- 丁二醇
+20 1-Hexanol
+21 Dimethyl trisulfide
+22 Butyl hexanoate
+23 Ethyl octanoate
+24 Acetic acid
+25 Isopentyl hexanoate
+26 Pentyl hexanoate
+27 Benzaldehyde
+28 Ethyl nonanoate
+29 Ethyl 2-hydroxy-4-methylvalerate
+2，3-丁二醇
+2，3－丁二酮
+2，3－丁二醇
+2，4-二甲基-3-戊醇
+2－丁醇
+2－戊酮
+3 Ethyl propanoate
+3,3-二乙氧基-1-丙醇
+3,5-二甲基-2-戊基吡嗪
+3- 羟基-2- 丁酮
+3-(methylthio)-propanoic acid ethyl ester
+3-(methylthio)propanal
+3-(methylthio)propanal + 3-methylindole
+3-(methylthio)propanal + butyric acid
+3-(methylthio)propanal + hexanoic acid
+3-(methylthio)propanal + p-cresol
+3-(methylthio)propanol
+3-Furaldehyde
+3-Hydroxylauric acid
+3-Methyl pentatonic acid
+3-Methyl-1-butanal
+3-Methyl-1-butanol
+3-Methyl-1-heptanol
+3-Methyl-3-buten-1-ol
+3-Methylbutanal
+3-Methylbutanoic acid
+3-Methylbutanol
+3-Methylthiopropanol
+3-methyl-1-butanol
+3-methyl-2-butanol
+3-methylbutanoic acid
+3-methylbutyl hexanoate
+3-methylbutyl octanoate
+3-methylbutyl pentanoate
+3-methylindole
+3-methylthiopropanol
+3-methylvaleric acid
+3-phenyl propionic acid
+3-乙基-
+3-乙氧基丙醇
+3-壬烯酸乙酯
+3-己烯酸乙酯
+3-庚醇
+3-甲基-1-丁醇
+3-甲基-2-丁醇
+3-甲基-2-己醇
+3-甲基-3-丁烯-1-醇
+3-甲基丁酸
+3-甲基丁酸丁酯
+3-甲基丁酸乙酯
+3-甲基丁醇
+3-甲基丁醛
+3-甲基丁醛二乙基缩醛
+3-甲基乙酯戊酸
+3-甲基戊酸乙酯
+3-甲基戊酸甲酯
+3-甲硫基丙酸乙酯
+3-糠醛
+3-羟基-2-丁酮
+3-苯丙酸乙酯
+3-辛烯-2-酮
+3-辛醇
+3-（环戊基）丙酸乙酯
+30 1-Octanol
+31 Hexyl hexanoate
+32 Butanoic acid
+33 Ethyl decanoate
+34 Isoamyl octanoate
+35 Ethyl trans-4-decenoate
+36 Ethyl benzoate
+37 Diethyl butanedioate
+38 Heptyl hexanoate
+39 (2,2-Diethoxyethyl) benzene
+3－羟基
+3－羟基－2－丁酮
+4 3-甲基丁醇
+4 Ethyl 2-methylpropanoate
+4-Ethyl-2-methoxy-phenol
+4-Ethyl-2-methoxyphenol
+4-Ethylguaiacol
+4-Ethylphenol
+4-Methylpentanoic acid
+4-ethenyl--2-methoxyphenol
+4-ethyl--2-methoxyphenol
+4-ethyl-2-methoxyphenol
+4-ethylguaiacol
+4-ethylphenol
+4-hydroxy--3-methoxybenzaldehyde
+4-hydroxy-3- methoxystyrene
+4-hydroxy-3-methoxystyrene
+4-methyl guaiacol
+4-methylphenol
+4-methylvaleric acid
+4-undecanolide
+4-乙基-2-甲氧基苯酚
+4-乙基愈创木 酚
+4-乙基愈创木酚
+4-乙基愈创木酚 丁香，调味品香
+4-乙基苯酚
+4-乙基苯酚 烟熏味
+4-乙烯基愈创木酚
+4-甲基-2-戊酮
+4-甲基-戊酸乙酯
+4-甲基愈创木酚
+4-甲基戊酸
+4-甲基戊酸甲酯
+4-甲基苯酚
+4-甲基苯酚 酚臭，动物臭
+40 Ethyl phenylacetate
+41 Hexyl octanoate
+42 1-Azido-2-methylbenzene
+43 Hexanoic acid
+44 Unknown
+45 Furfuryl hexanoate
+46 Ethyl 3-phenylpropanoate
+47 Phenethyl alcohol
+48 4-Methylphenol
+49 Ethyl hexadecanoate
+5 Ethyl butanoate
+5-Dodecenoic acid
+5-butyloxolan--2-one
+5-ethyloxolan--2-one
+5-pentyloxolan--2-one
+5-propyloxolan-2-one
+5-甲基-2-糠醛
+5-甲基己酸乙酯
+6 2-丙醇
+6 Ethyl 2-methylbutanoate
+7 2-甲基丁醇
+7 Ethyl 3-methylbutanoate
+7-辛烯酸乙酯
+8 1,1-Diethoxy-3-methylbutane
+9 2-Methyl-1-propanol
+9-Hexadecenoic acid
+Acetal
+Acetaldehyde
+Acetic acid
+Acetone
+Benzaldehyde
+Benzeneacetaldehyde, diethyl acetal
+Butanal
+Butanoic acid
+Butanol
+Butyl acetate
+Butyl butanoate
+Butyl formate
+Butyl heptanoate
+Butyl hexanoate
+Butyl lactate
+Butyl valerate
+Butyraldehyde
+Butyric acid
+Caproic acid propyl ester
+Cyclohexanecarboxylic
+Cyclopentanol
+DL-2-羟基-4-甲基戊酸乙酯
+DL-Limonene
+DMST
+Decane, 1,1-diethoxy-
+Dibutyl phthalate
+Diethyl butanedioate
+Diethyl succinate
+Dimethyl trisulfide
+E-橙花叔醇
+Eicosenoic acid
+Ethanol
+Ethyl (Z)hex-3-enoate
+Ethyl 15-methylheptadecanoate
+Ethyl 2-decenoate
+Ethyl 2-hydroxy-4-methylpentanoate
+Ethyl 2-hydroxy-4-methylvalerate
+Ethyl 2-methylbutanoate
+Ethyl 2-methylbutyrate
+Ethyl 2-methylproanoate
+Ethyl 2-methylpropanoate
+Ethyl 3-hexenoate
+Ethyl 3-methylbutanoate
+Ethyl 3-nonenoate
+Ethyl 3-phenylpropanoate
+Ethyl 3-phenylpropionate
+Ethyl 4-decenoate
+Ethyl 4-methylpentanoate
+Ethyl 4-phenylbutyrate
+Ethyl 5-methylhexanoate
+Ethyl 7-octenoate
+Ethyl 9-hexadecenoate
+Ethyl Hexanoate
+Ethyl L(--)-lactate
+Ethyl acetate
+Ethyl benzoate
+Ethyl butanoate
+Ethyl butyrate
+Ethyl caprate
+Ethyl caprylate
+Ethyl cyclopropanepropionate
+Ethyl decanoate
+Ethyl dodecanoate
+Ethyl formate
+Ethyl heptadecanoate
+Ethyl heptanoate
+Ethyl hexadecanoate
+Ethyl hexadienoate
+Ethyl hexanoate
+Ethyl isobutyrate
+Ethyl isovalerate
+Ethyl lactate
+Ethyl laurate
+Ethyl linoleate
+Ethyl myristate
+Ethyl nonanoate
+Ethyl octanoate
+Ethyl oleate
+Ethyl palmitate
+Ethyl pentadecanoate
+Ethyl pentanoate
+Ethyl phenylacetate
+Ethyl propanoate
+Ethyl propionate
+Ethyl pyruvate
+Ethyl tetradecanoate
+Ethyl tridecanoate
+Ethyl undecanoate
+Ethyl valerate
+FEMA
+Fema
+Fitone
+Furfural
+Guaiacol
+Heptanoic acid
+Heptyl acetate
+Hexan-1-ol
+Hexanoic acid
+Hexanoic acid, anhydride
+Hexanoic acid,5-methyl-, ethyl ester
+Hexanoic anhydride
+Hexanol
+Hexyl acetate
+Hexyl butanoate
+Hexyl butyrate
+Hexyl hexanoate
+Hexyl octanoate
+Isoamyl acetate
+Isoamyl alcohol
+Isoamyl butyrate
+Isoamyl hexanoate
+Isoamyl lactate
+Isoamyl octanoate
+Isobutanol
+Isobutyl heptanoate
+Isobutyl hexanoate
+Isobutyl octanoate
+Isobutyraldehyde
+Isobutyric acid
+Isopentyl acetate
+Isopentyl hexanoate
+Isovaleraldehyde
+JS 乳酸乙酯
+JS 正丁醇
+J酸
+Linalool
+Methanol
+Methyl hexanoate
+Methyl palmitate
+Name
+Nonanal
+Nonanoic acid
+Obviousness
+Octanal
+Octanoic acid
+Octyl butyrate
+Octyl octanoate
+Pentanal
+Pentanoic acid
+Pentanoic acid, 2-hydroxy-4-methyl-, ethyl ester
+Pentanol
+Pentatonic acid
+Pentyl hexanoate
+Phenethyl acetate
+Phenethyl alcohol
+Phenol
+Phenylacetaldehyde
+Phenylethyl Alcohol
+Propanoic acid
+Propanol
+Propyl hexanoate
+Propyl n-Octanoate
+Propyl octanoate
+SC1 戊酸
+SC1 正丁醇
+SC2 正丁醇
+SC3 乳酸乙酯
+SC3 正丁醇
+Table
+Tetramethylpyrazine
+Typicality
+Valeric acid
+acetal
+acetaldehyde
+acetic acid
+benzaldehyde
+benzene, (2,2-diethoxyethyl)-ethyl nicotinoate
+benzeneacetic acid
+butane-2,3-diol
+butanol
+butyl butanoate
+butyric acid
+cedrol
+decanoic acid
+diethyl butanedioate
+diethyl succinate
+dimethyl trisulfide
+dodecanal
+ethyl 2-furoate
+ethyl 2-hydroxy-4- methyl valerate
+ethyl 2-hydroxy-4-methyl pentanoate
+ethyl 2-methylbutanoate
+ethyl 2-phenylacetate
+ethyl 3- phenylpropanoate
+ethyl 3-hexenoate
+ethyl 3-phenylpropanoate
+ethyl 3-phenylpropionate
+ethyl 4-methyl valerate
+ethyl 4-methylpentanoate
+ethyl acetate
+ethyl benzoate
+ethyl butanoate
+ethyl caprate
+ethyl caprylate
+ethyl dodecanoate
+ethyl heptanoate
+ethyl hexadecanoate
+ethyl hexanoate
+ethyl isobutyrate
+ethyl isovalerate
+ethyl laurate
+ethyl linoleate
+ethyl nonanoate
+ethyl octanoate
+ethyl palmitate
+ethyl pentanoate
+ethyl phenylacetate
+ethyl tetradecanoate
+ethyl undecanoate
+ethyl valerate
+eugenol
+formic acid
+furfural
+furfuryl acetate
+guaiacol
+heptanal
+heptanoic acid
+hexanoic acid
+hexyl butanoate
+hexyl hexanoate
+isoamyl acetate
+isobutanol
+isobutyl hexanoate
+isobutyric acid
+isocaproic acid
+isovaleric acid
+linalool
+m-cresol
+methyl hexanoate
+nonan-1-ol
+nonanoic acid
+octanoic acid
+p-Cresol
+p-cresol
+pentanoic acid
+phenethyl acetate
+phenethyl alcohol
+phenol
+phenylacetaldehyde
+phenylmethanol
+propionic acid
+propyl hexanoate
+propylene glycol
+sec-Butanol
+style
+undecan-2-one
+undecanoic acid
+unknown
+vanillin
+α-Linolenic acid
+β-damascenone
+β-大马士酮
+β-大马酮
+β-苯乙醇
+β－苯乙醇
+γ-丁内酯
+γ-壬内酯
+γ-己内酯
+γ-庚内酯
+γ-戊内酯
+γ-辛内酯
+丁二酸二乙酯
+丁二酸二乙酯diethyl butanedioate
+丁酸
+丁酸-2-苯乙酯
+丁酸-3 甲基丁酯
+丁酸-3-甲基丁酯
+丁酸丁酯
+丁酸丙酯
+丁酸丙酯propyl butanoate
+丁酸乙酯
+丁酸乙酯 0.19 0.13 0.18 0.08 丁酸
+丁酸乙酯ethyl butyrate*
+丁酸己酯
+丁酸庚酯
+丁酸异丁酯
+丁酸异丁酯3-methylbutyl butanoate
+丁酸异戊酯
+丁酸糠酯
+丁酸苯乙酯
+丁醛
+三甲基
+三甲基吡
+三甲基吡嗪
+丙二酸二乙酯
+丙二醇
+丙酮
+丙酸
+丙酸丙酯
+丙酸乙酯
+丙酸乙酯ethyl propanoate
+丙酸正丙酯
+丙醇
+丙醛
+乙偶姻
+乙烷
+乙缩醛
+乙缩醛 670.09 700.39 2l
+乙酸
+乙酸-2-甲基丙酯
+乙酸-2-苯乙酯
+乙酸-3-甲基丁酯
+乙酸丁酯
+乙酸丙酯
+乙酸乙酯
+乙酸乙酯 0.50 0.32 0.51 0.44 乙酸
+乙酸乙酯ethyl acetate*
+乙酸仲丁酯
+乙酸叔戊酯
+乙酸己酯
+乙酸己酯hexyl acetate
+乙酸庚酯
+乙酸异丁酯
+乙酸异戊
+乙酸异戊酯
+乙酸戊酯
+乙酸糠酯
+乙酸苯乙酯
+乙酸辛酯
+乙醛
+乙醛 641.65 537.93 l8
+乙醛缩二乙醇
+乳酸
+乳酸丁酯
+乳酸丙酯
+乳酸乙酯
+乳酸乙酯 0.62 0.28 0.66 0.36 戊酸
+乳酸乙酯ethyl lactate*
+乳酸异丁酯
+乳酸异戊酯
+二乙氧基甲烷
+二异丁基甲酮
+二甲基三硫
+二甲基二硫
+亚油酸
+亚油酸乙
+亚油酸乙酯
+亚麻酸乙酯
+仲丁醇
+仲戊醇
+仲辛酮
+其他
+其他类物质总含量
+化合物
+十一烷酸乙酯ethyl undecanoate
+十一酸乙酯
+十七烷酸乙酯
+十二烷酸乙酯ethyl dodecanoate
+十二酸乙酯
+十六酸乙酯
+十六酸甲酯
+十四酸乙酯
+十四酸异丙酯
+反,顺-2,6-壬二烯醛
+反-2,4-癸二烯醛
+反-2-壬醛
+反-4-癸烯酸乙酯
+反式-3-己烯-1-醇
+叔戊醇
+合计
+吡嗪类Σ
+呋喃
+呋喃类
+四氢呋喃
+四甲基吡
+四甲基吡嗪
+土味素
+基乙基）-苯 (2,2-二乙氧
+壬酸
+壬酸乙
+壬酸乙酯
+壬酸乙酯ethyl nonanoate
+壬醇
+壬醛
+大马士酮
+对二甲苯
+己酸
+己酸-2 甲基丙酯
+己酸-2-甲基丙酯
+己酸-2-糠酯
+己酸-2-苯乙 基酯
+己酸-2-苯乙酯
+己酸-3-甲基丁酯
+己酸3-甲基丁酯
+己酸丁酯
+己酸丁酯eutyl hexanoate
+己酸丙酯
+己酸丙酯propyl hexanoate
+己酸乙酯
+己酸乙酯 1.00 1.00 1.00 1.00 2-甲基丙酸乙酯
+己酸乙酯ethyl caproate*
+己酸己酯
+己酸己酯hexyl hexanoate
+己酸异丁酯
+己酸异戊酯
+己酸异戊酯isopentyl hexanoate
+己酸戊酯
+己酸烯丙酯
+己酸甲酯
+己酸糠酯
+己醇
+己醛
+已醛
+庚酸
+庚酸-3-甲丁酯
+庚酸-3-甲基丁酯
+庚酸丁酯
+庚酸乙酯
+庚酸乙酯ethyl heptanoate
+庚酸异丁酯
+庚醇
+异丁酸
+异丁酸乙酯
+异丁酸乙酯ethyl 2-methylpropanoate
+异丁酸乙酯ethyl 3-methylbutanoate
+异丁酸异戊酯
+异丁酸苯乙酯
+异丁醇
+异丁醛
+异丁醛二乙缩醛
+异丙基3-苯基丙酸酯
+异己酸乙酯
+异戊酸
+异戊酸-2-苯乙酯
+异戊酸丁酯
+异戊酸乙酯
+异戊酸异丁酯
+异戊酸异戊酯
+异戊醇
+异戊醛
+总含量
+总量
+愈创木酚
+戊缩醛
+戊酮-2
+戊酸
+戊酸-2-甲基丁酯
+戊酸-3-甲基丁酯
+戊酸丁酯
+戊酸乙酯
+戊酸乙酯 0.04 0.05 0.02 0.03 己酸
+戊酸乙酯 14.43 51.0l
+戊酸乙酯ethyl pentanoate*
+戊酸辛酯
+戊醇
+戊醛
+月桂酸乙酯
+未知化合物1
+未知化合物2
+未知化合物3
+未知化合物4
+未知化合物5
+未知物
+棕榈酸
+棕榈酸乙
+棕榈酸乙酯
+橙花叔醇
+正丁醇
+正丁醇 63.28 l31.44
+正丙醇
+正己醇
+正庚醇
+正戊酸
+正戊酸异戊酯
+正戊醇
+正辛醇
+油酸乙
+油酸乙酯
+活性异戊醇
+活性戊醇
+活戊醇
+环戊酮
+琥珀酸乙酯
+甲基吡嗪
+甲基壬基甲酮
+甲基硫醇
+甲氧基乙酸-3-甲基丁酯
+甲酸乙酯
+甲醇
+癸酸
+癸酸乙酯
+癸酸乙酯ethyl decanoate
+癸醛
+百里酚
+硬脂酸乙酯
+稳定。
+糠醇
+糠醛
+缩醛类
+缩醛类 0.03 0.02 0.02 0.03 萜烯类（×10-3）
+缩醛类物质总含量
+羰基类
+肉桂酸乙酯
+胡椒环
+脂肪酸
+脂肪酸 0.17 0.14 0.14 0.10 硫化物（×10-2）
+芳香族
+苯丙酸乙酯
+苯乙酮
+苯乙酸乙酯
+苯乙醇
+苯乙醛
+苯甲酸乙酯
+苯甲酸异丁酯
+苯甲酸正戊酯
+苯甲酸甲酯
+苯甲醇
+苯甲醛
+苯酚
+见表4～表5。
+辛酸
+辛酸-3-甲基丁酯
+辛酸丁酯
+辛酸丙酯
+辛酸乙酯
+辛酸乙酯 0.03 0.02 0.02 0.01 乙醛
+辛酸乙酯ethyl octanoate
+辛酸己酯
+辛酸异丁酯
+辛酸异戊酯
+辛酸正丁酯
+辛酸甲酯
+辛酸辛酯
+辛醇
+辛醛
+酚类
+酮类
+酯类
+酯类 1.00 1.00 1.00 1.00 呋喃类（×10-2）
+酯类Σ
+酯类总含量
+酯类物质总含量
+酸类
+酸类Σ
+酸类物质总含量
+醇类
+醇类 0.09 0.06 0.08 0.11 酚类（×10-2）
+醇类Σ
+醇类物质总含量
+醋嗡
+醋酸
+醛类
+醛酮类
+醛酮类 0.04 0.04 0.04 0.07 吡嗪类（×10-2）
+醛酮类Σ
+醛酮类物质总含量
+顺-3-壬烯-1-醇
+顺-4-癸烯-1-醇
+风味物质
+香兰素
+香叶基丙酮
+（2,2-二甲氧基）乙基苯
+（2，2-二乙氧基乙基）-苯

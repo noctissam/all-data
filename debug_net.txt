@@ -1,0 +1,55 @@
+== 1) 代理/环境变量 ==
+  HTTP_PROXY = None
+  HTTPS_PROXY = None
+  http_proxy = None
+  https_proxy = None
+  ALL_PROXY = None
+  NO_PROXY = '127.0.0.1,localhost,::1'
+  IE ProxyEnable=0 ProxyServer=127.0.0.1:17891
+== 2) PubChem 单条请求(verify off) ==
+  FAIL traceback:
+    Traceback (most recent call last):
+      File "C:\Users\24252\Desktop\PPT\课题\26年\26年3月\debug_net.py", line 33, in <module>
+        with urllib.request.urlopen(req, timeout=15, context=ctx) as r:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\anaconda\Lib\urllib\request.py", line 215, in urlopen
+        return opener.open(url, data, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\anaconda\Lib\urllib\request.py", line 521, in open
+        response = meth(req, response)
+                   ^^^^^^^^^^^^^^^^^^^
+      File "C:\anaconda\Lib\urllib\request.py", line 630, in http_response
+        response = self.parent.error(
+                   ^^^^^^^^^^^^^^^^^^
+      File "C:\anaconda\Lib\urllib\request.py", line 559, in error
+        return self._call_chain(*args)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+      File "C:\anaconda\Lib\urllib\request.py", line 492, in _call_chain
+        result = func(*args)
+                 ^^^^^^^^^^^
+      File "C:\anaconda\Lib\urllib\request.py", line 639, in http_error_default
+        raise HTTPError(req.full_url, code, msg, hdrs, fp)
+    urllib.error.HTTPError: HTTP Error 400: PUGREST.BadRequest
+== 2b) 备选端点 ==
+  FAIL http://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cas/123-66-0/property/SMILES/JSON -> HTTP Error 400: PUGREST.BadRequest
+  FAIL https://rest.pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cas/123-66-0/property/SMILES/JSON -> <urlopen error [Errno 11001] getaddrinfo failed>
+== 3) D3 清洗样品名/类型 ==
+  类型: {'浓度': 48, 'OAV': 24}
+  样品: {'Esters': 34, 'LZLJ-T7': 24, '429  1.3': 7, '446 0.7': 7}
+  分表列: ['NO.', 'Compounds', 'Threshold(μg/L)', 'Concentration LZLJ-M7 (Mean ± SD)', 'Concentration LZLJ-T7 (Mean ± SD)', 'LZLJ-M7 (OAV)', 'LZLJ-T7 (OAV)']
+    Ethyl Hexanoate | ['55.33a', '873,258 ± 9159', '738,302 ± 3649', 15783, 13344]
+    Ethyl acetate | ['32600.00b', '4,021,850 ± 43,275', '2,926,064 ± 56,016', 123, 90]
+    Isoamyl acetate | ['93.93b', '2885 ± 81', '2236 ± 78', 31, 24]
+    Methyl hexanoate | ['41.00b', '336 ± 7', '357 ± 7', 8, 9]
+    Ethyl phenylacetate | ['407.00b', '515 ± 5', '457 ± 2', 1, 1]
+    Butyl hexanoate | ['678.00b', '675 ± 16', '848 ± 30', 1, 1]
+    Butyl acetate | ['4600.00b', '4971 ± 42', '4316 ± 27', 1, 1]
+== 4) D12/D24 极大值行 ==
+  [基于GC×GC-MS分析] 样品=A 最大3行:
+    化合物=己酸乙酯 数值=56663 CAS=123-66-0
+    化合物=戊酸乙酯 数值=11777 CAS=539-82-2
+    化合物=丁酸乙酯 数值=5213 CAS=105-54-4
+  [洋河绵柔型白酒关键风味成] 样品=41% TZL 最大3行:
+    化合物=己酸乙酯ethyl caproate 数值=36041 CAS=nan
+    化合物=己酸乙酯 数值=1994.14 CAS=123-66-0
+    化合物=二甲基三硫dimethyl trisulfide 数值=1795 CAS=nan

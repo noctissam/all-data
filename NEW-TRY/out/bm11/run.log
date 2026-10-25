@@ -1,0 +1,23 @@
+
+===== cn_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\3   Investigation on the key factors associated with flavor quality in northern.pdf --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11 =====
+raster table detection (dpi=150)
+  p1   rules=1   frags=1   y62-151 g1
+  p4   rules=1   frags=1   y164-767 g1
+candidates: 2 -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\bm11\candidates.json
+
+===== cn_crop_ocr.py --pdf C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\3   Investigation on the key factors associated with flavor quality in northern.pdf --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\candidates_sel.json --dpi 300 --lang English --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\ocr_raw.json --no-pass-b =====
+done: 0 crops -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\ocr_raw.json
+
+===== bitmap_grid.py --paper 11 --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\candidates_sel.json --ocr C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\ocr_raw.json --dpi 300 --tag bm =====
+  #11  tables=0   rows=0      skipped=0   
+  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\bm_11.json
+
+===== cn_crop_ocr.py --pdf out\bm11_rot\r90.pdf --cand out\bm11r\cand56.json --dpi 300 --lang English --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\ocr_raw.json --no-pass-b =====
+  T01_p05   p5   3008x170  gutters=1  boxes=31   avg=0.921 0.7s
+  T02_p05   p5   3006x1910 gutters=18 boxes=766  avg=0.996 18.6s
+  T03_p06   p6   2876x722  gutters=17 boxes=240  avg=0.990 4.7s
+done: 3 crops -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\ocr_raw.json
+
+===== bitmap_grid.py --paper 11 --cand out\bm11r\cand56.json --ocr C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm11\ocr_raw.json --dpi 300 --tag bm =====
+  #11  tables=2   rows=66     skipped=1   T01:only 0 data rows
+  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\bm_11.json

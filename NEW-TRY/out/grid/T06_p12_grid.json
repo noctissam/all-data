@@ -1,0 +1,309 @@
+{
+  "id": "T06",
+  "name": "T06_p12",
+  "page": 12,
+  "long_table": false,
+  "src_pdf_rect": [
+    32.68,
+    620.37,
+    563.48,
+    748.9
+  ],
+  "img_a": "img/T06_p12_A.png",
+  "img_b": "img/T06_p12_B.png",
+  "caption": [
+    "OAVs of mixtures of compounds in the ratios of their individual OAVs with their corresponding aroma descriptions."
+  ],
+  "caption_text": "OAVs of mixtures of compounds in the ratios of their individual OAVs with their corresponding aroma descriptions.",
+  "note": [
+    "1 Mixture 1 = 369 g/L 3-(methylthio)propanal + 295,816 g/L butyric acid.",
+    "Mixture 2 = 369 g/L 3-(methylthio)propanal +1,126,596 g/L hexanoic acid.",
+    "Mixture 3 = 369 g/L 3-(methylthio)propanal + 46 g/L 3-methylindole.",
+    "d Mivtura = 260 ua/I 3-(mathulthin)nrnnanal  3271 ua/I n-cracol"
+  ],
+  "note_text": "1 Mixture 1 = 369 g/L 3-(methylthio)propanal + 295,816 g/L butyric acid. Mixture 2 = 369 g/L 3-(methylthio)propanal +1,126,596 g/L hexanoic acid. Mixture 3 = 369 g/L 3-(methylthio)propanal + 46 g/L 3-methylindole. d Mivtura = 260 ua/I 3-(mathulthin)nrnnanal  3271 ua/I n-cracol",
+  "cols": [
+    42.68,
+    76.68,
+    217.68,
+    277.18,
+    310.18,
+    347.18,
+    485.18
+  ],
+  "bands": [
+    [
+      42.68,
+      48.68
+    ],
+    [
+      76.68,
+      194.18
+    ],
+    [
+      217.68,
+      222.68
+    ],
+    [
+      277.18,
+      289.18
+    ],
+    [
+      310.18,
+      325.18
+    ],
+    [
+      347.18,
+      451.68
+    ],
+    [
+      485.18,
+      528.18
+    ]
+  ],
+  "n_col": 7,
+  "n_head_row": 2,
+  "n_body_row": 4,
+  "header": [
+    [
+      {
+        "text": "No.",
+        "score": 0.9999774297078451,
+        "span": 0
+      },
+      {
+        "text": "Mixture",
+        "score": 0.9998472588402885,
+        "span": 0
+      },
+      {
+        "text": "spiking level",
+        "score": 0.9999312712596014,
+        "span": 0
+      },
+      {
+        "text": "Re",
+        "score": 0.8699190616607666,
+        "span": 0
+      },
+      {
+        "text": "SDf",
+        "score": 0.999654750029246,
+        "span": 0
+      },
+      {
+        "text": "Aroma description",
+        "score": 0.9832062791375553,
+        "span": 0
+      },
+      {
+        "text": "Interaction relationship",
+        "score": 0.9992927933732668,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "(μg/L)",
+        "score": 0.9878799915313721,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ]
+  ],
+  "body": [
+    [
+      {
+        "text": "1",
+        "score": 0.9951677322387695,
+        "span": 0
+      },
+      {
+        "text": "3-(methylthio)propanal + butyric acid",
+        "score": 0.9984689628755724,
+        "span": 0
+      },
+      {
+        "text": "a",
+        "score": 0.999692440032959,
+        "span": 0
+      },
+      {
+        "text": "2.6",
+        "score": 0.9999760786692301,
+        "span": 0
+      },
+      {
+        "text": "0.23",
+        "score": 0.9999908208847046,
+        "span": 0
+      },
+      {
+        "text": "cheesy, rancid, roasted potato, mud-like",
+        "score": 0.9863327383995056,
+        "span": 0
+      },
+      {
+        "text": "masking effect",
+        "score": 0.9870990770203727,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "2",
+        "score": 0.9999722242355347,
+        "span": 0
+      },
+      {
+        "text": "3-(methylthio)propanal + hexanoic acid",
+        "score": 0.9960553802941975,
+        "span": 0
+      },
+      {
+        "text": "b",
+        "score": 0.998519241809845,
+        "span": 0
+      },
+      {
+        "text": "5.3",
+        "score": 0.9999175667762756,
+        "span": 0
+      },
+      {
+        "text": "0.59",
+        "score": 0.9999906718730927,
+        "span": 0
+      },
+      {
+        "text": "fruity, rancid, roasted",
+        "score": 0.9869241844052854,
+        "span": 0
+      },
+      {
+        "text": "masking effect",
+        "score": 0.9992959882531848,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "3",
+        "score": 0.9999945163726807,
+        "span": 0
+      },
+      {
+        "text": "3-(methylthio)propanal + 3-methylindole",
+        "score": 0.9965783403469965,
+        "span": 0
+      },
+      {
+        "text": "c",
+        "score": 0.9321613907814026,
+        "span": 0
+      },
+      {
+        "text": "3.3",
+        "score": 0.9999744494756063,
+        "span": 0
+      },
+      {
+        "text": "0.26",
+        "score": 0.9999940693378448,
+        "span": 0
+      },
+      {
+        "text": "roasted potato, mud-like, fecal",
+        "score": 0.9893419146537781,
+        "span": 0
+      },
+      {
+        "text": "masking effect",
+        "score": 0.9859847298690251,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "4",
+        "score": 0.999995231628418,
+        "span": 0
+      },
+      {
+        "text": "3-(methylthio)propanal + p-cresol",
+        "score": 0.9862173542831884,
+        "span": 0
+      },
+      {
+        "text": "d",
+        "score": 0.9851022958755493,
+        "span": 0
+      },
+      {
+        "text": "0.9",
+        "score": 0.9994821945826212,
+        "span": 0
+      },
+      {
+        "text": "0.03",
+        "score": 0.9999961256980896,
+        "span": 0
+      },
+      {
+        "text": "roasted, mud-like, animal-like, grain",
+        "score": 0.9905188599148312,
+        "span": 0
+      },
+      {
+        "text": "additive action",
+        "score": 0.9939626534779866,
+        "span": 0
+      }
+    ]
+  ],
+  "pass_b": {
+    "n_col": 7,
+    "n_head_row": 2,
+    "n_body_row": 4
+  },
+  "verify": {
+    "n_cells": 42,
+    "n_match": 42,
+    "n_conflict": 0,
+    "n_one_sided": 0,
+    "n_lowconf": 0,
+    "n_repaired": 1,
+    "agree_pct": 100.0,
+    "n_rescued": 0,
+    "rescue_dpi": 600
+  }
+}

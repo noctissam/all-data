@@ -1,0 +1,80 @@
+{
+ "己酸-2-糠酯": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(2-furfuryl hexanoate)",
+  "query": "2-furfuryl hexanoate"
+ },
+ "3-甲基丁醛二乙基缩醛": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(3-methylbutanal diethyl acetal)",
+  "query": "3-methylbutanal diethyl acetal"
+ },
+ "2,3-二乙基吡嗪": {
+  "cas": "15707-24-1",
+  "cid": 27458,
+  "status": "ok-eutils",
+  "query": "2,3-diethylpyrazine"
+ },
+ "2,6-二乙基吡嗪": {
+  "cas": "13067-27-1",
+  "cid": 83101,
+  "status": "ok-eutils",
+  "query": "2,6-diethylpyrazine"
+ },
+ "2,5-二甲基吡嗪": {
+  "cas": "123-32-0",
+  "cid": 31252,
+  "status": "ok-eutils",
+  "query": "2,5-dimethylpyrazine"
+ },
+ "丁醛二乙缩醛": {
+  "cas": "",
+  "cid": null,
+  "status": "no-cid(butanal diethyl acetal)",
+  "query": "butanal diethyl acetal"
+ },
+ "己醛二乙缩醛": {
+  "cas": "3658-93-3",
+  "cid": 77224,
+  "status": "ok-eutils",
+  "query": "hexanal diethyl acetal"
+ },
+ "3- 丁二醇": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "2- 丙二醇": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "7-辛烯酸乙酯": {
+  "cas": "35194-38-8",
+  "cid": 544127,
+  "status": "ok-eutils",
+  "query": "ethyl 7-octenoate"
+ },
+ "3-(环戊基)丙酸乙酯": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "1-(1-乙氧基乙氧基)-丁烷": {
+  "cas": "",
+  "cid": null,
+  "status": "untranslatable",
+  "query": ""
+ },
+ "仲辛酮": {
+  "cas": "106-68-3",
+  "cid": 246728,
+  "status": "ok-eutils",
+  "query": "3-octanone"
+ }
+}

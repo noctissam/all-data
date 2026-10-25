@@ -1,0 +1,26 @@
+
+===== cn_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\3  Characterization of the differences in aroma-active compounds in.pdf --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07 =====
+raster table detection (dpi=150)
+  p1   rules=1   frags=1   y62-151 g1
+  p5   rules=3   frags=2   y61-254 g1 | y284-705 g8
+  p8   rules=1   frags=2   y61-451 g8 | y456-766 g1
+candidates: 5 -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\bm07\candidates.json
+
+===== cn_crop_ocr.py --pdf C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\3  Characterization of the differences in aroma-active compounds in.pdf --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\candidates_sel.json --dpi 300 --lang English --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\ocr_raw.json --no-pass-b =====
+Umi-OCR engine is not answering on 127.0.0.1:1224
+
+===== cn_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\3  Characterization of the differences in aroma-active compounds in.pdf --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07 =====
+raster table detection (dpi=150)
+  p1   rules=1   frags=1   y62-151 g1
+  p5   rules=3   frags=2   y61-254 g1 | y284-705 g8
+  p8   rules=1   frags=2   y61-451 g8 | y456-766 g1
+candidates: 5 -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\bm07\candidates.json
+
+===== cn_crop_ocr.py --pdf C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\3  Characterization of the differences in aroma-active compounds in.pdf --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\candidates_sel.json --dpi 300 --lang English --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\ocr_raw.json --no-pass-b =====
+  T01_p05   p5   2210x1796 gutters=8  boxes=484  avg=0.988 12.0s
+  T02_p08   p8   2226x1666 gutters=8  boxes=274  avg=0.993 6.8s
+done: 2 crops -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\ocr_raw.json
+
+===== bitmap_grid.py --paper 7 --cand C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\candidates_sel.json --ocr C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm07\ocr_raw.json --dpi 300 --tag bm =====
+  #7   tables=2   rows=88     skipped=0   
+  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\bm_07.json

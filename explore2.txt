@@ -1,0 +1,159 @@
+### 数值 可解析为纯数字占比 ###
+  可解析: 12517 / 13566  (92.3%)
+  不可解析示例(前40个 unique):
+    '<1'
+    '-'
+    'ND'
+    'n.d'
+    '—'
+    'n.d.'
+    '/'
+    '>100'
+    '>10'
+    '>1'
+    '<0.001'
+
+### CAS号 缺失/可用 ###
+  非空: 12966 / 13566
+  unique非空: 267
+  CAS缺失时的化合物名示例(前30):
+    benzene, (2,2-diethoxyethyl)-ethyl nicotinoate
+    3-(methylthio)propanal + butyric acid
+    3-(methylthio)propanal + hexanoic acid
+    3-(methylthio)propanal + 3-methylindole
+    3-(methylthio)propanal + p-cresol
+    2-hydroxy-4-methylvalerate
+    Cyclohexanecarboxylic
+    Typicality
+    style
+    Obviousness
+    Ethyl cyclopropanepropionate
+    14-Pentadecanoic acid
+    Unknown
+    unknown
+    Pentanoic acid, 2-hydroxy-4- methyl-, ethyl ester
+    2.3- 丁二醇
+    1.2- 丙二醇
+    3-甲基丁醛二乙基缩醛
+    苯丙酸乙酯
+    3-（环戊基）丙酸乙酯
+    1，1-二乙氧基-2-甲基丁烷
+    1，1-二乙氧基-3-甲基丁烷
+    1-（1-乙氧基乙氧基）-丁烷
+    1，1-二乙氧基乙烷
+    1，1，3-三乙氧基丙烷
+    （2，2-二乙氧基乙基）-苯
+    3－羟基－2－丁酮
+    3-乙基-2,5-二甲基吡嗪
+    亚油酸
+    棕榈酸
+
+### 化合物名 语言分布 ###
+化合物
+含中文       11128
+纯英文/数字     2438
+Name: count, dtype: int64
+  纯英文名示例(前20):
+    ethyl hexanoate
+    ethyl butanoate
+    ethyl pentanoate
+    ethyl octanoate
+    dimethyl trisulfide
+    hexanoic acid
+    butyric acid
+    ethyl isovalerate
+    ethyl isobutyrate
+    ethyl 4-methylpentanoate
+    pentanoic acid
+    ethyl acetate
+    1-butanol
+    3-(methylthio)propanal
+    ethyl 2-methylbutanoate
+    p-cresol
+    1-hexanol
+    hexyl hexanoate
+    ethyl 3-phenylpropionate
+    isovaleric acid
+
+### 每个文献 -> 样品清单(去掉明显垃圾前) ###
+
+  【Characterization of key odorants causing the roasted and mud-like aromas in】 样品数=4
+    ['LZ-2016 base SAB', 'GJ-1573', 'LZ-2016 base SAB/GJ-1573', 'SDf']
+
+  【Key Aroma Compounds and Aroma Characteristics in】 样品数=1
+    ['nan']
+
+  【Decoding the Molecular Mechanism of Cellar Aroma Loss】 样品数=4
+    ['LZLJ-T7', 'Esters', '429  1.3', '446 0.7']
+
+  【Volatilomics and Lipidomics revealed flavoring mechanism in baijiu】 样品数=1
+    ['7.55 ±']
+
+  【Impact of Pulsed Electric Fields Combined with Dissolved】 样品数=1
+    ['浓度 (mg/L) [mg/l]']
+
+  【Characterization of the differences in aroma-active compounds in】 样品数=8
+    ['915', '27 27', '27', 'CB', 'FB', 'SB', 'Average', 'No.a']
+
+  【Unraveling variation on the profile aroma】 样品数=4
+    ['BCSG', 'No.a Category', 'GJG', 'LZ']
+
+  【Aroma characterization and reconstitution of strong-aroma baijiu Insights】 样品数=1
+    ['H']
+
+  【Exploration of key aroma active compounds in strong flavor Baijiu during】 样品数=8
+    ['OAV', '103 ± 0.507', '±0.041', '0.055', '±0.131', '±0.039', '0.039', 'nan']
+
+  【Investigation on the key factors associated with flavor quality in northern】 样品数=7
+    ['A', 'B', 'c', 'ion', 'nan', '浓度 (g/L) [g/l]', '浓度 (mg/L) [mg/l]']
+
+  【四川不同产区浓香型白酒风味物质差异化分析】 样品数=3
+    ['DJ', 'CJ', 'LJ']
+
+  【基于GC×GC-MS分析不同等级浓香型白酒的关键风味化合物】 样品数=4
+    ['B', 'C', '浓度 （mg·L-1） [mg/l]', 'A']
+
+  【基于全二维气相色谱-飞行时间质谱结合多元统计方法解析芝麻香型白酒的风味组分研究】 样品数=2
+    ['921', '配度']
+
+  【5种品牌浓香型白酒香气成分分析】 样品数=18
+    ['红星二锅头', '牛栏山', '银装青酒', '洋河大曲', '33.303', '1 484', '0.46±0.26', '0.70±0.47', '0.97±0.48', '0.74±0.24', '0.54±0.13', '19.875', '1 148', '0.06±0.02', '—', '5.532', '0.40±0.13', '1.8±0.47']
+
+  【不同贮存年份的五粮浓香型白酒挥发性风味物质对比分析】 样品数=4
+    ['X1', 'X3', 'X5', 'X8']
+
+  【浓香、酱香、清香型白酒挥发性风味的特征与差异研究】 样品数=2
+    ['ZSW/', 'LZ/']
+
+  【三种香型白酒的ICP-OES和GC-QTOF_MS分析及判别研究】 样品数=31
+    ['60.732', '91.098', '121.464', '151.83', '2', '3', '4', '5', '添加浓度', '加标测定', '83.11', '167.02', '平均含量', '7.18', '－', '6.43', '8.76', '9.85', '10.09', '9.21', '7.65', '9.00', '8.73', '103.49', '117.98', '122.31', '108.94', '137.20', '115.89', '116.52', '115.15']
+
+  【浓香型白酒及其风味成分对乙醇代谢关键酶酶活性的影响】 样品数=7
+    ['SC2', 'SC3', 'JS', '序号a', 'SC1', '(I%) 乙醛脱氢酶', '(I%) 乙醛脱氢酶率']
+
+  【3个年份浓香型白酒香气成分比较研究】 样品数=4
+    ['3 年陈', '5 年陈', 'ND', '9.353±0.010']
+
+  【山东沂蒙老区浓香型白酒特征风味研究】 样品数=33
+    ['TT-2S', 'TT-4S', 'TJ-2S', 'TJ-4S', 'OAV', '浓度d', '12.21±0.93', '<1', 'GRD-JCb', 'GRD-PDb', 'GRD-2b', 'JPLGb', 'LGTQb', 'GRD-JC', 'GRD-PD', 'GRD-2', 'JPLG', 'LGTQ', 'LZLJb', 'WLYb', 'GJGb', 'JSYb', '105.31±0.82', '123.42±2.47', '75.37±0.01', '150.32±1.32', 'GRD-1', 'TJ-1S', 'TT-2Sb', 'TT-4Sb', 'TJ-1Sb', 'TJ-2Sb', 'TJ-4Sb']
+
+  【浓香型白酒基酒挥发性成分分析及等级识别研究】 样品数=16
+    ['一级差酒', '二级好酒', '二级差酒', '三级酒', '好酒', '差酒', '一级', '二级', '三级', '差酒 LH', '好酒 >工', '一级 好酒', '一级 差酒', '二级 差酒 三级 酒', '一级 差酒 H', '差酒 二级 三级酒']
+
+  【基于GC-QTOF_MS技术的浓香型白酒原酒质量等级评价】 样品数=14
+    ['稳定性 含量', '重复性 含量', '含量', 'nan', '重复性', 'NX2', 'NX3', 'NX4', 'NX5', 'NX6', 'NX7', 'NX8', 'NX9', 'NX10']
+
+  【酱香型和浓香型白酒中香气物质及其差异研究】 样品数=54
+    ['茅台酒', '习酒·窖藏1988', '1891.45', '10', 'j-c-1', 'j-c-2', '香', '甜', '窖底', '底', 'n-g-2', 'n-c-1', 'n-c-2', 'n-g-1', '习酒', '酱香', '醇甜', '原酒', '中', '碱', '碱 酸', 'C-2013', 'J-2012', 'C-2012', 'D-2012', 'C-2011', 'J-2010', 'C-2010', 'D-2010', 'D-2008', 'J-2006', 'C-2004', 'C-1994', 'C-1992', 'C-lun-1', 'C-lun-2', 'C-lun-3', 'C-lun-5', 'C-lun-6', 'J-lun-3', 'J-lun-4', 'D-lun-3', 'D-lun-4', 'n-s-2012', 'n-d-2011', 'n-s-2010', 'n-s-2009', 'n-d-2007', 'n-s-2004', 'n-d-2000', 'n-d-1997', 'n-d-1994', '酱香型酒', '浓香型酒']
+
+  【洋河绵柔型白酒关键风味成分】 样品数=5
+    ['41% TZL', '46% TZL', '52% TZL', '42.6% MZL', '41.6% HZL']
+
+  【浓香型洋河天之蓝和清香型二锅头大曲白酒特征香气成分研究】 样品数=7
+    ['OAV', '浓度 (μg/L) [μg/l]', '浓度', '量比关系', '二锅头', 'OAV值 量比关系', 'OAV值']
+
+  【浓香型白酒基酒味觉特征与挥发性风味成分相关性研究】 样品数=4
+    ['微涩组', '较涩组', '涩味组', '苦味组']
+
+  【宜宾产区浓香型白酒风味特征及香气活性物质鼻后释放规律的研究】 样品数=19
+    ['OAV', 'p值b', '0.038', 'S-Y2-H', 'S-Y3-H', 'S-Y4-H', 'S-Y5-H', 'S-L1-H', 'A-GJG-H', 'G-J1-H', 'J-Y1-H', 'S-Y2-L', 'S-Y3-L', 'S-Y4-L', 'S-Y5-L', 'S-L1-L', 'A-G1-L', 'G-J1-L', 'J-Y1-L']

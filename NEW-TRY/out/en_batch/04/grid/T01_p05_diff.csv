@@ -1,0 +1,12 @@
+﻿table_id,name,pdf_page,section,row,col,status,pass_A_text,pass_B_text,min_score
+T01,T01_p05,5,body,2,2,conflict_a,0.33,,0
+T01,T01_p05,5,body,2,3,conflict_a,0.22,,0
+T01,T01_p05,5,body,3,1,conflict_a,style,,0
+T01,T01_p05,5,body,3,2,conflict_b,,0.33,0
+T01,T01_p05,5,body,3,3,conflict_b,,0.22,0
+T01,T01_p05,5,body,4,1,conflict_b,,style,0
+T01,T01_p05,5,body,4,2,conflict_a,7.59,,0
+T01,T01_p05,5,body,4,3,conflict_a,7.55,,0
+T01,T01_p05,5,body,5,1,conflict_a,Obviousness,,0
+T01,T01_p05,5,body,5,2,conflict_a,0.33,7.59,0.9429
+T01,T01_p05,5,body,5,3,conflict_a,0.22,7.55,0.9678

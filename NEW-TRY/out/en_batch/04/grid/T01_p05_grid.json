@@ -1,0 +1,167 @@
+{
+  "id": "T01",
+  "name": "T01_p05",
+  "page": 5,
+  "long_table": true,
+  "src_pdf_rect": [
+    301.96,
+    75.08,
+    563.48,
+    172.36
+  ],
+  "img_a": "img/T01_p05_A.png",
+  "img_b": "img/T01_p05_B.png",
+  "caption": [
+    "Table 2 (continued)"
+  ],
+  "caption_text": "Table 2 (continued)",
+  "note": [
+    "Baijiu can be assessed using OAV analysis based on the threshold value",
+    "nf anoh flnuAr cu1hctnnoa A tntnl nf 76 nhnrnntArictio INCc 1Ara idanti"
+  ],
+  "note_text": "Baijiu can be assessed using OAV analysis based on the threshold value nf anoh flnuAr cu1hctnnoa A tntnl nf 76 nhnrnntArictio INCc 1Ara idanti",
+  "cols": [
+    398.46,
+    475.46,
+    518.96
+  ],
+  "bands": [
+    [
+      398.46,
+      427.96
+    ],
+    [
+      475.46,
+      497.46
+    ],
+    [
+      518.96,
+      540.96
+    ]
+  ],
+  "n_col": 3,
+  "n_head_row": 1,
+  "n_body_row": 5,
+  "header": [
+    [
+      {
+        "text": "Class1 Class2",
+        "score": 0.9982958634694418,
+        "span": 0
+      },
+      {
+        "text": "LS",
+        "score": 0.9952915012836456,
+        "span": 0
+      },
+      {
+        "text": "FS",
+        "score": 0.999888151884079,
+        "span": 0
+      }
+    ]
+  ],
+  "body": [
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "7.59 ±",
+        "score": 0.9614568948745728,
+        "span": 0
+      },
+      {
+        "text": "7.55 ±",
+        "score": 0.9731365442276001,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "Typicality",
+        "score": 0.9996726751327515,
+        "span": 0
+      },
+      {
+        "text": "0.33",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.22",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "style",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.33",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.22",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "style",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "7.59 ±",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "7.55 ±",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "Obviousness",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.33",
+        "score": 0.9429088234901428,
+        "span": 0
+      },
+      {
+        "text": "0.22",
+        "score": 0.9678070068359375,
+        "span": 0
+      }
+    ]
+  ],
+  "pass_b": {
+    "n_col": 2,
+    "n_head_row": 1,
+    "n_body_row": 6
+  },
+  "verify": {
+    "n_cells": 21,
+    "n_match": 7,
+    "n_conflict": 11,
+    "n_one_sided": 0,
+    "n_lowconf": 9,
+    "n_repaired": 0,
+    "agree_pct": 33.33,
+    "n_rescued": 4,
+    "rescue_dpi": 600
+  }
+}

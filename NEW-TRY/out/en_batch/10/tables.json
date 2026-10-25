@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "pdf": "C:\\Users\\24252\\Desktop\\PPT\\课题\\26年\\26年3月\\定性定量\\8  Exploration of key aroma active compounds in strong flavor Baijiu during.pdf",
+    "n_pages": 14,
+    "dpi_main": 300,
+    "dpi_check": 400,
+    "cfg": {
+      "min_rule_w": 60.0,
+      "max_rule_h": 4.0,
+      "flat_tol": 0.8,
+      "rule_dy_tol": 1.2,
+      "rule_ox": 0.5,
+      "min_x_overlap": 0.6,
+      "min_table_h": 18.0,
+      "max_table_h": 760.0,
+      "max_mid_frac": 0.45,
+      "pad_x": 5.0,
+      "pad_top": 5.0,
+      "pad_bot": 6.0,
+      "long_h_pt": 150.0,
+      "long_rows": 8,
+      "min_body_rows": 3,
+      "min_med_runs": 3.0,
+      "min_frac_3plus": 0.35,
+      "dpi_main": 300,
+      "dpi_check": 400
+    },
+    "rules_per_page": {
+      "1": 6,
+      "2": 4,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 2,
+      "7": 5,
+      "8": 4,
+      "9": 11,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0
+    },
+    "n_candidates": 5,
+    "n_rejected": 1,
+    "rejected": [
+      {
+        "page": 1,
+        "box": [
+          37.68,
+          80.1,
+          558.48,
+          473.94
+        ],
+        "why": "median runs/row 2.0 < 3"
+      }
+    ],
+    "n_tables": 4,
+    "n_long": 3
+  },
+  "tables": [
+    {
+      "page": 2,
+      "box": [
+        37.68,
+        99.3,
+        289.2,
+        185.82
+      ],
+      "crop": [
+        32.68,
+        84.69,
+        294.2,
+        191.82
+      ],
+      "rules": {
+        "top": [
+          99.3,
+          37.68,
+          289.2,
+          0.600006103515625
+        ],
+        "mid": [
+          112.5,
+          166.2,
+          289.08,
+          0.5999908447265625
+        ],
+        "bottom": [
+          185.82,
+          37.68,
+          289.2,
+          0.600006103515625
+        ]
+      },
+      "h_pt": 86.52,
+      "w_pt": 251.52,
+      "mid_frac": 0.153,
+      "extra_rules": 1,
+      "n_text_rows": 13,
+      "tab": {
+        "n_body_rows": 11,
+        "n_head_rows": 2,
+        "med_runs_body": 4,
+        "frac_rows_3plus": 0.818,
+        "body_col_runs": 4
+      },
+      "id": "T01",
+      "name": "T01_p02",
+      "long_table": true,
+      "img_a": "img/T01_p02_A.png",
+      "img_b": "img/T01_p02_B.png",
+      "px_a": [
+        1090,
+        448
+      ],
+      "px_b": [
+        1454,
+        596
+      ]
+    },
+    {
+      "page": 5,
+      "box": [
+        37.68,
+        99.3,
+        289.2,
+        751.74
+      ],
+      "crop": [
+        32.68,
+        73.89,
+        294.2,
+        774.09
+      ],
+      "rules": {
+        "top": [
+          99.3,
+          37.68,
+          289.2,
+          0.600006103515625
+        ],
+        "mid": [
+          121.02,
+          37.68,
+          289.08,
+          0.5999908447265625
+        ],
+        "bottom": [
+          751.74,
+          37.68,
+          289.2,
+          0.5999755859375
+        ]
+      },
+      "h_pt": 652.44,
+      "w_pt": 251.52,
+      "mid_frac": 0.033,
+      "extra_rules": 0,
+      "n_text_rows": 102,
+      "tab": {
+        "n_body_rows": 98,
+        "n_head_rows": 4,
+        "med_runs_body": 6,
+        "frac_rows_3plus": 0.929,
+        "body_col_runs": 7
+      },
+      "id": "T02",
+      "name": "T02_p05",
+      "long_table": true,
+      "img_a": "img/T02_p05_A.png",
+      "img_b": "img/T02_p05_B.png",
+      "px_a": [
+        1090,
+        2919
+      ],
+      "px_b": [
+        1454,
+        3891
+      ]
+    },
+    {
+      "page": 7,
+      "box": [
+        306.96,
+        89.58,
+        558.48,
+        141.9
+      ],
+      "crop": [
+        301.96,
+        75.08,
+        563.48,
+        147.9
+      ],
+      "rules": {
+        "top": [
+          89.58,
+          306.96,
+          558.48,
+          0.5999984741210938
+        ],
+        "mid": [
+          111.42,
+          306.96,
+          521.64,
+          0.5999984741210938
+        ],
+        "bottom": [
+          141.9,
+          306.96,
+          558.48,
+          0.600006103515625
+        ]
+      },
+      "h_pt": 52.32,
+      "w_pt": 251.52,
+      "mid_frac": 0.417,
+      "extra_rules": 0,
+      "n_text_rows": 5,
+      "tab": {
+        "n_body_rows": 3,
+        "n_head_rows": 2,
+        "med_runs_body": 4,
+        "frac_rows_3plus": 0.667,
+        "body_col_runs": 10
+      },
+      "id": "T03",
+      "name": "T03_p07",
+      "long_table": false,
+      "img_a": "img/T03_p07_A.png",
+      "img_b": "img/T03_p07_B.png",
+      "px_a": [
+        1090,
+        305
+      ],
+      "px_b": [
+        1454,
+        405
+      ]
+    },
+    {
+      "page": 9,
+      "box": [
+        35.64,
+        89.58,
+        558.48,
+        729.66
+      ],
+      "crop": [
+        30.64,
+        75.08,
+        563.48,
+        775.41
+      ],
+      "rules": {
+        "top": [
+          89.58,
+          37.68,
+          558.48,
+          0.5999984741210938
+        ],
+        "mid": [
+          368.88,
+          250.8,
+          550.44,
+          0.720001220703125
+        ],
+        "bottom": [
+          729.66,
+          35.64,
+          556.44,
+          0.5999755859375
+        ]
+      },
+      "h_pt": 640.08,
+      "w_pt": 522.84,
+      "mid_frac": 0.436,
+      "extra_rules": 5,
+      "n_text_rows": 71,
+      "tab": {
+        "n_body_rows": 43,
+        "n_head_rows": 28,
+        "med_runs_body": 11,
+        "frac_rows_3plus": 0.953,
+        "body_col_runs": 11
+      },
+      "id": "T04",
+      "name": "T04_p09",
+      "long_table": true,
+      "img_a": "img/T04_p09_A.png",
+      "img_b": "img/T04_p09_B.png",
+      "px_a": [
+        2221,
+        2919
+      ],
+      "px_b": [
+        2961,
+        3891
+      ]
+    }
+  ]
+}

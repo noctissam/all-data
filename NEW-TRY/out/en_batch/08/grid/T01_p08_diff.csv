@@ -1,0 +1,3 @@
+﻿table_id,name,pdf_page,section,row,col,status,pass_A_text,pass_B_text,min_score
+T01,T01_p08,8,body,46,1,conflict_tie,"threshold.  Odor thresholds were taken from ref. 41 and 42. d Aroma characteristic, aroma characteristics of aroma compounds smelled by","threshold. c Odor thresholds were taken from ref. 41 and 42. d Aroma characteristic, aroma characteristics of aroma compounds smelled by",0.9722
+T01,T01_p08,8,body,46,1,repaired_C,"threshold.  Odor thresholds were taken from ref. 41 and 42. d Aroma characteristic, aroma characteristics of aroma compounds smelled by","threshold. ° Odor thresholds were taken from ref. 41 and 42. d Aroma characteristic, aroma characteristics of aroma compounds smelled by",0.9722

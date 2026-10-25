@@ -1,0 +1,52 @@
+
+===== s1_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\2  Decoding the Molecular Mechanism of Cellar Aroma Loss.pdf =====
+STEP 1 - detect three-line tables
+pdf: C:\Users\24252\Desktop\PPT\??\26?\26?3?\????\2  Decoding the Molecular Mechanism of Cellar Aroma Loss.pdf
+pages: 16
+  page  1: rules=   2  candidates=0  tables=0
+  page  2: rules=   1  candidates=0  tables=0
+  page  3: rules=   1  candidates=0  tables=0
+  page  4: rules=   7  candidates=6  tables=0
+        rejected p04 y=494..772 h=277  median runs/row 2.0 < 3
+  page  5: rules=   1  candidates=0  tables=0
+  page  6: rules=   8  candidates=7  tables=0
+        rejected p06 y=77..772 h=695  median runs/row 1.0 < 3
+  page  7: rules=   8  candidates=7  tables=0
+        rejected p07 y=77..772 h=695  median runs/row 1.0 < 3
+  page  8: rules=   8  candidates=7  tables=0
+        rejected p08 y=77..772 h=694  median runs/row 1.0 < 3
+  page  9: rules=  16  candidates=18  tables=0
+        rejected p09 y=77..772 h=695  median runs/row 1.0 < 3
+  page 10: rules=  16  candidates=19  tables=0
+        rejected p10 y=77..772 h=695  median runs/row 1.0 < 3
+  page 11: rules=   1  candidates=0  tables=0
+  page 12: rules=  13  candidates=14  tables=0
+        rejected p12 y=77..772 h=695  median runs/row 1.0 < 3
+  page 13: rules=   1  candidates=0  tables=0
+  page 14: rules=   1  candidates=0  tables=0
+  page 15: rules=   2  candidates=0  tables=0
+  page 16: rules=   1  candidates=0  tables=0
+candidates=7  tables kept=0  (long: 0)  -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\03\tables.json
+images -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\03\img   previews -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\03\page_preview
+
+===== s2_umi_ocr.py  =====
+STEP 2 - Umi-OCR multi pass
+engine: C:\UMI-OCR\Umi-OCR_Rapid_v2.1.3\Umi-OCR.exe
+pass A/B: lang=English   pass C: lang=???? (symbol donor)
+options: maxSideLen=999999 parser=none format=dict
+engine already running on port 1224
+done: 0 images, 0 failed, 0.0s total
+
+===== s3_verify_grid.py  =====
+STEP 3 - rebuild grid + verify A/B
+tables rebuilt: 0
+
+===== s4_rescue_cells.py  =====
+STEP 4 - targeted cell rescue at 600 dpi
+rescued: symbol=0 score=0 kept=0 no_reading=0
+
+===== s5_to_excel.py  =====
+STEP 4 - write excel
+  tables: 0  diff: 0  lowconf: 0  symbol-repair: 0  rescue: 0
+  -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\03\tables_extracted.xlsx
+  sheets: 00_??, 90_??_??, 91_??_???, 92_????, 93_?????, 94_????

@@ -1,0 +1,29 @@
+
+===== cn_crop_ocr.py --pdf C:\Users\24252\Desktop\PPT\课题\26年\26年3月\寒假中文文献\浓香型白酒基酒挥发性成分分析及等级识别研究_周轩.pdf --cand out\cn27\candidates_sel.json --dpi 300 --lang 简体中文 --imgdir C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm27\img --out C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm27\ocr_raw.json --lang-b English =====
+  T01_p37   p37  1752x310  gutters=1  boxes=3    avg=0.996 3.1s
+  T02_p37   p37  1828x184  gutters=1  boxes=7    avg=0.993 17.7s
+  T03_p37   p37  1844x568  gutters=4  boxes=42   avg=0.978 18.2s
+  T04_p38   p38  1764x196  gutters=1  boxes=7    avg=0.987 23.2s
+  T05_p38   p38  1758x612  gutters=5  boxes=42   avg=0.972 18.9s
+  T06_p39   p39  1734x318  gutters=5  boxes=24   avg=0.970 15.5s
+  T07_p40   p40  1808x202  gutters=1  boxes=7    avg=0.991 1.5s
+  T08_p40   p40  1800x638  gutters=5  boxes=42   avg=0.963 3.8s
+  T09_p41   p41  1746x260  gutters=5  boxes=21   avg=0.905 16.4s
+  T10_p44   p44  1814x922  gutters=7  boxes=94   avg=0.997 5.8s
+  T11_p46   p46  1434x716  gutters=9  boxes=12   avg=0.959 24.1s
+  T12_p46   p46  1872x330  gutters=4  boxes=26   avg=0.987 8.8s
+  T13_p47   p47  1788x2774 gutters=8  boxes=241  avg=0.991 16.4s
+  T14_p48   p48  1822x224  gutters=3  boxes=15   avg=0.994 1.6s
+  T15_p48   p48  1788x818  gutters=8  boxes=79   avg=0.945 4.7s
+  T16_p49   p49  1804x918  gutters=8  boxes=67   avg=0.991 4.2s
+  T17_p50   p50  1882x1132 gutters=8  boxes=98   avg=0.996 6.4s
+  T18_p51   p51  1826x214  gutters=4  boxes=14   avg=0.991 1.5s
+  T19_p51   p51  1750x814  gutters=8  boxes=67   avg=0.932 4.4s
+  T20_p51   p51  1870x212  gutters=4  boxes=15   avg=0.994 1.6s
+  T21_p51   p51  1802x252  gutters=8  boxes=25   avg=0.907 2.0s
+  T22_p52   p52  1796x802  gutters=7  boxes=59   avg=0.879 4.0s
+done: 22 crops -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm27\ocr_raw.json
+
+===== bitmap_grid.py --paper 27 --cand out\cn27\candidates_sel.json --ocr C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\bm27\ocr_raw.json --dpi 300 --tag bm =====
+  #27  tables=13  rows=141    skipped=9   T01:only 0 data rows; T02:only 0 data rows; T03:only 0 data rows; T04:only 0 data rows
+  -> C:\Users\24252\Desktop\PPT\课题\26年\26年3月\NEW-TRY\out\re整理\bm_27.json

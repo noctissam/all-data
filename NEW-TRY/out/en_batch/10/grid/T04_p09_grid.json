@@ -1,0 +1,4041 @@
+{
+  "id": "T04",
+  "name": "T04_p09",
+  "page": 9,
+  "long_table": true,
+  "src_pdf_rect": [
+    30.64,
+    75.08,
+    563.48,
+    775.41
+  ],
+  "img_a": "img/T04_p09_A.png",
+  "img_b": "img/T04_p09_B.png",
+  "caption": [
+    "Table 4 (continued)"
+  ],
+  "caption_text": "Table 4 (continued)",
+  "note": [
+    "Aroma compounds: Aroma active compounds with odor threshold. a Odor thresholds taken from Ref. Fan et al. (2015); bodor thresholds taken from Ref. Gemert",
+    "(2003); c Odor thresholds taken from Ref. Gao et al. (2014); d Odor thresholds taken from Ref. Zhao et al. (2018); e Odor thresholds taken from Ref. Zheng et al. (2016); f",
+    "Odor thresholds taken from Ref. Sha (2017);  Odor thresholds taken from Ref. Wang et al. (2014); * Odor thresholds were determined in water; # Odor thresholds were",
+    "determined in air; + Odor thresholds were determined in 30% ethanol/water solution; -- Odor thresholds were determined in 20% ethanol/water solution; other odor",
+    "thrnahaldo inrn dotorminnd in MA0% nthonal/intar calutian"
+  ],
+  "note_text": "Aroma compounds: Aroma active compounds with odor threshold. a Odor thresholds taken from Ref. Fan et al. (2015); bodor thresholds taken from Ref. Gemert (2003); c Odor thresholds taken from Ref. Gao et al. (2014); d Odor thresholds taken from Ref. Zhao et al. (2018); e Odor thresholds taken from Ref. Zheng et al. (2016); f Odor thresholds taken from Ref. Sha (2017);  Odor thresholds taken from Ref. Wang et al. (2014); * Odor thresholds were determined in water; # Odor thresholds were determined in air; + Odor thresholds were determined in 30% ethanol/water solution; -- Odor thresholds were determined in 20% ethanol/water solution; other odor thrnahaldo inrn dotorminnd in MA0% nthonal/intar calutian",
+  "cols": [
+    40.64,
+    72.14,
+    165.14,
+    259.64,
+    303.14,
+    343.14,
+    382.14,
+    425.14,
+    463.14,
+    504.14,
+    539.64
+  ],
+  "bands": [
+    [
+      40.64,
+      50.14
+    ],
+    [
+      72.14,
+      122.64
+    ],
+    [
+      165.14,
+      186.14
+    ],
+    [
+      259.64,
+      272.14
+    ],
+    [
+      303.14,
+      312.64
+    ],
+    [
+      343.14,
+      353.64
+    ],
+    [
+      382.14,
+      394.14
+    ],
+    [
+      425.14,
+      435.14
+    ],
+    [
+      463.14,
+      475.64
+    ],
+    [
+      504.14,
+      516.64
+    ],
+    [
+      539.64,
+      552.14
+    ]
+  ],
+  "n_col": 11,
+  "n_head_row": 28,
+  "n_body_row": 41,
+  "header": [
+    [
+      {
+        "text": "No.",
+        "score": 0.9999907811482748,
+        "span": 0
+      },
+      {
+        "text": "Aroma compounds",
+        "score": 0.9996879577636719,
+        "span": 0
+      },
+      {
+        "text": "Concentration ( mg/L )",
+        "score": 0.9837894195860083,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9981005787849426,
+        "span": 0
+      },
+      {
+        "text": "2 3",
+        "score": 0.9999896287918091,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999963045120239,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999747276306152,
+        "span": 0
+      },
+      {
+        "text": "6",
+        "score": 0.9999912977218628,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9996980428695679,
+        "span": 0
+      },
+      {
+        "text": "8",
+        "score": 0.9996689558029175,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "40",
+        "score": 0.9999986886978149,
+        "span": 0
+      },
+      {
+        "text": "Phenethyl acetate",
+        "score": 0.9990072495797101,
+        "span": 0
+      },
+      {
+        "text": "0.306",
+        "score": 0.9999954700469971,
+        "span": 0
+      },
+      {
+        "text": "1.02",
+        "score": 0.9999810755252838,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "1.56",
+        "score": 0.9999827444553375,
+        "span": 0
+      },
+      {
+        "text": "2.01",
+        "score": 0.9999666213989258,
+        "span": 0
+      },
+      {
+        "text": "3.4± 0.695",
+        "score": 0.9539613664150238,
+        "span": 0
+      },
+      {
+        "text": "4.97",
+        "score": 0.9999123513698578,
+        "span": 0
+      },
+      {
+        "text": "5.04",
+        "score": 0.9999894797801971,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.02",
+        "score": 0.9788913607597352,
+        "span": 0
+      },
+      {
+        "text": "±0.017",
+        "score": 0.9868163069089254,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.024",
+        "score": 0.9666627248128256,
+        "span": 0
+      },
+      {
+        "text": "0.067",
+        "score": 0.9629232585430145,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.069",
+        "score": 0.9999755144119262,
+        "span": 0
+      },
+      {
+        "text": "0.099",
+        "score": 0.9443509976069132,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "41",
+        "score": 0.9999912977218628,
+        "span": 0
+      },
+      {
+        "text": "Hexanoic acid",
+        "score": 0.9662677691533015,
+        "span": 0
+      },
+      {
+        "text": "113 ± 1.25",
+        "score": 0.9866039090686374,
+        "span": 0
+      },
+      {
+        "text": "57.1",
+        "score": 0.9999735951423645,
+        "span": 0
+      },
+      {
+        "text": "103 ± 0.507",
+        "score": 0.9904196560382843,
+        "span": 0
+      },
+      {
+        "text": "130 ± 1.32",
+        "score": 0.942388673623403,
+        "span": 0
+      },
+      {
+        "text": "175 ± 3.9",
+        "score": 0.9368333891034126,
+        "span": 0
+      },
+      {
+        "text": "221 ± 2.54",
+        "score": 0.9891842272546556,
+        "span": 0
+      },
+      {
+        "text": "187 ± 0.701",
+        "score": 0.9959932684898376,
+        "span": 0
+      },
+      {
+        "text": "200 ± 1.41",
+        "score": 0.9434685839547051,
+        "span": 2
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.362",
+        "score": 0.9875467419624329,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "42",
+        "score": 0.999997615814209,
+        "span": 0
+      },
+      {
+        "text": "Ethyl 3-phenylpropanoate",
+        "score": 0.9927488168080648,
+        "span": 0
+      },
+      {
+        "text": "2.72",
+        "score": 0.9999809563159943,
+        "span": 0
+      },
+      {
+        "text": "2.63 4.13",
+        "score": 0.9999178349971771,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "5.11",
+        "score": 0.9997545927762985,
+        "span": 0
+      },
+      {
+        "text": "12 ± 0.272",
+        "score": 0.9353614184591506,
+        "span": 0
+      },
+      {
+        "text": "13.9 ± 0.06",
+        "score": 0.9684779703617096,
+        "span": 0
+      },
+      {
+        "text": "20.4",
+        "score": 0.9999879896640778,
+        "span": 0
+      },
+      {
+        "text": "17.2",
+        "score": 0.9999926686286926,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.139",
+        "score": 0.9609864254792532,
+        "span": 0
+      },
+      {
+        "text": "±0.158 ±0.137",
+        "score": 0.9534321129322052,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.121",
+        "score": 0.958234707514445,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.155",
+        "score": 0.9524125357468923,
+        "span": 0
+      },
+      {
+        "text": "±0.062",
+        "score": 0.9258024593194326,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "43",
+        "score": 0.9999728798866272,
+        "span": 0
+      },
+      {
+        "text": "2-Phenylethanol",
+        "score": 0.999294904867808,
+        "span": 0
+      },
+      {
+        "text": "4.84",
+        "score": 0.9999919831752777,
+        "span": 0
+      },
+      {
+        "text": "2.15 3.22",
+        "score": 0.9907038509845734,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "5.13",
+        "score": 0.999579668045044,
+        "span": 0
+      },
+      {
+        "text": "7.73",
+        "score": 0.9999069422483444,
+        "span": 0
+      },
+      {
+        "text": "13.5 ± 0.12",
+        "score": 0.9369877219200134,
+        "span": 0
+      },
+      {
+        "text": "13.1",
+        "score": 0.9999240785837173,
+        "span": 0
+      },
+      {
+        "text": "17.6 ± 0.03",
+        "score": 0.960788506269455,
+        "span": 2
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.017",
+        "score": 0.9320691029230753,
+        "span": 0
+      },
+      {
+        "text": "± 0.071 ±0.018",
+        "score": 0.9080363512039185,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.022",
+        "score": 0.9864829381306967,
+        "span": 0
+      },
+      {
+        "text": "0.148",
+        "score": 0.9207174380620321,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.127",
+        "score": 0.9662558635075887,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "44",
+        "score": 0.9999992251396179,
+        "span": 0
+      },
+      {
+        "text": "Heptanoic acid",
+        "score": 0.9996306853634971,
+        "span": 0
+      },
+      {
+        "text": "0.593",
+        "score": 0.9714576482772828,
+        "span": 0
+      },
+      {
+        "text": "0.246 0.767",
+        "score": 0.9999957323074341,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "1.15 ± 0.01",
+        "score": 0.9647125661373138,
+        "span": 0
+      },
+      {
+        "text": "1.6 ± 0.046",
+        "score": 0.9662577450275421,
+        "span": 0
+      },
+      {
+        "text": "3.16",
+        "score": 0.9999566078186035,
+        "span": 0
+      },
+      {
+        "text": "4.59 ± 0.04",
+        "score": 0.9367986798286438,
+        "span": 0
+      },
+      {
+        "text": "6.84",
+        "score": 0.999997079372406,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.022",
+        "score": 0.9624545772870382,
+        "span": 0
+      },
+      {
+        "text": "± 0.072 ± 0.038",
+        "score": 0.9320792655150095,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.085",
+        "score": 0.9404995838801066,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.031",
+        "score": 0.9445600211620331,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "45",
+        "score": 0.9999943375587463,
+        "span": 0
+      },
+      {
+        "text": "2-Methoxy-p-cresol",
+        "score": 0.9996232390403748,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.125",
+        "score": 0.9999839067459106,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.2 ± 0.02",
+        "score": 0.9785228901439242,
+        "span": 0
+      },
+      {
+        "text": "0.215",
+        "score": 0.9999941110610961,
+        "span": 0
+      },
+      {
+        "text": "0.279",
+        "score": 0.9999940395355225,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.005",
+        "score": 0.9237865209579468,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.015",
+        "score": 0.9245729843775431,
+        "span": 0
+      },
+      {
+        "text": "±0.052",
+        "score": 0.8638716538747152,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "46",
+        "score": 0.9999995231628418,
+        "span": 0
+      },
+      {
+        "text": "Phenol",
+        "score": 0.9999491373697916,
+        "span": 0
+      },
+      {
+        "text": "0.879",
+        "score": 0.9999943256378174,
+        "span": 0
+      },
+      {
+        "text": "0.442 0.329",
+        "score": 0.9999949693679809,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.447",
+        "score": 0.9999956130981446,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.733 ± 0",
+        "score": 0.9415474161505699,
+        "span": 0
+      },
+      {
+        "text": "0.719",
+        "score": 0.9999917030334473,
+        "span": 0
+      },
+      {
+        "text": "1.07",
+        "score": 0.9999914467334747,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.012",
+        "score": 0.9329594373703003,
+        "span": 0
+      },
+      {
+        "text": "± 0.043 ± 0.021",
+        "score": 0.992703914642334,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.014",
+        "score": 0.9703682959079742,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.004",
+        "score": 0.8525895774364471,
+        "span": 0
+      },
+      {
+        "text": "±0.058",
+        "score": 0.999987530708313,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "47",
+        "score": 0.9999738931655884,
+        "span": 0
+      },
+      {
+        "text": "4-Ethyl-2-methoxyphenol",
+        "score": 0.9985946857410929,
+        "span": 0
+      },
+      {
+        "text": "0.791",
+        "score": 0.9999898433685303,
+        "span": 0
+      },
+      {
+        "text": "0.448 0.633",
+        "score": 0.9999964475631714,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "1.17",
+        "score": 0.999950036406517,
+        "span": 0
+      },
+      {
+        "text": "1.79",
+        "score": 0.9999889731407166,
+        "span": 0
+      },
+      {
+        "text": "2.99",
+        "score": 0.9999804496765137,
+        "span": 0
+      },
+      {
+        "text": "3.51",
+        "score": 0.9998121410608292,
+        "span": 0
+      },
+      {
+        "text": "4.14 ± 0.02",
+        "score": 0.9484222412109375,
+        "span": 2
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.072",
+        "score": 0.9597671429316202,
+        "span": 0
+      },
+      {
+        "text": "0.02 0.014",
+        "score": 0.9432492613792419,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.012",
+        "score": 0.9179039895534515,
+        "span": 0
+      },
+      {
+        "text": "0.104",
+        "score": 0.9535335103670756,
+        "span": 0
+      },
+      {
+        "text": "0.078",
+        "score": 0.9279637336730957,
+        "span": 0
+      },
+      {
+        "text": "0.086",
+        "score": 0.9406356414159139,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "48",
+        "score": 0.999999463558197,
+        "span": 0
+      },
+      {
+        "text": "p-Cresol",
+        "score": 0.9989404156804085,
+        "span": 0
+      },
+      {
+        "text": "0.474",
+        "score": 0.9999970197677612,
+        "span": 0
+      },
+      {
+        "text": "0.391 0.446",
+        "score": 0.999991774559021,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.645",
+        "score": 0.9999942302703857,
+        "span": 0
+      },
+      {
+        "text": "10.9",
+        "score": 0.9999939501285553,
+        "span": 0
+      },
+      {
+        "text": "1.52",
+        "score": 0.9999801814556122,
+        "span": 0
+      },
+      {
+        "text": "1.75",
+        "score": 0.9999888241291046,
+        "span": 0
+      },
+      {
+        "text": "1.98",
+        "score": 0.9999849200248718,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.052",
+        "score": 0.9849185049533844,
+        "span": 0
+      },
+      {
+        "text": "±0.024 ±0.003",
+        "score": 0.9782843470573426,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.023",
+        "score": 0.9312217831611633,
+        "span": 0
+      },
+      {
+        "text": "±0.589",
+        "score": 0.9999735355377197,
+        "span": 0
+      },
+      {
+        "text": "±0.104",
+        "score": 0.9264309704303741,
+        "span": 0
+      },
+      {
+        "text": "0.052",
+        "score": 0.986933430035909,
+        "span": 0
+      },
+      {
+        "text": "±0.009",
+        "score": 0.9999762535095215,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "49",
+        "score": 0.999996542930603,
+        "span": 0
+      },
+      {
+        "text": "Methyl palmitate",
+        "score": 0.9696234799921513,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "3.18",
+        "score": 0.9924195110797882,
+        "span": 0
+      },
+      {
+        "text": "3.18",
+        "score": 0.9999392479658127,
+        "span": 0
+      },
+      {
+        "text": "2.15",
+        "score": 0.9998419880867004,
+        "span": 0
+      },
+      {
+        "text": "1.67",
+        "score": 0.9994946718215942,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.055",
+        "score": 0.9736384650071462,
+        "span": 0
+      },
+      {
+        "text": "±0.131",
+        "score": 0.9465032120545706,
+        "span": 0
+      },
+      {
+        "text": "±0.039",
+        "score": 0.9513297279675802,
+        "span": 0
+      },
+      {
+        "text": "0.039",
+        "score": 0.9551563958326975,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "50",
+        "score": 0.9999956488609314,
+        "span": 0
+      },
+      {
+        "text": "Ethyl linolenate",
+        "score": 0.9988573119044304,
+        "span": 0
+      },
+      {
+        "text": "1.75",
+        "score": 0.9999686479568481,
+        "span": 0
+      },
+      {
+        "text": "0.597 1.01",
+        "score": 0.9945316910743713,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "0.588",
+        "score": 0.9999904632568359,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.013",
+        "score": 0.9405249158541361,
+        "span": 0
+      },
+      {
+        "text": "± 0.005 ± 0.038",
+        "score": 0.9587127864360809,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "±0.041",
+        "score": 0.9650323887666067,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "Aroma compounds quantified by GC-FID",
+        "score": 0.9776618580023447,
+        "span": 3
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "Table 5",
+        "score": 0.9997524278504508,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "Odor activity values of 40 aroma compounds in 8 raw Baijiu samples.",
+        "score": 0.9875218779293459,
+        "span": 3
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": -1
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "No.",
+        "score": 0.9999883969624838,
+        "span": 0
+      },
+      {
+        "text": "Aroma compounds",
+        "score": 0.9959071516990662,
+        "span": 0
+      },
+      {
+        "text": "Odor threshold (μg/L)",
+        "score": 0.9912246286869049,
+        "span": 0
+      },
+      {
+        "text": "OAV",
+        "score": 0.9724561969439188,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      }
+    ]
+  ],
+  "body": [
+    [
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "",
+        "score": 0,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9808128476142883,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999936819076538,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999971389770508,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.99998939037323,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999679327011108,
+        "span": 0
+      },
+      {
+        "text": "6",
+        "score": 0.9172745943069458,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9988811612129211,
+        "span": 0
+      },
+      {
+        "text": "8",
+        "score": 0.9997616410255432,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "1",
+        "score": 0.9984082579612732,
+        "span": 0
+      },
+      {
+        "text": "Ethyl butanoate",
+        "score": 0.9909271279970805,
+        "span": 0
+      },
+      {
+        "text": "82a",
+        "score": 0.9998617172241211,
+        "span": 0
+      },
+      {
+        "text": "11,465",
+        "score": 0.9998665551344553,
+        "span": 0
+      },
+      {
+        "text": "2515",
+        "score": 0.9999955296516418,
+        "span": 0
+      },
+      {
+        "text": "1677",
+        "score": 0.9999960660934448,
+        "span": 0
+      },
+      {
+        "text": "1373",
+        "score": 0.9999987185001373,
+        "span": 0
+      },
+      {
+        "text": "902",
+        "score": 0.9999975363413492,
+        "span": 0
+      },
+      {
+        "text": "695",
+        "score": 0.9999990463256836,
+        "span": 0
+      },
+      {
+        "text": "247",
+        "score": 0.9999975363413492,
+        "span": 0
+      },
+      {
+        "text": "233",
+        "score": 0.9999992847442627,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "2",
+        "score": 0.999972939491272,
+        "span": 0
+      },
+      {
+        "text": "Butyl acetate",
+        "score": 0.9697708029013413,
+        "span": 0
+      },
+      {
+        "text": "58b*",
+        "score": 0.9813497811555862,
+        "span": 0
+      },
+      {
+        "text": "811",
+        "score": 0.9998683333396912,
+        "span": 0
+      },
+      {
+        "text": "111",
+        "score": 0.9833961725234985,
+        "span": 0
+      },
+      {
+        "text": "72",
+        "score": 0.9999608993530273,
+        "span": 0
+      },
+      {
+        "text": "50",
+        "score": 0.9999975562095642,
+        "span": 0
+      },
+      {
+        "text": "36",
+        "score": 0.9999992251396179,
+        "span": 0
+      },
+      {
+        "text": "24",
+        "score": 0.9999973773956299,
+        "span": 0
+      },
+      {
+        "text": "11",
+        "score": 0.9973644614219666,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.999745786190033,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "3",
+        "score": 0.9999985694885254,
+        "span": 0
+      },
+      {
+        "text": "2-Methylpropanol",
+        "score": 0.9996870197355747,
+        "span": 0
+      },
+      {
+        "text": "28,300c",
+        "score": 0.9901519162314278,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999734163284302,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999939203262329,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.998648464679718,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9904714524745941,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9881080687046051,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9768317341804504,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9045346677303314,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9864539206027985,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "4",
+        "score": 0.9999908208847046,
+        "span": 0
+      },
+      {
+        "text": "Ethyl pentanoate",
+        "score": 0.9723889902234077,
+        "span": 0
+      },
+      {
+        "text": "27a",
+        "score": 0.9972521464029948,
+        "span": 0
+      },
+      {
+        "text": "7145",
+        "score": 0.9999617338180542,
+        "span": 0
+      },
+      {
+        "text": "1720",
+        "score": 0.9999960362911224,
+        "span": 0
+      },
+      {
+        "text": "1262",
+        "score": 0.9999901056289673,
+        "span": 0
+      },
+      {
+        "text": "929",
+        "score": 0.9999975760777792,
+        "span": 0
+      },
+      {
+        "text": "777",
+        "score": 0.999975323677063,
+        "span": 0
+      },
+      {
+        "text": "567",
+        "score": 0.9999955097834269,
+        "span": 0
+      },
+      {
+        "text": "439",
+        "score": 0.9999189178148905,
+        "span": 0
+      },
+      {
+        "text": "288",
+        "score": 0.9999985694885254,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "5",
+        "score": 0.9999861717224121,
+        "span": 0
+      },
+      {
+        "text": "1-Butanol",
+        "score": 0.999084836906857,
+        "span": 0
+      },
+      {
+        "text": "2730d",
+        "score": 0.9985575556755066,
+        "span": 0
+      },
+      {
+        "text": "187",
+        "score": 0.9999976555506388,
+        "span": 0
+      },
+      {
+        "text": "123",
+        "score": 0.9999956687291464,
+        "span": 0
+      },
+      {
+        "text": "109",
+        "score": 0.9999972581863403,
+        "span": 0
+      },
+      {
+        "text": "113",
+        "score": 0.9998673597971598,
+        "span": 0
+      },
+      {
+        "text": "99",
+        "score": 0.9999896287918091,
+        "span": 0
+      },
+      {
+        "text": "98",
+        "score": 0.9999967217445374,
+        "span": 0
+      },
+      {
+        "text": "64",
+        "score": 0.99911168217659,
+        "span": 0
+      },
+      {
+        "text": "46",
+        "score": 0.9999962449073792,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "6",
+        "score": 0.9999839067459106,
+        "span": 0
+      },
+      {
+        "text": "Ethyl 4-methylpentanoate",
+        "score": 0.9995623752474785,
+        "span": 0
+      },
+      {
+        "text": "5b*",
+        "score": 0.9138142267862955,
+        "span": 0
+      },
+      {
+        "text": "872",
+        "score": 0.9999967416127523,
+        "span": 0
+      },
+      {
+        "text": "314",
+        "score": 0.9999974171320597,
+        "span": 0
+      },
+      {
+        "text": "305",
+        "score": 0.9999986886978149,
+        "span": 0
+      },
+      {
+        "text": "239",
+        "score": 0.9999975363413492,
+        "span": 0
+      },
+      {
+        "text": "114",
+        "score": 0.9999395608901978,
+        "span": 0
+      },
+      {
+        "text": "129",
+        "score": 0.9999850988388062,
+        "span": 0
+      },
+      {
+        "text": "110",
+        "score": 0.9998949567476908,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9992167949676514,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "7",
+        "score": 0.9992678761482239,
+        "span": 0
+      },
+      {
+        "text": "3-Methyl-1-butanol",
+        "score": 0.9992685152424706,
+        "span": 0
+      },
+      {
+        "text": "179,000a",
+        "score": 0.9861514940857887,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999737739562988,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9976233839988708,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9991519451141357,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9872841835021973,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9964371919631958,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9860531389713287,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.983678936958313,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.7545773088932037,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "8",
+        "score": 0.9999502897262573,
+        "span": 0
+      },
+      {
+        "text": "Ethyl hexanoate",
+        "score": 0.9997634649276733,
+        "span": 0
+      },
+      {
+        "text": "55a",
+        "score": 0.9998244841893514,
+        "span": 0
+      },
+      {
+        "text": "46,521",
+        "score": 0.9988425572713217,
+        "span": 0
+      },
+      {
+        "text": "21,033",
+        "score": 0.9988270103931427,
+        "span": 0
+      },
+      {
+        "text": "19,863",
+        "score": 0.9996254940827688,
+        "span": 0
+      },
+      {
+        "text": "15,985",
+        "score": 0.9997417032718658,
+        "span": 0
+      },
+      {
+        "text": "15,655",
+        "score": 0.9998131493727366,
+        "span": 0
+      },
+      {
+        "text": "12,340",
+        "score": 0.9994751314322153,
+        "span": 0
+      },
+      {
+        "text": "12,984",
+        "score": 0.999602327744166,
+        "span": 0
+      },
+      {
+        "text": "7653",
+        "score": 0.9999979436397552,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "9",
+        "score": 0.9998842477798462,
+        "span": 0
+      },
+      {
+        "text": "Hexyl acetate",
+        "score": 0.9882598702724164,
+        "span": 0
+      },
+      {
+        "text": "55608",
+        "score": 0.9532942771911621,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.999988317489624,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999936819076538,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999860525131226,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9974008798599243,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999856948852539,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9725780487060547,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9576143622398376,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.8809648752212524,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "10",
+        "score": 0.9999752640724182,
+        "span": 0
+      },
+      {
+        "text": "Cyclopentanol",
+        "score": 0.9624075935437129,
+        "span": 0
+      },
+      {
+        "text": "4200,000b#",
+        "score": 0.997608357667923,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9992808699607849,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9993768334388733,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9995970129966736,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9993020296096802,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9993745684623718,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9435900747776031,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9261741936206818,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9858488738536835,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "11",
+        "score": 0.9985178709030151,
+        "span": 0
+      },
+      {
+        "text": "Propyl hexanoate",
+        "score": 0.9693872593343258,
+        "span": 0
+      },
+      {
+        "text": "12,8003",
+        "score": 0.9312109266008649,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999885559082031,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9898949563503265,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9988678693771362,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.974332183599472,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9987803101539612,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9570428431034088,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9879255294799805,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9994038343429565,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "12",
+        "score": 0.9999564290046692,
+        "span": 0
+      },
+      {
+        "text": "Ethyl lactate",
+        "score": 0.9987829694381127,
+        "span": 0
+      },
+      {
+        "text": "128,000a",
+        "score": 0.9651018977165222,
+        "span": 0
+      },
+      {
+        "text": "9",
+        "score": 0.9998815059661865,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9999097585678101,
+        "span": 0
+      },
+      {
+        "text": "9",
+        "score": 0.9999287128448486,
+        "span": 0
+      },
+      {
+        "text": "12",
+        "score": 0.9999768733978271,
+        "span": 0
+      },
+      {
+        "text": "12",
+        "score": 0.9999474287033081,
+        "span": 0
+      },
+      {
+        "text": "15",
+        "score": 0.9999784827232361,
+        "span": 0
+      },
+      {
+        "text": "13",
+        "score": 0.9999982714653015,
+        "span": 0
+      },
+      {
+        "text": "12",
+        "score": 0.9993252456188202,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "13",
+        "score": 0.9999929666519165,
+        "span": 0
+      },
+      {
+        "text": "1-Hexanol",
+        "score": 0.9997648133171929,
+        "span": 0
+      },
+      {
+        "text": "5370a",
+        "score": 0.9985819935798645,
+        "span": 0
+      },
+      {
+        "text": "31",
+        "score": 0.9998922049999237,
+        "span": 0
+      },
+      {
+        "text": "38",
+        "score": 0.9999993443489075,
+        "span": 0
+      },
+      {
+        "text": "43",
+        "score": 0.9999997019767761,
+        "span": 0
+      },
+      {
+        "text": "54",
+        "score": 0.9999973177909851,
+        "span": 0
+      },
+      {
+        "text": "53",
+        "score": 0.9999984502792358,
+        "span": 0
+      },
+      {
+        "text": "69",
+        "score": 0.9943275451660156,
+        "span": 0
+      },
+      {
+        "text": "51",
+        "score": 0.9997757971286774,
+        "span": 0
+      },
+      {
+        "text": "23",
+        "score": 0.9999987483024597,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "14",
+        "score": 0.9999939799308777,
+        "span": 0
+      },
+      {
+        "text": "Hexyl butanoate",
+        "score": 0.9975696126619975,
+        "span": 0
+      },
+      {
+        "text": "5000b#",
+        "score": 0.9944120744864146,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999978542327881,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999880790710449,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999911785125732,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9949812293052673,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999854564666748,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9884440302848816,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999861717224121,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9438124001026154,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "15",
+        "score": 0.9999603629112244,
+        "span": 0
+      },
+      {
+        "text": "Ethyl octanoate",
+        "score": 0.9735290129979451,
+        "span": 0
+      },
+      {
+        "text": "13a",
+        "score": 0.953286329905192,
+        "span": 0
+      },
+      {
+        "text": "3934",
+        "score": 0.9999994039535522,
+        "span": 0
+      },
+      {
+        "text": "1755",
+        "score": 0.9999905228614807,
+        "span": 0
+      },
+      {
+        "text": "2673",
+        "score": 0.9999981820583344,
+        "span": 0
+      },
+      {
+        "text": "1509",
+        "score": 0.9999960362911224,
+        "span": 0
+      },
+      {
+        "text": "3181",
+        "score": 0.9999825358390808,
+        "span": 0
+      },
+      {
+        "text": "1579",
+        "score": 0.9999932944774628,
+        "span": 0
+      },
+      {
+        "text": "2957",
+        "score": 0.9999975264072418,
+        "span": 0
+      },
+      {
+        "text": "298",
+        "score": 0.9999974171320597,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "16",
+        "score": 0.9999589323997498,
+        "span": 0
+      },
+      {
+        "text": "Acetic acid",
+        "score": 0.9960177053104747,
+        "span": 0
+      },
+      {
+        "text": "160,000a",
+        "score": 0.996619924902916,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9757544696331024,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9990752935409546,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9732478260993958,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9689724743366241,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9430634677410126,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9686470925807953,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9724308550357819,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9850376844406128,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "17",
+        "score": 0.9999885559082031,
+        "span": 0
+      },
+      {
+        "text": "Isopentyl hexanoate",
+        "score": 0.9997348377579137,
+        "span": 0
+      },
+      {
+        "text": "1400a",
+        "score": 0.9812323212623596,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999938011169434,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9923473596572876,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9994096755981445,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999885559082031,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999847412109375,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999843835830688,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999972581863403,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9965934157371521,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "18",
+        "score": 0.9999859929084778,
+        "span": 0
+      },
+      {
+        "text": "Furfural",
+        "score": 0.9999188631772995,
+        "span": 0
+      },
+      {
+        "text": "44,000e",
+        "score": 0.9965453488486153,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9411756992340088,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9992850422859192,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9543080925941467,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9824467599391937,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9957108497619629,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999984502792358,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999978542327881,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999979734420776,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "19",
+        "score": 0.9997482299804688,
+        "span": 0
+      },
+      {
+        "text": "2-Acetylfuran",
+        "score": 0.9999312345798199,
+        "span": 0
+      },
+      {
+        "text": "58,504e+",
+        "score": 0.998565211892128,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.999220609664917,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9991140961647034,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9995734095573425,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9994766116142273,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.99956876039505,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.97690349817276,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9576528668403625,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9516027271747589,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "20",
+        "score": 0.9999989867210388,
+        "span": 0
+      },
+      {
+        "text": "Ethyl nonanoate",
+        "score": 0.9703739881515503,
+        "span": 0
+      },
+      {
+        "text": "3150a",
+        "score": 0.9969584941864014,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.976527750492096,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9993378520011902,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9594980478286743,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9994670748710632,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9995518326759338,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9994931221008301,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9989033937454224,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9990779161453247,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "21",
+        "score": 0.9999640583992004,
+        "span": 0
+      },
+      {
+        "text": "Hexyl hexanoate",
+        "score": 0.9835809469223022,
+        "span": 0
+      },
+      {
+        "text": "1890d",
+        "score": 0.9032895803451538,
+        "span": 0
+      },
+      {
+        "text": "14",
+        "score": 0.9999828338623047,
+        "span": 0
+      },
+      {
+        "text": "6",
+        "score": 0.9999935626983643,
+        "span": 0
+      },
+      {
+        "text": "14",
+        "score": 0.9999900460243225,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9998799562454224,
+        "span": 0
+      },
+      {
+        "text": "23",
+        "score": 0.9999991059303284,
+        "span": 0
+      },
+      {
+        "text": "11",
+        "score": 0.9974431395530701,
+        "span": 0
+      },
+      {
+        "text": "18",
+        "score": 0.9999902844429016,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.960179328918457,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "22",
+        "score": 0.999993085861206,
+        "span": 0
+      },
+      {
+        "text": "Butanoic acid",
+        "score": 0.9668270762150104,
+        "span": 0
+      },
+      {
+        "text": "964a",
+        "score": 0.9998058825731277,
+        "span": 0
+      },
+      {
+        "text": "68",
+        "score": 0.9999852180480957,
+        "span": 0
+      },
+      {
+        "text": "42",
+        "score": 0.9999964833259583,
+        "span": 0
+      },
+      {
+        "text": "67",
+        "score": 0.999997079372406,
+        "span": 0
+      },
+      {
+        "text": "82",
+        "score": 0.9999966621398926,
+        "span": 0
+      },
+      {
+        "text": "107",
+        "score": 0.9999914169311523,
+        "span": 0
+      },
+      {
+        "text": "159",
+        "score": 0.9999918142954508,
+        "span": 0
+      },
+      {
+        "text": "165",
+        "score": 0.9999909400939941,
+        "span": 0
+      },
+      {
+        "text": "195",
+        "score": 0.9999955097834269,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "23",
+        "score": 0.9999985098838806,
+        "span": 0
+      },
+      {
+        "text": "Ethyl decanoate",
+        "score": 0.9823523879051208,
+        "span": 0
+      },
+      {
+        "text": "1120a",
+        "score": 0.9608680605888367,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999901056289673,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9978517293930054,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999984502792358,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999923706054688,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9996482133865356,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9894212484359741,
+        "span": 0
+      },
+      {
+        "text": "8",
+        "score": 0.999779999256134,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9522964060306549,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "24",
+        "score": 0.9999982714653015,
+        "span": 0
+      },
+      {
+        "text": "Phenylacetaldehyde",
+        "score": 0.9991516868273417,
+        "span": 0
+      },
+      {
+        "text": "262d",
+        "score": 0.9998219609260559,
+        "span": 0
+      },
+      {
+        "text": "8",
+        "score": 0.9999353885650635,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9996664524078369,
+        "span": 0
+      },
+      {
+        "text": "13",
+        "score": 0.9999974370002747,
+        "span": 0
+      },
+      {
+        "text": "21",
+        "score": 0.9999785423278809,
+        "span": 0
+      },
+      {
+        "text": "26",
+        "score": 0.9999986886978149,
+        "span": 0
+      },
+      {
+        "text": "49",
+        "score": 0.9999952912330627,
+        "span": 0
+      },
+      {
+        "text": "63",
+        "score": 0.9999982118606567,
+        "span": 0
+      },
+      {
+        "text": "72",
+        "score": 0.9999787211418152,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "25",
+        "score": 0.9999983906745911,
+        "span": 0
+      },
+      {
+        "text": "2-Furanmethanol",
+        "score": 0.9996001958847046,
+        "span": 0
+      },
+      {
+        "text": "2000e#",
+        "score": 0.9983910322189331,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999963045120239,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.999992847442627,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999973773956299,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.999996542930603,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999772310256958,
+        "span": 0
+      },
+      {
+        "text": "9",
+        "score": 0.999886155128479,
+        "span": 0
+      },
+      {
+        "text": "8",
+        "score": 0.9999053478240967,
+        "span": 0
+      },
+      {
+        "text": "11",
+        "score": 0.9984681904315948,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "26",
+        "score": 0.9999970197677612,
+        "span": 0
+      },
+      {
+        "text": "3-Methylbutanoic acid",
+        "score": 0.9920756958779835,
+        "span": 0
+      },
+      {
+        "text": "1050a",
+        "score": 0.9986180424690246,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999730587005615,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999933242797852,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999953508377075,
+        "span": 0
+      },
+      {
+        "text": "6",
+        "score": 0.9999946355819702,
+        "span": 0
+      },
+      {
+        "text": "12",
+        "score": 0.9999579191207886,
+        "span": 0
+      },
+      {
+        "text": "17",
+        "score": 0.9999775886535645,
+        "span": 0
+      },
+      {
+        "text": "18",
+        "score": 0.99998539686203,
+        "span": 0
+      },
+      {
+        "text": "24",
+        "score": 0.9999979734420776,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "27",
+        "score": 0.9999963045120239,
+        "span": 0
+      },
+      {
+        "text": "Diethyl butanedioate",
+        "score": 0.999765133857727,
+        "span": 0
+      },
+      {
+        "text": "353,000a",
+        "score": 0.9965706020593643,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9355121850967407,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9404597878456116,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.781805157661438,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9375436902046204,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9489120543003082,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9248432517051697,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9623216688632965,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9582553207874298,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "28",
+        "score": 0.9999984502792358,
+        "span": 0
+      },
+      {
+        "text": "3-Methylthiopropanol",
+        "score": 0.9984221011400223,
+        "span": 0
+      },
+      {
+        "text": "2110a",
+        "score": 0.9650767803192138,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9818382561206818,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9687766432762146,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9923632442951202,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9712199568748474,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.960923045873642,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9739634692668915,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.977150559425354,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9850395321846008,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "29",
+        "score": 0.9999945759773254,
+        "span": 0
+      },
+      {
+        "text": "Pentanoic acid",
+        "score": 0.9670643423284803,
+        "span": 0
+      },
+      {
+        "text": "389a",
+        "score": 0.9999216198921204,
+        "span": 0
+      },
+      {
+        "text": "17",
+        "score": 0.9999821186065674,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9999595880508423,
+        "span": 0
+      },
+      {
+        "text": "14",
+        "score": 0.9999940991401672,
+        "span": 0
+      },
+      {
+        "text": "19",
+        "score": 0.9999610781669617,
+        "span": 0
+      },
+      {
+        "text": "29",
+        "score": 0.9999969601631165,
+        "span": 0
+      },
+      {
+        "text": "46",
+        "score": 0.9999992847442627,
+        "span": 0
+      },
+      {
+        "text": "56",
+        "score": 0.9999943375587463,
+        "span": 0
+      },
+      {
+        "text": "76",
+        "score": 0.9999948143959045,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "30",
+        "score": 0.9999810457229614,
+        "span": 0
+      },
+      {
+        "text": "Ethyl phenylacetate",
+        "score": 0.998485267162323,
+        "span": 0
+      },
+      {
+        "text": "407f",
+        "score": 0.9985321164131165,
+        "span": 0
+      },
+      {
+        "text": "12",
+        "score": 0.9998983442783356,
+        "span": 0
+      },
+      {
+        "text": "12",
+        "score": 0.9998781383037567,
+        "span": 0
+      },
+      {
+        "text": "19",
+        "score": 0.9999566674232483,
+        "span": 0
+      },
+      {
+        "text": "28",
+        "score": 0.9999979734420776,
+        "span": 0
+      },
+      {
+        "text": "52",
+        "score": 0.9999966025352478,
+        "span": 0
+      },
+      {
+        "text": "71",
+        "score": 0.9998084306716919,
+        "span": 0
+      },
+      {
+        "text": "82",
+        "score": 0.9999966025352478,
+        "span": 0
+      },
+      {
+        "text": "73",
+        "score": 0.9999954700469971,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "31",
+        "score": 0.9999807476997375,
+        "span": 0
+      },
+      {
+        "text": "4-Methylpentanoic acid",
+        "score": 0.999579827893864,
+        "span": 0
+      },
+      {
+        "text": "144d",
+        "score": 0.9979553371667862,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9994820952415466,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.999408483505249,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9994223117828369,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999990463256836,
+        "span": 0
+      },
+      {
+        "text": "3",
+        "score": 0.9999990463256836,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999946355819702,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999899864196777,
+        "span": 0
+      },
+      {
+        "text": "6",
+        "score": 0.9999914169311523,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "32",
+        "score": 0.9999969601631165,
+        "span": 0
+      },
+      {
+        "text": "Phenethyl acetate",
+        "score": 0.981208909960354,
+        "span": 0
+      },
+      {
+        "text": "909c",
+        "score": 0.8941981494426727,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.976778507232666,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9993165731430054,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.9863195419311523,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999938011169434,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999892711639404,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999885559082031,
+        "span": 0
+      },
+      {
+        "text": "5",
+        "score": 0.9999936819076538,
+        "span": 0
+      },
+      {
+        "text": "6",
+        "score": 0.9999927282333374,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "33",
+        "score": 0.9999996423721313,
+        "span": 0
+      },
+      {
+        "text": "Hexanoic acid",
+        "score": 0.9979849320191604,
+        "span": 0
+      },
+      {
+        "text": "2520a",
+        "score": 0.9996854662895203,
+        "span": 0
+      },
+      {
+        "text": "45",
+        "score": 0.9999985098838806,
+        "span": 0
+      },
+      {
+        "text": "23",
+        "score": 0.9999990463256836,
+        "span": 0
+      },
+      {
+        "text": "41",
+        "score": 0.9999912977218628,
+        "span": 0
+      },
+      {
+        "text": "52",
+        "score": 0.9999946355819702,
+        "span": 0
+      },
+      {
+        "text": "70",
+        "score": 0.9999851584434509,
+        "span": 0
+      },
+      {
+        "text": "88",
+        "score": 0.9999956488609314,
+        "span": 0
+      },
+      {
+        "text": "74",
+        "score": 0.9999396204948425,
+        "span": 0
+      },
+      {
+        "text": "79",
+        "score": 0.9999884963035583,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "34",
+        "score": 0.9999993443489075,
+        "span": 0
+      },
+      {
+        "text": "Ethyl 3-phenylpropanoate",
+        "score": 0.9997120574116707,
+        "span": 0
+      },
+      {
+        "text": "125a",
+        "score": 0.9896479547023773,
+        "span": 0
+      },
+      {
+        "text": "22",
+        "score": 0.999995231628418,
+        "span": 0
+      },
+      {
+        "text": "21",
+        "score": 0.9995502531528473,
+        "span": 0
+      },
+      {
+        "text": "33",
+        "score": 0.9999998211860657,
+        "span": 0
+      },
+      {
+        "text": "41",
+        "score": 0.9999886751174927,
+        "span": 0
+      },
+      {
+        "text": "96",
+        "score": 0.9999982118606567,
+        "span": 0
+      },
+      {
+        "text": "111",
+        "score": 0.99786376953125,
+        "span": 0
+      },
+      {
+        "text": "163",
+        "score": 0.999997059504191,
+        "span": 0
+      },
+      {
+        "text": "138",
+        "score": 0.9999986886978149,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "35",
+        "score": 0.9999992847442627,
+        "span": 0
+      },
+      {
+        "text": "2-Phenylethanol",
+        "score": 0.9975052913029988,
+        "span": 0
+      },
+      {
+        "text": "28,900a",
+        "score": 0.9980690649577549,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9406528472900391,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9422639906406403,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9172950685024261,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9687404632568359,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9395330250263214,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9445059299468994,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9514431357383728,
+        "span": 0
+      },
+      {
+        "text": "1",
+        "score": 0.989685595035553,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "36",
+        "score": 0.998061329126358,
+        "span": 0
+      },
+      {
+        "text": "Heptanoic acid",
+        "score": 0.9712634384632111,
+        "span": 0
+      },
+      {
+        "text": "13,800a",
+        "score": 0.9698236669812884,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9553872346878052,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.8633924424648285,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9741528630256653,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9804534614086151,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9594875276088715,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9916161894798279,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9552676379680634,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9518686234951019,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "37",
+        "score": 0.9999979138374329,
+        "span": 0
+      },
+      {
+        "text": "2-Methoxy-p-cresol",
+        "score": 0.9996813105212318,
+        "span": 0
+      },
+      {
+        "text": "50b",
+        "score": 0.9934049844741821,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9990363121032715,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9992117881774902,
+        "span": 0
+      },
+      {
+        "text": "2",
+        "score": 0.9999911785125732,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999978542327881,
+        "span": 0
+      },
+      {
+        "text": "4",
+        "score": 0.9999959468841553,
+        "span": 0
+      },
+      {
+        "text": "6",
+        "score": 0.9999898672103882,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9984161853790283,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9990416169166565,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "38",
+        "score": 0.9999995231628418,
+        "span": 0
+      },
+      {
+        "text": "Phenol",
+        "score": 0.9999474883079529,
+        "span": 0
+      },
+      {
+        "text": "18,900c",
+        "score": 0.9312707270894732,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9466546177864075,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9673662781715393,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9698733985424042,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9401200711727142,
+        "span": 0
+      },
+      {
+        "text": "0",
+        "score": 0.9977946281433105,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9418384432792664,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9664192199707031,
+        "span": 0
+      },
+      {
+        "text": "<1",
+        "score": 0.9583905339241028,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "39",
+        "score": 0.9999947547912598,
+        "span": 0
+      },
+      {
+        "text": "4-Ethyl-2-methoxyphenol",
+        "score": 0.9993941317433896,
+        "span": 0
+      },
+      {
+        "text": "7e#",
+        "score": 0.9433222611745199,
+        "span": 0
+      },
+      {
+        "text": "113",
+        "score": 0.999939481417338,
+        "span": 0
+      },
+      {
+        "text": "64",
+        "score": 0.9999977350234985,
+        "span": 0
+      },
+      {
+        "text": "90",
+        "score": 0.9999910593032837,
+        "span": 0
+      },
+      {
+        "text": "167",
+        "score": 0.9999965826670328,
+        "span": 0
+      },
+      {
+        "text": "255",
+        "score": 0.9822191596031189,
+        "span": 0
+      },
+      {
+        "text": "426",
+        "score": 0.9999985694885254,
+        "span": 0
+      },
+      {
+        "text": "502",
+        "score": 0.999997615814209,
+        "span": 0
+      },
+      {
+        "text": "592",
+        "score": 0.9999961058298746,
+        "span": 0
+      }
+    ],
+    [
+      {
+        "text": "40",
+        "score": 0.9999836683273315,
+        "span": 0
+      },
+      {
+        "text": "p-Cresol",
+        "score": 0.9995947033166885,
+        "span": 0
+      },
+      {
+        "text": "60b",
+        "score": 0.9982057611147562,
+        "span": 0
+      },
+      {
+        "text": "8",
+        "score": 0.999932050704956,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9999606609344482,
+        "span": 0
+      },
+      {
+        "text": "7",
+        "score": 0.9998220801353455,
+        "span": 0
+      },
+      {
+        "text": "11",
+        "score": 0.9968324303627014,
+        "span": 0
+      },
+      {
+        "text": "181",
+        "score": 0.9999825557072958,
+        "span": 0
+      },
+      {
+        "text": "25",
+        "score": 0.9999978542327881,
+        "span": 0
+      },
+      {
+        "text": "29",
+        "score": 0.9999943375587463,
+        "span": 0
+      },
+      {
+        "text": "33",
+        "score": 0.9999997615814209,
+        "span": 0
+      }
+    ]
+  ],
+  "pass_b": {
+    "n_col": 11,
+    "n_head_row": 28,
+    "n_body_row": 41
+  },
+  "verify": {
+    "n_cells": 759,
+    "n_match": 758,
+    "n_conflict": 1,
+    "n_one_sided": 0,
+    "n_lowconf": 2,
+    "n_repaired": 43,
+    "agree_pct": 99.87,
+    "n_rescued": 0,
+    "rescue_dpi": 600
+  }
+}

@@ -1,0 +1,4 @@
+﻿table_id,name,pdf_page,section,row,col,status,pass_A_text,pass_B_text,min_score
+T02,T02_p05,5,head,1,4,conflict_b,Rt (x103/,Rt (103/,0.9028
+T02,T02_p05,5,head,1,4,repaired_C,Rt (103/,Rt (×103/,0.9028
+T02,T02_p05,5,body,2,2,conflict_b,1-0cten-3-ol,1-Octen-3-ol,0.9634

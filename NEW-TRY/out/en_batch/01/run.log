@@ -1,0 +1,79 @@
+
+===== s1_detect_tables.py C:\Users\24252\Desktop\PPT\课题\26年\26年3月\定性定量\2  Characterization of key odorants causing the roasted and mud-like aromas in.pdf =====
+STEP 1 - detect three-line tables
+pdf: C:\Users\24252\Desktop\PPT\??\26?\26?3?\????\2  Characterization of key odorants causing the roasted and mud-like aromas in.pdf
+pages: 13
+  page  1: rules=   6  candidates=6  tables=0
+        rejected p01 y=79..482 h=402  median runs/row 2.0 < 3
+  page  2: rules=   4  candidates=2  tables=1
+  page  3: rules=   3  candidates=0  tables=0
+  page  4: rules=   4  candidates=2  tables=1
+  page  5: rules=   7  candidates=6  tables=1
+  page  6: rules=   0  candidates=0  tables=0
+  page  7: rules=   0  candidates=0  tables=0
+  page  8: rules=   0  candidates=0  tables=0
+  page  9: rules=   0  candidates=0  tables=0
+  page 10: rules=   6  candidates=4  tables=1
+  page 11: rules=   3  candidates=1  tables=1
+  page 12: rules=   3  candidates=1  tables=1
+  page 13: rules=   0  candidates=0  tables=0
+  T01 p02  520.8 x 179.9 pt  rows~18  long=True  A=2212x834 B=2950x1111
+  T02 p04  520.8 x 103.2 pt  rows~ 9  long=True  A=2212x695 B=2950x926
+  T03 p05  520.8 x 574.2 pt  rows~63  long=True  A=2212x2608 B=2950x3476
+  T04 p10  520.8 x 197.0 pt  rows~20  long=True  A=2212x956 B=2950x1274
+  T05 p11  251.5 x 154.2 pt  rows~25  long=True  A=1090x821 B=1454x1095
+  T06 p12  520.8 x  76.8 pt  rows~ 6  long=False  A=2212x537 B=2950x715
+candidates=7  tables kept=6  (long: 5)  -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\01\tables.json
+images -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\01\img   previews -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\01\page_preview
+
+===== s2_umi_ocr.py  =====
+STEP 2 - Umi-OCR multi pass
+engine: C:\UMI-OCR\Umi-OCR_Rapid_v2.1.3\Umi-OCR.exe
+pass A/B: lang=English   pass C: lang=???? (symbol donor)
+options: maxSideLen=999999 parser=none format=dict
+engine already running on port 1224
+  T01 pass A    4.5s  boxes=132  score_avg=0.972  -> T01_p02_A.json
+  T01 pass B    4.8s  boxes=128  score_avg=0.966  -> T01_p02_B.json
+  T01 pass C    5.0s  boxes=124  score_avg=0.976  -> T01_p02_C.json
+  T02 pass A    2.9s  boxes=67  score_avg=0.983  -> T02_p04_A.json
+  T02 pass B    3.4s  boxes=68  score_avg=0.987  -> T02_p04_B.json
+  T02 pass C    3.4s  boxes=67  score_avg=0.972  -> T02_p04_C.json
+  T03 pass A   13.6s  boxes=432  score_avg=0.985  -> T03_p05_A.json
+  T03 pass B   20.6s  boxes=552  score_avg=0.955  -> T03_p05_B.json
+  T03 pass C   14.8s  boxes=429  score_avg=0.962  -> T03_p05_C.json
+  T04 pass A    3.5s  boxes=120  score_avg=0.982  -> T04_p10_A.json
+  T04 pass B    4.2s  boxes=124  score_avg=0.975  -> T04_p10_B.json
+  T04 pass C    4.0s  boxes=119  score_avg=0.987  -> T04_p10_C.json
+  T05 pass A    2.0s  boxes=70  score_avg=0.996  -> T05_p11_A.json
+  T05 pass B    2.2s  boxes=73  score_avg=0.990  -> T05_p11_B.json
+  T05 pass C    2.3s  boxes=70  score_avg=0.973  -> T05_p11_C.json
+  T06 pass A    2.5s  boxes=43  score_avg=0.965  -> T06_p12_A.json
+  T06 pass B    2.8s  boxes=44  score_avg=0.990  -> T06_p12_B.json
+  T06 pass C    2.8s  boxes=43  score_avg=0.963  -> T06_p12_C.json
+done: 18 images, 0 failed, 99.5s total
+
+===== s3_verify_grid.py  =====
+STEP 3 - rebuild grid + verify A/B
+  T01 p02  cols=6 (B:6)  head=2 body=16  match=90 conflict=18 one-sided=0 repaired=4 lowconf=10  agree=83.3%
+  T02 p04  cols=11 (B:11)  head=3 body=6  match=93 conflict=6 one-sided=0 repaired=1 lowconf=4  agree=93.9%
+  T03 p05  cols=7 (B:7)  head=3 body=60  match=383 conflict=58 one-sided=0 repaired=108 lowconf=52  agree=86.8%
+  T04 p10  cols=7 (B:7)  head=2 body=18  match=139 conflict=1 one-sided=0 repaired=1 lowconf=6  agree=99.3%
+  T05 p11  cols=5 (B:5)  head=2 body=14  match=80 conflict=0 one-sided=0 repaired=0 lowconf=0  agree=100.0%
+  T06 p12  cols=7 (B:7)  head=2 body=4  match=42 conflict=0 one-sided=0 repaired=1 lowconf=0  agree=100.0%
+tables rebuilt: 6
+
+===== s4_rescue_cells.py  =====
+STEP 4 - targeted cell rescue at 600 dpi
+  T01 p02  examined=62  changed=18  -> T01_p02_rescue.csv
+  T02 p04  examined=30  changed=3  -> T02_p04_rescue.csv
+  T03 p05  examined=146  changed=7  -> T03_p05_rescue.csv
+  T04 p10  examined=69  changed=0  -> T04_p10_rescue.csv
+  T05 p11  examined=0  changed=0  -> T05_p11_rescue.csv
+  T06 p12  examined=8  changed=0  -> T06_p12_rescue.csv
+rescued: symbol=19 score=9 kept=287 no_reading=0
+
+===== s5_to_excel.py  =====
+STEP 4 - write excel
+  tables: 6  diff: 198  lowconf: 72  symbol-repair: 115  rescue: 28
+  -> C:\Users\24252\Desktop\PPT\??\26?\26?3?\NEW-TRY\out\en_batch\01\tables_extracted.xlsx
+  sheets: 00_??, T01_p02, T02_p04, T03_p05, T04_p10, T05_p11, T06_p12, 90_??_??, 91_??_???, 92_????, 93_?????, 94_????

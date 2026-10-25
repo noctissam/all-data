@@ -1,0 +1,1485 @@
+{
+ "idx": 18,
+ "sheet": "17 北派浓香型白酒年份标记物的非靶向鉴定序号",
+ "pdf": "北派浓香型白酒年份标记物的非靶向鉴定_黄河.pdf",
+ "route": "text-layer",
+ "n_tables": 4,
+ "fragments": 4,
+ "tables": [
+  {
+   "header": [
+    "卷 第20 期 食品安全 年10 月 Journal of F 北派浓香型白酒年 黄 河 1,2, 陈 昊 1,2, 武 王 硕 1,2, 孙 (1. 北京工商大学老年营养与",
+    "质量 ood Safet 份标 亚帅 1,2 越 1,2 健康教育部",
+    "检测学报 y and Quality 记物 , 洪嘉欣 , 赵东瑞 重点实验室",
+    "的非 1,2, 陈乙 1,2* , 北京 100",
+    "靶向鉴 源 1,2, 048;",
+    "Vol. 14 Oct. 定"
+   ],
+   "sig": "卷第20期食品安全年10月JournalofF北派浓香型白酒年黄河1,2,陈昊1,2,武王硕1,2,孙(1.北京工商大学老年营养与|质量oodSafet份标亚帅1,2越1,2健康教育部|检测学报yandQuality记物,洪嘉欣,赵东瑞重点实验室|的非1,2,陈乙1,2*,北京100|靶向鉴源1,2,048;|Vol.14Oct.定",
+   "rows": [
+    [
+     "卷 第20 期 食品安全",
+     "质量",
+     "检测学报",
+     "",
+     "",
+     "Vol. 14"
+    ],
+    [
+     "年10 月 Journal of F",
+     "ood Safet",
+     "y and Quality",
+     "",
+     "",
+     "Oct."
+    ],
+    [
+     "北派浓香型白酒年",
+     "份标",
+     "记物",
+     "的非",
+     "靶向鉴",
+     "定"
+    ],
+    [
+     "黄 河 1,2, 陈 昊 1,2, 武",
+     "亚帅 1,2",
+     ", 洪嘉欣",
+     "1,2, 陈乙",
+     "源 1,2,",
+     ""
+    ],
+    [
+     "王 硕 1,2, 孙",
+     "越 1,2",
+     ", 赵东瑞",
+     "1,2*",
+     "",
+     ""
+    ],
+    [
+     "(1. 北京工商大学老年营养与",
+     "健康教育部",
+     "重点实验室",
+     ", 北京 100",
+     "048;",
+     ""
+    ],
+    [
+     "2. 北京工商大学中国轻工业酿",
+     "酒分子工",
+     "程重点实验室",
+     ", 北京 100",
+     "048)",
+     ""
+    ],
+    [
+     "摘 要: 目的 筛定北派浓香型白酒年份差异标",
+     "记物, 并",
+     "表征差异标记",
+     "物对北派浓",
+     "香型白酒感官",
+     "品质的贡"
+    ],
+    [
+     "献。方法 采用吸附笔-气相色谱-质谱法结合气味",
+     "活度值、",
+     "滋味活性值",
+     "鉴定不同年份",
+     "北派浓香型白",
+     "酒的微量"
+    ],
+    [
+     "成分数据集及品质因子, 应用定量描述性感官分析",
+     "结合偏最",
+     "小二乘判别",
+     "分析、斯皮尔",
+     "曼相关分析和",
+     "随机森林"
+    ],
+    [
+     "化学计量学方法非靶向筛选关键年份差异标记物,",
+     "并通过 P",
+     "earson 相关",
+     "性分析方法探",
+     "究标记物对北",
+     "派浓香型"
+    ],
+    [
+     "白酒感官属性的贡献。结果 共鉴定出94 种微量",
+     "成分, 其中",
+     "48 种香气品",
+     "质因子、8",
+     "种滋味品质因",
+     "子, 筛选出"
+    ],
+    [
+     "6 种关键年份标记物, 各标记物对北派浓香型白酒",
+     "感官品质",
+     "贡献具有明显",
+     "差异。结论",
+     "运用化学计量",
+     "学方法可"
+    ],
+    [
+     "从仪器数据中提取有效信息, 构建微量成分与酒体",
+     "感官品质",
+     "的关联, 有",
+     "效筛选影响北",
+     "派浓香型白酒",
+     "感官品质"
+    ],
+    [
+     "差异的年份标记物。",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "关键词: 北派浓香型白酒; 吸附笔; 定量描述性感",
+     "官分析;",
+     "气味活度值;",
+     "滋味活性值;",
+     "化学计量学;",
+     "年份差异"
+    ],
+    [
+     "标记物; 相关性分析",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Non-targeted identification",
+     "of age",
+     "markers",
+     "of north",
+     "category",
+     ""
+    ],
+    [
+     "strong",
+     "flavor",
+     "Baijiu",
+     "",
+     "",
+     ""
+    ],
+    [
+     "HUANG He1,2, CHEN Hao1,2, WU Ya-",
+     "Shuai1,2,",
+     "HONG Jia",
+     "-Xin1,2, CH",
+     "EN Yi-Yuan",
+     "1,2,"
+    ],
+    [
+     "WANG Shuo1,2, SUN",
+     "Yue1,2,",
+     "ZHAO Don",
+     "g-Rui1,2*",
+     "",
+     ""
+    ],
+    [
+     "(1. Key Laboratory of Elderly Nutrition and Health, Mi",
+     "nistry of Ed",
+     "ucation, Beiji",
+     "ng Technology",
+     "and Business U",
+     "niversity,"
+    ],
+    [
+     "Beijing 100048, China; 2. Key Laboratory of B",
+     "rewing Mo",
+     "lecular Engin",
+     "eering of Chin",
+     "a Light Industry",
+     ","
+    ],
+    [
+     "Beijing Technology and Busin",
+     "ess Univer",
+     "sity, Beijing 1",
+     "00048, China)",
+     "",
+     ""
+    ],
+    [
+     "ABSTRACT: Objective To screen the age differenc",
+     "e markers",
+     "of north categ",
+     "ory strong fla",
+     "vor Baijiu, and",
+     "analyze the"
+    ],
+    [
+     "contribution of age markers to the sensory quality o",
+     "f north c",
+     "ategory strong",
+     "flavor Baiji",
+     "u. Methods",
+     "Sorbent pen"
+    ],
+    [
+     "combined with gas chromatography-mass spectrometry",
+     ", odor acti",
+     "vity value and",
+     "taste activity",
+     "value were use",
+     "d to identify"
+    ],
+    [
+     "the data sets of trace components and quality factors of",
+     "north cate",
+     "gory strong fl",
+     "avor Baijiu in",
+     "different ages.",
+     "Quantitative"
+    ],
+    [
+     "descriptive sensory analysis combined with partial lea",
+     "st squares",
+     "discriminant",
+     "analysis, spe",
+     "arman correlati",
+     "on analysis,"
+    ],
+    [
+     "and random forest chemometrics were used to non-targ",
+     "et screenin",
+     "g of key age",
+     "markers, and P",
+     "earson correla",
+     "tion analysis"
+    ],
+    [
+     "was applied to explore the contribution of key age mar",
+     "kers to the",
+     "sensory quali",
+     "ty of north ca",
+     "tegory strong f",
+     "lavor Baijiu."
+    ],
+    [
+     "DOI:10.19812/j.cnki.jfsq11-5956/ts.2023.20.028",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "目: 国家自然科学基金项目(32001826)、国家重点研发计",
+     "划项目(202",
+     "2YFD2101205",
+     ")",
+     "",
+     ""
+    ],
+    [
+     "Supported by the National Natural Science Foundation of C",
+     "hina (32001",
+     "826), and the N",
+     "ational Key Re",
+     "search and Deve",
+     "lopment Prog"
+    ],
+    [
+     "(2022YFD2101205)",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "作者: 赵东瑞, 博士, 副教授, 主要研究方向为食品风味分",
+     "析、国酒国",
+     "际化。E-mail",
+     ": zdrui6789@s",
+     "ina.com",
+     ""
+    ],
+    [
+     "esponding author: ZHAO Dong-Rui, Ph.D, Associate Profes",
+     "sor, Beijing",
+     "Technology and",
+     "Business Univ",
+     "ersity, No.11, Fu",
+     "cheng Road,"
+    ]
+   ],
+   "pages": [
+    1
+   ],
+   "frags": 1,
+   "n_row": 37,
+   "n_col": 6,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "Table 3 Potential age differe SCA 微量成分 相 2-羟基己酸乙酯 十四酸异丙酯",
+    "表3 3 种统计 ntial markers of n 关系数 0.9649",
+    "方法筛选的北派浓香型白 orth category strong flav PLS-DA 微量成分 丙酸乙酯 乙酸异丁酯",
+    "酒潜在年份标记物 or Baijiu screene VIP 1.3730 1.3184",
+    "d by 3 kinds of statistical RF 微量成分 丁酸异戊酯 2-庚酮",
+    "methods 变量重要值 0.0139 0.0098"
+   ],
+   "sig": "Table3PotentialagediffereSCA微量成分相2-羟基己酸乙酯十四酸异丙酯|表33种统计ntialmarkersofn关系数0.9649|方法筛选的北派浓香型白orthcategorystrongflavPLS-DA微量成分丙酸乙酯乙酸异丁酯|酒潜在年份标记物orBaijiuscreeneVIP1.37301.3184|dby3kindsofstatisticalRF微量成分丁酸异戊酯2-庚酮|methods变量重要值0.01390.0098",
+   "rows": [
+    [
+     "",
+     "表3 3 种统计",
+     "方法筛选的北派浓香型白",
+     "酒潜在年份标记物",
+     "",
+     ""
+    ],
+    [
+     "Table 3 Potential age differe",
+     "ntial markers of n",
+     "orth category strong flav",
+     "or Baijiu screene",
+     "d by 3 kinds of statistical",
+     "methods"
+    ],
+    [
+     "SCA",
+     "",
+     "PLS-DA",
+     "",
+     "RF",
+     ""
+    ],
+    [
+     "微量成分 相",
+     "关系数",
+     "微量成分",
+     "VIP",
+     "微量成分",
+     "变量重要值"
+    ],
+    [
+     "2-羟基己酸乙酯",
+     "0.9649",
+     "丙酸乙酯",
+     "1.3730",
+     "丁酸异戊酯",
+     "0.0139"
+    ],
+    [
+     "十四酸异丙酯",
+     "0.9649",
+     "乙酸异丁酯",
+     "1.3184",
+     "2-庚酮",
+     "0.0098"
+    ],
+    [
+     "乙酸",
+     "0.9487",
+     "2-戊酮",
+     "1.2946",
+     "苯乙醛",
+     "0.0095"
+    ],
+    [
+     "丙酸乙酯",
+     "0.9487",
+     "苯乙酸乙酯",
+     "1.2646",
+     "己酸丁酯",
+     "0.0090"
+    ],
+    [
+     "十六酸甲酯",
+     "0.9113",
+     "3-苯丙酸乙酯",
+     "1.2498",
+     "十四酸乙酯",
+     "0.0083"
+    ],
+    [
+     "丁酸",
+     "0.8960",
+     "2-甲基丁醛",
+     "1.2343",
+     "乙酸",
+     "0.0083"
+    ],
+    [
+     "3-甲基丁酸",
+     "0.8454",
+     "己醇",
+     "1.2179",
+     "2-甲基丁醛",
+     "0.0080"
+    ],
+    [
+     "壬酸",
+     "0.8454",
+     "乙酸己酯",
+     "1.2105",
+     "二苯基乙酮",
+     "0.0078"
+    ],
+    [
+     "2-庚醇",
+     "0.8454",
+     "丁二酸二乙酯",
+     "1.2021",
+     "2-甲基丙醇",
+     "0.0077"
+    ],
+    [
+     "庚醇",
+     "0.8454",
+     "丁酸",
+     "1.1962",
+     "2-羟基丁酸乙酯",
+     "0.0075"
+    ],
+    [
+     "2-羟基丁酸乙酯",
+     "0.8454",
+     "十六酸乙酯",
+     "1.1922",
+     "2-辛酮",
+     "0.0075"
+    ],
+    [
+     "异戊酸异丁酯",
+     "0.8454",
+     "糠醛",
+     "1.1754",
+     "己酸戊酯",
+     "0.0074"
+    ],
+    [
+     "2, 4-二甲基苯酚",
+     "0.8454",
+     "己酸乙酯",
+     "1.1668",
+     "十六酸甲酯",
+     "0.0070"
+    ],
+    [
+     "2-甲基-3-辛酮",
+     "0.8454",
+     "乙酸",
+     "1.1534",
+     "4-甲基戊酸乙酯",
+     "0.0070"
+    ],
+    [
+     "乙醛缩二乙醇",
+     "0.8454",
+     "十四酸乙酯",
+     "1.1298",
+     "己酸甲酯",
+     "0.0067"
+    ],
+    [
+     "乙酸异丁酯",
+     "0.8433",
+     "苯甲酸",
+     "1.1100",
+     "十四酸异丙酯",
+     "0.0063"
+    ],
+    [
+     "正戊酸异戊酯",
+     "0.8041",
+     "苯乙醇",
+     "1.1090",
+     "3-苯丙酸乙酯",
+     "0.0062"
+    ],
+    [
+     "丁酸乙酯",
+     "0.7906",
+     "癸酸乙酯",
+     "1.0958",
+     "己酸异丁酯",
+     "0.0062"
+    ],
+    [
+     "2-戊醇",
+     "0.7379",
+     "4-辛酮",
+     "1.0931",
+     "己酸异戊酯",
+     "0.0060"
+    ],
+    [
+     "3-甲基丁酸乙酯",
+     "0.6852",
+     "戊酸乙酯",
+     "1.0923",
+     "苯乙酮",
+     "0.0060"
+    ],
+    [
+     "",
+     "图3 不同年",
+     "份北派浓香型白酒年份",
+     "标记物鉴定结果",
+     "",
+     ""
+    ],
+    [
+     "Fig.3 Identification",
+     "results of age diffe",
+     "rential markers in north ca",
+     "tegory strong flav",
+     "or Baijiu in different ages",
+     ""
+    ]
+   ],
+   "pages": [
+    10
+   ],
+   "frags": 1,
+   "n_row": 26,
+   "n_col": 6,
+   "roles": [
+    null,
+    null,
+    "method",
+    null,
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "第20 期 黄 河, 等: 北派浓香型白酒",
+    "年份 [5] [6]",
+    "标记物的非靶向鉴定 刘瑞娜, 奚文韬, 赵东, 等. 浓香型白酒窖池中 食品与发酵工业, 2023, 49(17): 82‒93. LIU RN, XI WT, ZHAO D, et al. Diversity of cu of strong-flavor Baijiu [J]. Food Ferment Ind, 20 HONG JX, WANG JS, ZHANG CS, et al. Un",
+    "可培养细菌多样性研 ltivable bacteria in 23, 49(17): 82‒93. raveling variation",
+    "181 究[J]. cellars on the"
+   ],
+   "sig": "第20期黄河,等:北派浓香型白酒|年份[5][6]|标记物的非靶向鉴定刘瑞娜,奚文韬,赵东,等.浓香型白酒窖池中食品与发酵工业,2023,49(17):82‒93.LIURN,XIWT,ZHAOD,etal.Diversityofcuofstrong-flavorBaijiu[J].FoodFermentInd,20HONGJX,WANGJS,ZHANGCS,etal.Un|可培养细菌多样性研ltivablebacteriain23,49(17):82‒93.ravelingvariation|181究[J].cellarsonthe",
+   "rows": [
+    [
+     "第20 期 黄 河, 等: 北派浓香型白酒",
+     "年份",
+     "标记物的非靶向鉴定",
+     "",
+     "181"
+    ],
+    [
+     "",
+     "[5]",
+     "刘瑞娜, 奚文韬, 赵东, 等. 浓香型白酒窖池中",
+     "可培养细菌多样性研",
+     "究[J]."
+    ],
+    [
+     "",
+     "",
+     "食品与发酵工业, 2023, 49(17): 82‒93.",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "LIU RN, XI WT, ZHAO D, et al. Diversity of cu",
+     "ltivable bacteria in",
+     "cellars"
+    ],
+    [
+     "",
+     "",
+     "of strong-flavor Baijiu [J]. Food Ferment Ind, 20",
+     "23, 49(17): 82‒93.",
+     ""
+    ],
+    [
+     "",
+     "[6]",
+     "HONG JX, WANG JS, ZHANG CS, et al. Un",
+     "raveling variation",
+     "on the"
+    ],
+    [
+     "",
+     "",
+     "profile aroma compounds of strong aroma ty",
+     "pe of Baijiu in di",
+     "fferent"
+    ],
+    [
+     "",
+     "",
+     "regions by molecular matrix analysis and olfacto",
+     "ry analysis [J]. RS",
+     "C Adv,"
+    ],
+    [
+     "",
+     "",
+     "2021. DOI: 10.1039/D1RA06073B.",
+     "",
+     ""
+    ],
+    [
+     "",
+     "[7]",
+     "韩云翠, 吕志远, 刘玉涛, 等. 基于气相色谱与",
+     "支持向量机的浓",
+     "香型白"
+    ],
+    [
+     "",
+     "",
+     "酒基酒等级判断模型研究[J]. 中国酿造, 2023,",
+     "42(5): 184‒190.",
+     ""
+    ],
+    [
+     "",
+     "",
+     "HAN YC, LV ZY, LIU YT, et al. Grade judgme",
+     "nt model of base liq",
+     "uor of"
+    ],
+    [
+     "图4 6 种关键年份标记物对北派浓香型白酒不同香气属性的贡献",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "strong-flavor Baijiu based on gas chromatogr",
+     "aphy and support",
+     "vector"
+    ],
+    [
+     "Fig.4 Contribution of 6 kinds of key age markers to distinct aroma",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "quality of north category strong flavor Baijiu",
+     "",
+     "machine [J]. China Brew, 2023, 42(5): 184‒190.",
+     "",
+     ""
+    ],
+    [
+     "",
+     "[8]",
+     "陈禹锜, 杨将, 赵文梅, 等. 不同质量等级浓香",
+     "型白酒刘伶醉酒",
+     "体感官"
+    ],
+    [
+     "",
+     "",
+     "与风味差异解析[J]. 中国酿造, 2023, 42(6): 52",
+     "‒58.",
+     ""
+    ],
+    [
+     "3 结 论",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "CHEN YQ, YANG J, ZHAO WM, et al. Analysi",
+     "s of the sensory and",
+     "flavor"
+    ],
+    [
+     "本研究应用吸附笔-GC-MS 收集不同年份浓香型白酒",
+     "",
+     "differences of strong-flavor Liulingzui Baijiu with",
+     "different quality gra",
+     "des [J]."
+    ],
+    [
+     "微量成分数据集, 共检测出94 种微量成分, 以酯类化合物",
+     "",
+     "China Brew, 2023, 42(6): 52‒58.",
+     "",
+     ""
+    ],
+    [
+     "为主。通过定量描述性感官分析方法发现不同年份浓香型",
+     "[9]",
+     "陈明举, 周迪, 王鸿, 等. 基于 GC-MS 的浓香",
+     "型白酒等级评判",
+     "模型研"
+    ],
+    [
+     "",
+     "",
+     "[J]. , 2021, 40(10): 102‒107.",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "究 中国酿造",
+     "",
+     ""
+    ],
+    [
+     "白酒的感官品质存在明显差异。以微量成分鉴定结果为基",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "CHEN MJ, ZHOU D, WANG H, et al. Qua",
+     "lity evaluation mo",
+     "del of"
+    ],
+    [
+     "础, 利用OAV/TAV 分析手段筛选出48 种香气品质因子和",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "strong-flavor Baijiu based on GC-MS [J]. Ch",
+     "ina Brew, 2021, 4",
+     "0(10):"
+    ],
+    [
+     "8 种滋味品质因子, 初步认定其对浓香型白酒品质具有重",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "102‒107.",
+     "",
+     ""
+    ],
+    [
+     "要贡献。综合运用 PLS-DA、SCA 和 RF 化学计量学方法",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "[10]",
+     "胥佳, 何朝玖, 马浩, 等. 不同贮存年份的五粮",
+     "浓香型白酒挥发",
+     "性风味"
+    ],
+    [
+     "结合微量成分分布特性及其香气表达强度分析, 最终筛定",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "物质对比分析[J]. 食品与发酵科技, 2023, 59(3",
+     "): 23‒29.",
+     ""
+    ],
+    [
+     "6 种微量成分(包括丙酸乙酯、乙酸异丁酯、乙酸、丁酸、",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "XU J, HE CJ, MA H, et al. Preliminary a",
+     "nalysis of volatile",
+     "flavor"
+    ],
+    [
+     "3- 2- )",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "苯丙酸乙酯及 甲基丁醛 是不同年份北派浓香型白酒的",
+     "",
+     "substances in Wuliang Strong Fragrant Baijiu of",
+     "different storage ye",
+     "ars [J]."
+    ],
+    [
+     "关键年份标记物。鉴定分析不同年份北派浓香型白酒的差异",
+     "",
+     "Food Ferment Sci Technol, 2023, 59(3): 23‒29.",
+     "",
+     ""
+    ],
+    [
+     "标记物, 为将来进一步探究北派浓香型白酒年份差异物的",
+     "[11]",
+     "HUANG H, WU YS, CHEN H, et al. Identific",
+     "ation of regional m",
+     "arkers"
+    ],
+    [
+     "交互作用及解析其他香型白酒年份差异标记物提供依据,",
+     "",
+     "based on the flavor molecular matrix analysis of s",
+     "auce-aroma style Bai",
+     "jiu [J]."
+    ],
+    [
+     "为北派浓香型白酒整体品质的提升提供一定理论支撑。",
+     "",
+     "J Sci Food Agric, 2023. DOI: 10.1002/jsfa.12823",
+     "",
+     ""
+    ],
+    [
+     "",
+     "[12]",
+     "LEZAETA A, BORDEU E, AGOSIN E, et",
+     "al. White wines",
+     "aroma"
+    ],
+    [
+     "参考文献",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "recovery and enrichment: Sensory-led aroma",
+     "selection and con",
+     "sumer"
+    ],
+    [
+     "[1] 孙宝国, 吴继红, 黄明泉, 等. 白酒风味化学研究进展[J]. 中国食品学",
+     "",
+     "perception [J]. Food Res Int, 2018, 108(6): 595‒",
+     "603.",
+     ""
+    ],
+    [
+     "报, 2015, 15(9): 1‒8.",
+     "[13]",
+     "易封萍, 马宁, 朱建才. 基于GC-O、OAV 及",
+     "Feller 加和模型对",
+     "酱香型"
+    ],
+    [
+     "SUN BG, WU JH, HUANG MQ, et al. Research progress in flavor",
+     "",
+     "习酒特征香气成分的分析[J]. 食品科学, 2022,",
+     "43(2): 242‒256.",
+     ""
+    ],
+    [
+     "chemistry of Baijiu [J]. J Chin Inst Food Sci Technol, 2015, 15(9): 1‒8.",
+     "",
+     "YI FP, MA N, ZHU JC. Identification of charac",
+     "teristic aroma comp",
+     "ounds"
+    ],
+    [
+     "[2] ZHENG XW, HAN BZ. Baijiu ( 白酒), Chinese liquor: History,",
+     "",
+     "in soy sauce aroma type Xi Baijiu using gas chro",
+     "matography-olfacto",
+     "metry,"
+    ],
+    [
+     "classification and manufacture [J]. J Ethnic Foods, 2016, 3(1): 19‒25.",
+     "",
+     "odor activity value and feller’s additive model [",
+     "J]. Food Sci, 2022,",
+     "43(2):"
+    ],
+    [
+     "[3] 王媚, 邱树毅, 潘玲玲, 等. 浓香型白酒容器及窖池发酵糟醅动态因子",
+     "",
+     "242‒256.",
+     "",
+     ""
+    ],
+    [
+     "变化及白酒品质研究[J]. 中国酿造, 2023, 42(4): 53‒58.",
+     "[14]",
+     "侯雅馨, 马彦超, 黄河, 等. 基于感官定量描",
+     "述分析及吸附笔-",
+     "气质联"
+    ],
+    [
+     "WANG M, QIU SY, PAN LL, et al. Dynamic factors change of fermented",
+     "",
+     "用技术的浓香型白酒品质差异因子锚定[J].",
+     "食品与发酵工业,",
+     "2023,"
+    ],
+    [
+     "grains and quality of strong-flavor Baijiu fermented in containers and pits [J].",
+     "",
+     "49(13): 255‒267.",
+     "",
+     ""
+    ],
+    [
+     "China Brew, 2023, 42(4): 53‒58.",
+     "",
+     "HOU YX, MA YC, HUANG H, et al. Anchoring",
+     "for the quality diff",
+     "erence"
+    ],
+    [
+     "[4] 刘欣欣, 武亚帅, 黄河, 等. 基于风味交互作用的浓香型白酒关键风味",
+     "",
+     "factors of strong-flavor Baijiu based on sensor",
+     "y quantitative desc",
+     "ription"
+    ],
+    [
+     "物质探究[J]. 食品安全质量检测学报, 2023, 14(12): 23‒34.",
+     "",
+     "analysis and sorbent pen-gas chromatography-m",
+     "ass spectrometry [J]",
+     ". Food"
+    ],
+    [
+     "LIU XX, WU YS, HUANG H, et al. Research on key flavor substances of",
+     "",
+     "Ferment Ind, 2023, 49 (13): 255‒267.",
+     "",
+     ""
+    ],
+    [
+     "Nongxiangxing Baijiu based on flavor interaction [J]. J Food Saf Qual,",
+     "[15]",
+     "林园, 杜娟, 王明, 等. 浓香型瓶贮年份酒的",
+     "风味差异分析[J].",
+     "食品科"
+    ],
+    [
+     "2023, 14(12): 23‒34.",
+     "",
+     "技, 2022, 47(6): 72‒80, 86.",
+     "",
+     ""
+    ]
+   ],
+   "pages": [
+    11
+   ],
+   "frags": 1,
+   "n_row": 62,
+   "n_col": 5,
+   "roles": [
+    null,
+    null,
+    "method",
+    null,
+    null
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "header": [
+    "182 [16]",
+    "LIN Y, DU J, WA aroma bottled vint 86. ZHAO DR, SHI compounds in G",
+    "NG age li DM, ujingg",
+    "食品安全质量 M, et al. Analysis of flavor differences in strong quor [J]. Food Sci Technol, 2022, 47(6): 72‒80, SUN JY, et al. Characterization of key aroma ong Chinese Baijiu by gas chromatography-",
+    "检测 [25]",
+    "学报 Liquor Making, 2022, 49(4): 刘发洋, 李璐, 游奇, 等. 基 中风味物质的变化[J]. 中国 LIU FY, LI L, YOU Q, et a during the aging process of",
+    "第14 卷 131‒137. 于 OAV 分析多粮浓香型调味酒陈酿过程 酿造, 2023, 42(5): 237‒242. l. Analysis of changes in flavor substances multi grain strong aroma flavoring liquor"
+   ],
+   "sig": "182[16]|LINY,DUJ,WAaromabottledvint86.ZHAODR,SHIcompoundsinG|NGageliDM,ujingg|食品安全质量M,etal.Analysisofflavordifferencesinstrongquor[J].FoodSciTechnol,2022,47(6):72‒80,SUNJY,etal.CharacterizationofkeyaromaongChineseBaijiubygaschromatography-|检测[25]|学报LiquorMaking,2022,49(4):刘发洋,李璐,游奇,等.基中风味物质的变化[J].中国LIUFY,LIL,YOUQ,etaduringtheagingprocessof|第14卷131‒137.于OAV分析多粮浓香型调味酒陈酿过程酿造,2023,42(5):237‒242.l.Analysisofchangesinflavorsubstancesmultigrainstrongaromaflavoringliquor",
+   "rows": [
+    [
+     "182",
+     "",
+     "",
+     "食品安全质量",
+     "检测",
+     "学报",
+     "第14 卷"
+    ],
+    [
+     "",
+     "LIN Y, DU J, WA",
+     "NG",
+     "M, et al. Analysis of flavor differences in strong",
+     "",
+     "Liquor Making, 2022, 49(4):",
+     "131‒137."
+    ],
+    [
+     "",
+     "aroma bottled vint",
+     "age li",
+     "quor [J]. Food Sci Technol, 2022, 47(6): 72‒80,",
+     "[25]",
+     "刘发洋, 李璐, 游奇, 等. 基",
+     "于 OAV 分析多粮浓香型调味酒陈酿过程"
+    ],
+    [
+     "",
+     "86.",
+     "",
+     "",
+     "",
+     "中风味物质的变化[J]. 中国",
+     "酿造, 2023, 42(5): 237‒242."
+    ],
+    [
+     "[16]",
+     "ZHAO DR, SHI",
+     "DM,",
+     "SUN JY, et al. Characterization of key aroma",
+     "",
+     "LIU FY, LI L, YOU Q, et a",
+     "l. Analysis of changes in flavor substances"
+    ],
+    [
+     "",
+     "compounds in G",
+     "ujingg",
+     "ong Chinese Baijiu by gas chromatography-",
+     "",
+     "during the aging process of",
+     "multi grain strong aroma flavoring liquor"
+    ],
+    [
+     "",
+     "olfactometry, quan",
+     "titativ",
+     "e measurements, and sensory evaluation [J]. Food",
+     "",
+     "based on OAV [J]. China Bre",
+     "w, 2023, 42(5): 237‒242."
+    ],
+    [
+     "",
+     "Res Int, 2018, 105:",
+     "616‒",
+     "627.",
+     "[26]",
+     "ZHANG GH, XIAO P, YU",
+     "AN MM, et al. Roles of sulfur-containing"
+    ],
+    [
+     "[17]",
+     "侯雅馨, 王俊山,",
+     "武亚",
+     "帅, 等. 浓香型白酒微量成分的研究进展[J]. 食",
+     "",
+     "compounds in fermented beve",
+     "rages with 2-furfurylthiol as a case example [J]."
+    ],
+    [
+     "",
+     "品研究与开发, 20",
+     "22, 43",
+     "(20): 194‒205.",
+     "",
+     "Front Nutr, 2023. DOI: 10.33",
+     "89/fnut.2023.1196816"
+    ],
+    [
+     "",
+     "HOU YX, WANG",
+     "JS,",
+     "WU YS, et al. Research progress on the trace",
+     "[27]",
+     "CHEN H, WU YS, WANG J",
+     "S, et al. Uncover the flavor code of roasted"
+    ],
+    [
+     "",
+     "components of st",
+     "rong-a",
+     "roma Baijiu [J]. Food Res Dev, 2022, 43(20):",
+     "",
+     "sesame for sesame flavor B",
+     "aijiu: Advance on the revelation of aroma"
+    ],
+    [
+     "",
+     "194‒205.",
+     "",
+     "",
+     "",
+     "compounds in sesame flavo",
+     "r Baijiu by means of modern separation"
+    ],
+    [
+     "[18]",
+     "WU YS, HOU Y",
+     "X, C",
+     "HEN H, et al. “Key Factor” for Baijiu quality:",
+     "",
+     "technology and molecular sen",
+     "sory evaluation [J]. Foods, 2022, 11(7): 998."
+    ],
+    [
+     "",
+     "Research progress",
+     "on ac",
+     "id substances in Baijiu [J]. Foods, 2022, 11(19):",
+     "[28]",
+     "景思, 宋学博, 朱琳, 等. G",
+     "C×GC-TOF MS 分析中国劲酒基酒挥发性"
+    ],
+    [
+     "",
+     "2959.",
+     "",
+     "",
+     "",
+     "成分[J]. 食品科学技术学报",
+     ", 2021, 39(6): 64‒76."
+    ],
+    [
+     "[19]",
+     "唐坤甜, 赵彩云,",
+     "韩兴",
+     "林, 等. 白酒味觉成分有机酸含量分析及其对酿",
+     "",
+     "JING S, SONG XB, ZHU L,",
+     "et al. GC×GC-TOF MS analysis of volatile"
+    ],
+    [
+     "",
+     "造工艺的影响[J].",
+     "食品",
+     "与发酵工业, 2016, 42(7): 202‒208.",
+     "",
+     "components in Chinese Stron",
+     "g Liquor Base Liquor [J]. J Food Sci Technol,"
+    ],
+    [
+     "",
+     "TANG KT, ZHAO",
+     "CY, H",
+     "AN XL, et al. Analysis of organic acid content in",
+     "",
+     "2021, 39(6): 64‒76.",
+     ""
+    ],
+    [
+     "",
+     "taste components",
+     "of Ba",
+     "ijiu and its impact on brewing process [J]. Food",
+     "[29]",
+     "赵书圣, 范文来, 徐岩, 等.",
+     "酱香型白酒生产酒醅中呋喃类物质研究[J]."
+    ],
+    [
+     "",
+     "Ferment Ind, 2016",
+     ", 42(7",
+     "): 202‒208.",
+     "",
+     "中国酿造, 2008, (21): 10‒13.",
+     ""
+    ],
+    [
+     "[20]",
+     "韩旭, 费英敏, 张",
+     "明刚,",
+     "等. 酿清谷酱香型白酒香气成分的分析及对比[J].",
+     "",
+     "ZHAO SS, FAN WL, XU Y,",
+     "et al. Study on furans in the fermented grains"
+    ],
+    [
+     "",
+     "中国酿造, 2022, 4",
+     "1(6):",
+     "81‒86.",
+     "",
+     "of sauce-flavor liquor [J]. Chi",
+     "na Brew, 2008, (21): 10‒13."
+    ],
+    [
+     "",
+     "HAN X, FEI YM,",
+     "ZHA",
+     "NG MG, et al. Analysis and comparison of aroma",
+     "[30]",
+     "WU YS, CHEN H, HUAN",
+     "G H, et al. Revelation for the influence"
+    ],
+    [
+     "",
+     "components of Ni",
+     "angqin",
+     "ggu Maotai flavor Baijiu [J]. China Brew, 2022,",
+     "",
+     "mechanism of long-chain fat",
+     "ty acid ethyl esters on the Baijiu quality by"
+    ],
+    [
+     "",
+     "41(6): 81‒86.",
+     "",
+     "",
+     "",
+     "multicomponent chemometric",
+     "s combined with modern flavor sensomics [J]."
+    ],
+    [
+     "[21]",
+     "范文来, 龚舒蓓,",
+     "徐岩.",
+     "白酒有机酸谱[J]. 酿酒, 2019, 46(1): 37‒42.",
+     "",
+     "Foods, 2023, 12(6): 1267.",
+     ""
+    ],
+    [
+     "",
+     "FAN WL, GONG",
+     "SB,",
+     "XU Y. Organic acid profile of Baijiu [J]. Liquor",
+     "",
+     "",
+     "(责任编辑: 张晓寒 于梦娇)"
+    ],
+    [
+     "",
+     "Making, 2019, 46(",
+     "1): 37",
+     "‒42.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "[22]",
+     "HONG JX, HUAN",
+     "G H,",
+     "ZHAO DR, et al. Investigation on the key factors",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "associated with fla",
+     "vor q",
+     "uality in northern strong aroma type of Baijiu by",
+     "作",
+     "者简介",
+     ""
+    ],
+    [
+     "",
+     "flavor matrix [J].",
+     "Foo",
+     "d Chem, 2023. DOI: 10.1016/j.foodchem.2023.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "136576",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "黄",
+     "河, 硕士研究生, 主要研究方向"
+    ],
+    [
+     "[23]",
+     "唐平, 卢君, 毕荣",
+     "宇, 等",
+     ". 赤水河流域不同地区酱香型白酒风味化合物",
+     "",
+     "为食品风",
+     "味分析。"
+    ],
+    [
+     "",
+     "分析[J]. 食品科学",
+     ", 202",
+     "1, 42(6): 274‒281.",
+     "",
+     "E-ma",
+     "il: huanghe3938@163.com"
+    ],
+    [
+     "",
+     "TANG P, LU J,",
+     "BI",
+     "RY, et al. Analysis of flavor compounds of",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Maotai-flavor Baij",
+     "iu pro",
+     "duced in different regions of the Chishui River",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Basin [J]. Food Sc",
+     "i, 202",
+     "1, 42(6): 274‒281.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "赵东",
+     "瑞, 博士, 副教授, 主要研究方向"
+    ],
+    [
+     "[24]",
+     "黄河, 黄婷, 王媚",
+     ", 等.",
+     "比色法测白酒中杂醇油含量方法优化及验证[J].",
+     "",
+     "为食品风",
+     "味分析、国酒国际化。"
+    ],
+    [
+     "",
+     "酿酒, 2022, 49(4):",
+     "131‒",
+     "137.",
+     "",
+     "E-ma",
+     "il: zdrui6789@sina.com"
+    ],
+    [
+     "",
+     "HUANG H, HUA",
+     "NG T,",
+     "WANG M, et al. Optimization and validation of",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "colorimetric meth",
+     "od for",
+     "determination of fusel oil content in liquor [J].",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "pages": [
+    12
+   ],
+   "frags": 1,
+   "n_row": 44,
+   "n_col": 7,
+   "roles": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "name_cn",
+    "odor_val"
+   ],
+   "units": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  }
+ ],
+ "note": ""
+}
