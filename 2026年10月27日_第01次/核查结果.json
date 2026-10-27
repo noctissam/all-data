@@ -1,0 +1,2049 @@
+{
+  "checked_items": 509,
+  "all_passed": true,
+  "pair_counts": {
+    "3": 382,
+    "4": 46,
+    "2": 7
+  },
+  "core_rank": 86,
+  "condition_number": 12.758861927550205,
+  "checks": [
+    {
+      "check": "41 candidates, 30 variable, 11 fixed",
+      "result": "passed"
+    },
+    {
+      "check": "350 preparations; 310 training; 20 repeats; 20 validation",
+      "result": "passed"
+    },
+    {
+      "check": "No formulation exceeds four variable compounds",
+      "result": "passed"
+    },
+    {
+      "check": "All 30 variables appear in training",
+      "result": "passed"
+    },
+    {
+      "check": "Base compounds never vary",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 5",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 7",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 7",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 7",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 7",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 10",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 11",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 11",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 11",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 11",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 17",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 18",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 18",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 18",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 18",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 21",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 32",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 32",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 32",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 32",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 40",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 40",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 40",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 40",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 41",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 52",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 52",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 52",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 52",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 53",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 53",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 53",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 53",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 56",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 56",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 56",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 57",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 58",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 58",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 58",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 58",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 61",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 61",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 61",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 61",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 65",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 69",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 69",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 69",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 69",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 75",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 75",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 75",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 75",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 79",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 79",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 79",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 85",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 90",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 90",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 90",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 105",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 105",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 105",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 105",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 106",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 110",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 111",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 111",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 111",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 111",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 114",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 114",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 114",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 115",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 115",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 115",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 115",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 117",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 117",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 117",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 117",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 124",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 126",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 126",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 126",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 126",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 136",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 136",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 136",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 136",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 141",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 141",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 141",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 141",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 152",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 152",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 152",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 152",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 165",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 165",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 165",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 186",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 186",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 186",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 186",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 207",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 207",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 207",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 207",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 209",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 209",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 209",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 209",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 227",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 227",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 227",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 227",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 232",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 232",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 232",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 232",
+      "result": "passed"
+    },
+    {
+      "check": "Source statistics ID 255",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 255",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 255",
+      "result": "passed"
+    },
+    {
+      "check": "Observed positive range ID 255",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T001",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T002",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T003",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T004",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T005",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T006",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T007",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T008",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T009",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T010",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T011",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T012",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T013",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T014",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T015",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T016",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T017",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T018",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T019",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T020",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T021",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T022",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T023",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T024",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T025",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T026",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T027",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T028",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T029",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T030",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T031",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T032",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T033",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T034",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T035",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T036",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T037",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T038",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T039",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T040",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T041",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T042",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T043",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T044",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T045",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T046",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T047",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T048",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T049",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T050",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T051",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T052",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T053",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T054",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T055",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T056",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T057",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T058",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T059",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T060",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T061",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T062",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T063",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T064",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T065",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T066",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T067",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T068",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T069",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T070",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T071",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T072",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T073",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T074",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T075",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T076",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T077",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T078",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T079",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T080",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T081",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T082",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T083",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T084",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T085",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T086",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T087",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T088",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T089",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T090",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T091",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T092",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T093",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T094",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T095",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T096",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T097",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T098",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T099",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T100",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T101",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T102",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T103",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T104",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T105",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T106",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T107",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T108",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T109",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T110",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T111",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T112",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T113",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T114",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T115",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T116",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T117",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T118",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T119",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T120",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T121",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T122",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T123",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T124",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T125",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T126",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T127",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T128",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T129",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T130",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T131",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T132",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T133",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T134",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T135",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T136",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T137",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T138",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T139",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T140",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T141",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T142",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T143",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T144",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T145",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T146",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T147",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T148",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T149",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T150",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T151",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T152",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T153",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T154",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T155",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T156",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T157",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T158",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T159",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T160",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T161",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T162",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T163",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T164",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T165",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T166",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T167",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T168",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T169",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T170",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T171",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T172",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T173",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T174",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T175",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T176",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T177",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T178",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T179",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T180",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T181",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T182",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T183",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T184",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T185",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T186",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T187",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T188",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T189",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T190",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T191",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T192",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T193",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T194",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T195",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T196",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T197",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T198",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T199",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T200",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T201",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T202",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T203",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T204",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T205",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T206",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T207",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T208",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T209",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T210",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T211",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T212",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T213",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T214",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T215",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T216",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T217",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T218",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T219",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T220",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T221",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T222",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T223",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T224",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T225",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T226",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T227",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T228",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T229",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T230",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T231",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T232",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T233",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T234",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T235",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T236",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T237",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T238",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T239",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T240",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T241",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T242",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T243",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T244",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T245",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T246",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T247",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T248",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T249",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T250",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T251",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T252",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T253",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T254",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T255",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T256",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T257",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T258",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T259",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T260",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T261",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T262",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T263",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T264",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T265",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T266",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T267",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T268",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T269",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T270",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T271",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T272",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T273",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T274",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T275",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T276",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T277",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T278",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T279",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T280",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T281",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T282",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T283",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T284",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T285",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T286",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T287",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T288",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T289",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T290",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T291",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T292",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T293",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T294",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T295",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T296",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T297",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T298",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T299",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T300",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T301",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T302",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T303",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T304",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T305",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T306",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T307",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T308",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T309",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping T310",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R001",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R001",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R002",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R002",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R003",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R003",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R004",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R004",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R005",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R005",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R006",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R006",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R007",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R007",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R008",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R008",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R009",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R009",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R010",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R010",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R011",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R011",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R012",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R012",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R013",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R013",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R014",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R014",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R015",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R015",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R016",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R016",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R017",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R017",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R018",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R018",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R019",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R019",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping R020",
+      "result": "passed"
+    },
+    {
+      "check": "Independent repeat prescription R020",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V001",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V002",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V003",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V004",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V005",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V006",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V007",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V008",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V009",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V010",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V011",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V012",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V013",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V014",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V015",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V016",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V017",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V018",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V019",
+      "result": "passed"
+    },
+    {
+      "check": "Dose and level mapping V020",
+      "result": "passed"
+    },
+    {
+      "check": "435 pairs covered at least twice in different compositions",
+      "result": "passed"
+    },
+    {
+      "check": "125 cross-level pairs covered",
+      "result": "passed"
+    },
+    {
+      "check": "1341 distinct positive level cells",
+      "result": "passed"
+    },
+    {
+      "check": "330 unique formulations",
+      "result": "passed"
+    },
+    {
+      "check": "Maximum three preparations per composition",
+      "result": "passed"
+    },
+    {
+      "check": "Validation compositions absent from training",
+      "result": "passed"
+    },
+    {
+      "check": "Independent core matrix rank 86",
+      "result": "passed"
+    },
+    {
+      "check": "Independent core condition number",
+      "result": "passed"
+    }
+  ]
+}
